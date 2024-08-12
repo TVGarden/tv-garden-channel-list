@@ -361,10 +361,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dZdR0prseAV1nL",
-    "name": "Дождь",
+    "nanoid": "GXyfpkGN0MGlca",
+    "name": "Дом Кино",
     "iptv_urls": [
-      "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8"
+      "https://stream01.vnet.am/DomKino/mono.m3u8",
+      "https://streaming.televizor-24-tochka.ru/live/44.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -372,11 +373,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GXyfpkGN0MGlca",
-    "name": "Дом Кино",
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
     "iptv_urls": [
-      "https://stream01.vnet.am/DomKino/mono.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/44.m3u8"
+      "https://dumatv.iptv2022.com/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -420,9 +420,19 @@
     "nanoid": "0aNqMqNfvYuTeN",
     "name": "Звезда",
     "iptv_urls": [
-      "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
       "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8",
       "https://streaming.televizor-24-tochka.ru/live/748.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uKc7FCTFVYx1He",
+    "name": "Ингушетия ТВ",
+    "iptv_urls": [
+      "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -522,6 +532,17 @@
     "name": "Легендарный 24",
     "iptv_urls": [
       "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xBvNUxKG46FiuF",
+    "name": "Магнат ТВ",
+    "iptv_urls": [
+      "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -982,17 +1003,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y2nF8rGgzUaTr0",
-    "name": "Телеканал 86 (Сургут)",
-    "iptv_urls": [
-      "https://sitv.ru/hls/s86.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8ftc8iZBLVvHNe",
     "name": "Телеканал ЕДА",
     "iptv_urls": [],
@@ -1011,17 +1021,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5tqG6WDtzDXtxC",
-    "name": "Телеканал Ювелирия",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0MXw24Vo_gA"
-    ],
-    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
