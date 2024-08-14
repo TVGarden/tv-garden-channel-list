@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XHxGpxMeodxqTd",
-    "name": "C Malayalam TV",
-    "iptv_urls": [
-      "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mal",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Cv8dtsVO4KhvRK",
     "name": "Cable 14 Hamilton",
     "iptv_urls": [
@@ -279,6 +268,8 @@
     "nanoid": "bhT3j01Nh3aRCQ",
     "name": "Hard Knocks",
     "iptv_urls": [
+      "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8",
+      "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -536,7 +527,6 @@
     "name": "Stingray Classic Rock",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8",
       "https://jmp2.uk/SamsungTVPlus/USBD35000180U.m3u8"
     ],
     "youtube_urls": [],
@@ -560,8 +550,7 @@
     "nanoid": "xfRnghclKAVK1r",
     "name": "Stingray CMusic",
     "iptv_urls": [
-      "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8",
-      "https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87.m3u8"
+      "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -655,6 +644,7 @@
     "name": "Stingray Hot Country",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8",
       "https://jmp2.uk/SamsungTVPlus/USBD3300021KV.m3u8"
     ],
     "youtube_urls": [],
@@ -678,8 +668,7 @@
     "name": "Stingray Naturescape",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8",
-      "https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5.m3u8"
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -830,7 +819,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nDlkK9Huxfw"
+      "https://www.youtube-nocookie.com/embed/5FNq_YBLA1w"
     ],
     "language": "eng",
     "country": "ca",
@@ -841,7 +830,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KZy8W8YRDP0"
+      "https://www.youtube-nocookie.com/embed/M_S5gTZ-G0A"
     ],
     "language": "eng",
     "country": "ca",
@@ -852,7 +841,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rCGRebbjHuk"
+      "https://www.youtube-nocookie.com/embed/LEugX4KHjE0"
     ],
     "language": "eng",
     "country": "ca",
@@ -922,6 +911,17 @@
     ],
     "youtube_urls": [],
     "language": "pan",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bXKVlszQEGdoup",
+    "name": "TV Témis",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/v8Sr8dtnwV4"
+    ],
+    "language": "fra",
     "country": "ca",
     "isGeoBlocked": false
   },
