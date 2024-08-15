@@ -122,6 +122,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "M4nYho03XLslkh",
+    "name": "Billiard TV",
+    "iptv_urls": [
+      "https://9769bd6405b245ea9adca1889a0b491b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-in_BilliardTV/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LKhp3djOhnrhQ4",
     "name": "BYHORSES TV",
     "iptv_urls": [],
@@ -336,8 +347,7 @@
     "name": "Hard Knocks",
     "iptv_urls": [
       "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8",
-      "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8",
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8"
+      "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -811,7 +821,8 @@
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8",
-      "https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8"
+      "https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8",
+      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -899,6 +910,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oiFEO2uBrrWk1f",
+    "name": "Tigo Sports TV El Salvador",
+    "iptv_urls": [
+      "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3ZDe5FTXoFO17J",
     "name": "TJK TV",
     "iptv_urls": [],
@@ -947,17 +969,6 @@
     "name": "TVS Boxing",
     "iptv_urls": [
       "https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Wbrb2C2Gun42Sy",
-    "name": "TVS Classic Sports",
-    "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvs/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1023,7 +1034,6 @@
     "nanoid": "X8yK2ahG1lHzY9",
     "name": "World Poker Tour",
     "iptv_urls": [
-      "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8",
       "https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8",
       "https://d2e00kr7m9coe4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-WPTLive/406.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8"
@@ -1038,7 +1048,7 @@
     "name": "World Poker Tour 1",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TnN__8AAlaM"
+      "https://www.youtube-nocookie.com/embed/wWFXgXkb1Lo"
     ],
     "language": "eng",
     "country": "us",
@@ -1049,10 +1059,21 @@
     "name": "World Poker Tour 2",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qiGtEIoHlBc"
+      "https://www.youtube-nocookie.com/embed/M6cZQDsQhWw"
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PnYs28KZYftvil",
+    "name": "Астрахань.Ru Sport",
+    "iptv_urls": [
+      "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

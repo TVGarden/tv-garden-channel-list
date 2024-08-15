@@ -1,17 +1,5 @@
 [
   {
-    "nanoid": "iTbSyptSI7ovhK",
-    "name": "1KZN TV",
-    "iptv_urls": [
-      "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8",
-      "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EEjElvcDWe1Onh",
     "name": "4U TV",
     "iptv_urls": [
@@ -93,7 +81,7 @@
     "name": "Adom TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QdPPgwW2ugo"
+      "https://www.youtube-nocookie.com/embed/RQzr_ehQVr0"
     ],
     "language": "eng",
     "country": "gh",
@@ -331,7 +319,7 @@
     "name": "Canal 23 Televisa Ensenada",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NuBobGbjr40"
+      "https://www.youtube-nocookie.com/embed/mhongzZTxCM"
     ],
     "language": "spa",
     "country": "mx",
@@ -474,6 +462,7 @@
     "nanoid": "PGCEtKFHRk5CDn",
     "name": "Circle",
     "iptv_urls": [
+      "https://circle-roku.amagi.tv/playlist.m3u8",
       "https://circle-samsung.amagi.tv/playlist.m3u8",
       "https://circle-vizio.amagi.tv/playlist.m3u8",
       "https://circle-xumo.amagi.tv/playlist.m3u8",
@@ -633,7 +622,7 @@
     "name": "El Ocho",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AhiL35Ull_E"
+      "https://www.youtube-nocookie.com/embed/y-tlmg0OxC0"
     ],
     "language": "spa",
     "country": "ar",
@@ -743,6 +732,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "swg1noloxNDS5D",
+    "name": "Ficom Channel",
+    "iptv_urls": [
+      "https://v3.siar.us/ficomchannel/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zJh3ovCYN7T9ZL",
     "name": "Fox",
     "iptv_urls": [
@@ -759,28 +759,6 @@
     "iptv_urls": [
       "https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8",
       "https://d26pp4b7ojtlyn.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-FreebieTV/187.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NCWWidJrVWnWto",
-    "name": "Fujairah TV",
-    "iptv_urls": [
-      "https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uWRQyMgNVtcXrJ",
-    "name": "Fuse East",
-    "iptv_urls": [
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -862,17 +840,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xceNg3zrNinnuh",
-    "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iSeD0PaOLGM"
-    ],
-    "language": "deu",
-    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -1064,17 +1031,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BwAEx0LmqBTmqp",
-    "name": "Kanal 9 Erzgebirge",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3G34u-Je7ZM"
-    ],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "T4bE3Y8IkS0Upm",
     "name": "KCL TV",
     "iptv_urls": [
@@ -1118,17 +1074,6 @@
     "youtube_urls": [],
     "language": "mal",
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tj2nGF0e2NmQ9M",
-    "name": "Malbec Play",
-    "iptv_urls": [
-      "https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -1242,22 +1187,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UtVlVsv5Is9q1T",
-    "name": "Moon TV",
-    "iptv_urls": [
-      "https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/Moon_tv/5-hls/live-media.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ug",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kOILMSbtSvgFyR",
     "name": "MULTIMEDIOS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/e7qEAHZNhwA"
+      "https://www.youtube-nocookie.com/embed/rCSzIx43XEA"
     ],
     "language": "spa",
     "country": "mx",
@@ -1334,7 +1268,7 @@
     "name": "Nexus Television",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HZhBnVTwjBY"
+      "https://www.youtube-nocookie.com/embed/idEy9iLMqzk"
     ],
     "language": "ben",
     "country": "bd",
@@ -1388,7 +1322,6 @@
     "nanoid": "TtEwYfDTYznmnS",
     "name": "People are Awesome",
     "iptv_urls": [
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8",
       "https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8",
       "https://jukin-peopleareawesome-2-es.samsung.wurl.tv/playlist.m3u8",
       "https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8",
@@ -1478,6 +1411,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eVngthpIQVtLBa",
+    "name": "Retro TV (KCKS-LD9)",
+    "iptv_urls": [
+      "https://cdn.igocast.com/channel9_hls/channel9_master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9l1eT5Kjqqkie1",
     "name": "Rev'n (KCKS-LD7)",
     "iptv_urls": [
@@ -1530,17 +1474,6 @@
     ],
     "language": "kor",
     "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GJgk9QNg4rWVdR",
-    "name": "SET TV 2",
-    "iptv_urls": [
-      "https://5dcabf026b188.streamlock.net/SET22/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1667,22 +1600,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EDHdYFZTyUWlzE",
-    "name": "Televisa Del Golfo",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-XofI-8-BX0"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CYVWTZuNQ67W3k",
     "name": "Televisa Tijuana",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fSjAaA-8eC8"
+      "https://www.youtube-nocookie.com/embed/Q3BrgO4r6u4"
     ],
     "language": "spa",
     "country": "mx",
@@ -1789,17 +1711,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e5Cesrm1AEWOjC",
-    "name": "TR24",
-    "iptv_urls": [
-      "https://stream.it-innov.com/tr24/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "cm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OFNCxJwQlhXnh3",
     "name": "Tshwane TV",
     "iptv_urls": [
@@ -1841,6 +1752,17 @@
     "youtube_urls": [],
     "language": "por",
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qWRNlLMLdjrPV7",
+    "name": "TV Centro 27.2 HD",
+    "iptv_urls": [
+      "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "hn",
     "isGeoBlocked": false
   },
   {
@@ -2048,7 +1970,7 @@
     "name": "Young Hollywood",
     "iptv_urls": [
       "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8",
-      "https://younghollywood-tcl.amagi.tv/playlist.m3u8"
+      "https://younghollywood-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
