@@ -115,7 +115,7 @@
     "name": "Adom TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/El4d5giQrmk"
+      "https://www.youtube-nocookie.com/embed/o8xa4OYD53s"
     ],
     "language": "eng",
     "country": "gh",
@@ -497,7 +497,6 @@
     "name": "Circle",
     "iptv_urls": [
       "https://circle-samsung.amagi.tv/playlist.m3u8",
-      "https://circle-vizio.amagi.tv/playlist.m3u8",
       "https://circle-xumo.amagi.tv/playlist.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8"
     ],
@@ -618,17 +617,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DDBsi6NosyUZrc",
-    "name": "EBS HD",
-    "iptv_urls": [
-      "https://rpn.bozztv.com/ebstv/ebstv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "amh",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qcU5XAY1ybNmmB",
     "name": "EDN TV",
     "iptv_urls": [
@@ -732,6 +720,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "P066WsPZcXaXUO",
+    "name": "ET Live",
+    "iptv_urls": [
+      "https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tzMdrs8CBQFjjA",
     "name": "ETV+",
     "iptv_urls": [
@@ -796,17 +795,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NCWWidJrVWnWto",
-    "name": "Fujairah TV",
-    "iptv_urls": [
-      "https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
     "isGeoBlocked": false
   },
   {
@@ -895,17 +883,6 @@
     ],
     "language": "deu",
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KorxP0jgE3cFyZ",
-    "name": "GO TV",
-    "iptv_urls": [
-      "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -1319,17 +1296,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Fz3BVHY47NsCpE",
-    "name": "Negah TV",
-    "iptv_urls": [
-      "https://iptv.negahtv.com/negahtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GUSggBQ6IDRV8m",
     "name": "Neko Atsume's Yard",
     "iptv_urls": [],
@@ -1655,12 +1621,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EDHdYFZTyUWlzE",
-    "name": "Televisa Del Golfo",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nqip_csdv1w"
+    "nanoid": "CV0J6mHYbHQoth",
+    "name": "Teleplay Sureste",
+    "iptv_urls": [
+      "https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8",
+      "https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8"
     ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -1735,6 +1702,7 @@
     "nanoid": "PgiKCroCjbQXUS",
     "name": "Timeline",
     "iptv_urls": [
+      "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
       "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1813,21 +1781,10 @@
     "name": "TV ALERJ",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MWiwnZmsrFs"
+      "https://www.youtube-nocookie.com/embed/yVkDkBqTA5g"
     ],
     "language": "por",
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oxJhVRVGaKSzq0",
-    "name": "TV Arbëria 5",
-    "iptv_urls": [
-      "https://ssh101.bozztv.com/ssh101/rtvarberia5/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "sqi",
-    "country": "xk",
     "isGeoBlocked": false
   },
   {
@@ -2044,7 +2001,6 @@
     "name": "Xplore",
     "iptv_urls": [
       "https://xlpore-samsungus.amagi.tv/playlist.m3u8",
-      "https://xplore-vizio.amagi.tv/playlist.m3u8",
       "https://lnc-xplore.tubi.video/playlist.m3u8"
     ],
     "youtube_urls": [],
