@@ -201,6 +201,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "W1q26SjHO1pCn6",
+    "name": "Canal 25 TV (Barbastro)",
+    "iptv_urls": [
+      "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eu4hl3zkjGqEnK",
     "name": "Canal 45",
     "iptv_urls": [
@@ -300,6 +311,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VQKAVjDBKZb0pj",
+    "name": "Congreso de los Diputados 1",
+    "iptv_urls": [
+      "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VUSPcmoFUEMqtT",
+    "name": "Congreso de los Diputados 3",
+    "iptv_urls": [
+      "https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "59hQ5bi9qzvhWC",
     "name": "COSMO",
     "iptv_urls": [
@@ -337,6 +370,28 @@
     "name": "Cuatro",
     "iptv_urls": [
       "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cYGWjqo31Nlvlm",
+    "name": "Diez TV Las Villas",
+    "iptv_urls": [
+      "https://streaming.cloud.innovasur.es/mmj2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LRZN3u44ShLFfe",
+    "name": "Diez TV Úbeda",
+    "iptv_urls": [
+      "https://streaming.cloud.innovasur.es/mmj/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -531,9 +586,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SMagTKquGMTvce",
+    "nanoid": "254O8QVRoi3Ec6",
     "name": "La 2",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/1688885.m3u8",
+      "https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NvzcnBXwTjg"
     ],
@@ -560,6 +618,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b0E5tyyObiYQ6m",
+    "name": "LiraTV",
+    "iptv_urls": [
+      "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -718,61 +787,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9EGX8GxqfYSSuq",
-    "name": "PTV Almería",
-    "iptv_urls": [
-      "https://streamer.zapitv.com/ptv_almeria/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NXzhmuffmSjKGH",
-    "name": "PTV Córdoba",
-    "iptv_urls": [
-      "https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wyi6TV1fm0mxaX",
-    "name": "PTV Granada",
-    "iptv_urls": [
-      "https://streamer.zapitv.com/PTV-granada/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6Cliy0YRCsxozG",
-    "name": "PTV Linares",
-    "iptv_urls": [
-      "https://streamer.zapitv.com/ptv-linarez/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dZdJcGwwUlFFBA",
-    "name": "PTV Sevilla",
-    "iptv_urls": [
-      "https://streamer.zapitv.com/PTV_sevilla/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GH1mxaJo8s3fO3",
     "name": "Radio Televisión Melilla",
     "iptv_urls": [
@@ -870,17 +884,6 @@
     "name": "Ribera TV",
     "iptv_urls": [
       "https://common01.todostreaming.es/live/ribera-livestream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LAxYlfGvF61ICE",
-    "name": "Rioja Televisión",
-    "iptv_urls": [
-      "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
