@@ -37,7 +37,10 @@
     "name": "AfricaNews English",
     "iptv_urls": [
       "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8"
+      "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NQjabLGdP5g"
@@ -47,12 +50,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BnlejKnF7Y4nBM",
+    "nanoid": "Lo5vR5FNgGw4gl",
     "name": "AfricaNews Français",
-    "iptv_urls": [
-      "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-2-lu.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM"
     ],
@@ -164,8 +164,7 @@
     "nanoid": "UiLtPUWKCrK3An",
     "name": "DBM",
     "iptv_urls": [
-      "https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8",
-      "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
+      "https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -239,9 +238,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S07VBtlQltCrbL",
+    "nanoid": "JyVf4M7JRgVcg7",
     "name": "Euronews German",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CQ3KsEbsYHs"
     ],
@@ -274,9 +275,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iGI0lZtaC0qVgq",
+    "nanoid": "XQIaYDgkL1xYgX",
     "name": "Euronews Português",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/XuZAl-ZPEcA"
     ],
@@ -453,17 +456,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RzgKStdXUr44Uv",
-    "name": "Kosmo FR",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Uec4qouXCzU"
-    ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EjjtspCPPNAewo",
     "name": "KTO",
     "iptv_urls": [
@@ -585,13 +577,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WWDxgACXyLT0i3",
-    "name": "MyTime Movie Network",
+    "nanoid": "JN1aEIwYekc9Sp",
+    "name": "Nancy Web TV",
     "iptv_urls": [
-      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
+      "https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -629,17 +621,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5j0y9VV2S7iUDo",
-    "name": "Persiana Family",
-    "iptv_urls": [
-      "https://familyhls.persiana.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AU3r7slfkyZL9C",
     "name": "Persiana HD",
     "iptv_urls": [
@@ -655,6 +636,17 @@
     "name": "Persiana Iranian",
     "iptv_urls": [
       "https://irhls.persiana.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EXvskphL1UFUHC",
+    "name": "Persiana Junior",
+    "iptv_urls": [
+      "https://junhls.persiana.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -967,7 +959,7 @@
     "name": "RFI",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7xDycqogWmY"
+      "https://www.youtube-nocookie.com/embed/tDUfyAYcVQs"
     ],
     "language": "fra",
     "country": "fr",
@@ -989,6 +981,18 @@
     "name": "RMC Story",
     "iptv_urls": [
       "https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xv9b7Q8DQqzTWg",
+    "name": "RT France",
+    "iptv_urls": [
+      "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
+      "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -1214,17 +1218,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ygqSjKK8HMDyzG",
-    "name": "Vosges Télévision",
-    "iptv_urls": [
-      "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },

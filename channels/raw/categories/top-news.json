@@ -150,7 +150,6 @@
     "name": "RT News",
     "iptv_urls": [
       "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
-      "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
       "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -178,6 +177,17 @@
     ],
     "language": "eng",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1RYI9mEKLKbyln",
+    "name": "TRT World",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/66LVIaUxaFk"
+    ],
+    "language": "eng",
+    "country": "tr",
     "isGeoBlocked": false
   }
 ]
