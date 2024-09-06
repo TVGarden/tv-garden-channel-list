@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E5ZP6IbFs3YpcP",
+    "name": "Akit TV",
+    "iptv_urls": [
+      "https://akittv-live.ercdn.net/akittv/akittv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7COae96uG7VRpK",
     "name": "Aksu TV",
     "iptv_urls": [
@@ -134,17 +145,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hiHbgIo4LhtqQo",
-    "name": "Berat TV",
-    "iptv_urls": [
-      "https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jzvcjtd97xOCuu",
     "name": "Beşiktaş Web TV",
     "iptv_urls": [
@@ -170,6 +170,7 @@
     "nanoid": "GQEjero7WWkJqT",
     "name": "Bloomberg HT",
     "iptv_urls": [
+      "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
       "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8"
     ],
     "youtube_urls": [],
@@ -596,8 +597,7 @@
     "nanoid": "sdWptNGaPnKBBW",
     "name": "Habertürk TV",
     "iptv_urls": [
-      "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
-      "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
+      "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -918,17 +918,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "axZRIy6sk182NP",
-    "name": "Konya Olay TV",
-    "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aImpnVfS3hayaO",
     "name": "KRAL Pop TV",
     "iptv_urls": [
@@ -956,17 +945,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/3webn5YqVxc"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oYLz4JWGWtAe6e",
-    "name": "Lider Haber",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RcOuyW8BnAk"
     ],
     "language": "tur",
     "country": "tr",
@@ -1239,12 +1217,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yI1tJk1u9eXjPS",
-    "name": "Radyo Dinle: Radyo Pop Time",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/U3tAYaLyE0E"
+    "nanoid": "1Isrjnk8xE1Gwl",
+    "name": "Rehber TV",
+    "iptv_urls": [
+      "https://yayin30.haber100.com/live/rehbertv/playlist.m3u8"
     ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -1338,6 +1316,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NTbXArc6oW55xA",
+    "name": "Syria TV",
+    "iptv_urls": [
+      "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CnystWlqwvCCW3",
     "name": "Tarim TV",
     "iptv_urls": [
@@ -1377,17 +1366,6 @@
       "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"
     ],
     "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "C6cTkz0lAs6c3P",
-    "name": "Tele1",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cKRg0a8yArE"
-    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -1475,7 +1453,8 @@
     "nanoid": "fxU8Btwi5205jq",
     "name": "TR24 TV",
     "iptv_urls": [
-      "https://tv.ensonhaber.com/tv24/tv24.m3u8"
+      "https://tv.ensonhaber.com/tv24/tv24.m3u8",
+      "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1670,10 +1649,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wf7MNM8AhVT0ZL",
+    "name": "TV 8",
+    "iptv_urls": [
+      "https://tv8-live.daioncdn.net/tv8/tv8.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "deH7vlwlXSBCxY",
     "name": "TV 41",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bgn8mfchHatjpX",
+    "name": "TV 52",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",

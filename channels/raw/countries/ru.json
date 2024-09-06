@@ -194,7 +194,6 @@
     "nanoid": "0mulGVhtSW9kDC",
     "name": "RT Documentary Russian",
     "iptv_urls": [
-      "https://hls.rt.com/hls/rtdru.m3u8",
       "https://streaming.televizor-24-tochka.ru/live/554.m3u8"
     ],
     "youtube_urls": [],
@@ -224,17 +223,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lGfSQeiJJiMPWt",
-    "name": "RU.TV",
-    "iptv_urls": [
-      "https://hls-03-video.webcaramba.com/rutv/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -283,6 +271,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3OOeiozk8ilduN",
+    "name": "Univer TV",
+    "iptv_urls": [
+      "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
+      "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zaYBtAZLn513w6",
     "name": "Zafari Rahimzod",
     "iptv_urls": [],
@@ -298,6 +298,28 @@
     "name": "Архыз 24",
     "iptv_urls": [
       "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GaxdR3CfuVEY6D",
+    "name": "Астрахань 24",
+    "iptv_urls": [
+      "https://astrakhan24.bonus-tv.ru/cdn/astrakhan24/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PnYs28KZYftvil",
+    "name": "Астрахань.Ru Sport",
+    "iptv_urls": [
+      "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -356,6 +378,17 @@
       "https://www.youtube-nocookie.com/embed/gfW1E-zCx6U"
     ],
     "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wIP1vVYNV6iQvd",
+    "name": "Детское кино International",
+    "iptv_urls": [
+      "https://autopilot.catcast.tv/content/38720/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -641,7 +674,8 @@
     "nanoid": "lCl8WMVdJ5MxcZ",
     "name": "Надежда",
     "iptv_urls": [
-      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+      "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -741,6 +775,17 @@
     "name": "Победа",
     "iptv_urls": [
       "https://streaming.televizor-24-tochka.ru/live/43.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G2als9WLQge4uL",
+    "name": "Прима",
+    "iptv_urls": [
+      "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -903,17 +948,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ADmxE4x4wFzXBU",
-    "name": "Союзмультфильм: Простоквашино",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gulN7sVl6qs"
-    ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qtiWLEZdWFW0Tb",
     "name": "СПАС",
     "iptv_urls": [
@@ -940,6 +974,17 @@
     "name": "СТС",
     "iptv_urls": [
       "https://streaming.televizor-24-tochka.ru/live/296.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "84HXD5LPc8NimV",
+    "name": "Сургут 24",
+    "iptv_urls": [
+      "https://sitv.ru/vgtrk/stv.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -986,17 +1031,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/PwDnjHqIcEw"
     ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RH6fEJb5kMD2Ge",
-    "name": "ТК Алмазный край",
-    "iptv_urls": [
-      "https://stream.almaz-media.tv:8080/hls/576.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
