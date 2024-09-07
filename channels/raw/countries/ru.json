@@ -37,7 +37,6 @@
     "nanoid": "8KkzMzj0gbrJEI",
     "name": "360°",
     "iptv_urls": [
-      "https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
       "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -194,6 +193,7 @@
     "nanoid": "0mulGVhtSW9kDC",
     "name": "RT Documentary Russian",
     "iptv_urls": [
+      "https://hls.rt.com/hls/rtdru.m3u8",
       "https://streaming.televizor-24-tochka.ru/live/554.m3u8"
     ],
     "youtube_urls": [],
@@ -223,6 +223,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lGfSQeiJJiMPWt",
+    "name": "RU.TV",
+    "iptv_urls": [
+      "https://hls-03-video.webcaramba.com/rutv/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -298,28 +309,6 @@
     "name": "Архыз 24",
     "iptv_urls": [
       "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GaxdR3CfuVEY6D",
-    "name": "Астрахань 24",
-    "iptv_urls": [
-      "https://astrakhan24.bonus-tv.ru/cdn/astrakhan24/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PnYs28KZYftvil",
-    "name": "Астрахань.Ru Sport",
-    "iptv_urls": [
-      "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -683,17 +672,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fPNHa2Iphxep7n",
-    "name": "Нижний Новгород 24",
-    "iptv_urls": [
-      "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vS6J0kXBLE78kR",
     "name": "Ника ТВ",
     "iptv_urls": [
@@ -859,17 +837,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AL13wnHi0qOCN5",
-    "name": "С1 (Сургут)",
-    "iptv_urls": [
-      "https://sitv.ru/hls/stv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JaAPl6x6rp2g4q",
     "name": "Салям (Уфа)",
     "iptv_urls": [
@@ -948,6 +915,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ADmxE4x4wFzXBU",
+    "name": "Союзмультфильм: Простоквашино",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Ojx4RVNguKE"
+    ],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qtiWLEZdWFW0Tb",
     "name": "СПАС",
     "iptv_urls": [
@@ -974,17 +952,6 @@
     "name": "СТС",
     "iptv_urls": [
       "https://streaming.televizor-24-tochka.ru/live/296.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "84HXD5LPc8NimV",
-    "name": "Сургут 24",
-    "iptv_urls": [
-      "https://sitv.ru/vgtrk/stv.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
