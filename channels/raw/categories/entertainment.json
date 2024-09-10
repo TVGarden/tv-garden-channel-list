@@ -518,6 +518,7 @@
     "name": "Circle",
     "iptv_urls": [
       "https://circle-samsung.amagi.tv/playlist.m3u8",
+      "https://circle-vizio.amagi.tv/playlist.m3u8",
       "https://circle-xumo.amagi.tv/playlist.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8"
     ],
@@ -598,7 +599,7 @@
     "name": "Discovery UK",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZFNXc41Wb90"
+      "https://www.youtube-nocookie.com/embed/aVAtW5FTS_4"
     ],
     "language": "eng",
     "country": "uk",
@@ -743,6 +744,7 @@
     "name": "Estrella TV",
     "iptv_urls": [
       "https://estrellatv-oando.amagi.tv/playlist.m3u8",
+      "https://estrellatv-glewed.amagi.tv/playlist.m3u8",
       "https://estrellatv-plex.amagi.tv/playlist.m3u8",
       "https://lnc-estrellatv.tubi.video/playlist.m3u8"
     ],
@@ -785,6 +787,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "y7X7AdWkclwh5h",
+    "name": "Fidele TV",
+    "iptv_urls": [
+      "https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zJh3ovCYN7T9ZL",
     "name": "Fox",
     "iptv_urls": [
@@ -805,17 +818,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NCWWidJrVWnWto",
-    "name": "Fujairah TV",
-    "iptv_urls": [
-      "https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
     "isGeoBlocked": false
   },
   {
@@ -1513,17 +1515,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qO9vRi6qWS9n0t",
-    "name": "Raquel Daruech TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QeQRce7sXVM"
-    ],
-    "language": "spa",
-    "country": "uy",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RC3d7Gg3i7dUir",
     "name": "RCN Más",
     "iptv_urls": [
@@ -1554,17 +1545,6 @@
     "youtube_urls": [],
     "language": "por",
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eVngthpIQVtLBa",
-    "name": "Retro TV (KCKS-LD9)",
-    "iptv_urls": [
-      "https://cdn.igocast.com/channel9_hls/channel9_master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1678,17 +1658,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "94XpEeNrIes2NB",
-    "name": "Showtime at the Apollo",
-    "iptv_urls": [
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5Yzo5xaahNvJA8",
     "name": "SolTV",
     "iptv_urls": [
@@ -1766,6 +1735,29 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CV0J6mHYbHQoth",
+    "name": "Teleplay Sureste",
+    "iptv_urls": [
+      "https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8",
+      "https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EDHdYFZTyUWlzE",
+    "name": "Televisa Del Golfo",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/PH8U3wH-0JY"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CYVWTZuNQ67W3k",
     "name": "Televisa Tijuana",
     "iptv_urls": [],
@@ -1835,6 +1827,7 @@
     "nanoid": "PgiKCroCjbQXUS",
     "name": "Timeline",
     "iptv_urls": [
+      "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
       "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1990,7 +1983,7 @@
     "name": "TV Derana",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VSepG80ns10"
+      "https://www.youtube-nocookie.com/embed/8_GEITjX79I"
     ],
     "language": "sin",
     "country": "lk",
@@ -2188,8 +2181,7 @@
     "nanoid": "jyUO9WPZC2Q5GO",
     "name": "Young Hollywood",
     "iptv_urls": [
-      "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8",
-      "https://younghollywood-vizio.amagi.tv/playlist.m3u8"
+      "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -2257,17 +2249,6 @@
     "name": "Пятница International",
     "iptv_urls": [
       "https://stream01.vnet.am/Pyatnica/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "trsLN7PoZranC9",
-    "name": "ТНТ",
-    "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/38.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
