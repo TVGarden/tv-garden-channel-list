@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "l1r7irH3I4S5Jm",
-    "name": "360 TV",
-    "iptv_urls": [
-      "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ohf3AgefWfM8Ln",
     "name": "A Haber",
     "iptv_urls": [],
@@ -66,13 +55,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Mmz7MUwsZ62HWK",
-    "name": "Almahriah TV",
+    "nanoid": "3GgXVbdK2cjuBg",
+    "name": "Alanya Posta TV",
     "iptv_urls": [
-      "https://master.starmena-cloud.com/hls/almahriah.m3u8"
+      "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "ara",
+    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -381,17 +370,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZF8u92PVuJI4iM",
-    "name": "EKOTÜRK TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/x0raDpMAh2E"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Vrnn5uA2AF9TAU",
     "name": "Elapro Sahne: Radyo Türküler",
     "iptv_urls": [],
@@ -586,8 +564,7 @@
     "nanoid": "sdWptNGaPnKBBW",
     "name": "Habertürk TV",
     "iptv_urls": [
-      "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
-      "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
+      "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -731,17 +708,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F2Mb6ARE1l9qx2",
-    "name": "Kanal 33",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FgL1HEllG10WJt",
     "name": "KANAL 58",
     "iptv_urls": [
@@ -859,17 +825,6 @@
       "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xZTyr5HbWtd8xE",
-    "name": "Kemal Sunal Filmleri",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ga7QC6R-7RQ"
-    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -1139,11 +1094,66 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fEdPdOM5VlxlUw",
+    "name": "Power Dance",
+    "iptv_urls": [
+      "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XNTHGJZeFfDgvw",
+    "name": "Power Love",
+    "iptv_urls": [
+      "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "w85sfJEC8gJZyR",
     "name": "Power Turk",
     "iptv_urls": [
       "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
       "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nwdmUE3xH6BSi3",
+    "name": "Power Türk Akustik",
+    "iptv_urls": [
+      "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qPgZrwytj1pHuU",
+    "name": "Power Türk Slow",
+    "iptv_urls": [
+      "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0teMZnzyPWV1HK",
+    "name": "Power Türk Taptaze",
+    "iptv_urls": [
+      "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1159,6 +1169,17 @@
     ],
     "youtube_urls": [],
     "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QRfxek3i27Ymob",
+    "name": "Qaf TV",
+    "iptv_urls": [
+      "https://mn-nl.mncdn.com/qaf/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -1399,7 +1420,8 @@
     "nanoid": "fxU8Btwi5205jq",
     "name": "TR24 TV",
     "iptv_urls": [
-      "https://tv.ensonhaber.com/tv24/tv24.m3u8"
+      "https://tv.ensonhaber.com/tv24/tv24.m3u8",
+      "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1576,6 +1598,17 @@
     "name": "TV 1",
     "iptv_urls": [
       "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wf7MNM8AhVT0ZL",
+    "name": "TV 8",
+    "iptv_urls": [
+      "https://tv8-live.daioncdn.net/tv8/tv8.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",

@@ -49,7 +49,8 @@
     "iptv_urls": [
       "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
       "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-      "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+      "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+      "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CJVBX7KI5nU"
@@ -247,6 +248,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PwiAIPffasG0wh",
+    "name": "Gongyoung Shopping",
+    "iptv_urls": [
+      "https://etv.publichs.com/live5.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ha2TQrOiJuUiVm",
     "name": "GS My Shop",
     "iptv_urls": [
@@ -358,17 +370,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I27keaXmXV9AK5",
-    "name": "MBC Jeju (제주 MBC)",
-    "iptv_urls": [
-      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bGPfC3KKh0kKB4",
     "name": "MBC Jeonju",
     "iptv_urls": [
@@ -380,10 +381,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8fjuljf7xVUPuM",
-    "name": "NS Shop Plus",
+    "nanoid": "oNnWdV2miCH9OF",
+    "name": "NS Home Shopping",
     "iptv_urls": [
-      "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8"
+      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n4MkAIlXwdSE8X",
+    "name": "OUN",
+    "iptv_urls": [
+      "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
