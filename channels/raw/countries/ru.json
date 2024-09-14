@@ -182,10 +182,36 @@
     "nanoid": "0mulGVhtSW9kDC",
     "name": "RT Documentary Russian",
     "iptv_urls": [
-      "https://hls.rt.com/hls/rtdru.m3u8"
+      "https://hls.rt.com/hls/rtdru.m3u8",
+      "https://streaming.televizor-24-tochka.ru/live/554.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mPfWobHfV25q8P",
+    "name": "RT en Español",
+    "iptv_urls": [
+      "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+      "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ekFWl5aVUxSeip",
+    "name": "RT News",
+    "iptv_urls": [
+      "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+      "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
+      "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -207,17 +233,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LH9dcmaHCYg"
     ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0hiQdgKd6nMh6h",
-    "name": "TV BRICS Russian",
-    "iptv_urls": [
-      "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
@@ -261,39 +276,6 @@
     "name": "Архыз 24",
     "iptv_urls": [
       "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GaxdR3CfuVEY6D",
-    "name": "Астрахань 24",
-    "iptv_urls": [
-      "https://astrakhan24.bonus-tv.ru/cdn/astrakhan24/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PnYs28KZYftvil",
-    "name": "Астрахань.Ru Sport",
-    "iptv_urls": [
-      "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b2LICrzMiejVED",
-    "name": "Астрахань.Ru TV",
-    "iptv_urls": [
-      "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -513,17 +495,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "x3K6ZIGQqiYkqb",
-    "name": "КИНО-1 INTERNATIONAL",
-    "iptv_urls": [
-      "https://autopilot.catcast.tv/content/38617/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ij1YOE8HL0StOG",
     "name": "Кнопка ТВ",
     "iptv_urls": [
@@ -612,54 +583,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wXSCH4nmOtCss7",
-    "name": "Музыка 2 International",
-    "iptv_urls": [
-      "https://kino-1.catcast.tv/content/37742/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "P4d9EwOGhyWfO5",
-    "name": "Музыка Кино International",
-    "iptv_urls": [
-      "https://kino-1.catcast.tv/content/37739/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "D8UxQULvRptMn0",
-    "name": "Мульт",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EfZm_OY38Ec"
-    ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lCl8WMVdJ5MxcZ",
     "name": "Надежда",
     "iptv_urls": [
       "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fPNHa2Iphxep7n",
-    "name": "Нижний Новгород 24",
-    "iptv_urls": [
-      "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -706,6 +633,17 @@
       "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uuk3W8viG5PTVL",
+    "name": "Орел и Решка",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/gJoN83Noit8"
+    ],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
@@ -1026,17 +964,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Wpv-RmgPKrA"
     ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RH6fEJb5kMD2Ge",
-    "name": "ТК Алмазный край",
-    "iptv_urls": [
-      "https://stream.almaz-media.tv:8080/hls/576.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
