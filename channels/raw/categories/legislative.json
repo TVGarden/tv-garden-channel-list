@@ -407,10 +407,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MajPICf3UNUH9K",
-    "name": "Gainesville Community 12TV (Gainesville FL)",
+    "nanoid": "JtpMZKlL4SeNOl",
+    "name": "Fort Pierce Live Stream (Fort Pierce FL)",
     "iptv_urls": [
-      "https://lin10.isilive.ca/live/gainesville/live/index.m3u8"
+      "https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -418,10 +418,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aZACmqFHyDlfSs",
-    "name": "Galveston County TV",
+    "nanoid": "MajPICf3UNUH9K",
+    "name": "Gainesville Community 12TV (Gainesville FL)",
     "iptv_urls": [
-      "https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8"
+      "https://lin10.isilive.ca/live/gainesville/live/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -583,6 +583,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1YbhdzonsHfQ5t",
+    "name": "Martin County MCTV (Martin County FL)",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kjuFcOS4WkdpQs",
     "name": "Midpen Media Center Government etc Channel 29",
     "iptv_urls": [
@@ -598,17 +609,6 @@
     "name": "Monroe County Television MCTV (Monroe County FL)",
     "iptv_urls": [
       "https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kvwQnIw0mzRmPS",
-    "name": "Morro Bay Channel 20",
-    "iptv_urls": [
-      "https://agp-nimble.streamguys1.com/MBCh20/MBCh20/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -771,62 +771,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jtokavrUrj69rD",
-    "name": "Parlamento de Navarra",
-    "iptv_urls": [
-      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hKXziqHmvJRVZi",
-    "name": "Parlamentsfernsehen 1",
-    "iptv_urls": [
-      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8",
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZBBFj5GnvGni4T",
-    "name": "Parlamentsfernsehen 2",
-    "iptv_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eYYqGiBGykkSSs",
-    "name": "Parlamentsfernsehen 3",
-    "iptv_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9rKd670JNINyhC",
-    "name": "Parlamentsfernsehen 4",
-    "iptv_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pGZdS7NMq1FAlR",
     "name": "Parliament TV",
     "iptv_urls": [
@@ -907,7 +851,8 @@
     "nanoid": "BqqeaBGazomeJi",
     "name": "Sansad TV",
     "iptv_urls": [
-      "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8"
+      "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
+      "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -981,17 +926,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RErWNfh4idOsdr",
-    "name": "Thai Parliament TV",
-    "iptv_urls": [
-      "https://tv-live.tpchannel.org/live/tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qFCAsqxqc8Wr0C",
     "name": "The Florida Channel",
     "iptv_urls": [
@@ -1036,6 +970,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qIar6axvqjptwG",
+    "name": "TV Assembleia Minas Gerais",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/90ppNOUSwLQ"
+    ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lEDKV79GLKVqjL",
     "name": "TV Câmara",
     "iptv_urls": [
@@ -1066,6 +1011,17 @@
     "youtube_urls": [],
     "language": "slk",
     "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hU48Z3zrKcvX0i",
+    "name": "TV4",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
