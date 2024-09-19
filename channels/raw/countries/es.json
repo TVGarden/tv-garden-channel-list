@@ -311,17 +311,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vNfephVxrifCoZ",
-    "name": "Congreso de los Diputados 2",
-    "iptv_urls": [
-      "https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VUSPcmoFUEMqtT",
     "name": "Congreso de los Diputados 3",
     "iptv_urls": [
@@ -388,6 +377,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LRZN3u44ShLFfe",
+    "name": "Diez TV Úbeda",
+    "iptv_urls": [
+      "https://streaming.cloud.innovasur.es/mmj/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ImSzmROEIXFxe1",
     "name": "Disney Channel",
     "iptv_urls": [
@@ -406,6 +406,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hgsplzEIrAMQff",
+    "name": "Durangaldeko Telebista",
+    "iptv_urls": [
+      "https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eus",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -498,17 +509,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SOCPsEqDypGNwA",
-    "name": "Fitel TV",
-    "iptv_urls": [
-      "https://tv.mywifisocial.es/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Eo1vulLgYuXlO9",
     "name": "Fuerteventura TV",
     "iptv_urls": [
@@ -564,9 +564,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SMagTKquGMTvce",
+    "nanoid": "254O8QVRoi3Ec6",
     "name": "La 2",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/1688885.m3u8",
+      "https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NvzcnBXwTjg"
     ],
@@ -575,10 +578,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MtvAPbtuZZyeOW",
+    "name": "La 2 Canarias",
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YDIi3VBX7D7fKC",
     "name": "La 2 Catalunya",
     "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
+      "https://ztnr.rtve.es/ztnr/3987218.m3u8",
+      "https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8"
     ],
     "youtube_urls": [],
     "language": "cat",
@@ -615,50 +630,6 @@
     ],
     "youtube_urls": [],
     "language": "ron",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iHJMMNrrNRdPm9",
-    "name": "Logos TV",
-    "iptv_urls": [
-      "https://streamer1.streamhost.org/salive/logosH/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tAfeiYdJicPmo2",
-    "name": "Logos TV Estudio",
-    "iptv_urls": [
-      "https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MtMNF88l0aM6yp",
-    "name": "Logos TV Kids",
-    "iptv_urls": [
-      "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NgBS03D7qq5qwr",
-    "name": "Logos TV Salud",
-    "iptv_urls": [
-      "https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -722,6 +693,17 @@
     "name": "Onda Algeciras TV",
     "iptv_urls": [
       "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "iptv_urls": [
+      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1033,7 +1015,8 @@
     "nanoid": "yAvkQDCoQRxCiQ",
     "name": "Trece TV",
     "iptv_urls": [
-      "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8"
+      "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8",
+      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

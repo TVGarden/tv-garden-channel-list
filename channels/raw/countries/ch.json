@@ -181,9 +181,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2Rycxy1vLcj5qI",
+    "nanoid": "k5shuuRP26TyTM",
     "name": "Shiva Live TV",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://streameurope.ch/live/shivalivetv.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/hkvsxvJugys"
     ],
@@ -218,6 +220,17 @@
     "name": "TeleBärn",
     "iptv_urls": [
       "https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/V5aB4vl7IdB41mCbZmUxNA/index-s32.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "ch",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pmq2gfBzAQR7Yy",
+    "name": "Telebasel",
+    "iptv_urls": [
+      "https://cldf-wzw-live.r53.cdn.tv1.eu/10096xtelebase/_definst_/1000199copo/live/app510394368/w162136077/live_de_1500/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
