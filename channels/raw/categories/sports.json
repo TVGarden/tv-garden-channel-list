@@ -706,6 +706,7 @@
     "name": "SportsGrid",
     "iptv_urls": [
       "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8",
       "https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8"
@@ -905,17 +906,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MRDwiz0Mw0bVZ5",
-    "name": "TVS Sports",
-    "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvssports/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uxa3RChSlTbz84",
     "name": "TVS Sports Bureau",
     "iptv_urls": [
@@ -931,17 +921,6 @@
     "name": "TVS Turbo",
     "iptv_urls": [
       "https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "beAXn8CiW6Z5Te",
-    "name": "TVS Women Sports",
-    "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvswsn/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1003,6 +982,17 @@
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PnYs28KZYftvil",
+    "name": "Астрахань.Ru Sport",
+    "iptv_urls": [
+      "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

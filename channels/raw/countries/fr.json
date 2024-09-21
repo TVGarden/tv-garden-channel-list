@@ -22,9 +22,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2U4gd5rnY0obyR",
+    "nanoid": "Gmuy6SpwOogHJz",
     "name": "AfricaNews English",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NQjabLGdP5g"
     ],
@@ -51,6 +57,17 @@
     "name": "Albi TV",
     "iptv_urls": [
       "https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4rxDy7n64uQPGF",
+    "name": "Alpe d’Huez TV",
+    "iptv_urls": [
+      "https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -125,6 +142,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UiLtPUWKCrK3An",
+    "name": "DBM",
+    "iptv_urls": [
+      "https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8",
+      "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kDlG6sZPIC1CSl",
     "name": "Ère TV",
     "iptv_urls": [
@@ -136,11 +165,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bIshNL914fZBEa",
+    "nanoid": "DmuSIeE8brywZA",
     "name": "Euronews en Español",
-    "iptv_urls": [
-      "https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/O9mOtdZ-nSk"
     ],
@@ -156,7 +183,6 @@
       "https://rakuten-euronews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8",
       "https://rakuten-euronews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-se.samsung.wurl.tv/manifest/playlist.m3u8",
@@ -165,6 +191,7 @@
       "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
       "https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8",
       "https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8",
+      "https://rakuten-euronews-10-lu.samsung.wurl.tv/playlist.m3u8",
       "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"
     ],
     "youtube_urls": [
@@ -226,9 +253,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iGI0lZtaC0qVgq",
+    "nanoid": "XQIaYDgkL1xYgX",
     "name": "Euronews Português",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/XuZAl-ZPEcA"
     ],
@@ -527,17 +556,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bpkqoQyazekjjY",
-    "name": "Mytime Movies",
-    "iptv_urls": [
-      "https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JN1aEIwYekc9Sp",
     "name": "Nancy Web TV",
     "iptv_urls": [
@@ -586,17 +604,6 @@
     "name": "Persiana Comedy",
     "iptv_urls": [
       "https://comedyhls.persiana.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5j0y9VV2S7iUDo",
-    "name": "Persiana Family",
-    "iptv_urls": [
-      "https://familyhls.persiana.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -1144,6 +1151,17 @@
       "https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8"
     ],
     "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "edtKAXkZBm3JRu",
+    "name": "TVPI Officiel",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/nPbkpH6ETvU"
+    ],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
