@@ -77,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MnlXD91coI3HFj",
+    "name": "Boing",
+    "iptv_urls": [
+      "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MkDG8x514T8qvl",
     "name": "Bon Dia TV",
     "iptv_urls": [
@@ -168,6 +179,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "W1q26SjHO1pCn6",
+    "name": "Canal 25 TV (Barbastro)",
+    "iptv_urls": [
+      "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eu4hl3zkjGqEnK",
     "name": "Canal 45",
     "iptv_urls": [
@@ -194,17 +216,6 @@
     "name": "Canal Doñana",
     "iptv_urls": [
       "https://secure5.todostreaming.es/live/division-alm.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MR0b7ODlkTFOj0",
-    "name": "Canal Málaga RTV",
-    "iptv_urls": [
-      "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -351,17 +362,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hgsplzEIrAMQff",
-    "name": "Durangaldeko Telebista",
-    "iptv_urls": [
-      "https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eus",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -520,9 +520,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SMagTKquGMTvce",
+    "nanoid": "254O8QVRoi3Ec6",
     "name": "La 2",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/1688885.m3u8",
+      "https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NvzcnBXwTjg"
     ],
@@ -534,10 +537,23 @@
     "nanoid": "MtvAPbtuZZyeOW",
     "name": "La 2 Canarias",
     "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/5468585.m3u8",
       "https://rtvelivestream.akamaized.net/rtvesec/can/la2_can_main_dvr.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YDIi3VBX7D7fKC",
+    "name": "La 2 Catalunya",
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/3987218.m3u8",
+      "https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -667,17 +683,6 @@
     "name": "Negocios TV",
     "iptv_urls": [
       "https://streaming013.gestec-video.com/hls/negociostv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "l9lVnkP5Qw7yW0",
-    "name": "Onda Algeciras TV",
-    "iptv_urls": [
-      "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -831,6 +836,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GITlIKa8D8B8BX",
+    "name": "RTV Marbella",
+    "iptv_urls": [
+      "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "69wABBZ5acLQs0",
     "name": "RTV Vida",
     "iptv_urls": [
@@ -901,17 +917,6 @@
     "name": "Sundance TV",
     "iptv_urls": [
       "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5VZ61BNkyPRLLY",
-    "name": "Tarotéame",
-    "iptv_urls": [
-      "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1004,6 +1009,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tJnnR1sDEnmxAh",
+    "name": "TV Almassora",
+    "iptv_urls": [
+      "https://live.fullsport.es/hls/tvalmassora.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
     "country": "es",
     "isGeoBlocked": false
   },

@@ -132,14 +132,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Mut1mafEBDelBc",
-    "name": "CBS Sports Golazo Network",
+    "nanoid": "9CXmhwqvLqfUzo",
+    "name": "CDN Deporte",
     "iptv_urls": [
-      "https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8"
+      "https://fl1002.bozztv.com/ssh101/cdndeportes/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -162,6 +162,17 @@
     "youtube_urls": [],
     "language": "por",
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3GLrMzIr2H1nF3",
+    "name": "Dubai Racing",
+    "iptv_urls": [
+      "https://dmisvthvllta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
     "isGeoBlocked": false
   },
   {
@@ -190,7 +201,6 @@
     "nanoid": "gheSDFEMaPiSYU",
     "name": "Dubai Sports 1",
     "iptv_urls": [
-      "https://dmitnthfrta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8",
       "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8"
     ],
     "youtube_urls": [],
@@ -706,10 +716,10 @@
     "name": "SportsGrid",
     "iptv_urls": [
       "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8",
-      "https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8"
+      "https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8",
+      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -906,6 +916,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MRDwiz0Mw0bVZ5",
+    "name": "TVS Sports",
+    "iptv_urls": [
+      "https://bozztv.com/gusa/gusa-tvssports/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uxa3RChSlTbz84",
     "name": "TVS Sports Bureau",
     "iptv_urls": [
@@ -950,9 +971,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jPzFgynbOJaiRB",
+    "name": "WAPA-DT3 (WAPA Deportes 4.3)",
+    "iptv_urls": [
+      "https://live.field59.com/wapa/ngrp:wapa3_all/.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X8yK2ahG1lHzY9",
     "name": "World Poker Tour",
     "iptv_urls": [
+      "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8",
       "https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8",
       "https://d2e00kr7m9coe4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-WPTLive/406.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8"
@@ -993,29 +1026,6 @@
     "youtube_urls": [],
     "language": "rus",
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yxXfCHd5uHQMJD",
-    "name": "Беларусь 5",
-    "iptv_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hksyXK9W8Dv3Pj",
-    "name": "Беларусь 5 Интернет",
-    "iptv_urls": [
-      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
     "isGeoBlocked": false
   }
 ]
