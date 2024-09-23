@@ -22,9 +22,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2U4gd5rnY0obyR",
+    "nanoid": "Gmuy6SpwOogHJz",
     "name": "AfricaNews English",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NQjabLGdP5g"
     ],
@@ -95,6 +101,17 @@
     "name": "BBC Drama",
     "iptv_urls": [
       "https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dz6yBedOZTM2uU",
+    "name": "BIP TV",
+    "iptv_urls": [
+      "https://biptv.tv/live/biptvstream_orig/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -175,12 +192,10 @@
     "nanoid": "vyAlDaoF9WU1Q1",
     "name": "Euronews English",
     "iptv_urls": [
-      "https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8",
       "https://rakuten-euronews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-se.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8",
@@ -476,17 +491,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YpQng8lk2pHqeY",
-    "name": "Le Figaro IDF",
-    "iptv_urls": [
-      "https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cm7ZgY6MrQlRwG",
     "name": "Le Média",
     "iptv_urls": [],
@@ -560,6 +564,17 @@
     ],
     "youtube_urls": [],
     "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WWDxgACXyLT0i3",
+    "name": "MyTime Movie Network",
+    "iptv_urls": [
+      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -997,17 +1012,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Nrhfk3ZlzlS0lx",
-    "name": "Rugby Zone TV",
-    "iptv_urls": [
-      "https://lte.wiseplayout.com/WiseM3U8_19/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "e2QKMdwgfK4Vxo",
     "name": "Simon Super Lapin",
     "iptv_urls": [],
@@ -1164,6 +1168,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uS6aOLXBCwTfBG",
+    "name": "Trace Sport Stars (Australia)",
+    "iptv_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2ytU28DiAXy4tf",
     "name": "TV Finance",
     "iptv_urls": [
@@ -1212,17 +1227,6 @@
     "name": "TVR (Bretagne)",
     "iptv_urls": [
       "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b7X4PEbbxyxgHq",
-    "name": "ViàMatélé",
-    "iptv_urls": [
-      "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
