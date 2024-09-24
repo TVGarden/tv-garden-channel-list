@@ -122,17 +122,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TmOaWV1T2skQNx",
-    "name": "AE Radio TV",
-    "iptv_urls": [
-      "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8de166DRNsy84Z",
     "name": "AFN TV",
     "iptv_urls": [
@@ -477,7 +466,8 @@
     "nanoid": "PQQXKouZscaQuL",
     "name": "California Music Channel",
     "iptv_urls": [
-      "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8"
+      "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
+      "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -915,17 +905,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dvUcRbsErrKQT0",
-    "name": "Global TV",
-    "iptv_urls": [
-      "https://stmv.video.gmpro.top/global/global/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KorxP0jgE3cFyZ",
     "name": "GO TV",
     "iptv_urls": [
@@ -1069,17 +1048,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "f8OcMZj8nk12cd",
-    "name": "JRTV Järviradio",
-    "iptv_urls": [
-      "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Dqgwi0HQE4Shzw",
     "name": "Juice TV",
     "iptv_urls": [
@@ -1132,6 +1100,17 @@
     "youtube_urls": [],
     "language": "ron",
     "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "j2PNx5Xg25mTJj",
+    "name": "KpopTV Play",
+    "iptv_urls": [
+      "https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1418,17 +1397,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "jo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UCjLTTayb4q6mw",
-    "name": "MNTV Music",
-    "iptv_urls": [
-      "https://mntv.livebox.co.in/musichls/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1870,17 +1838,6 @@
     "youtube_urls": [],
     "language": "pan",
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KWEE7C3XgKSvyt",
-    "name": "Q-Music (Belgium)",
-    "iptv_urls": [
-      "https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/5f60a245c110454fba652900ecf30ea2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "be",
     "isGeoBlocked": false
   },
   {
@@ -2661,6 +2618,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XlXPtDjBoCbxvd",
+    "name": "Tiankov Folk",
+    "iptv_urls": [
+      "https://streamer103.neterra.tv/tiankov-folk/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "bul",
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SByzYuSnvckWM0",
+    "name": "Tiankov Orient Folk",
+    "iptv_urls": [
+      "https://streamer103.neterra.tv/tiankov-orient/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "bul",
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "afeqz9D5cAFMOQ",
+    "name": "TV A7 Plus",
+    "iptv_urls": [
+      "https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DaPSIM5TeTI166",
     "name": "TV Arbëria 4 Muzikë",
     "iptv_urls": [
@@ -2710,6 +2700,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/wN2JXKGyzRY"
+    ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vhNaz7xD7cy5Pv",
+    "name": "TVCHOSUN MUSIC",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/wQ6_Vt3csPY"
     ],
     "language": "kor",
     "country": "kr",
@@ -2849,6 +2850,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9TUqw93GWA6FwZ",
+    "name": "Vos y TV",
+    "iptv_urls": [
+      "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NbWfVlKlj41v04",
     "name": "Wanasah",
     "iptv_urls": [
@@ -2908,7 +2920,7 @@
     "name": "Yulduz Usmanova",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mXMhf1ZT-k0"
+      "https://www.youtube-nocookie.com/embed/ZrqTnED8-yk"
     ],
     "language": "uzb",
     "country": "uz",
