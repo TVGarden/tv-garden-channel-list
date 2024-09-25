@@ -122,6 +122,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TmOaWV1T2skQNx",
+    "name": "AE Radio TV",
+    "iptv_urls": [
+      "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8de166DRNsy84Z",
     "name": "AFN TV",
     "iptv_urls": [
@@ -295,6 +306,17 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vLJxCfSjAO72Wd",
+    "name": "Belmedia TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/9aHqC9tf6cw"
+    ],
+    "language": "fra",
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -905,17 +927,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KorxP0jgE3cFyZ",
-    "name": "GO TV",
-    "iptv_urls": [
-      "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eGOtWKdGAa7HdL",
     "name": "Hitradio Ö3",
     "iptv_urls": [
@@ -1048,6 +1059,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "f8OcMZj8nk12cd",
+    "name": "JRTV Järviradio",
+    "iptv_urls": [
+      "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Dqgwi0HQE4Shzw",
     "name": "Juice TV",
     "iptv_urls": [
@@ -1136,9 +1158,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SMagTKquGMTvce",
+    "nanoid": "254O8QVRoi3Ec6",
     "name": "La 2",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/1688885.m3u8",
+      "https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NvzcnBXwTjg"
     ],
@@ -1199,17 +1224,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0KL7HXYYAtsJlk",
-    "name": "Lingkar TV",
-    "iptv_urls": [
-      "https://lingkartv.my.id/hls/lingkartv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1389,14 +1403,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n1NVXrRoMu2hbw",
-    "name": "Melody FM Jordan",
+    "nanoid": "UCjLTTayb4q6mw",
+    "name": "MNTV Music",
     "iptv_urls": [
-      "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8"
+      "https://mntv.livebox.co.in/musichls/live.m3u8"
     ],
     "youtube_urls": [],
-    "language": "ara",
-    "country": "jo",
+    "language": "tam",
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1841,6 +1855,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KWEE7C3XgKSvyt",
+    "name": "Q-Music (Belgium)",
+    "iptv_urls": [
+      "https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/5f60a245c110454fba652900ecf30ea2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8qNuUvk67ZKjp5",
     "name": "Qello Concerts by Stingray",
     "iptv_urls": [
@@ -2195,6 +2220,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qBotfslU49CqYW",
+    "name": "Star Folk",
+    "iptv_urls": [
+      "https://live.muzickatv.mk/live/StarMusic.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mkd",
+    "country": "mk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WHs6vj6Ofeg7oC",
     "name": "Star Plus Music",
     "iptv_urls": [
@@ -2209,7 +2245,8 @@
     "nanoid": "sMtLcZJ0VSsWq6",
     "name": "Stingray Classic Rock",
     "iptv_urls": [
-      "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
+      "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -2272,22 +2309,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2HLsVyNyjqsi0C",
-    "name": "Stingray Greatest Hits",
-    "iptv_urls": [
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8nzzjYF4s0j9Xx",
     "name": "Stingray Hit List",
     "iptv_urls": [
-      "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8"
+      "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -2309,8 +2334,7 @@
     "nanoid": "J1T4cNu5RBkAKP",
     "name": "Stingray Hot Country",
     "iptv_urls": [
-      "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8"
+      "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -2332,8 +2356,7 @@
     "nanoid": "MTAb38GV9XXOMg",
     "name": "Stingray Naturescape",
     "iptv_urls": [
-      "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8"
+      "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -2410,8 +2433,7 @@
     "nanoid": "sNGGurE66w6NWe",
     "name": "Stingray Soul Storm",
     "iptv_urls": [
-      "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8"
+      "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

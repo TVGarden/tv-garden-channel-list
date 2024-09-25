@@ -44,6 +44,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vLJxCfSjAO72Wd",
+    "name": "Belmedia TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/9aHqC9tf6cw"
+    ],
+    "language": "fra",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XHxGpxMeodxqTd",
+    "name": "C Malayalam TV",
+    "iptv_urls": [
+      "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mal",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Cv8dtsVO4KhvRK",
     "name": "Cable 14 Hamilton",
     "iptv_urls": [
@@ -72,17 +94,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6lMZ5cDBIX4"
     ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NrTK4ahuPqgFRE",
-    "name": "CBC News Network",
-    "iptv_urls": [
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
@@ -343,17 +354,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Dxr4tHRhpiu8Xi",
-    "name": "Legislative Assembly of Ontario Committees (room 2)",
-    "iptv_urls": [
-      "https://lin13.isilive.ca/live/_definst_/ontla/committee_2-en/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0KUROtebe5Hr0N",
     "name": "Legislative Assembly of Ontario Committees (room 151)",
     "iptv_urls": [
@@ -501,7 +501,8 @@
     "nanoid": "sMtLcZJ0VSsWq6",
     "name": "Stingray Classic Rock",
     "iptv_urls": [
-      "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
+      "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -564,22 +565,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2HLsVyNyjqsi0C",
-    "name": "Stingray Greatest Hits",
-    "iptv_urls": [
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8nzzjYF4s0j9Xx",
     "name": "Stingray Hit List",
     "iptv_urls": [
-      "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8"
+      "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -601,8 +590,7 @@
     "nanoid": "J1T4cNu5RBkAKP",
     "name": "Stingray Hot Country",
     "iptv_urls": [
-      "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8"
+      "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -624,8 +612,7 @@
     "nanoid": "MTAb38GV9XXOMg",
     "name": "Stingray Naturescape",
     "iptv_urls": [
-      "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8"
+      "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -702,8 +689,7 @@
     "nanoid": "sNGGurE66w6NWe",
     "name": "Stingray Soul Storm",
     "iptv_urls": [
-      "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8"
+      "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

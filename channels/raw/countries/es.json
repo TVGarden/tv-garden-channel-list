@@ -322,21 +322,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VUSPcmoFUEMqtT",
-    "name": "Congreso de los Diputados 3",
+    "nanoid": "7aYEyOU0nF5dso",
+    "name": "Congreso de los Diputados 4",
     "iptv_urls": [
-      "https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zoe4KOWUPEQWXA",
-    "name": "Congreso de los Diputados 5",
-    "iptv_urls": [
-      "https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8"
+      "https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -520,17 +509,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SOCPsEqDypGNwA",
-    "name": "Fitel TV",
-    "iptv_urls": [
-      "https://tv.mywifisocial.es/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Eo1vulLgYuXlO9",
     "name": "Fuerteventura TV",
     "iptv_urls": [
@@ -586,9 +564,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SMagTKquGMTvce",
+    "nanoid": "254O8QVRoi3Ec6",
     "name": "La 2",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/1688885.m3u8",
+      "https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NvzcnBXwTjg"
     ],
@@ -600,21 +581,10 @@
     "nanoid": "MtvAPbtuZZyeOW",
     "name": "La 2 Canarias",
     "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+      "https://rtvelivestream.akamaized.net/rtvesec/can/la2_can_main_dvr.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YDIi3VBX7D7fKC",
-    "name": "La 2 Catalunya",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -722,17 +692,6 @@
     "name": "MyTime movie network Spain",
     "iptv_urls": [
       "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AbcJxYxf3cyf3H",
-    "name": "NatureTime",
-    "iptv_urls": [
-      "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1076,8 +1035,7 @@
     "nanoid": "yAvkQDCoQRxCiQ",
     "name": "Trece TV",
     "iptv_urls": [
-      "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8",
-      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
+      "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1133,6 +1091,17 @@
     "name": "TVM Córdoba",
     "iptv_urls": [
       "https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2uGXU96QMW7Acl",
+    "name": "Univers TV",
+    "iptv_urls": [
+      "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

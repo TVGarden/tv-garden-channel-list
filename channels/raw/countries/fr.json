@@ -86,17 +86,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5z5plBHK7ITD3W",
-    "name": "BBC Doctor Who",
-    "iptv_urls": [
-      "https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ghtasxufhkGWZ1",
     "name": "BBC Drama",
     "iptv_urls": [
@@ -201,6 +190,7 @@
       "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8",
       "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
       "https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8",
+      "https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8",
       "https://rakuten-euronews-10-lu.samsung.wurl.tv/playlist.m3u8",
       "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"
     ],
@@ -212,12 +202,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "32YXpnKvxn9M0K",
+    "nanoid": "GeBJL1efFzyzZ1",
     "name": "Euronews Français",
-    "iptv_urls": [
-      "https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8",
-      "https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NiRIbKwAejk"
     ],
@@ -237,9 +224,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xrA5xgdFcK6f66",
+    "nanoid": "UjFvf9UFcSE0gb",
     "name": "Euronews Italiano",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-euronews-3-it.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pUcmpyynASM"
     ],
@@ -470,17 +459,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iNfcZKPYfpL5S5",
-    "name": "L'Esprit Sorcier TV",
-    "iptv_urls": [
-      "https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1044,8 +1022,7 @@
     "name": "Sport En France",
     "iptv_urls": [
       "https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8",
-      "https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8",
-      "https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8"
+      "https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
