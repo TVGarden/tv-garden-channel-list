@@ -311,10 +311,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vNfephVxrifCoZ",
-    "name": "Congreso de los Diputados 2",
+    "nanoid": "VUSPcmoFUEMqtT",
+    "name": "Congreso de los Diputados 3",
     "iptv_urls": [
-      "https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8"
+      "https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -564,12 +564,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "254O8QVRoi3Ec6",
+    "nanoid": "SMagTKquGMTvce",
     "name": "La 2",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/1688885.m3u8",
-      "https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NvzcnBXwTjg"
     ],
@@ -581,7 +578,7 @@
     "nanoid": "MtvAPbtuZZyeOW",
     "name": "La 2 Canarias",
     "iptv_urls": [
-      "https://rtvelivestream.akamaized.net/rtvesec/can/la2_can_main_dvr.m3u8"
+      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -692,6 +689,17 @@
     "name": "MyTime movie network Spain",
     "iptv_urls": [
       "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AbcJxYxf3cyf3H",
+    "name": "NatureTime",
+    "iptv_urls": [
+      "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -834,32 +842,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "42SWFNRsXHqWLV",
-    "name": "Ribera TV",
-    "iptv_urls": [
-      "https://common01.todostreaming.es/live/ribera-livestream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LAxYlfGvF61ICE",
     "name": "Rioja Televisión",
     "iptv_urls": [
       "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GITlIKa8D8B8BX",
-    "name": "RTV Marbella",
-    "iptv_urls": [
-      "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -926,28 +912,6 @@
     "name": "Solidaria TV",
     "iptv_urls": [
       "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dWq0U4iYV4wlJJ",
-    "name": "Sundance TV",
-    "iptv_urls": [
-      "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5VZ61BNkyPRLLY",
-    "name": "Tarotéame",
-    "iptv_urls": [
-      "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1035,7 +999,8 @@
     "nanoid": "yAvkQDCoQRxCiQ",
     "name": "Trece TV",
     "iptv_urls": [
-      "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8"
+      "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8",
+      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
