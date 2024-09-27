@@ -39,12 +39,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BnlejKnF7Y4nBM",
+    "nanoid": "Lo5vR5FNgGw4gl",
     "name": "AfricaNews Français",
-    "iptv_urls": [
-      "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-2-lu.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM"
     ],
@@ -53,10 +50,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZJFB81KRvbfHRi",
-    "name": "Albi TV",
+    "nanoid": "4rxDy7n64uQPGF",
+    "name": "Alpe d’Huez TV",
     "iptv_urls": [
-      "https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8"
+      "https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -181,8 +178,9 @@
       "https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8",
       "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8",
       "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
-      "https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8",
-      "https://rakuten-euronews-10-lu.samsung.wurl.tv/playlist.m3u8"
+      "https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8",
+      "https://rakuten-euronews-10-lu.samsung.wurl.tv/playlist.m3u8",
+      "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
@@ -195,7 +193,8 @@
     "nanoid": "32YXpnKvxn9M0K",
     "name": "Euronews Français",
     "iptv_urls": [
-      "https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8"
+      "https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8",
+      "https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NiRIbKwAejk"
@@ -218,11 +217,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UjFvf9UFcSE0gb",
+    "nanoid": "xrA5xgdFcK6f66",
     "name": "Euronews Italiano",
-    "iptv_urls": [
-      "https://rakuten-euronews-3-it.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pUcmpyynASM"
     ],
@@ -242,9 +239,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iGI0lZtaC0qVgq",
+    "nanoid": "XQIaYDgkL1xYgX",
     "name": "Euronews Português",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/XuZAl-ZPEcA"
     ],
@@ -451,6 +450,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iNfcZKPYfpL5S5",
+    "name": "L'Esprit Sorcier TV",
+    "iptv_urls": [
+      "https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1056,6 +1066,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qN23teQnN4PdUo",
+    "name": "TéléGohelle",
+    "iptv_urls": [
+      "https://videas.agglo-lenslievin.fr/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ywCgVh7HIQrcsU",
     "name": "Televisa Telenovela Channel",
     "iptv_urls": [
@@ -1177,21 +1198,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "edtKAXkZBm3JRu",
-    "name": "TVPI Officiel",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nPbkpH6ETvU"
+    "nanoid": "YRs4bcV8iYLW98",
+    "name": "TVR (Bretagne)",
+    "iptv_urls": [
+      "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8"
     ],
+    "youtube_urls": [],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YRs4bcV8iYLW98",
-    "name": "TVR (Bretagne)",
+    "nanoid": "b7X4PEbbxyxgHq",
+    "name": "ViàMatélé",
     "iptv_urls": [
-      "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8"
+      "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
