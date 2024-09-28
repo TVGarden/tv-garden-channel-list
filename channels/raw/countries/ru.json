@@ -104,7 +104,7 @@
     "name": "Get Movies: Маша и Медведь",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ShDHfV2sFT8"
+      "https://www.youtube-nocookie.com/embed/iUhhVshyy4g"
     ],
     "language": "rus",
     "country": "ru",
@@ -149,8 +149,22 @@
     "iptv_urls": [
       "https://stream01.vnet.am/Boomerang/mono.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/0NfBbX-K7_A"
+    ],
     "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JnxjBtQt6s0RPO",
+    "name": "RT Arabic",
+    "iptv_urls": [
+      "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
+      "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -204,6 +218,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "acZdedePfsl15d",
+    "name": "RU TV",
+    "iptv_urls": [
+      "https://hls-03-video.webcaramba.com/rutv/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uuwdAM4ggDTLQ4",
     "name": "SONGTV Russia",
     "iptv_urls": [
@@ -221,17 +246,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LH9dcmaHCYg"
     ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0hiQdgKd6nMh6h",
-    "name": "TV BRICS Russian",
-    "iptv_urls": [
-      "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
@@ -618,8 +632,18 @@
     "nanoid": "lCl8WMVdJ5MxcZ",
     "name": "Надежда",
     "iptv_urls": [
-      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
       "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gB8tELUDVeaGTe",
+    "name": "НВК Саха",
+    "iptv_urls": [
+      "https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -803,6 +827,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AL13wnHi0qOCN5",
+    "name": "С1 (Сургут)",
+    "iptv_urls": [
+      "https://sitv.ru/hls/stv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JaAPl6x6rp2g4q",
     "name": "Салям (Уфа)",
     "iptv_urls": [
@@ -918,6 +953,17 @@
     "name": "СТС",
     "iptv_urls": [
       "https://streaming.televizor-24-tochka.ru/live/296.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "84HXD5LPc8NimV",
+    "name": "Сургут 24",
+    "iptv_urls": [
+      "https://sitv.ru/vgtrk/stv.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
