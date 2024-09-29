@@ -1404,7 +1404,7 @@
     "name": "Amazing Facts TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6CM3vPKHDbY"
+      "https://www.youtube-nocookie.com/embed/rZPur_1JAXo"
     ],
     "language": "eng",
     "country": "us",
@@ -1786,6 +1786,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UgaXYnZu4RpseX",
+    "name": "Better Life TV",
+    "iptv_urls": [
+      "https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CjTm591qV9zgub",
     "name": "Beverly Hills Television 10",
     "iptv_urls": [
@@ -1844,7 +1855,8 @@
     "nanoid": "JLfNH2O2h1Ue2z",
     "name": "Biz TV",
     "iptv_urls": [
-      "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+      "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+      "https://gideommd.mmdlive.lldns.net/gideommd/46c072b287224782a4d4ce93c3646589/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1979,7 +1991,6 @@
     "name": "bon appétit",
     "iptv_urls": [
       "https://bonappetit-samsung.amagi.tv/playlist.m3u8",
-      "https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -2048,61 +2059,6 @@
     "name": "Buzzr (KCKS-LD1)",
     "iptv_urls": [
       "https://cdn.igocast.com/channel1_hls/channel1_master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5b9R7v4eVMOgWj",
-    "name": "BX Arts",
-    "iptv_urls": [
-      "https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HuKbcFSSELNiGB",
-    "name": "BX Culture",
-    "iptv_urls": [
-      "https://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kZDRP1VwdKK5y9",
-    "name": "BX Inform",
-    "iptv_urls": [
-      "https://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OogTQQzcNfgSj2",
-    "name": "BX Inspire",
-    "iptv_urls": [
-      "https://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "skwM4qugb0bpHH",
-    "name": "BX Omni",
-    "iptv_urls": [
-      "https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -2446,7 +2402,9 @@
     "nanoid": "biaut196fpMwFo",
     "name": "CBS News Boston",
     "iptv_urls": [
-      "https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8"
+      "https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8",
+      "https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8",
+      "https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -2748,17 +2706,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QA8VRTwMfb14R3",
-    "name": "Cine Romantico",
-    "iptv_urls": [
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=656"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5JaFkrqoQmvo8x",
     "name": "Cine Sony",
     "iptv_urls": [
@@ -2796,6 +2743,7 @@
     "name": "Circle",
     "iptv_urls": [
       "https://circle-samsung.amagi.tv/playlist.m3u8",
+      "https://circle-vizio.amagi.tv/playlist.m3u8",
       "https://circle-xumo.amagi.tv/playlist.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8"
     ],
@@ -2876,6 +2824,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/9NyxcX3rhQs"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BMO0FRe0mBVXUu",
+    "name": "CoinVaultTV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/G_kbNM8iFgQ"
     ],
     "language": "eng",
     "country": "us",
@@ -3334,6 +3293,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "W96nD2jfO547gK",
+    "name": "Disney Channel",
+    "iptv_urls": [
+      "https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "N4L418MkDjlyvp",
     "name": "Disney Channel: Wizards of Waverly Place",
     "iptv_urls": [],
@@ -3417,6 +3387,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/cgHyVRqn6ow"
     ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VxLxPIXkm5daOd",
+    "name": "Disney XD",
+    "iptv_urls": [
+      "https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
@@ -3533,10 +3514,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DDBsi6NosyUZrc",
-    "name": "EBS HD",
+    "nanoid": "bIFr11eWhnVDFr",
+    "name": "EBS Musika",
     "iptv_urls": [
-      "https://rpn.bozztv.com/ebstv/ebstv/index.m3u8"
+      "https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "amh",
@@ -3652,7 +3633,6 @@
     "name": "Estrella TV",
     "iptv_urls": [
       "https://estrellatv-oando.amagi.tv/playlist.m3u8",
-      "https://estrellatv-glewed.amagi.tv/playlist.m3u8",
       "https://estrellatv-plex.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -4278,7 +4258,7 @@
     "name": "Gem Shopping",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6aOYrmS223M"
+      "https://www.youtube-nocookie.com/embed/p4wD6fpqw1w"
     ],
     "language": "eng",
     "country": "us",
@@ -5665,6 +5645,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qNm5TIkZ4KuQPO",
+    "name": "Lighting Lives Blessing Nations TV Chinese (LLBN)",
+    "iptv_urls": [
+      "https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QT5pHMZGC1YaXX",
     "name": "Lighting Lives Blessing Nations TV Korean (LLBN)",
     "iptv_urls": [
@@ -6853,6 +6844,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5MEwejw6j69n9k",
+    "name": "Novelas Turcas",
+    "iptv_urls": [
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OdANThkzD9447z",
     "name": "Novelisima",
     "iptv_urls": [
@@ -6905,17 +6907,6 @@
     ],
     "youtube_urls": [],
     "language": "zho",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Xd4zMebQRYFlnw",
-    "name": "NYXT",
-    "iptv_urls": [
-      "https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -8927,6 +8918,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hAcFI08ZNbAHCM",
+    "name": "Tastemade",
+    "iptv_urls": [
+      "https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mu9ip8NieoRRgm",
     "name": "TBD.",
     "iptv_urls": [
@@ -9097,7 +9099,8 @@
     "nanoid": "XdwrocdV5KOMCW",
     "name": "Tennis Channel",
     "iptv_urls": [
-      "https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8"
+      "https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8",
+      "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -9188,17 +9191,6 @@
     "name": "The Beach Channel",
     "iptv_urls": [
       "https://cf-live29e5f8c.lwcdn.com/live/fallback/014dc067-4922-4168-bdcd-5278589269ed/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dvALQRnBuRaADE",
-    "name": "The Bob Ross Channel",
-    "iptv_urls": [
-      "https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-xumo/CDN/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -9409,7 +9401,6 @@
     "nanoid": "Bp7JxVlyxwiWhw",
     "name": "The Young Turks (TYT)",
     "iptv_urls": [
-      "https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8",
       "https://tyt-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -10211,17 +10202,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QkfPuwFZRsaKgc",
-    "name": "TVS Tavern",
-    "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tavern/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GVsB6smZdAxuPU",
     "name": "TVS Television Network",
     "iptv_urls": [
@@ -10281,17 +10261,6 @@
     "name": "TVS Women Sports",
     "iptv_urls": [
       "https://bozztv.com/gusa/gusa-tvswsn/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pYvpjtjzOCuhTz",
-    "name": "TVSConsumerDirect",
-    "iptv_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -10409,17 +10378,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lfFpIq1uNUXt7Z",
-    "name": "Vallejo Community Access Television (V-CAT) (Vallejo CA)",
-    "iptv_urls": [
-      "https://vallejo.cablecast.tv/live-3/live/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4Xj0nFzd0VmRBB",
     "name": "Valley Shore Community Television (VSCTV) (Clinton CT)",
     "iptv_urls": [
@@ -10526,6 +10484,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lpwd2QWEkrafNp",
+    "name": "WBBJ (Jackson TN)",
+    "iptv_urls": [
+      "https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -10794,21 +10763,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SVeNmaldSIwAox",
-    "name": "World Harvest TV",
-    "iptv_urls": [
-      "https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X8yK2ahG1lHzY9",
     "name": "World Poker Tour",
     "iptv_urls": [
-      "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8",
       "https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8",
       "https://d2e00kr7m9coe4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-WPTLive/406.m3u8"
     ],

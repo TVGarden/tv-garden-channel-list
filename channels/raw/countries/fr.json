@@ -22,9 +22,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2U4gd5rnY0obyR",
+    "nanoid": "Gmuy6SpwOogHJz",
     "name": "AfricaNews English",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NQjabLGdP5g"
     ],
@@ -33,9 +39,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Lo5vR5FNgGw4gl",
+    "nanoid": "BnlejKnF7Y4nBM",
     "name": "AfricaNews Français",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-2-lu.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM"
     ],
@@ -48,6 +57,17 @@
     "name": "Albi TV",
     "iptv_urls": [
       "https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4rxDy7n64uQPGF",
+    "name": "Alpe d’Huez TV",
+    "iptv_urls": [
+      "https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -70,17 +90,6 @@
     "name": "BBC Drama",
     "iptv_urls": [
       "https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dz6yBedOZTM2uU",
-    "name": "BIP TV",
-    "iptv_urls": [
-      "https://biptv.tv/live/biptvstream_orig/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -145,9 +154,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DmuSIeE8brywZA",
+    "nanoid": "bIshNL914fZBEa",
     "name": "Euronews en Español",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/O9mOtdZ-nSk"
     ],
@@ -163,6 +174,7 @@
       "https://rakuten-euronews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8",
       "https://rakuten-euronews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-se.samsung.wurl.tv/manifest/playlist.m3u8",
@@ -182,9 +194,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GeBJL1efFzyzZ1",
+    "nanoid": "32YXpnKvxn9M0K",
     "name": "Euronews Français",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8",
+      "https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NiRIbKwAejk"
     ],
@@ -193,9 +208,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S07VBtlQltCrbL",
+    "nanoid": "JyVf4M7JRgVcg7",
     "name": "Euronews German",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CQ3KsEbsYHs"
     ],
@@ -204,9 +221,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xrA5xgdFcK6f66",
+    "nanoid": "UjFvf9UFcSE0gb",
     "name": "Euronews Italiano",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-euronews-3-it.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pUcmpyynASM"
     ],
@@ -529,6 +548,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WWDxgACXyLT0i3",
+    "name": "MyTime Movie Network",
+    "iptv_urls": [
+      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JN1aEIwYekc9Sp",
     "name": "Nancy Web TV",
     "iptv_urls": [
@@ -621,17 +651,6 @@
     "name": "Persiana Iranian",
     "iptv_urls": [
       "https://irhls.persiana.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EXvskphL1UFUHC",
-    "name": "Persiana Junior",
-    "iptv_urls": [
-      "https://junhls.persiana.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -989,8 +1008,7 @@
     "name": "Sport En France",
     "iptv_urls": [
       "https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8",
-      "https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8",
-      "https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8"
+      "https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
