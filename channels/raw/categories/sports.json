@@ -503,7 +503,8 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
-      "https://pac12-samsungus.amagi.tv/playlist.m3u8"
+      "https://pac12-samsungus.amagi.tv/playlist.m3u8",
+      "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -558,7 +559,8 @@
     "nanoid": "0LyDCyOi0Q8ryz",
     "name": "Real Madrid TV",
     "iptv_urls": [
-      "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
+      "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -599,6 +601,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Nrhfk3ZlzlS0lx",
+    "name": "Rugby Zone TV",
+    "iptv_urls": [
+      "https://lte.wiseplayout.com/WiseM3U8_19/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sRykC8BEAqLhk7",
     "name": "San Marino RTV Sport",
     "iptv_urls": [
@@ -610,17 +623,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UPkHrsKiFjmLP4",
-    "name": "Sharjah Sports TV",
-    "iptv_urls": [
-      "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PQO3nTobe9PoFo",
     "name": "SOS Kanal Plus",
     "iptv_urls": [
@@ -629,6 +631,19 @@
     "youtube_urls": [],
     "language": "srp",
     "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zlZnrWMlY26X8V",
+    "name": "Sport En France",
+    "iptv_urls": [
+      "https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8",
+      "https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8",
+      "https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -654,23 +669,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Pj3Pb4MifHuOI3",
-    "name": "Sports TV",
-    "iptv_urls": [
-      "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
       "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -823,6 +828,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WGoiq0Fb5aZ6C0",
+    "name": "TVQ Sports",
+    "iptv_urls": [
+      "https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3vI6OVnBudkJbF",
     "name": "TVS Bowling Network",
     "iptv_urls": [
@@ -838,17 +854,6 @@
     "name": "TVS Boxing",
     "iptv_urls": [
       "https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MRDwiz0Mw0bVZ5",
-    "name": "TVS Sports",
-    "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvssports/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -900,31 +905,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JZGvD82H5CDs6u",
-    "name": "WAPA-DT2 (WAPA Deportes)",
-    "iptv_urls": [
-      "https://live.field59.com/wapa/wapa2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jPzFgynbOJaiRB",
-    "name": "WAPA-DT3 (WAPA Deportes 4.3)",
-    "iptv_urls": [
-      "https://live.field59.com/wapa/ngrp:wapa3_all/.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X8yK2ahG1lHzY9",
     "name": "World Poker Tour",
     "iptv_urls": [
+      "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8",
       "https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8",
       "https://d2e00kr7m9coe4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-WPTLive/406.m3u8"
     ],
