@@ -110,11 +110,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L6D1MiD9vMnVYt",
+    "nanoid": "u9G26FGK2wzzAI",
     "name": "Dunya News",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
+      "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
+    ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SxzSL8GBJ4A"
+      "https://www.youtube-nocookie.com/embed/WMU6grYK-FA"
     ],
     "language": "urd",
     "country": "pk",
@@ -125,7 +128,8 @@
     "name": "Express News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yVswoIWLq6c"
+      "https://www.youtube-nocookie.com/embed/yVswoIWLq6c",
+      "https://www.youtube-nocookie.com/embed/G2sPRUDqWdQ"
     ],
     "language": "urd",
     "country": "pk",
@@ -253,6 +257,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ey0C6dKSzvDUaH",
+    "name": "Lahore News",
+    "iptv_urls": [
+      "https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "st3JHeEUHgF9V0",
     "name": "Lahore News HD",
     "iptv_urls": [],
@@ -281,7 +296,7 @@
       "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/akDtGqw43iQ"
+      "https://www.youtube-nocookie.com/embed/JQXAi5eGtEQ"
     ],
     "language": "urd",
     "country": "pk",
@@ -299,22 +314,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "77LBTTq4JvQf4h",
-    "name": "Praise TV",
-    "iptv_urls": [
-      "https://livecdn.live247stream.com/praise/tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2BiD8BBiCEFIXu",
     "name": "PTV World",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_kXKj7gfFrY"
+      "https://www.youtube-nocookie.com/embed/xiVP4fRycc8"
     ],
     "language": "eng",
     "country": "pk",
@@ -325,7 +329,7 @@
     "name": "Public News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lz3zk6Evk_o"
+      "https://www.youtube-nocookie.com/embed/irlbqpF8kHo"
     ],
     "language": "urd",
     "country": "pk",
