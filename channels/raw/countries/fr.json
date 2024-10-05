@@ -44,9 +44,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2U4gd5rnY0obyR",
+    "nanoid": "Gmuy6SpwOogHJz",
     "name": "AfricaNews English",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NQjabLGdP5g"
     ],
@@ -136,6 +142,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UiLtPUWKCrK3An",
+    "name": "DBM",
+    "iptv_urls": [
+      "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kDlG6sZPIC1CSl",
     "name": "Ère TV",
     "iptv_urls": [
@@ -214,9 +231,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xrA5xgdFcK6f66",
+    "nanoid": "UjFvf9UFcSE0gb",
     "name": "Euronews Italiano",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-euronews-3-it.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pUcmpyynASM"
     ],
@@ -253,7 +272,7 @@
     "name": "Euronews Română",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cPqb8fgsPjM"
+      "https://www.youtube-nocookie.com/embed/7nM2WGQpT6I"
     ],
     "language": "ron",
     "country": "fr",
@@ -598,6 +617,17 @@
     "name": "Persiana Comedy",
     "iptv_urls": [
       "https://comedyhls.persiana.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5j0y9VV2S7iUDo",
+    "name": "Persiana Family",
+    "iptv_urls": [
+      "https://familyhls.persiana.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -1107,6 +1137,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uS6aOLXBCwTfBG",
+    "name": "Trace Sport Stars (Australia)",
+    "iptv_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2ytU28DiAXy4tf",
     "name": "TV Finance",
     "iptv_urls": [
@@ -1184,10 +1225,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ygqSjKK8HMDyzG",
-    "name": "Vosges Télévision",
+    "nanoid": "ZLb0LTi930oyUb",
+    "name": "VOIE TV",
     "iptv_urls": [
-      "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8"
+      "https://ssh101-fl.bozztv.com/ssh101/matelevisionweb/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
