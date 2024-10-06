@@ -326,7 +326,8 @@
     "nanoid": "Iy9WY2wASQXcHb",
     "name": "Bounce XL",
     "iptv_urls": [
-      "https://d37v4ie0vq884e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ujoygpbfraxho/bounce_xl.m3u8"
+      "https://d37v4ie0vq884e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ujoygpbfraxho/bounce_xl.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-bounce-xl.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -338,7 +339,8 @@
     "name": "Buzzr",
     "iptv_urls": [
       "https://buzzrota-web.amagi.tv/playlist.m3u8",
-      "https://buzzr-samsungus.amagi.tv/playlist.m3u8"
+      "https://buzzr-samsungus.amagi.tv/playlist.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-buzzr.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -365,6 +367,17 @@
     ],
     "language": "spa",
     "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vrEo8i7KnNjXkO",
+    "name": "Canal Chilote",
+    "iptv_urls": [
+      "https://oracle.streaminghd.cl/canalchilote/canalchilote/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -462,7 +475,6 @@
     "iptv_urls": [
       "https://circle-roku.amagi.tv/playlist.m3u8",
       "https://circle-samsung.amagi.tv/playlist.m3u8",
-      "https://circle-vizio.amagi.tv/playlist.m3u8",
       "https://circle-xumo.amagi.tv/playlist.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8"
     ],
@@ -662,12 +674,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WfWOCQye5PaNeZ",
+    "name": "Estrella Games",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-estrella-games.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Kp20aQaqiYKihA",
     "name": "Estrella TV",
     "iptv_urls": [
       "https://estrellatv-oando.amagi.tv/playlist.m3u8",
-      "https://estrellatv-glewed.amagi.tv/playlist.m3u8",
-      "https://estrellatv-plex.amagi.tv/playlist.m3u8"
+      "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -786,6 +809,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "K7hhJ4pwBu8qRa",
+    "name": "Game Show Central",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-game-show-central.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QzWyyxToeUMt0i",
     "name": "Game Show Network East",
     "iptv_urls": [
@@ -900,7 +934,19 @@
     "nanoid": "ACZJy9X1SuoY99",
     "name": "Haunt TV",
     "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-haunttv.m3u8",
       "https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8DDjq4J6UJTp6v",
+    "name": "Hi-YAH!",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-hi-yah.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -955,6 +1001,7 @@
     "nanoid": "TGIxs2mxFIlLmz",
     "name": "ION",
     "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-ion.m3u8",
       "https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8"
     ],
     "youtube_urls": [],
@@ -966,6 +1013,7 @@
     "nanoid": "b10vpy317qUrnE",
     "name": "Ion Plus",
     "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-ion-plus.m3u8",
       "https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8"
     ],
     "youtube_urls": [],
@@ -1240,6 +1288,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DXUnrOOheyGEuD",
+    "name": "MNTV",
+    "iptv_urls": [
+      "https://mntv.livebox.co.in/mntvhls/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tam",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8mB9nRMeQcJ7tr",
     "name": "MTV",
     "iptv_urls": [
@@ -1255,7 +1314,7 @@
     "name": "MULTIMEDIOS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cKaEP48pBW4"
+      "https://www.youtube-nocookie.com/embed/mBXspnGnV4E"
     ],
     "language": "spa",
     "country": "mx",
@@ -1306,17 +1365,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Fz3BVHY47NsCpE",
-    "name": "Negah TV",
-    "iptv_urls": [
-      "https://iptv.negahtv.com/negahtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GUSggBQ6IDRV8m",
     "name": "Neko Atsume's Yard",
     "iptv_urls": [],
@@ -1332,7 +1380,7 @@
     "name": "Nexus Television",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8_NKdiRa4tk"
+      "https://www.youtube-nocookie.com/embed/6_nmshhpC9A"
     ],
     "language": "ben",
     "country": "bd",
@@ -1442,6 +1490,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RC3d7Gg3i7dUir",
+    "name": "RCN Más",
+    "iptv_urls": [
+      "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MYQpY3p05ZtHvx",
     "name": "RCN Xtra",
     "iptv_urls": [
@@ -1461,17 +1520,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jGHLE7FGPpDgid",
-    "name": "Rede NGT",
-    "iptv_urls": [
-      "https://isaocorp.cloudecast.com/ngt/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1754,7 +1802,6 @@
     "nanoid": "PgiKCroCjbQXUS",
     "name": "Timeline",
     "iptv_urls": [
-      "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
       "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1770,6 +1817,17 @@
     ],
     "youtube_urls": [],
     "language": "fas",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4FQRegdH80SXri",
+    "name": "TMZ",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-tmz.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -1892,6 +1950,17 @@
     "youtube_urls": [],
     "language": "por",
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AOoB2s0AaU3TV6",
+    "name": "TV Derana",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/KjP21qsDPfk"
+    ],
+    "language": "sin",
+    "country": "lk",
     "isGeoBlocked": false
   },
   {
@@ -2071,6 +2140,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D9R8Q9k4OT66XF",
+    "name": "Wipeout Xtra",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-wipeout-xtra.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zLvAbyiwTKXb02",
     "name": "Xplore",
     "iptv_urls": [
@@ -2087,7 +2167,6 @@
     "name": "Young Hollywood",
     "iptv_urls": [
       "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8",
-      "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
       "https://younghollywood-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -2130,14 +2209,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2wJqJ0vbaYddeW",
-    "name": "Беларусь 2",
+    "nanoid": "gKvpxssPKWiIr7",
+    "name": "Zee One",
     "iptv_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8"
+      "https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
+    "language": "deu",
+    "country": "de",
     "isGeoBlocked": false
   },
   {

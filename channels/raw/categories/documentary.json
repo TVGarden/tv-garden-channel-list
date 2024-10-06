@@ -4,7 +4,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8AJH3JbK_PA"
+      "https://www.youtube-nocookie.com/embed/bCViTqMKaZg"
     ],
     "language": "jpn",
     "country": "jp",
@@ -70,7 +70,8 @@
     "nanoid": "sm6jSJZU2R13Dv",
     "name": "Court TV",
     "iptv_urls": [
-      "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8"
+      "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-court-tv.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -81,6 +82,7 @@
     "nanoid": "jAekBDqlLERFF0",
     "name": "Dateline 24/7",
     "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-dateline.m3u8",
       "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8"
     ],
     "youtube_urls": [],
@@ -97,6 +99,17 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fhjZefrsTYtZby",
+    "name": "FBI Files",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-the-fbi-files.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -131,17 +144,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/qO3MNG61FIs"
     ],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MtvAPbtuZZyeOW",
-    "name": "La 2 Canarias",
-    "iptv_urls": [
-      "https://rtvelivestream.akamaized.net/rtvesec/can/la2_can_main_dvr.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "es",
     "isGeoBlocked": false
@@ -197,7 +199,8 @@
     "nanoid": "gOuwLzCKrgxJvt",
     "name": "Reelz",
     "iptv_urls": [
-      "https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8"
+      "https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-reelz.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

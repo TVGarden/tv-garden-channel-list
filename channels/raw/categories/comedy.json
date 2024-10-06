@@ -23,6 +23,17 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "C7SK0S2RgKNZGi",
+    "name": "AFV",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-afv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HhYHpgeNR67LDQ",
     "name": "AFV Family",
     "iptv_urls": [
@@ -49,7 +60,8 @@
     "nanoid": "8j5W4jKa2q9Ms3",
     "name": "Comedy Dynamics",
     "iptv_urls": [
-      "https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8"
+      "https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-comedy-dynamics.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -139,6 +151,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hpo8bmZBPSGLRO",
+    "name": "LOL Network",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/lol-network3.m3u8",
+      "https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Wta79gtFAih710",
     "name": "LOL Network: Stand Up 24/7",
     "iptv_urls": [],
@@ -150,10 +174,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rramRi4ACYCYml",
-    "name": "LOL! Network",
+    "nanoid": "gVSkjx7ERfVlOt",
+    "name": "LOL Standup",
     "iptv_urls": [
-      "https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8"
+      "https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
