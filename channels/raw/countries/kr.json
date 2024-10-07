@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "7Nrb5k66iwjlCb",
-    "name": "ABN TV",
-    "iptv_urls": [
-      "https://vod2.abn.co.kr/IPHONE/abn.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YbFD75G4AxdNyE",
     "name": "All the K-POP",
     "iptv_urls": [],
@@ -108,17 +97,6 @@
     "name": "CJ OnStyle",
     "iptv_urls": [
       "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "h6sGUfEb8F8FM3",
-    "name": "CJ OnStyle Plus",
-    "iptv_urls": [
-      "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -317,7 +295,8 @@
     "nanoid": "y96VZMuCp67Sxq",
     "name": "KBS World",
     "iptv_urls": [
-      "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8"
+      "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8",
+      "https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -375,6 +354,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/-GsWegfz6I4"
     ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I27keaXmXV9AK5",
+    "name": "MBC Jeju (제주 MBC)",
+    "iptv_urls": [
+      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
@@ -441,17 +431,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/EVQi_NvLNWI"
     ],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y0VKVzWsjNqm5A",
-    "name": "RTV",
-    "iptv_urls": [
-      "https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
@@ -539,6 +518,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/1FWQ4XgvuDY"
+    ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vhNaz7xD7cy5Pv",
+    "name": "TVCHOSUN MUSIC",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/MQRSFaXPVa0"
     ],
     "language": "kor",
     "country": "kr",

@@ -66,6 +66,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3GgXVbdK2cjuBg",
+    "name": "Alanya Posta TV",
+    "iptv_urls": [
+      "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Mmz7MUwsZ62HWK",
     "name": "Almahriah TV",
     "iptv_urls": [
@@ -129,17 +140,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/GcuWWVOZEi8"
     ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9cbMZrwOtdSUeq",
-    "name": "Bir TV",
-    "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -329,7 +329,8 @@
     "nanoid": "hvA9a09zJ8ENTp",
     "name": "Diyar TV",
     "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8"
+      "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8",
+      "https://yayin30.haber100.com/live/diyartv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -542,20 +543,8 @@
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6BX-NUzBSp8",
-      "https://www.youtube-nocookie.com/embed/GavreaAfudo"
+      "https://www.youtube-nocookie.com/embed/e-EGTIyDcwI"
     ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HhjGNBJx3fTyee",
-    "name": "Haber61 TV",
-    "iptv_urls": [
-      "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8",
-      "https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -808,17 +797,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Nc8padNv6HdMDR",
-    "name": "Kanal Urfa",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JwNiVAH26fmfiw",
     "name": "Kanal V",
     "iptv_urls": [
@@ -834,17 +812,6 @@
     "name": "Kanal Z",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "A53cM6q7z6k310",
-    "name": "Kardelen TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1128,6 +1095,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GhgRziNqEHb8Jk",
+    "name": "On4 TV",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vlixqABLRnnfK4",
     "name": "Öncü TV",
     "iptv_urls": [
@@ -1229,6 +1207,50 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v39JtsG2RRLFdw",
+    "name": "Radyo Dinle: 90s and 2000s",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/8U8rHNhDxQI"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZfUPyuUAZFux2H",
+    "name": "Radyo Dinle: Best Hits",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/tVxaZtZ49_w"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ulrTrc9phjqbgY",
+    "name": "Radyo Dinle: Billboard Hot 100",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/0Iy2hd1vTnk"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "chIk5iSEHPVcXb",
+    "name": "Radyo Dinle: Top Songs",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/eSWPMACer4c"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "73xSFKpT68qZuL",
     "name": "Semerkand TV",
     "iptv_urls": [
@@ -1268,17 +1290,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ztmY_cCtUl0"
     ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Pj3Pb4MifHuOI3",
-    "name": "Sports TV",
-    "iptv_urls": [
-      "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -1418,17 +1429,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J9YegrVG7tK0JA",
-    "name": "Tivi 6",
-    "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3ZDe5FTXoFO17J",
     "name": "TJK TV",
     "iptv_urls": [],
@@ -1478,6 +1478,17 @@
     "name": "TRT 1",
     "iptv_urls": [
       "https://tv-trt1.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IxjjPo0BdLNNBs",
+    "name": "TRT 2",
+    "iptv_urls": [
+      "https://tv-trt2.medya.trt.com.tr/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1733,7 +1744,7 @@
     "name": "Ülke TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-CSnt9cbBnQ"
+      "https://www.youtube-nocookie.com/embed/0-rUM9ArzmQ"
     ],
     "language": "tur",
     "country": "tr",
@@ -1755,6 +1766,17 @@
     "name": "Urfa Natik TV",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YzPS8Es2JRdc2k",
+    "name": "ÜÜ TV 1",
+    "iptv_urls": [
+      "https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
