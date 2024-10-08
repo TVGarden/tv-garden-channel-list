@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JzlPxfMfmeouYm",
-    "name": "Africa 24",
-    "iptv_urls": [
-      "https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QzSkQCeFOqXwg8",
     "name": "Africa 24 English",
     "iptv_urls": [
@@ -47,6 +36,10 @@
     "nanoid": "Gmuy6SpwOogHJz",
     "name": "AfricaNews English",
     "iptv_urls": [
+      "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
     ],
     "youtube_urls": [
@@ -77,17 +70,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ZUzdnQT3XYA"
     ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dz6yBedOZTM2uU",
-    "name": "BIP TV",
-    "iptv_urls": [
-      "https://biptv.tv/live/biptvstream_orig/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
@@ -177,14 +159,7 @@
     "name": "Euronews English",
     "iptv_urls": [
       "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8",
-      "https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-euronews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-euronews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-euronews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8",
-      "https://rakuten-euronews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-euronews-1-se.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8",
       "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8",
       "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
@@ -215,9 +190,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S07VBtlQltCrbL",
+    "nanoid": "JyVf4M7JRgVcg7",
     "name": "Euronews German",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CQ3KsEbsYHs"
     ],
@@ -267,7 +244,7 @@
     "name": "Euronews Română",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7nM2WGQpT6I"
+      "https://www.youtube-nocookie.com/embed/hAULbT6PZhc"
     ],
     "language": "ron",
     "country": "fr",
@@ -493,17 +470,6 @@
       "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fZyKRU2kHKETIx",
-    "name": "Lou!",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ymBRgRKK6fY"
-    ],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
@@ -976,22 +942,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/S9dYLb0Zbws"
-    ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zlZnrWMlY26X8V",
     "name": "Sport En France",
     "iptv_urls": [
       "https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8",
-      "https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8"
+      "https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8",
+      "https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

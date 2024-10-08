@@ -282,7 +282,7 @@
     "name": "Canal Sur Andalucía",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/P3FhO1UUGE8"
+      "https://www.youtube-nocookie.com/embed/JUi-eY1MabU"
     ],
     "language": "spa",
     "country": "es",
@@ -315,6 +315,28 @@
     "name": "Congreso de los Diputados 1",
     "iptv_urls": [
       "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vNfephVxrifCoZ",
+    "name": "Congreso de los Diputados 2",
+    "iptv_urls": [
+      "https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zoe4KOWUPEQWXA",
+    "name": "Congreso de los Diputados 5",
+    "iptv_urls": [
+      "https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -575,9 +597,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SMagTKquGMTvce",
+    "nanoid": "254O8QVRoi3Ec6",
     "name": "La 2",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/1688885.m3u8",
+      "https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/qO3MNG61FIs"
     ],
@@ -589,7 +614,7 @@
     "nanoid": "MtvAPbtuZZyeOW",
     "name": "La 2 Canarias",
     "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+      "https://rtvelivestream.akamaized.net/rtvesec/can/la2_can_main_dvr.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -600,7 +625,7 @@
     "nanoid": "YDIi3VBX7D7fKC",
     "name": "La 2 Catalunya",
     "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
+      "https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8"
     ],
     "youtube_urls": [],
     "language": "cat",
@@ -626,6 +651,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b0E5tyyObiYQ6m",
+    "name": "LiraTV",
+    "iptv_urls": [
+      "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -718,10 +754,65 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "l9lVnkP5Qw7yW0",
+    "name": "Onda Algeciras TV",
+    "iptv_urls": [
+      "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "iptv_urls": [
+      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "r4O5xUGbFguCQr",
+    "name": "Pequeradio",
+    "iptv_urls": [
+      "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I0DVGAmN7OWX0l",
+    "name": "Platzi TV",
+    "iptv_urls": [
+      "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "n6FdB4EmWOzmzf",
     "name": "Popular TV Cantabria",
     "iptv_urls": [
       "https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p3vZHxf8AOEfM0",
+    "name": "Popular TV Melilla",
+    "iptv_urls": [
+      "https://5940924978228.streamlock.net/8009/8009/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -768,7 +859,8 @@
     "name": "Real Madrid TV US Version",
     "iptv_urls": [
       "https://apollo.production-public.tubi.io/live/ac-real-madrid.m3u8",
-      "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
+      "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -780,17 +872,6 @@
     "name": "Ribera TV",
     "iptv_urls": [
       "https://common01.todostreaming.es/live/ribera-livestream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LAxYlfGvF61ICE",
-    "name": "Rioja Televisión",
-    "iptv_urls": [
-      "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -864,10 +945,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9UbmYv918xg26x",
-    "name": "TarotVisión",
+    "nanoid": "5VZ61BNkyPRLLY",
+    "name": "Tarotéame",
     "iptv_urls": [
-      "https://stream.andalhost.com/hls/tarotvision.m3u8"
+      "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -886,10 +967,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "b0UZUurK9dP9q2",
-    "name": "Teleganés",
+    "nanoid": "1nQKxr4bzoAoiY",
+    "name": "Telemotril",
     "iptv_urls": [
-      "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8"
+      "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
