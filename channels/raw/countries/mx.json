@@ -121,17 +121,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nsEU2vBOpVL9EW",
-    "name": "Canal 26 Aguascalientes",
-    "iptv_urls": [
-      "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Hpf3KI7ImTrsrI",
     "name": "Canal 33 Tijuana",
     "iptv_urls": [
@@ -158,6 +147,17 @@
     "name": "Canal Catorce",
     "iptv_urls": [
       "https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pxes79Dik6oLnn",
+    "name": "Canal Ocho TV",
+    "iptv_urls": [
+      "https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -451,10 +451,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "inKpcU1CFpY4af",
-    "name": "SIPSE TV 8.1",
+    "nanoid": "bqZG2nHHXJFyOO",
+    "name": "SIPSE TVCUN 8.1",
     "iptv_urls": [
-      "https://webprod.sipse.com.mx:8080/show/merida.m3u8"
+      "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -462,10 +462,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bqZG2nHHXJFyOO",
-    "name": "SIPSE TVCUN 8.1",
+    "nanoid": "bWHBTSEbyYf27m",
+    "name": "Super Channel 12",
     "iptv_urls": [
-      "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
+      "https://servilive.com:3263/live/channel12live.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -491,6 +491,17 @@
       "https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CjylGBv72H1pko",
+    "name": "Televisa Ciudad Juarez",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/bTmFThtedqc"
+    ],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -566,7 +577,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SMH0raItNwE"
+      "https://www.youtube-nocookie.com/embed/hunW-Fzalfk"
     ],
     "language": "spa",
     "country": "mx",
@@ -577,7 +588,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7-0NC2ad7c4"
+      "https://www.youtube-nocookie.com/embed/0eASDyE5omg"
     ],
     "language": "spa",
     "country": "mx",
@@ -804,17 +815,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jDpnigV3tHzFrj",
-    "name": "TVMás",
-    "iptv_urls": [
-      "https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cRSxFxqPPVobRy",
     "name": "TVMÁS (XHGV-TDT)",
     "iptv_urls": [
@@ -895,7 +895,6 @@
     "nanoid": "2EyL9brYPFxMTy",
     "name": "VB Media TV",
     "iptv_urls": [
-      "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
       "https://stream8.mexiserver.com:19360/vbmediatv-1/vbmediatv-1.m3u8"
     ],
     "youtube_urls": [],
