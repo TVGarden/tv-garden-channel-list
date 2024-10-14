@@ -154,17 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9CXmhwqvLqfUzo",
-    "name": "CDN Deporte",
-    "iptv_urls": [
-      "https://fl1002.bozztv.com/ssh101/cdndeportes/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "upZUS4jnd1EPJG",
     "name": "Chelsea Football Club",
     "iptv_urls": [],
@@ -173,6 +162,17 @@
     ],
     "language": "eng",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cEtgYgEtHzj5Ic",
+    "name": "ColimdoT TV",
+    "iptv_urls": [
+      "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -378,17 +378,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RFeb11iCYGMUEw",
-    "name": "ItalianFishingTV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2ll3ZxdGVaA"
-    ],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZiZzS4tyBeE4oz",
     "name": "ITV Deportes",
     "iptv_urls": [
@@ -469,7 +458,6 @@
     "nanoid": "JoXfZBOfu278nn",
     "name": "Más Ciclismo TV",
     "iptv_urls": [
-      "https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8",
       "https://vcp8.myplaytv.com:1936/masciclismo/masciclismo/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -552,17 +540,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yxyIFaB4Q9mpks",
-    "name": "Oman Sports TV",
-    "iptv_urls": [
-      "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "om",
     "isGeoBlocked": false
   },
   {
@@ -669,7 +646,8 @@
     "name": "Real Madrid TV US Version",
     "iptv_urls": [
       "https://apollo.production-public.tubi.io/live/ac-real-madrid.m3u8",
-      "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
+      "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -979,6 +957,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Wbrb2C2Gun42Sy",
+    "name": "TVS Classic Sports",
+    "iptv_urls": [
+      "https://bozztv.com/gusa/gusa-tvs/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MRDwiz0Mw0bVZ5",
     "name": "TVS Sports",
     "iptv_urls": [
@@ -1037,7 +1026,6 @@
     "nanoid": "X8yK2ahG1lHzY9",
     "name": "World Poker Tour",
     "iptv_urls": [
-      "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8",
       "https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8",
       "https://d2e00kr7m9coe4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-WPTLive/406.m3u8"
     ],
