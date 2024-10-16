@@ -221,17 +221,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O6l4QcUlPIUsX6",
-    "name": "Cinevault 80s",
-    "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hkyMh1FkUqryxv",
     "name": "Classic Cinema",
     "iptv_urls": [
@@ -440,6 +429,50 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HW3VPKyt6mpMGb",
+    "name": "iFilm 2",
+    "iptv_urls": [
+      "https://cdnlive.presstv.ir/ifilmlive/smil:ifilm2.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FThMLWk2PqeTHZ",
+    "name": "iFilm Arabic",
+    "iptv_urls": [
+      "https://cdnlive.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ELGjlFyEtfJ19e",
+    "name": "iFilm English",
+    "iptv_urls": [
+      "https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g3vaXRs7MKcSOW",
+    "name": "iFilm Persian",
+    "iptv_urls": [
+      "https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -749,7 +782,8 @@
     "nanoid": "vfkpieCZ9B6t7s",
     "name": "Rakuten Family (Finland)",
     "iptv_urls": [
-      "https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8"
+      "https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8",
+      "https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fin",
