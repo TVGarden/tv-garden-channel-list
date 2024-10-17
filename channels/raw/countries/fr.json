@@ -44,15 +44,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Gmuy6SpwOogHJz",
+    "nanoid": "2U4gd5rnY0obyR",
     "name": "AfricaNews English",
-    "iptv_urls": [
-      "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NQjabLGdP5g"
     ],
@@ -93,17 +87,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9liJNhs1fNC6iE",
-    "name": "Brionnais TV",
-    "iptv_urls": [
-      "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -164,9 +147,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DmuSIeE8brywZA",
+    "nanoid": "bIshNL914fZBEa",
     "name": "Euronews en Español",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/O9mOtdZ-nSk"
     ],
@@ -183,6 +168,7 @@
       "https://rakuten-euronews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8",
       "https://rakuten-euronews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-se.samsung.wurl.tv/manifest/playlist.m3u8",
@@ -190,6 +176,7 @@
       "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8",
       "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
       "https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8",
+      "https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8",
       "https://rakuten-euronews-10-lu.samsung.wurl.tv/playlist.m3u8",
       "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"
     ],
@@ -508,6 +495,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fZyKRU2kHKETIx",
+    "name": "Lou!",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/5ytz1PyIpd8"
+    ],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tZGs9rIPSzUbKH",
     "name": "Maurienne TV",
     "iptv_urls": [],
@@ -548,6 +546,17 @@
     ],
     "youtube_urls": [],
     "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WWDxgACXyLT0i3",
+    "name": "MyTime Movie Network",
+    "iptv_urls": [
+      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1212,6 +1221,17 @@
     "name": "VOIE TV",
     "iptv_urls": [
       "https://ssh101-fl.bozztv.com/ssh101/matelevisionweb/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ygqSjKK8HMDyzG",
+    "name": "Vosges Télévision",
+    "iptv_urls": [
+      "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
