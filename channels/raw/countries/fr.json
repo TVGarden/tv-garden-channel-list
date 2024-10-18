@@ -91,6 +91,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9liJNhs1fNC6iE",
+    "name": "Brionnais TV",
+    "iptv_urls": [
+      "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bOhMEpvHNwuNr8",
     "name": "Caillou",
     "iptv_urls": [
@@ -188,9 +199,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GeBJL1efFzyzZ1",
+    "nanoid": "32YXpnKvxn9M0K",
     "name": "Euronews Français",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8",
+      "https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NiRIbKwAejk"
     ],
@@ -550,17 +564,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WWDxgACXyLT0i3",
-    "name": "MyTime Movie Network",
-    "iptv_urls": [
-      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pzS6cuKLPwTruY",
     "name": "No Comment TV",
     "iptv_urls": [],
@@ -873,17 +876,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e4hEIfJXEaWaE2",
-    "name": "Rakuten TV BBC Doctor Who France",
-    "iptv_urls": [
-      "https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cyyk89vzEHjMT3",
     "name": "Rakuten TV BBC Drama",
     "iptv_urls": [
@@ -995,12 +987,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "e2QKMdwgfK4Vxo",
+    "name": "Simon Super Lapin",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/wa8cnS89hJ4"
+    ],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zlZnrWMlY26X8V",
     "name": "Sport En France",
     "iptv_urls": [
       "https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8",
-      "https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8",
-      "https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8"
+      "https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
