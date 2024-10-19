@@ -328,8 +328,7 @@
     "nanoid": "y96VZMuCp67Sxq",
     "name": "KBS World",
     "iptv_urls": [
-      "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8",
-      "https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8"
+      "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -440,6 +439,17 @@
     "name": "NS Shop Plus",
     "iptv_urls": [
       "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dniHBftPCZaKkW",
+    "name": "OBS Gyeongin TV (OBS경인TV)",
+    "iptv_urls": [
+      "https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
