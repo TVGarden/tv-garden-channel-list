@@ -33,10 +33,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "blN8uMLBNq1v02",
-    "name": "LIM TV",
+    "nanoid": "iwb8ig6ItKcHS0",
+    "name": "Cáritas TV",
     "iptv_urls": [
-      "https://tv.invasivamedia.com/hls/limtv.m3u8"
+      "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RszKNvM58V3E5m",
+    "name": "Dismar Radio TV",
+    "iptv_urls": [
+      "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -66,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yjn0fCt96jnweK",
+    "name": "República TV",
+    "iptv_urls": [
+      "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qJuBaZsaXOd8L3",
     "name": "Salto TV",
     "iptv_urls": [
@@ -77,10 +99,43 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CxdhYQLqH5Uu89",
+    "name": "Trece Paraguay",
+    "iptv_urls": [
+      "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TuQNzlQhOvg59A",
+    "name": "Unicanal",
+    "iptv_urls": [
+      "https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ASrUvdpVK7ci3L",
     "name": "UnionTV",
     "iptv_urls": [
       "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9KkStjSrl7VxIY",
+    "name": "Venus Media",
+    "iptv_urls": [
+      "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
