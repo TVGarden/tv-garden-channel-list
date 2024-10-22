@@ -61,12 +61,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BnlejKnF7Y4nBM",
+    "nanoid": "Lo5vR5FNgGw4gl",
     "name": "AfricaNews Français",
-    "iptv_urls": [
-      "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-2-lu.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM"
     ],
@@ -219,11 +216,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JyVf4M7JRgVcg7",
+    "nanoid": "S07VBtlQltCrbL",
     "name": "Euronews German",
-    "iptv_urls": [
-      "https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CQ3KsEbsYHs"
     ],
@@ -232,9 +227,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xrA5xgdFcK6f66",
+    "nanoid": "UjFvf9UFcSE0gb",
     "name": "Euronews Italiano",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-euronews-3-it.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pUcmpyynASM"
     ],
@@ -508,17 +505,6 @@
       "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fZyKRU2kHKETIx",
-    "name": "Lou!",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5ytz1PyIpd8"
-    ],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
@@ -979,29 +965,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xv9b7Q8DQqzTWg",
-    "name": "RT France",
-    "iptv_urls": [
-      "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
-      "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Nrhfk3ZlzlS0lx",
-    "name": "Rugby Zone TV",
-    "iptv_urls": [
-      "https://lte.wiseplayout.com/WiseM3U8_19/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "e2QKMdwgfK4Vxo",
     "name": "Simon Super Lapin",
     "iptv_urls": [],
@@ -1054,6 +1017,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/tBogvOwzskg"
     ],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qN23teQnN4PdUo",
+    "name": "TéléGohelle",
+    "iptv_urls": [
+      "https://videas.agglo-lenslievin.fr/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
