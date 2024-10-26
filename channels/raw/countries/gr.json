@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iaXW6RecjncP1a",
+    "name": "ART TV",
+    "iptv_urls": [
+      "https://til.pp.ua:3711/live/arttvgr70live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2c7snlK3LlpjiQ",
     "name": "Astra TV",
     "iptv_urls": [
@@ -55,6 +66,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fUzoQspzSgVpqR",
+    "name": "Baraza TV Relaxing",
+    "iptv_urls": [
+      "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w5WOMelASXYzoX",
+    "name": "Corfu TV",
+    "iptv_urls": [
+      "https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ofAXdrb6RQhF1i",
     "name": "Diktyo TV",
     "iptv_urls": [
@@ -70,7 +103,7 @@
     "name": "ecclesiaTV.gr",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JBX5AAsmTUU"
+      "https://www.youtube-nocookie.com/embed/LJUsqCz-lo4"
     ],
     "language": "ell",
     "country": "gr",
@@ -223,7 +256,8 @@
     "nanoid": "nOgaKVJqtjFRdy",
     "name": "Nea TV",
     "iptv_urls": [
-      "https://live.neatv.gr:8888/hls/neatv.m3u8"
+      "https://live.neatv.gr:8888/hls/neatv.m3u8",
+      "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
@@ -268,6 +302,17 @@
     "name": "One Channel",
     "iptv_urls": [
       "https://onechannel.siliconweb.com/one/stream/chunks.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L3j1vKGF6lnpfD",
+    "name": "Panik TV",
+    "iptv_urls": [
+      "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
@@ -389,6 +434,39 @@
     "name": "Zougla TV",
     "iptv_urls": [
       "https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "D9a6Bz5bh6RDhY",
+    "name": "Βουλή Τηλεόραση",
+    "iptv_urls": [
+      "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BM4f8TnJ03obFb",
+    "name": "Εγνατία Τηλεόραση",
+    "iptv_urls": [
+      "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kJCoEue510iaio",
+    "name": "Εκκλησία",
+    "iptv_urls": [
+      "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
