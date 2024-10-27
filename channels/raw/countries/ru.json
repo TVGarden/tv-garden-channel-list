@@ -56,17 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SNQeIMw2sO5q8f",
-    "name": "A21 Network | Russian Motorsport Television",
-    "iptv_urls": [
-      "https://autopilot.catcast.tv/content/37909/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nJhafyMiMVkZKn",
     "name": "Dag Music",
     "iptv_urls": [],
@@ -122,19 +111,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8UsE7S2700dwqG",
-    "name": "Nicktoons",
-    "iptv_urls": [
-      "https://stream01.vnet.am/Boomerang/mono.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iMw1RXLRKW0"
-    ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JnxjBtQt6s0RPO",
     "name": "RT Arabic",
     "iptv_urls": [
@@ -162,6 +138,7 @@
     "nanoid": "0mulGVhtSW9kDC",
     "name": "RT Documentary Russian",
     "iptv_urls": [
+      "https://hls.rt.com/hls/rtdru.m3u8",
       "https://streaming.televizor-24-tochka.ru/live/554.m3u8"
     ],
     "youtube_urls": [],
@@ -228,6 +205,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0hiQdgKd6nMh6h",
+    "name": "TV BRICS Russian",
+    "iptv_urls": [
+      "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UIefnEjgnkyFB2",
     "name": "TVM Channel",
     "iptv_urls": [
@@ -266,17 +254,6 @@
     "name": "Архыз 24",
     "iptv_urls": [
       "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b2LICrzMiejVED",
-    "name": "Астрахань.Ru TV",
-    "iptv_urls": [
-      "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -346,17 +323,6 @@
       "https://www.youtube-nocookie.com/embed/gfW1E-zCx6U"
     ],
     "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wIP1vVYNV6iQvd",
-    "name": "Детское кино International",
-    "iptv_urls": [
-      "https://autopilot.catcast.tv/content/38720/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -507,17 +473,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "x3K6ZIGQqiYkqb",
-    "name": "КИНО-1 INTERNATIONAL",
-    "iptv_urls": [
-      "https://autopilot.catcast.tv/content/38617/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ij1YOE8HL0StOG",
     "name": "Кнопка ТВ",
     "iptv_urls": [
@@ -544,17 +499,6 @@
     "name": "Легендарный 24",
     "iptv_urls": [
       "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xBvNUxKG46FiuF",
-    "name": "Магнат ТВ",
-    "iptv_urls": [
-      "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -631,7 +575,8 @@
     "nanoid": "lCl8WMVdJ5MxcZ",
     "name": "Надежда",
     "iptv_urls": [
-      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+      "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -970,6 +915,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Y2nF8rGgzUaTr0",
+    "name": "Телеканал 86 (Сургут)",
+    "iptv_urls": [
+      "https://sitv.ru/hls/s86.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8ftc8iZBLVvHNe",
     "name": "Телеканал ЕДА",
     "iptv_urls": [],
@@ -1140,7 +1096,7 @@
     "name": "ЮВЕЛИРТРЕЙД",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oqv17N2t_pc"
+      "https://www.youtube-nocookie.com/embed/JgQ-FnlvD_4"
     ],
     "language": "rus",
     "country": "ru",
