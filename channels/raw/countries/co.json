@@ -45,17 +45,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DhFWPxFh4aKhyC",
-    "name": "Avivamiento TV",
-    "iptv_urls": [
-      "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6joqepA8rOPlES",
     "name": "Bum Televisión",
     "iptv_urls": [
@@ -72,6 +61,17 @@
     "name": "C4 Televisión",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8148/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mbCWEOS71MfiKZ",
+    "name": "Cable Sur TV",
+    "iptv_urls": [
+      "https://tvlatina.live:1936/8012/8012/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -170,10 +170,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rbVGB4gc6vGSpJ",
-    "name": "Canal PyC",
+    "nanoid": "QA1x5OQRH7UVPJ",
+    "name": "Canal Nets",
     "iptv_urls": [
-      "https://glb.bozztv.com/glb/ssh101/pyctelevision/index.m3u8"
+      "https://movil.ejeserver.com/live/nets.m3u8",
+      "https://video.ejeserver.com/live/nets.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -181,10 +182,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SGrb937p9E07DR",
-    "name": "Canal Santa Marta TV",
+    "nanoid": "rbVGB4gc6vGSpJ",
+    "name": "Canal PyC",
     "iptv_urls": [
-      "https://streaming.amelbasoluciones.co:19360/santamartalive/santamartalive.m3u8"
+      "https://glb.bozztv.com/glb/ssh101/pyctelevision/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -340,17 +341,6 @@
     "name": "La Hermandad Salsera",
     "iptv_urls": [
       "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ip9MDCdkimyNqv",
-    "name": "Luna Estéreo 106.4 FM",
-    "iptv_urls": [
-      "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -595,6 +585,18 @@
     "name": "TV San Jorge",
     "iptv_urls": [
       "https://asucap.com/livestream/asucap_envivo.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Nq4LsSsP2FyKax",
+    "name": "Veo Televisión",
+    "iptv_urls": [
+      "https://movil.ejeserver.com/live/veotv.m3u8",
+      "https://video.ejeserver.com/live/veotv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
