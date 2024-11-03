@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "bvlSaREPWvRbiw",
-    "name": "7 TeleValencia",
-    "iptv_urls": [
-      "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "N5VHLorsiAYLqm",
     "name": "7 Televisión Región de Murcia",
     "iptv_urls": [
@@ -161,6 +150,17 @@
     ],
     "youtube_urls": [],
     "language": "cat",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yljcrjGTTw7LxA",
+    "name": "Canal 4 Mancha Centro",
+    "iptv_urls": [
+      "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -619,13 +619,36 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YDIi3VBX7D7fKC",
-    "name": "La 2 Catalunya",
+    "nanoid": "LEP2yAUVAvVur6",
+    "name": "La 1 Catalunya",
     "iptv_urls": [
-      "https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8"
+      "https://ztnr.rtve.es/ztnr/3293681.m3u8"
     ],
     "youtube_urls": [],
     "language": "cat",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "254O8QVRoi3Ec6",
+    "name": "La 2",
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/1688885.m3u8",
+      "https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MtvAPbtuZZyeOW",
+    "name": "La 2 Canarias",
+    "iptv_urls": [
+      "https://rtvelivestream.akamaized.net/rtvesec/can/la2_can_main_dvr.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -817,6 +840,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "iptv_urls": [
+      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "r4O5xUGbFguCQr",
     "name": "Pequeradio",
     "iptv_urls": [
@@ -835,6 +869,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MBXc78WctcBqtJ",
+    "name": "POP World TV",
+    "iptv_urls": [
+      "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -930,6 +975,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LAxYlfGvF61ICE",
+    "name": "Rioja Televisión",
+    "iptv_urls": [
+      "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yMTjCVwIgtqXb8",
     "name": "ROTV Valencia",
     "iptv_urls": [
@@ -937,17 +993,6 @@
     ],
     "youtube_urls": [],
     "language": "ron",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GITlIKa8D8B8BX",
-    "name": "RTV Marbella",
-    "iptv_urls": [
-      "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -980,6 +1025,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/M90qWFGEsv4"
     ],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yikA0BeMfVF1mE",
+    "name": "Sevilla FC TV",
+    "iptv_urls": [
+      "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "es",
     "isGeoBlocked": false
@@ -1120,8 +1176,7 @@
     "nanoid": "yAvkQDCoQRxCiQ",
     "name": "Trece TV",
     "iptv_urls": [
-      "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8",
-      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
+      "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1144,6 +1199,17 @@
     "name": "TVE Star HD",
     "iptv_urls": [
       "https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kwKGKTuhcnTGZS",
+    "name": "TVM Córdoba",
+    "iptv_urls": [
+      "https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1202,6 +1268,28 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IQrnnNNldjOCl4",
+    "name": "XPTV US",
+    "iptv_urls": [
+      "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OyFemiSp7sx4JI",
+    "name": "XPTV1",
+    "iptv_urls": [
+      "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "es",
     "isGeoBlocked": false
   },
