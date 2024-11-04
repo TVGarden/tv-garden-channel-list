@@ -328,8 +328,7 @@
     "nanoid": "y96VZMuCp67Sxq",
     "name": "KBS World",
     "iptv_urls": [
-      "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8",
-      "https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8"
+      "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -392,17 +391,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I27keaXmXV9AK5",
-    "name": "MBC Jeju (제주 MBC)",
-    "iptv_urls": [
-      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bGPfC3KKh0kKB4",
     "name": "MBC Jeonju",
     "iptv_urls": [
@@ -425,10 +413,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oNnWdV2miCH9OF",
-    "name": "NS Home Shopping",
+    "nanoid": "8fjuljf7xVUPuM",
+    "name": "NS Shop Plus",
     "iptv_urls": [
-      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
+      "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -436,10 +424,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8fjuljf7xVUPuM",
-    "name": "NS Shop Plus",
+    "nanoid": "dniHBftPCZaKkW",
+    "name": "OBS Gyeongin TV (OBS경인TV)",
     "iptv_urls": [
-      "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8"
+      "https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -462,7 +450,18 @@
     "name": "Pororo 뽀로로: Season 7 Marathon",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XSvX5Yi51KQ"
+      "https://www.youtube-nocookie.com/embed/Jebv3t2fEeM"
+    ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "e8lnXKg6UsAFPP",
+    "name": "Pororo 뽀로로: Songs 24/7",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/sa4NDP8cEsk"
     ],
     "language": "kor",
     "country": "kr",
@@ -583,6 +582,17 @@
     "name": "W Shopping",
     "iptv_urls": [
       "https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1k54RUxaC9SuQn",
+    "name": "WBC TV",
+    "iptv_urls": [
+      "https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
