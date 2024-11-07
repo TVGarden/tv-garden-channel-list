@@ -53,7 +53,9 @@
     "iptv_urls": [
       "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/tZT2MCYu6Zw"
+    ],
     "language": "eng",
     "country": "de",
     "isGeoBlocked": false
@@ -132,19 +134,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ekFWl5aVUxSeip",
-    "name": "RT News",
-    "iptv_urls": [
-      "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
-      "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
-      "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "v7SxxnsQX39ThO",
     "name": "Scripps News",
     "iptv_urls": [
@@ -160,10 +149,21 @@
     "name": "Sky News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KkPqtJ2BycA"
+      "https://www.youtube-nocookie.com/embed/UIVtUlMUy2o"
     ],
     "language": "eng",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1RYI9mEKLKbyln",
+    "name": "TRT World",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/7uWP6Cf9NZs"
+    ],
+    "language": "eng",
+    "country": "tr",
     "isGeoBlocked": false
   }
 ]
