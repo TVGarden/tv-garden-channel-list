@@ -78,12 +78,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zJh3ovCYN7T9ZL",
-    "name": "Fox",
-    "iptv_urls": [
-      "https://stream01.vnet.am/Fox/mono.m3u8"
+    "nanoid": "zXKH8WmbfaDrMI",
+    "name": "Get Movies: Маша и Медведь",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/U7g2d6WtmUg"
     ],
-    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
@@ -219,7 +219,8 @@
     "nanoid": "3OOeiozk8ilduN",
     "name": "Univer TV",
     "iptv_urls": [
-      "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8"
+      "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
+      "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -242,17 +243,6 @@
     "name": "Архыз 24",
     "iptv_urls": [
       "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PnYs28KZYftvil",
-    "name": "Астрахань.Ru Sport",
-    "iptv_urls": [
-      "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -375,7 +365,7 @@
     "name": "Душевное Кино ТВ: Сваты",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aMpQ3L31o08"
+      "https://www.youtube-nocookie.com/embed/cfzOvftJ2NI"
     ],
     "language": "rus",
     "country": "ru",
@@ -467,17 +457,6 @@
       "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
     ],
     "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J3EJNMTTTwoCfX",
-    "name": "Кино Добряк: Сваты и Байки Митяя",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/whCmEBDmwjA"
-    ],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
@@ -618,18 +597,7 @@
     "nanoid": "lCl8WMVdJ5MxcZ",
     "name": "Надежда",
     "iptv_urls": [
-      "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fPNHa2Iphxep7n",
-    "name": "Нижний Новгород 24",
-    "iptv_urls": [
-      "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8"
+      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -862,7 +830,7 @@
     "name": "Союзмультфильм: Ну, погоди!",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/V2_ula2mI0Q"
+      "https://www.youtube-nocookie.com/embed/7snE21Z-1Kw"
     ],
     "language": "rus",
     "country": "ru",
@@ -873,7 +841,7 @@
     "name": "Союзмультфильм: Простоквашино",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AkTZ5PGXNMY"
+      "https://www.youtube-nocookie.com/embed/8SKc4q3bOU0"
     ],
     "language": "rus",
     "country": "ru",
@@ -913,6 +881,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "84HXD5LPc8NimV",
+    "name": "Сургут 24",
+    "iptv_urls": [
+      "https://sitv.ru/vgtrk/stv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ph3sAZycESjTXH",
     "name": "Тамыр (Уфа)",
     "iptv_urls": [
@@ -928,17 +907,6 @@
     "name": "ТВК 24",
     "iptv_urls": [
       "https://air.tvk6.ru/tvk24/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y2nF8rGgzUaTr0",
-    "name": "Телеканал 86 (Сургут)",
-    "iptv_urls": [
-      "https://sitv.ru/hls/s86.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1085,6 +1053,17 @@
       "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VRSVNzRuNbdCXJ",
+    "name": "Ювелирочка",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/RCWUXbe-e0Y"
+    ],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
