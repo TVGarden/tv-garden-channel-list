@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "UVcVRgVztN97xJ",
-    "name": "Access La Porte Country",
-    "iptv_urls": [
-      "https://vbfast-c.viebit.com/810fe13b-a9ac-46b3-a523-5a7e90ddfd25/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X3Q7TPQ3D7sQDZ",
     "name": "Access Media Productions Marina TV",
     "iptv_urls": [
@@ -244,10 +233,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vNfephVxrifCoZ",
+    "name": "Congreso de los Diputados 2",
+    "iptv_urls": [
+      "https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VUSPcmoFUEMqtT",
     "name": "Congreso de los Diputados 3",
     "iptv_urls": [
       "https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zoe4KOWUPEQWXA",
+    "name": "Congreso de los Diputados 5",
+    "iptv_urls": [
+      "https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -380,6 +391,17 @@
     "name": "Gainesville Community 12TV (Gainesville FL)",
     "iptv_urls": [
       "https://lin10.isilive.ca/live/gainesville/live/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aZACmqFHyDlfSs",
+    "name": "Galveston County TV",
+    "iptv_urls": [
+      "https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -629,17 +651,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9N0REUHRJR4gUt",
-    "name": "Nova24TV 2",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/y5BC-QkOa-o"
-    ],
-    "language": "slv",
-    "country": "si",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BpAwuuECtBXjjx",
     "name": "Oireachtas TV",
     "iptv_urls": [
@@ -748,17 +759,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RrsTSYgGNniraQ",
-    "name": "Országgyűlés (Plenáris)",
-    "iptv_urls": [
-      "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hun",
-    "country": "hu",
     "isGeoBlocked": false
   },
   {
@@ -899,7 +899,7 @@
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/owVCrbUfTmE"
+      "https://www.youtube-nocookie.com/embed/iHmGPMk6yEM"
     ],
     "language": "por",
     "country": "br",
@@ -920,7 +920,8 @@
     "nanoid": "BqqeaBGazomeJi",
     "name": "Sansad TV",
     "iptv_urls": [
-      "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8"
+      "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
+      "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -994,17 +995,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RErWNfh4idOsdr",
-    "name": "Thai Parliament TV",
-    "iptv_urls": [
-      "https://tv-live.tpchannel.org/live/tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qFCAsqxqc8Wr0C",
     "name": "The Florida Channel",
     "iptv_urls": [
@@ -1053,7 +1043,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ArjQKeuo21A"
+      "https://www.youtube-nocookie.com/embed/7FldtTB0FZ8"
     ],
     "language": "por",
     "country": "br",
@@ -1200,6 +1190,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "D9a6Bz5bh6RDhY",
+    "name": "Βουλή Τηλεόραση",
+    "iptv_urls": [
+      "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
     "isGeoBlocked": false
   },
   {

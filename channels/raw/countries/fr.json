@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "aiYijwuPXO9mEp",
-    "name": "A12 TV",
-    "iptv_urls": [
-      "https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JzlPxfMfmeouYm",
     "name": "Africa 24",
     "iptv_urls": [
@@ -59,6 +48,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM"
     ],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dz6yBedOZTM2uU",
+    "name": "BIP TV",
+    "iptv_urls": [
+      "https://biptv.tv/live/biptvstream_orig/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
@@ -168,6 +168,7 @@
       "https://rakuten-euronews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-se.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8",
+      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
       "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
       "https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8",
       "https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8",
@@ -196,11 +197,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JyVf4M7JRgVcg7",
+    "nanoid": "S07VBtlQltCrbL",
     "name": "Euronews German",
-    "iptv_urls": [
-      "https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CQ3KsEbsYHs"
     ],
@@ -347,9 +346,22 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tdVxT52wv76zHK",
+    "nanoid": "oTQxI54nBGEd6Z",
+    "name": "France 24 English",
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ueVL2E5ssubmBE",
     "name": "France 24 Español",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Y-IlMeCCtIg"
     ],
@@ -483,7 +495,7 @@
     "name": "Lou!",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JO-D7dQH-GY"
+      "https://www.youtube-nocookie.com/embed/qRumDi7fP7A"
     ],
     "language": "fra",
     "country": "fr",
@@ -530,17 +542,6 @@
     ],
     "youtube_urls": [],
     "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WWDxgACXyLT0i3",
-    "name": "MyTime Movie Network",
-    "iptv_urls": [
-      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -615,17 +616,6 @@
     "name": "Persiana Family",
     "iptv_urls": [
       "https://familyhls.persiana.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AU3r7slfkyZL9C",
-    "name": "Persiana HD",
-    "iptv_urls": [
-      "https://euhls.persiana.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -899,22 +889,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Nrhfk3ZlzlS0lx",
-    "name": "Rugby Zone TV",
-    "iptv_urls": [
-      "https://lte.wiseplayout.com/WiseM3U8_19/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "e2QKMdwgfK4Vxo",
     "name": "Simon Super Lapin",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wwJrMuPlSAU"
+      "https://www.youtube-nocookie.com/embed/FKttlQGA0ac"
     ],
     "language": "fra",
     "country": "fr",
@@ -1181,6 +1160,17 @@
     "name": "VOIE TV",
     "iptv_urls": [
       "https://ssh101-fl.bozztv.com/ssh101/matelevisionweb/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ygqSjKK8HMDyzG",
+    "name": "Vosges Télévision",
+    "iptv_urls": [
+      "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
