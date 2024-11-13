@@ -412,17 +412,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rHDMB2I74rwAns",
-    "name": "Buena TV",
-    "iptv_urls": [
-      "https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hPzjEie30NGtzn",
     "name": "Buzzr",
     "iptv_urls": [
@@ -487,17 +476,6 @@
     ],
     "language": "spa",
     "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vrEo8i7KnNjXkO",
-    "name": "Canal Chilote",
-    "iptv_urls": [
-      "https://oracle.streaminghd.cl/canalchilote/canalchilote/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -593,10 +571,10 @@
     "nanoid": "PGCEtKFHRk5CDn",
     "name": "Circle",
     "iptv_urls": [
+      "https://circle-roku.amagi.tv/playlist.m3u8",
       "https://circle-samsung.amagi.tv/playlist.m3u8",
       "https://circle-xumo.amagi.tv/playlist.m3u8",
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8",
-      "https://circle-klowdtv.amagi.tv/playlist.m3u8"
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -619,17 +597,6 @@
     "name": "Claro Visión TV",
     "iptv_urls": [
       "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g9yLNPthmWR8vu",
-    "name": "COCO TV",
-    "iptv_urls": [
-      "https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -875,6 +842,7 @@
     "name": "Estrella TV",
     "iptv_urls": [
       "https://estrellatv-oando.amagi.tv/playlist.m3u8",
+      "https://estrellatv-glewed.amagi.tv/playlist.m3u8",
       "https://estrellatv-plex.amagi.tv/playlist.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8"
     ],
@@ -936,17 +904,6 @@
     "youtube_urls": [],
     "language": "ind",
     "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y7X7AdWkclwh5h",
-    "name": "Fidele TV",
-    "iptv_urls": [
-      "https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1708,7 +1665,7 @@
     "name": "MULTIMEDIOS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xuPuXHQ7WTo"
+      "https://www.youtube-nocookie.com/embed/MFwVCJgcSYo"
     ],
     "language": "spa",
     "country": "mx",
@@ -1811,6 +1768,17 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I1eaiqSEwU4HoX",
+    "name": "Omega TV",
+    "iptv_urls": [
+      "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "hn",
     "isGeoBlocked": false
   },
   {
@@ -2016,6 +1984,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qO9vRi6qWS9n0t",
+    "name": "Raquel Daruech TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Klmufp-KP5w"
+    ],
+    "language": "spa",
+    "country": "uy",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RC3d7Gg3i7dUir",
     "name": "RCN Más",
     "iptv_urls": [
@@ -2091,17 +2070,6 @@
     ],
     "language": "eng",
     "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vECgR5YsZYopzF",
-    "name": "Sab TV",
-    "iptv_urls": [
-      "https://guineetvdirect.online:3964/live/sabtvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "gn",
     "isGeoBlocked": false
   },
   {
@@ -2237,14 +2205,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mmZjHuy87LmO4O",
-    "name": "Sooriyan TV",
+    "nanoid": "P2ToiwtleJE53l",
+    "name": "Somos Topo Point TV",
     "iptv_urls": [
-      "https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8"
+      "https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8"
     ],
     "youtube_urls": [],
-    "language": "tam",
-    "country": "ca",
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -2428,6 +2396,7 @@
     "nanoid": "PgiKCroCjbQXUS",
     "name": "Timeline",
     "iptv_urls": [
+      "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
       "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -2466,17 +2435,6 @@
     ],
     "language": "por",
     "country": "ao",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e5Cesrm1AEWOjC",
-    "name": "TR24",
-    "iptv_urls": [
-      "https://stream.it-innov.com/tr24/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "cm",
     "isGeoBlocked": false
   },
   {
@@ -2911,17 +2869,6 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2wJqJ0vbaYddeW",
-    "name": "Беларусь 2",
-    "iptv_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
     "isGeoBlocked": false
   },
   {
