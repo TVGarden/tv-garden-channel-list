@@ -146,18 +146,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JnxjBtQt6s0RPO",
-    "name": "RT Arabic",
-    "iptv_urls": [
-      "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
-      "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VMF9bz9jysLZtk",
     "name": "RT Documentary English",
     "iptv_urls": [
@@ -244,7 +232,8 @@
     "name": "Univer TV",
     "iptv_urls": [
       "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
-      "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8"
+      "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
+      "https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -336,17 +325,6 @@
       "https://www.youtube-nocookie.com/embed/gfW1E-zCx6U"
     ],
     "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wIP1vVYNV6iQvd",
-    "name": "Детское кино International",
-    "iptv_urls": [
-      "https://autopilot.catcast.tv/content/38720/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -690,6 +668,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/gJoN83Noit8"
     ],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "U4INrzVYWsDWWg",
+    "name": "Первый канал",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/210.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false

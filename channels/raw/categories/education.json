@@ -45,17 +45,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "P1bHcrsBIPSFMa",
-    "name": "Architectural Digest",
-    "iptv_urls": [
-      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
     "iptv_urls": [
@@ -238,6 +227,17 @@
     "name": "DLTV 5",
     "iptv_urls": [
       "https://cdn-live.dltv.ac.th/dltv05.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SBNkYWrTHUHlU6",
+    "name": "DLTV 6",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv06.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -444,17 +444,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Lnxpxwa7hHwXCn",
-    "name": "Faculty TV",
-    "iptv_urls": [
-      "https://stream-server9-jupiter.muxlive.com/hls/facultytv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "gh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "M1xHzWMuYZ3C7M",
     "name": "FGN Channel",
     "iptv_urls": [],
@@ -551,6 +540,17 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xx7eina1wOQhnp",
+    "name": "MCN6 Arts Channel",
+    "iptv_urls": [
+      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -818,10 +818,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AOK2yURwDU45yn",
+    "name": "TV UJAT (XHUJAT-TDT)",
+    "iptv_urls": [
+      "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4O9bnPrPfyHk9N",
     "name": "TVBE Joinville",
     "iptv_urls": [
       "https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p4obNYU8nK7E4h",
+    "name": "TVE RS",
+    "iptv_urls": [
+      "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
