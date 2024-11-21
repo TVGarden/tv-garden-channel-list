@@ -66,6 +66,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dz6yBedOZTM2uU",
+    "name": "BIP TV",
+    "iptv_urls": [
+      "https://biptv.tv/live/biptvstream_orig/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vhG711xcr9II8o",
     "name": "Bref Cinéma 100% Court Métrage",
     "iptv_urls": [
@@ -114,7 +125,8 @@
     "nanoid": "N6zUpl0twGvMyn",
     "name": "Clubbing TV",
     "iptv_urls": [
-      "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8"
+      "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8",
+      "https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -236,11 +248,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XQIaYDgkL1xYgX",
+    "nanoid": "iGI0lZtaC0qVgq",
     "name": "Euronews Português",
-    "iptv_urls": [
-      "https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/XuZAl-ZPEcA"
     ],
@@ -535,17 +545,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0TixmjZkK89lpR",
-    "name": "Museum TV",
-    "iptv_urls": [
-      "https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1064,7 +1063,6 @@
     "nanoid": "uS6aOLXBCwTfBG",
     "name": "Trace Sport Stars (Australia)",
     "iptv_urls": [
-      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
