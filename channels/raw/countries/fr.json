@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "aiYijwuPXO9mEp",
-    "name": "A12 TV",
-    "iptv_urls": [
-      "https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JzlPxfMfmeouYm",
     "name": "Africa 24",
     "iptv_urls": [
@@ -33,9 +22,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2U4gd5rnY0obyR",
+    "nanoid": "Gmuy6SpwOogHJz",
     "name": "AfricaNews English",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NQjabLGdP5g"
     ],
@@ -44,9 +39,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Lo5vR5FNgGw4gl",
+    "nanoid": "BnlejKnF7Y4nBM",
     "name": "AfricaNews Français",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-2-lu.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM"
     ],
@@ -61,17 +59,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/rYNy5wCle7k"
     ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dz6yBedOZTM2uU",
-    "name": "BIP TV",
-    "iptv_urls": [
-      "https://biptv.tv/live/biptvstream_orig/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
@@ -104,17 +91,6 @@
     "iptv_urls": [
       "https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8",
       "https://dhx-caillou-2-fr.samsung.wurl.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RMbGSeJmY7CCNa",
-    "name": "Cannes Lérins TV",
-    "iptv_urls": [
-      "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -1146,6 +1122,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZLb0LTi930oyUb",
+    "name": "VOIE TV",
+    "iptv_urls": [
+      "https://ssh101-fl.bozztv.com/ssh101/matelevisionweb/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
