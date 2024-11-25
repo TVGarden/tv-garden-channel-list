@@ -306,7 +306,8 @@
     "nanoid": "y96VZMuCp67Sxq",
     "name": "KBS World",
     "iptv_urls": [
-      "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8"
+      "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8",
+      "https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -336,6 +337,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fU7mUMEnsqINVT",
+    "name": "MBC Chuncheon (춘천 MBC)",
+    "iptv_urls": [
+      "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CVYe8DrHATgn7K",
     "name": "MBC Daejeon (대전 MBC)",
     "iptv_urls": [
@@ -347,10 +359,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I27keaXmXV9AK5",
-    "name": "MBC Jeju (제주 MBC)",
+    "nanoid": "bGPfC3KKh0kKB4",
+    "name": "MBC Jeonju",
     "iptv_urls": [
-      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
+      "https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -391,10 +403,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4MkAIlXwdSE8X",
-    "name": "OUN",
+    "nanoid": "dniHBftPCZaKkW",
+    "name": "OBS Gyeongin TV (OBS경인TV)",
     "iptv_urls": [
-      "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
+      "https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -495,6 +507,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CMnAakQCEdM"
+    ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vhNaz7xD7cy5Pv",
+    "name": "TVCHOSUN MUSIC",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/JF_3h8T0HIo"
     ],
     "language": "kor",
     "country": "kr",
