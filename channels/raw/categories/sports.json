@@ -155,17 +155,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "E79H6dHPexVrsV",
-    "name": "Champion TV",
-    "iptv_urls": [
-      "https://canal.mediaserver.com.co/live/ChampionTv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "upZUS4jnd1EPJG",
     "name": "Chelsea Football Club",
     "iptv_urls": [],
@@ -600,7 +589,8 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
-      "https://pac12-samsungus.amagi.tv/playlist.m3u8"
+      "https://pac12-samsungus.amagi.tv/playlist.m3u8",
+      "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -792,8 +782,6 @@
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
-      "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -891,6 +879,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KnAeP9Vkg37br7",
+    "name": "Tigo Sports (Costa Rica)",
+    "iptv_urls": [
+      "https://acceso.radiosportstv.online:3795/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Fa5aSvtiIezCk9",
     "name": "Tigo Sports (Guatemala)",
     "iptv_urls": [
@@ -938,6 +937,7 @@
     "nanoid": "uS6aOLXBCwTfBG",
     "name": "Trace Sport Stars (Australia)",
     "iptv_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -979,10 +979,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Wbrb2C2Gun42Sy",
-    "name": "TVS Classic Sports",
+    "nanoid": "MRDwiz0Mw0bVZ5",
+    "name": "TVS Sports",
     "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvs/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvssports/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -990,10 +990,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MRDwiz0Mw0bVZ5",
-    "name": "TVS Sports",
+    "nanoid": "uxa3RChSlTbz84",
+    "name": "TVS Sports Bureau",
     "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvssports/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1065,17 +1065,6 @@
     ],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PnYs28KZYftvil",
-    "name": "Астрахань.Ru Sport",
-    "iptv_urls": [
-      "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
