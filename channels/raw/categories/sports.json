@@ -44,28 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YFqOd9RFAP2HGq",
-    "name": "Bahrain Sports 1",
-    "iptv_urls": [
-      "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "bh",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SBDiIYv6gMiZbW",
-    "name": "Bahrain Sports 2",
-    "iptv_urls": [
-      "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "bh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ryl2lCtBRetuci",
     "name": "beIN SPORTS Türkiye",
     "iptv_urls": [],
@@ -152,6 +130,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "E79H6dHPexVrsV",
+    "name": "Champion TV",
+    "iptv_urls": [
+      "https://canal.mediaserver.com.co/live/ChampionTv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
     "isGeoBlocked": false
   },
   {
@@ -879,6 +868,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XdwrocdV5KOMCW",
+    "name": "Tennis Channel",
+    "iptv_urls": [
+      "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KnAeP9Vkg37br7",
     "name": "Tigo Sports (Costa Rica)",
     "iptv_urls": [
@@ -990,17 +990,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uxa3RChSlTbz84",
-    "name": "TVS Sports Bureau",
-    "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eIJ4L4aV4I4YRC",
     "name": "TVS Turbo",
     "iptv_urls": [
@@ -1071,7 +1060,8 @@
     "nanoid": "hksyXK9W8Dv3Pj",
     "name": "Беларусь 5 Интернет",
     "iptv_urls": [
-      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
+      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
