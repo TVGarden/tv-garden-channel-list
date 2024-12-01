@@ -227,8 +227,7 @@
     "nanoid": "btberuQkg7DnbM",
     "name": "América TeVé",
     "iptv_urls": [
-      "https://live.gideo.video/americateve2/master.m3u8",
-      "https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8"
+      "https://live.gideo.video/americateve2/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -561,6 +560,7 @@
     "nanoid": "PGCEtKFHRk5CDn",
     "name": "Circle",
     "iptv_urls": [
+      "https://circle-roku.amagi.tv/playlist.m3u8",
       "https://circle-samsung.amagi.tv/playlist.m3u8",
       "https://circle-vizio.amagi.tv/playlist.m3u8",
       "https://circle-xumo.amagi.tv/playlist.m3u8",
@@ -893,6 +893,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "swg1noloxNDS5D",
+    "name": "Ficom Channel",
+    "iptv_urls": [
+      "https://v3.siar.us/ficomchannel/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1406,6 +1417,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RzX8WqJgd5GWa8",
+    "name": "KurdMax Show",
+    "iptv_urls": [
+      "https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kur",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QbuWRonKyyvi1a",
     "name": "KurdMax Sorani",
     "iptv_urls": [
@@ -1823,17 +1845,6 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "I1eaiqSEwU4HoX",
-    "name": "Omega TV",
-    "iptv_urls": [
-      "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "hn",
     "isGeoBlocked": false
   },
   {
@@ -2293,6 +2304,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KulpGXiD7H6QWL",
+    "name": "Super7FM",
+    "iptv_urls": [
+      "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Zth5Vxmkts7bcN",
     "name": "Talkin Live Classics TV",
     "iptv_urls": [
@@ -2482,17 +2504,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e5Cesrm1AEWOjC",
-    "name": "TR24",
-    "iptv_urls": [
-      "https://stream.it-innov.com/tr24/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "cm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OFNCxJwQlhXnh3",
     "name": "Tshwane TV",
     "iptv_urls": [
@@ -2607,7 +2618,7 @@
     "name": "TV Derana",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NirM_9RnQt8"
+      "https://www.youtube-nocookie.com/embed/5p3A-am1RlY"
     ],
     "language": "sin",
     "country": "lk",
@@ -2666,6 +2677,17 @@
     "youtube_urls": [],
     "language": "por",
     "country": "mz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GtnIaa6txvuPZv",
+    "name": "TV84",
+    "iptv_urls": [
+      "https://cdn20.liveonlineservices.com/hls/tv84.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pan",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -2813,17 +2835,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "x3TZyCIBL9Aenl",
-    "name": "WeatherNation (KCKS-LD6)",
-    "iptv_urls": [
-      "https://cdn.igocast.com/channel6_hls/channel6_master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "D9R8Q9k4OT66XF",
     "name": "Wipeout Xtra",
     "iptv_urls": [
@@ -2949,10 +2960,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "trsLN7PoZranC9",
-    "name": "ТНТ",
+    "nanoid": "gsk2XRWySDDUs3",
+    "name": "Пятница International",
     "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/38.m3u8"
+      "https://stream01.vnet.am/Pyatnica/mono.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
