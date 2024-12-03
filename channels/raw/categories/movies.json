@@ -399,17 +399,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GesIr5h7NJD8rM",
-    "name": "Hero (Finland)",
-    "iptv_urls": [
-      "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HW3VPKyt6mpMGb",
     "name": "iFilm 2",
     "iptv_urls": [
@@ -924,11 +913,23 @@
     "nanoid": "GXyfpkGN0MGlca",
     "name": "Дом Кино",
     "iptv_urls": [
+      "https://stream01.vnet.am/DomKino/mono.m3u8",
       "https://streaming.televizor-24-tochka.ru/live/44.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wnXEnrj6C2tzO6",
+    "name": "أفلام تركية مدبلجة للعربية - Turkish Movies",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/RwV-VVBXCiA"
+    ],
+    "language": "ara",
+    "country": "sa",
     "isGeoBlocked": false
   }
 ]
