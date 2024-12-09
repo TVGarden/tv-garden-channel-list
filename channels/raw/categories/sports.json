@@ -765,17 +765,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UPkHrsKiFjmLP4",
-    "name": "Sharjah Sports TV",
-    "iptv_urls": [
-      "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PQO3nTobe9PoFo",
     "name": "SOS Kanal Plus",
     "iptv_urls": [
@@ -822,9 +811,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Pj3Pb4MifHuOI3",
+    "name": "Sports TV",
+    "iptv_urls": [
+      "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
+      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -837,6 +838,17 @@
     "name": "SPOTV (Indonesia)",
     "iptv_urls": [
       "https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iJaXxPx8ZBmznv",
+    "name": "SPOTV 2 (Indonesia)",
+    "iptv_urls": [
+      "https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -941,17 +953,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KnAeP9Vkg37br7",
-    "name": "Tigo Sports (Costa Rica)",
-    "iptv_urls": [
-      "https://acceso.radiosportstv.online:3795/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -1076,6 +1077,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "beAXn8CiW6Z5Te",
+    "name": "TVS Women Sports",
+    "iptv_urls": [
+      "https://bozztv.com/gusa/gusa-tvswsn/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HoPPiJ6zSU8JBV",
     "name": "W14DK-D 14.5 All Sports Television Network",
     "iptv_urls": [
@@ -1113,7 +1125,8 @@
     "nanoid": "hksyXK9W8Dv3Pj",
     "name": "Беларусь 5 Интернет",
     "iptv_urls": [
-      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
+      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
