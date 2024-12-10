@@ -525,17 +525,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JUHY7ZFUwE8O9n",
-    "name": "Finest TV",
-    "iptv_urls": [
-      "https://media.finest.tv/hls/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WRVOp3UlwzyfTu",
     "name": "Franken Fernsehen (Nürnberg)",
     "iptv_urls": [
@@ -564,17 +553,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Aq1ogP5Wo3s"
     ],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "18vGI4yRhljatv",
-    "name": "H1 Fernsehen",
-    "iptv_urls": [
-      "https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "deu",
     "country": "de",
     "isGeoBlocked": false
@@ -959,6 +937,7 @@
     "nanoid": "dYt045ogXamqS6",
     "name": "NRWision",
     "iptv_urls": [
+      "https://fms.nrwision.de/live/livestreamHD.stream_1080p/playlist.m3u8",
       "https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -994,6 +973,17 @@
     "iptv_urls": [
       "https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8",
       "https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ixhyYhnKxhDZBe",
+    "name": "OK Flensburg",
+    "iptv_urls": [
+      "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1123,6 +1113,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FfKKaHEk2MpmA6",
+    "name": "Radio Weser TV Bremen",
+    "iptv_urls": [
+      "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
+      "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "i2oVTNlM3TCzLz",
     "name": "Regio TV Bodensee",
     "iptv_urls": [
@@ -1160,18 +1162,6 @@
     "name": "RNF",
     "iptv_urls": [
       "https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4uVJ6q6wliLG97",
-    "name": "RT DE",
-    "iptv_urls": [
-      "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
-      "https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1271,6 +1261,17 @@
     "name": "Sender Neu Jerusalem",
     "iptv_urls": [
       "https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jQRy2HJhc0CvlQ",
+    "name": "Sonus FM TV",
+    "iptv_urls": [
+      "https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
