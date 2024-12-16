@@ -75,17 +75,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dz6yBedOZTM2uU",
-    "name": "BIP TV",
-    "iptv_urls": [
-      "https://biptv.tv/live/biptvstream_orig/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vhG711xcr9II8o",
     "name": "Bref Cinéma 100% Court Métrage",
     "iptv_urls": [
@@ -182,7 +171,6 @@
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
       "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
       "https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8",
-      "https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8",
       "https://rakuten-euronews-10-lu.samsung.wurl.tv/playlist.m3u8",
       "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"
     ],
@@ -194,9 +182,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GeBJL1efFzyzZ1",
+    "nanoid": "32YXpnKvxn9M0K",
     "name": "Euronews Français",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8",
+      "https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NiRIbKwAejk"
     ],
@@ -205,9 +196,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S07VBtlQltCrbL",
+    "nanoid": "JyVf4M7JRgVcg7",
     "name": "Euronews German",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CQ3KsEbsYHs"
     ],
@@ -332,9 +325,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "S9vpRWeeHUeMAA",
+    "name": "France 24 Arabic",
+    "iptv_urls": [
+      "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oTQxI54nBGEd6Z",
     "name": "France 24 English",
     "iptv_urls": [
+      "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
       "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -346,12 +351,24 @@
     "nanoid": "ueVL2E5ssubmBE",
     "name": "France 24 Español",
     "iptv_urls": [
+      "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8",
       "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Y-IlMeCCtIg"
     ],
     "language": "spa",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4CWVkfpOd7mDjB",
+    "name": "France 24 French",
+    "iptv_urls": [
+      "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
