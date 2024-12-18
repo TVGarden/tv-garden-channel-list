@@ -68,8 +68,19 @@
     "name": "B SMART",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AWa3uu1fx98"
+      "https://www.youtube-nocookie.com/embed/qUBdOHUncbo"
     ],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dz6yBedOZTM2uU",
+    "name": "BIP TV",
+    "iptv_urls": [
+      "https://biptv.tv/live/biptvstream_orig/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
@@ -171,6 +182,7 @@
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
       "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
       "https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8",
+      "https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8",
       "https://rakuten-euronews-10-lu.samsung.wurl.tv/playlist.m3u8",
       "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"
     ],
@@ -182,12 +194,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "32YXpnKvxn9M0K",
+    "nanoid": "GeBJL1efFzyzZ1",
     "name": "Euronews Français",
-    "iptv_urls": [
-      "https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8",
-      "https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NiRIbKwAejk"
     ],
@@ -593,6 +602,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5j0y9VV2S7iUDo",
+    "name": "Persiana Family",
+    "iptv_urls": [
+      "https://familyhls.persiana.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AU3r7slfkyZL9C",
     "name": "Persiana HD",
     "iptv_urls": [
@@ -754,18 +774,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "R2JwYfvbwtu6Gz",
-    "name": "Rakuten Spotlight France",
-    "iptv_urls": [
-      "https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8",
-      "https://rakuten-spotlight-7-fr.samsung.wurl.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1070,17 +1078,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YRs4bcV8iYLW98",
-    "name": "TVR (Bretagne)",
-    "iptv_urls": [
-      "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "b7X4PEbbxyxgHq",
     "name": "ViàMatélé",
     "iptv_urls": [
@@ -1088,17 +1085,6 @@
     ],
     "youtube_urls": [],
     "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XAM6z29fYkRcG9",
-    "name": "Vogue Europe",
-    "iptv_urls": [
-      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883060"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "fr",
     "isGeoBlocked": false
   },

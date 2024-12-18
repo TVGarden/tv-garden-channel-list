@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0kBMlnbX7VSJtH",
+    "name": "Access Media Productions Community Channel",
+    "iptv_urls": [
+      "https://livestream.telvue.com/ampmedia2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "n4RrCqsrdFtghH",
     "name": "Afroculture TV",
     "iptv_urls": [
@@ -30,17 +41,6 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "A1HSPKu1efRkNQ",
-    "name": "Amani TV",
-    "iptv_urls": [
-      "https://goccn.cloud/hls/amanitv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "sn",
     "isGeoBlocked": false
   },
   {
@@ -231,14 +231,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5VAqVtAJLz9Qp2",
-    "name": "DD Urdu",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GegY9ZkG9aA"
+    "nanoid": "gc561GHCvbklWe",
+    "name": "DD Punjabi",
+    "iptv_urls": [
+      "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/20c8ad14-a158-4a42-8889-e032d070856e/2.m3u8"
     ],
-    "language": "urd",
+    "youtube_urls": [],
+    "language": "pan",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oLOT4ANN5O9Cwb",
+    "name": "Diáspora TV",
+    "iptv_urls": [
+      "https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -311,7 +322,8 @@
     "nanoid": "2QHwYMt2XZKYvG",
     "name": "Fox Soul",
     "iptv_urls": [
-      "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8"
+      "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-fox-soul-scte.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -750,14 +762,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7IG6c8BLRlAZXA",
-    "name": "Беларусь 3",
+    "nanoid": "tGulrOLyJIOGnh",
+    "name": "Yakaar TV",
     "iptv_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+      "https://strhls.streamakaci.tv/yakaartv/yakaartv-multi/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
+    "language": "fra",
+    "country": "sn",
     "isGeoBlocked": false
   }
 ]
