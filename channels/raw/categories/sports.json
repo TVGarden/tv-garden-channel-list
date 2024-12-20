@@ -144,17 +144,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Mc3chjdQYkNp4c",
-    "name": "Canal do Inter",
-    "iptv_urls": [
-      "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Mut1mafEBDelBc",
     "name": "CBS Sports Golazo Network",
     "iptv_urls": [
@@ -196,17 +185,6 @@
     "youtube_urls": [],
     "language": "por",
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3GLrMzIr2H1nF3",
-    "name": "Dubai Racing",
-    "iptv_urls": [
-      "https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
     "isGeoBlocked": false
   },
   {
@@ -294,6 +272,28 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PpZ44VFR01MOAT",
+    "name": "Fox Sports",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/fox-sports.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3XWzDx4FnKV7NI",
+    "name": "Fox Sports en Espanol",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -591,8 +591,7 @@
     "name": "Pac 12 Insider",
     "iptv_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
-      "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8"
+      "https://pac12-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -641,17 +640,6 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RlDh4IHVR4WpZw",
-    "name": "QazSport",
-    "iptv_urls": [
-      "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kaz",
-    "country": "kz",
     "isGeoBlocked": false
   },
   {
@@ -792,6 +780,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Pj3Pb4MifHuOI3",
+    "name": "Sports TV",
+    "iptv_urls": [
+      "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
@@ -881,17 +880,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ikKu9tSJWsApMx",
-    "name": "T Sports 7",
-    "iptv_urls": [
-      "https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GyaI3DfZ52LtJ4",
     "name": "TAY TV",
     "iptv_urls": [],
@@ -972,6 +960,7 @@
     "nanoid": "uS6aOLXBCwTfBG",
     "name": "Trace Sport Stars (Australia)",
     "iptv_urls": [
+      "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
       "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
@@ -992,10 +981,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3vI6OVnBudkJbF",
-    "name": "TVS Bowling Network",
+    "nanoid": "weRNAtNJMdiRC8",
+    "name": "TVS Boxing",
     "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvsbowling/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1003,10 +992,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "weRNAtNJMdiRC8",
-    "name": "TVS Boxing",
+    "nanoid": "Wbrb2C2Gun42Sy",
+    "name": "TVS Classic Sports",
     "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvs/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1047,6 +1036,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "beAXn8CiW6Z5Te",
+    "name": "TVS Women Sports",
+    "iptv_urls": [
+      "https://bozztv.com/gusa/gusa-tvswsn/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HoPPiJ6zSU8JBV",
     "name": "W14DK-D 14.5 All Sports Television Network",
     "iptv_urls": [
@@ -1061,6 +1061,7 @@
     "nanoid": "X8yK2ahG1lHzY9",
     "name": "World Poker Tour",
     "iptv_urls": [
+      "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8",
       "https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8",
       "https://d2e00kr7m9coe4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-WPTLive/406.m3u8"
     ],
@@ -1089,6 +1090,61 @@
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OhT2rOhQEAqu1t",
+    "name": "Zoy TV Sports 1",
+    "iptv_urls": [
+      "https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EarPVaPrGh8lf6",
+    "name": "Zoy TV Sports 2",
+    "iptv_urls": [
+      "https://fl1004.bozztv.com/ssh101/zoytvsports2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BJaBiulu9Vpw7U",
+    "name": "Zoy TV Sports 3",
+    "iptv_urls": [
+      "https://fl1004.bozztv.com/ssh101/zoytvsports3/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TfivLS74lFTgVT",
+    "name": "Zoy TV Sports 4",
+    "iptv_urls": [
+      "https://fl1004.bozztv.com/ssh101/zoytvsports4/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oA1YpGjae2oOGn",
+    "name": "Zoy TV Sports 5",
+    "iptv_urls": [
+      "https://fl1004.bozztv.com/ssh101/zoytvsports5/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
     "isGeoBlocked": false
   },
   {

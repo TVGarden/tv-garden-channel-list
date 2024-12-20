@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SUz6ZlewrjG9Ml",
-    "name": "Abai TV",
-    "iptv_urls": [
-      "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kaz",
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0kBMlnbX7VSJtH",
     "name": "Access Media Productions Community Channel",
     "iptv_urls": [
@@ -121,6 +110,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XHxGpxMeodxqTd",
+    "name": "C Malayalam TV",
+    "iptv_urls": [
+      "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mal",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3qrZodX27EMHq4",
     "name": "Canal Diplomático",
     "iptv_urls": [
@@ -181,7 +181,9 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/OHFFFrWx-7k"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -206,6 +208,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UjDwYBRBhLQZVh",
+    "name": "Cumo TV",
+    "iptv_urls": [
+      "https://live.obslivestream.com/cumo/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -246,7 +259,7 @@
     "name": "DD Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XGqy8Mj-5yU"
+      "https://www.youtube-nocookie.com/embed/jY2gMbAvxWs"
     ],
     "language": "urd",
     "country": "in",
@@ -333,22 +346,12 @@
     "nanoid": "2QHwYMt2XZKYvG",
     "name": "Fox Soul",
     "iptv_urls": [
-      "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8"
+      "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-fox-soul-scte.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y9tmDdGOMUn9pB",
-    "name": "Garshom TV",
-    "iptv_urls": [
-      "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mal",
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -422,8 +425,7 @@
     "nanoid": "2ZxD1tHZuInNcl",
     "name": "Jewish Life Television",
     "iptv_urls": [
-      "https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8",
-      "https://cdn.herringnetwork.com/80A4DFF/n1.herringnetwork.com/live3/jltv_720p/playlist.m3u8"
+      "https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -707,17 +709,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TszkNAZPuitlyl",
-    "name": "TV MÁS 2",
-    "iptv_urls": [
-      "https://marine2.miplay.cl/tateti/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YyY2V1OVwBXSvW",
     "name": "TV Omindaré",
     "iptv_urls": [
@@ -781,28 +772,6 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "sn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oNFu9DPCaWFslY",
-    "name": "Yemen Shabab Channel",
-    "iptv_urls": [
-      "https://master.starmena-cloud.com/hls/yemenshabab.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ye",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7IG6c8BLRlAZXA",
-    "name": "Беларусь 3",
-    "iptv_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
     "isGeoBlocked": false
   }
 ]
