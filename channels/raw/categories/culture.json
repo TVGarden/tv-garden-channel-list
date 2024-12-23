@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "A1HSPKu1efRkNQ",
+    "name": "Amani TV",
+    "iptv_urls": [
+      "https://goccn.cloud/hls/amanitv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "sn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "iptv_urls": [
@@ -55,17 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K4LyZRSbFfF4co",
-    "name": "Bel'Afrika Media TV",
-    "iptv_urls": [
-      "https://goccn.cloud/hls/belafrikatv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bYTvtLA2rlhnbu",
     "name": "Bonaire.tv",
     "iptv_urls": [
@@ -74,39 +74,6 @@
     "youtube_urls": [],
     "language": "nld",
     "country": "bq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5b9R7v4eVMOgWj",
-    "name": "BX Arts",
-    "iptv_urls": [
-      "https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HuKbcFSSELNiGB",
-    "name": "BX Culture",
-    "iptv_urls": [
-      "https://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XHxGpxMeodxqTd",
-    "name": "C Malayalam TV",
-    "iptv_urls": [
-      "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mal",
-    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -255,14 +222,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5VAqVtAJLz9Qp2",
-    "name": "DD Urdu",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OTOxAmh6_ZY"
+    "nanoid": "oLOT4ANN5O9Cwb",
+    "name": "Diáspora TV",
+    "iptv_urls": [
+      "https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8"
     ],
-    "language": "urd",
-    "country": "in",
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -285,17 +252,6 @@
     "youtube_urls": [],
     "language": "tam",
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vEu4AbFWQq3rTn",
-    "name": "El Sonorense",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -336,7 +292,8 @@
     "name": "Fox Soul",
     "iptv_urls": [
       "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
-      "https://foxsoul-vizio.amagi.tv/playlist.m3u8"
+      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-fox-soul-scte.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -414,7 +371,8 @@
     "nanoid": "2ZxD1tHZuInNcl",
     "name": "Jewish Life Television",
     "iptv_urls": [
-      "https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8"
+      "https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8",
+      "https://cdn.herringnetwork.com/80A4DFF/n1.herringnetwork.com/live3/jltv_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -632,6 +590,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SYkeshgW48vaJo",
+    "name": "Qausain TV",
+    "iptv_urls": [
+      "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lvPUiyBGTf9h6a",
     "name": "Salto 2",
     "iptv_urls": [
@@ -709,6 +678,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6Y5m4qCukyIvQy",
+    "name": "TVart",
+    "iptv_urls": [
+      "https://stream.osc.bg/tvart/Stream3/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "bul",
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4O9bnPrPfyHk9N",
     "name": "TVBE Joinville",
     "iptv_urls": [
@@ -750,28 +730,6 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "sn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oNFu9DPCaWFslY",
-    "name": "Yemen Shabab Channel",
-    "iptv_urls": [
-      "https://master.starmena-cloud.com/hls/yemenshabab.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ye",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7IG6c8BLRlAZXA",
-    "name": "Беларусь 3",
-    "iptv_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
     "isGeoBlocked": false
   }
 ]

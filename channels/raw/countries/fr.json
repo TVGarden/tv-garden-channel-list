@@ -53,8 +53,7 @@
     "nanoid": "BnlejKnF7Y4nBM",
     "name": "AfricaNews Français",
     "iptv_urls": [
-      "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-2-lu.samsung.wurl.tv/manifest/playlist.m3u8"
+      "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM"
@@ -97,6 +96,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9liJNhs1fNC6iE",
+    "name": "Brionnais TV",
+    "iptv_urls": [
+      "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bOhMEpvHNwuNr8",
     "name": "Caillou",
     "iptv_urls": [
@@ -123,7 +133,8 @@
     "nanoid": "N6zUpl0twGvMyn",
     "name": "Clubbing TV",
     "iptv_urls": [
-      "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8"
+      "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8",
+      "https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -181,7 +192,6 @@
       "https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8",
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
       "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
-      "https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8",
       "https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8",
       "https://rakuten-euronews-10-lu.samsung.wurl.tv/playlist.m3u8",
       "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"
@@ -198,7 +208,8 @@
     "name": "Euronews Français",
     "iptv_urls": [
       "https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8",
-      "https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8"
+      "https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NiRIbKwAejk"
@@ -221,11 +232,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UjFvf9UFcSE0gb",
+    "nanoid": "xrA5xgdFcK6f66",
     "name": "Euronews Italiano",
-    "iptv_urls": [
-      "https://rakuten-euronews-3-it.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pUcmpyynASM"
     ],
@@ -911,17 +920,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ZbARVTcSZVU"
     ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qN23teQnN4PdUo",
-    "name": "TéléGohelle",
-    "iptv_urls": [
-      "https://videas.agglo-lenslievin.fr/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
