@@ -66,13 +66,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3GgXVbdK2cjuBg",
-    "name": "Alanya Posta TV",
+    "nanoid": "Mmz7MUwsZ62HWK",
+    "name": "Almahriah TV",
     "iptv_urls": [
-      "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8"
+      "https://master.starmena-cloud.com/hls/almahriah.m3u8"
     ],
     "youtube_urls": [],
-    "language": "tur",
+    "language": "ara",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -519,7 +519,8 @@
       "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6BX-NUzBSp8"
+      "https://www.youtube-nocookie.com/embed/6BX-NUzBSp8",
+      "https://www.youtube-nocookie.com/embed/2sgyKddzZO0"
     ],
     "language": "tur",
     "country": "tr",
@@ -878,7 +879,7 @@
     "name": "KRT TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EygWwiP-XgM"
+      "https://www.youtube-nocookie.com/embed/nupvbWQa4UA"
     ],
     "language": "tur",
     "country": "tr",
@@ -900,7 +901,7 @@
     "name": "Lider Haber",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1h23B7MEBac"
+      "https://www.youtube-nocookie.com/embed/vm9G5Jy7-6c"
     ],
     "language": "tur",
     "country": "tr",
@@ -955,17 +956,6 @@
     "name": "Mercan TV",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iiGNenuQXArznR",
-    "name": "Milyon TV",
-    "iptv_urls": [
-      "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1119,7 +1109,19 @@
     "nanoid": "w85sfJEC8gJZyR",
     "name": "Power Turk",
     "iptv_urls": [
+      "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
       "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nwdmUE3xH6BSi3",
+    "name": "Power Türk Akustik",
+    "iptv_urls": [
+      "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1282,11 +1284,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NTbXArc6oW55xA",
+    "nanoid": "g63Y2eYd6n78hx",
     "name": "Syria TV",
-    "iptv_urls": [
-      "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/OLWU0rKOQ6o"
     ],
@@ -1441,17 +1441,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e8zax7Tb0zc8Eu",
-    "name": "TRT 1",
-    "iptv_urls": [
-      "https://tv-trt1.medya.trt.com.tr/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IxjjPo0BdLNNBs",
     "name": "TRT 2",
     "iptv_urls": [
@@ -1592,7 +1581,7 @@
     "name": "TRT عربي",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/k5w07BUalH0"
+      "https://www.youtube-nocookie.com/embed/Y1mM7dABGKM"
     ],
     "language": "ara",
     "country": "tr",
@@ -1614,17 +1603,6 @@
     "name": "TV 1",
     "iptv_urls": [
       "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wf7MNM8AhVT0ZL",
-    "name": "TV 8",
-    "iptv_urls": [
-      "https://tv8-live.daioncdn.net/tv8/tv8.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
