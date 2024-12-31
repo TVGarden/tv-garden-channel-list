@@ -99,21 +99,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8UsE7S2700dwqG",
-    "name": "Nicktoons",
-    "iptv_urls": [
-      "https://stream01.vnet.am/Boomerang/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JnxjBtQt6s0RPO",
     "name": "RT Arabic",
     "iptv_urls": [
-      "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8"
+      "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
+      "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -121,9 +111,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VMF9bz9jysLZtk",
+    "name": "RT Documentary English",
+    "iptv_urls": [
+      "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+      "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0mulGVhtSW9kDC",
     "name": "RT Documentary Russian",
     "iptv_urls": [
+      "https://hls.rt.com/hls/rtdru.m3u8",
       "https://streaming.televizor-24-tochka.ru/live/554.m3u8"
     ],
     "youtube_urls": [],
@@ -135,7 +138,8 @@
     "nanoid": "mPfWobHfV25q8P",
     "name": "RT en Español",
     "iptv_urls": [
-      "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8"
+      "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+      "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -219,6 +223,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/7KkbVnOe5ak"
     ],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wllXuyEivFsvvl",
+    "name": "Архыз 24",
+    "iptv_urls": [
+      "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
@@ -433,6 +448,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "x3K6ZIGQqiYkqb",
+    "name": "КИНО-1 INTERNATIONAL",
+    "iptv_urls": [
+      "https://autopilot.catcast.tv/content/38617/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ij1YOE8HL0StOG",
     "name": "Кнопка ТВ",
     "iptv_urls": [
@@ -488,13 +514,35 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V76m2HETkVONkL",
-    "name": "МузТВ",
+    "nanoid": "0T5ExxCBLutEAO",
+    "name": "Музыка 1 International",
     "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/618.m3u8"
+      "https://kino-1.catcast.tv/content/37745/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "rus",
+    "language": "",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wXSCH4nmOtCss7",
+    "name": "Музыка 2 International",
+    "iptv_urls": [
+      "https://kino-1.catcast.tv/content/37742/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "P4d9EwOGhyWfO5",
+    "name": "Музыка Кино International",
+    "iptv_urls": [
+      "https://kino-1.catcast.tv/content/37739/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -502,7 +550,6 @@
     "nanoid": "lCl8WMVdJ5MxcZ",
     "name": "Надежда",
     "iptv_urls": [
-      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
       "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -577,6 +624,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VzlSomi4YyimMb",
+    "name": "Победа",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/43.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "G2als9WLQge4uL",
     "name": "Прима",
     "iptv_urls": [
@@ -628,6 +686,17 @@
     ],
     "youtube_urls": [],
     "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y4xhoODgjNlFG2",
+    "name": "Россия РТР",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/211.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -721,17 +790,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "84HXD5LPc8NimV",
-    "name": "Сургут 24",
-    "iptv_urls": [
-      "https://sitv.ru/vgtrk/stv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8ftc8iZBLVvHNe",
     "name": "Телеканал ЕДА",
     "iptv_urls": [],
@@ -812,6 +870,7 @@
     "nanoid": "TfaEWFgppVp2Rt",
     "name": "Три Ангела",
     "iptv_urls": [
+      "https://hls.tv.3angels.ru/stream.m3u8",
       "https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
