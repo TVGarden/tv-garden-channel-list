@@ -111,6 +111,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "T9dI0W8iuj2OFY",
+    "name": "Baden TV Süd",
+    "iptv_urls": [
+      "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GETWMfMUFuT5ch",
     "name": "Best of Mix: 70s 80s",
     "iptv_urls": [],
@@ -272,6 +283,17 @@
     ],
     "youtube_urls": [],
     "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dSBUaKYtXm09an",
+    "name": "Cira TV",
+    "iptv_urls": [
+      "https://cira-tv.akamaized.net/hls/stream_0.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kur",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -451,17 +473,6 @@
     "name": "EchtJetzt TV",
     "iptv_urls": [
       "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FkwHKfpMGiYx0r",
-    "name": "ems TV Lingen",
-    "iptv_urls": [
-      "https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -856,17 +867,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JMBqVoy25nEXh6",
-    "name": "Noa 4 Hamburg",
-    "iptv_urls": [
-      "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YxHL1LhWQRdskl",
     "name": "Noa 4 Norderstedt",
     "iptv_urls": [
@@ -1056,18 +1056,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FfKKaHEk2MpmA6",
-    "name": "Radio Weser TV Bremen",
-    "iptv_urls": [
-      "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
-      "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "i2oVTNlM3TCzLz",
     "name": "Regio TV Bodensee",
     "iptv_urls": [
@@ -1115,7 +1103,8 @@
     "nanoid": "4uVJ6q6wliLG97",
     "name": "RT DE",
     "iptv_urls": [
-      "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8"
+      "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
+      "https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
