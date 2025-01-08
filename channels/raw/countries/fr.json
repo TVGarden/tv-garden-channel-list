@@ -33,15 +33,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Gmuy6SpwOogHJz",
+    "nanoid": "2U4gd5rnY0obyR",
     "name": "AfricaNews English",
-    "iptv_urls": [
-      "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NQjabLGdP5g"
     ],
@@ -50,12 +44,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BnlejKnF7Y4nBM",
+    "nanoid": "Lo5vR5FNgGw4gl",
     "name": "AfricaNews Français",
-    "iptv_urls": [
-      "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-2-lu.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM"
     ],
@@ -164,9 +155,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DmuSIeE8brywZA",
+    "nanoid": "bIshNL914fZBEa",
     "name": "Euronews en Español",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/O9mOtdZ-nSk"
     ],
@@ -183,6 +176,7 @@
       "https://rakuten-euronews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8",
       "https://rakuten-euronews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-se.samsung.wurl.tv/manifest/playlist.m3u8",
@@ -492,17 +486,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fZyKRU2kHKETIx",
-    "name": "Lou!",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vs6QuD0k-Ec"
-    ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tZGs9rIPSzUbKH",
     "name": "Maurienne TV",
     "iptv_urls": [],
@@ -529,17 +512,6 @@
     "name": "Motorvision.tv (French)",
     "iptv_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WWDxgACXyLT0i3",
-    "name": "MyTime Movie Network",
-    "iptv_urls": [
-      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1026,7 +998,6 @@
     "nanoid": "uS6aOLXBCwTfBG",
     "name": "Trace Sport Stars (Australia)",
     "iptv_urls": [
-      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
       "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8"
     ],
@@ -1091,6 +1062,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "b7X4PEbbxyxgHq",
+    "name": "ViàMatélé",
+    "iptv_urls": [
+      "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZLb0LTi930oyUb",
     "name": "VOIE TV",
     "iptv_urls": [
@@ -1142,17 +1124,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kz1QrxbntvR2ns",
-    "name": "Zig & Sharko",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bNa6daEZYyI"
-    ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   }
