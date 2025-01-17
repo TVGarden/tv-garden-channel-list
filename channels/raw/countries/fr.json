@@ -33,9 +33,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2U4gd5rnY0obyR",
+    "nanoid": "Gmuy6SpwOogHJz",
     "name": "AfricaNews English",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NQjabLGdP5g"
     ],
@@ -64,17 +70,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vdYQ0bMw05s"
     ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dz6yBedOZTM2uU",
-    "name": "BIP TV",
-    "iptv_urls": [
-      "https://biptv.tv/live/biptvstream_orig/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
@@ -128,7 +123,8 @@
     "nanoid": "N6zUpl0twGvMyn",
     "name": "Clubbing TV",
     "iptv_urls": [
-      "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8"
+      "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8",
+      "https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -187,7 +183,6 @@
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
       "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
       "https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8",
-      "https://rakuten-euronews-10-lu.samsung.wurl.tv/playlist.m3u8",
       "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"
     ],
     "youtube_urls": [
@@ -493,7 +488,7 @@
     "name": "Lou!",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/X9eior6wKRs"
+      "https://www.youtube-nocookie.com/embed/pBj4p0lFc_Q"
     ],
     "language": "fra",
     "country": "fr",
@@ -505,17 +500,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/5ARTNKq49WY"
-    ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OT7cC0iY15HoKp",
-    "name": "Mosaïk Cristal",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ffBxrMjyll8"
     ],
     "language": "fra",
     "country": "fr",
@@ -726,7 +710,7 @@
       "https://turkhls.persiana.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
-    "language": "tur",
+    "language": "fas",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -841,11 +825,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xv9b7Q8DQqzTWg",
+    "name": "RT France",
+    "iptv_urls": [
+      "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
+      "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e2QKMdwgfK4Vxo",
     "name": "Simon Super Lapin",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/S0KCtzAcg80"
+      "https://www.youtube-nocookie.com/embed/d-e1NI_ET0c"
     ],
     "language": "fra",
     "country": "fr",

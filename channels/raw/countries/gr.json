@@ -55,10 +55,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gTRpcJwVgakhrn",
-    "name": "Diavata TV",
+    "nanoid": "fUzoQspzSgVpqR",
+    "name": "Baraza TV Relaxing",
     "iptv_urls": [
-      "https://ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8"
+      "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
@@ -83,17 +83,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/g63i5tVDjvA"
     ],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HQxmczuRTCLJHk",
-    "name": "Ellinikos FM",
-    "iptv_urls": [
-      "https://til.pp.ua:3093/live/ellinikosfmlive.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "ell",
     "country": "gr",
     "isGeoBlocked": false
@@ -132,17 +121,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rNwXK8U9QtgSSA",
-    "name": "Faros TV2",
-    "iptv_urls": [
-      "https://s1.cystream.net/live/faros2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X0haIGa7ZpoK7o",
     "name": "Galaxy",
     "iptv_urls": [
@@ -161,6 +139,17 @@
     ],
     "youtube_urls": [],
     "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "durpnxyp5qkLvN",
+    "name": "Greek TV London",
+    "iptv_urls": [
+      "https://vdo3.alphaserver.gr:3466/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "gr",
     "isGeoBlocked": false
   },
@@ -191,6 +180,17 @@
     "name": "Kontra Channel",
     "iptv_urls": [
       "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "syiSHu51AliWkD",
+    "name": "Lychnos TV",
+    "iptv_urls": [
+      "https://thor.mental-media.gr:19360/imp/imp.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
@@ -234,7 +234,8 @@
     "nanoid": "nOgaKVJqtjFRdy",
     "name": "Nea TV",
     "iptv_urls": [
-      "https://live.neatv.gr:8888/hls/neatv.m3u8"
+      "https://live.neatv.gr:8888/hls/neatv.m3u8",
+      "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
@@ -275,10 +276,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "maB691Pev3fC3X",
-    "name": "NS TV",
+    "nanoid": "NRZMBeU73QGtG9",
+    "name": "One Channel",
     "iptv_urls": [
-      "https://til.pp.ua:3262/live/nstv7live.m3u8"
+      "https://onechannel.siliconweb.com/one/stream/chunks.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
@@ -286,10 +287,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NRZMBeU73QGtG9",
-    "name": "One Channel",
+    "nanoid": "L3j1vKGF6lnpfD",
+    "name": "Panik TV",
     "iptv_urls": [
-      "https://onechannel.siliconweb.com/one/stream/chunks.m3u8"
+      "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
@@ -323,17 +324,6 @@
     "name": "STAR International",
     "iptv_urls": [
       "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J0odgAtajSNXf0",
-    "name": "Star Kentrikis Elladas",
-    "iptv_urls": [
-      "https://telmacosa.s.llnwi.net/starcgr/default/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
