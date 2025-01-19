@@ -4,7 +4,19 @@
     "name": "Al Jazeera Arabic",
     "iptv_urls": [
       "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
-      "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
+      "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+      "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "qa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3oOGifYILJKN8h",
+    "name": "Al Jazeera Documentary",
+    "iptv_urls": [
+      "https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -17,6 +29,7 @@
     "iptv_urls": [
       "https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8",
       "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+      "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
       "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8"
     ],
     "youtube_urls": [],
@@ -28,7 +41,8 @@
     "nanoid": "zXY3iyHS9joFvJ",
     "name": "Al Jazeera Mubasher",
     "iptv_urls": [
-      "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"
+      "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+      "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -62,7 +76,8 @@
     "name": "Alaraby 2 TV",
     "iptv_urls": [
       "https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8",
-      "https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8"
+      "https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -74,10 +89,11 @@
     "name": "Alaraby TV",
     "iptv_urls": [
       "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8",
-      "https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8"
+      "https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/e2RgSa1Wt5o"
+      "https://www.youtube-nocookie.com/embed/8KZJ3HfmN0c"
     ],
     "language": "ara",
     "country": "qa",
