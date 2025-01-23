@@ -190,6 +190,7 @@
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
       "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
       "https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8",
+      "https://rakuten-euronews-10-lu.samsung.wurl.tv/playlist.m3u8",
       "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"
     ],
     "youtube_urls": [
@@ -228,9 +229,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xrA5xgdFcK6f66",
+    "nanoid": "UjFvf9UFcSE0gb",
     "name": "Euronews Italiano",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-euronews-3-it.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pUcmpyynASM"
     ],
@@ -438,6 +441,17 @@
     "name": "HANDICAP TV France",
     "iptv_urls": [
       "https://srv.webtvmanager.fr:3697/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EjjtspCPPNAewo",
+    "name": "KTO",
+    "iptv_urls": [
+      "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -1081,17 +1095,6 @@
     "name": "ViàMatélé",
     "iptv_urls": [
       "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZLb0LTi930oyUb",
-    "name": "VOIE TV",
-    "iptv_urls": [
-      "https://ssh101-fl.bozztv.com/ssh101/matelevisionweb/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

@@ -111,6 +111,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HISiOL7NmfoR6g",
+    "name": "Baden TV",
+    "iptv_urls": [
+      "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "T9dI0W8iuj2OFY",
     "name": "Baden TV Süd",
     "iptv_urls": [
@@ -513,17 +524,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "18vGI4yRhljatv",
-    "name": "H1 Fernsehen",
-    "iptv_urls": [
-      "https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KWubgLKIN9lBtR",
     "name": "Handystar",
     "iptv_urls": [
@@ -692,7 +692,8 @@
     "nanoid": "0yjVBN9zD5VvoM",
     "name": "KiKA",
     "iptv_urls": [
-      "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8"
+      "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8",
+      "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1081,8 +1082,7 @@
     "nanoid": "FfKKaHEk2MpmA6",
     "name": "Radio Weser TV Bremen",
     "iptv_urls": [
-      "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
-      "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8"
+      "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1137,7 +1137,6 @@
     "nanoid": "4uVJ6q6wliLG97",
     "name": "RT DE",
     "iptv_urls": [
-      "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
       "https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8"
     ],
     "youtube_urls": [],
