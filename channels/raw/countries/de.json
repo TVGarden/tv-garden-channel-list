@@ -111,28 +111,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HISiOL7NmfoR6g",
-    "name": "Baden TV",
-    "iptv_urls": [
-      "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T9dI0W8iuj2OFY",
-    "name": "Baden TV Süd",
-    "iptv_urls": [
-      "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GETWMfMUFuT5ch",
     "name": "Best of Mix: 70s 80s",
     "iptv_urls": [],
@@ -436,17 +414,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FkwHKfpMGiYx0r",
-    "name": "ems TV Lingen",
-    "iptv_urls": [
-      "https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dikaN7zl5U7F3z",
     "name": "Erz-TV Stollberg",
     "iptv_urls": [
@@ -519,6 +486,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/4DDhBIAXz0Y"
     ],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "18vGI4yRhljatv",
+    "name": "H1 Fernsehen",
+    "iptv_urls": [
+      "https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "deu",
     "country": "de",
     "isGeoBlocked": false
@@ -1079,17 +1057,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FfKKaHEk2MpmA6",
-    "name": "Radio Weser TV Bremen",
-    "iptv_urls": [
-      "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "i2oVTNlM3TCzLz",
     "name": "Regio TV Bodensee",
     "iptv_urls": [
@@ -1137,6 +1104,7 @@
     "nanoid": "4uVJ6q6wliLG97",
     "name": "RT DE",
     "iptv_urls": [
+      "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
       "https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8"
     ],
     "youtube_urls": [],

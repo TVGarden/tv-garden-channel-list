@@ -50,9 +50,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Lo5vR5FNgGw4gl",
+    "nanoid": "BnlejKnF7Y4nBM",
     "name": "AfricaNews Français",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-2-lu.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM"
     ],
@@ -67,17 +70,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vdYQ0bMw05s"
     ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dz6yBedOZTM2uU",
-    "name": "BIP TV",
-    "iptv_urls": [
-      "https://biptv.tv/live/biptvstream_orig/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
@@ -98,29 +90,6 @@
     "name": "Brionnais TV",
     "iptv_urls": [
       "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bOhMEpvHNwuNr8",
-    "name": "Caillou",
-    "iptv_urls": [
-      "https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8",
-      "https://dhx-caillou-2-fr.samsung.wurl.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RMbGSeJmY7CCNa",
-    "name": "Cannes Lérins TV",
-    "iptv_urls": [
-      "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -201,13 +170,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "32YXpnKvxn9M0K",
+    "nanoid": "GeBJL1efFzyzZ1",
     "name": "Euronews Français",
-    "iptv_urls": [
-      "https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8",
-      "https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NiRIbKwAejk"
     ],
@@ -509,17 +474,6 @@
       "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fZyKRU2kHKETIx",
-    "name": "Lou!",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pBj4p0lFc_Q"
-    ],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
@@ -924,6 +878,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qN23teQnN4PdUo",
+    "name": "TéléGohelle",
+    "iptv_urls": [
+      "https://videas.agglo-lenslievin.fr/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ywCgVh7HIQrcsU",
     "name": "Televisa Telenovela Channel",
     "iptv_urls": [
@@ -1095,6 +1060,17 @@
     "name": "ViàMatélé",
     "iptv_urls": [
       "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZLb0LTi930oyUb",
+    "name": "VOIE TV",
+    "iptv_urls": [
+      "https://ssh101-fl.bozztv.com/ssh101/matelevisionweb/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

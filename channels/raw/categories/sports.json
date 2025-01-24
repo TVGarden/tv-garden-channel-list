@@ -156,6 +156,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9CXmhwqvLqfUzo",
+    "name": "CDN Deporte",
+    "iptv_urls": [
+      "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "E79H6dHPexVrsV",
     "name": "Champion TV",
     "iptv_urls": [
@@ -164,6 +175,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cEtgYgEtHzj5Ic",
+    "name": "ColimdoT TV",
+    "iptv_urls": [
+      "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -178,32 +200,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3GLrMzIr2H1nF3",
-    "name": "Dubai Racing",
-    "iptv_urls": [
-      "https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GE37pCdEhOkN7g",
     "name": "Dubai Racing 2",
     "iptv_urls": [
       "https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CLmt4qMWKgdRSD",
-    "name": "Dubai Racing 3",
-    "iptv_urls": [
-      "https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -614,6 +614,7 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
+      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
       "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
@@ -771,17 +772,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UPkHrsKiFjmLP4",
-    "name": "Sharjah Sports TV",
-    "iptv_urls": [
-      "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PQO3nTobe9PoFo",
     "name": "SOS Kanal Plus",
     "iptv_urls": [
@@ -828,9 +818,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Pj3Pb4MifHuOI3",
+    "name": "Sports TV",
+    "iptv_urls": [
+      "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
+      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1151,17 +1153,6 @@
     ],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OhT2rOhQEAqu1t",
-    "name": "Zoy TV Sports 1",
-    "iptv_urls": [
-      "https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
     "isGeoBlocked": false
   },
   {
