@@ -75,6 +75,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dz6yBedOZTM2uU",
+    "name": "BIP TV",
+    "iptv_urls": [
+      "https://biptv.tv/live/biptvstream_orig/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vhG711xcr9II8o",
     "name": "Bref Cinéma 100% Court Métrage",
     "iptv_urls": [
@@ -112,17 +123,6 @@
     "name": "DBM",
     "iptv_urls": [
       "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kDlG6sZPIC1CSl",
-    "name": "Ère TV",
-    "iptv_urls": [
-      "https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -170,9 +170,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GeBJL1efFzyzZ1",
+    "nanoid": "32YXpnKvxn9M0K",
     "name": "Euronews Français",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8",
+      "https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NiRIbKwAejk"
     ],
@@ -776,6 +779,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PiWVJq36TGGfTp",
+    "name": "Rakuten TV Gusto.tv",
+    "iptv_urls": [
+      "https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jZlMQR1wIm8mNk",
     "name": "Rakuten TV Viki Europe",
     "iptv_urls": [
@@ -873,17 +887,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ZbARVTcSZVU"
     ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qN23teQnN4PdUo",
-    "name": "TéléGohelle",
-    "iptv_urls": [
-      "https://videas.agglo-lenslievin.fr/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
@@ -1004,6 +1007,7 @@
     "nanoid": "9MNQHSCkqJkjse",
     "name": "Trace Urban (Australia)",
     "iptv_urls": [
+      "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1071,6 +1075,17 @@
     "name": "VOIE TV",
     "iptv_urls": [
       "https://ssh101-fl.bozztv.com/ssh101/matelevisionweb/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ygqSjKK8HMDyzG",
+    "name": "Vosges Télévision",
+    "iptv_urls": [
+      "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
