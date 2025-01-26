@@ -174,7 +174,8 @@
     "name": "Euronews Français",
     "iptv_urls": [
       "https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8",
-      "https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8"
+      "https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NiRIbKwAejk"
@@ -184,11 +185,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JyVf4M7JRgVcg7",
+    "nanoid": "S07VBtlQltCrbL",
     "name": "Euronews German",
-    "iptv_urls": [
-      "https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CQ3KsEbsYHs"
     ],
@@ -779,17 +778,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PiWVJq36TGGfTp",
-    "name": "Rakuten TV Gusto.tv",
-    "iptv_urls": [
-      "https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jZlMQR1wIm8mNk",
     "name": "Rakuten TV Viki Europe",
     "iptv_urls": [
@@ -887,6 +875,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ZbARVTcSZVU"
     ],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qN23teQnN4PdUo",
+    "name": "TéléGohelle",
+    "iptv_urls": [
+      "https://videas.agglo-lenslievin.fr/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
@@ -1007,7 +1006,6 @@
     "nanoid": "9MNQHSCkqJkjse",
     "name": "Trace Urban (Australia)",
     "iptv_urls": [
-      "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1075,17 +1073,6 @@
     "name": "VOIE TV",
     "iptv_urls": [
       "https://ssh101-fl.bozztv.com/ssh101/matelevisionweb/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ygqSjKK8HMDyzG",
-    "name": "Vosges Télévision",
-    "iptv_urls": [
-      "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

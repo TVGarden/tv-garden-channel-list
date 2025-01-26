@@ -89,28 +89,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3GgXVbdK2cjuBg",
-    "name": "Alanya Posta TV",
-    "iptv_urls": [
-      "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Mmz7MUwsZ62HWK",
-    "name": "Almahriah TV",
-    "iptv_urls": [
-      "https://master.starmena-cloud.com/hls/almahriah.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yL3s4jwp0ivExp",
     "name": "Anadolu Net TV",
     "iptv_urls": [
@@ -251,7 +229,8 @@
     "nanoid": "4Za496nrSp2hGQ",
     "name": "Cekmeköy TV",
     "iptv_urls": [
-      "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8"
+      "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8",
+      "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -408,6 +387,17 @@
     "name": "Er TV",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WHkVQZYPgkweaG",
+    "name": "Erzurum Web TV",
+    "iptv_urls": [
+      "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -937,17 +927,6 @@
     ],
     "youtube_urls": [],
     "language": "ara",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kAe6ZeSL18s1wy",
-    "name": "Meltem TV",
-    "iptv_urls": [
-      "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -1531,19 +1510,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "owJJC4tX2SQL4u",
-    "name": "TRT Haber",
-    "iptv_urls": [
-      "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nRLtguq73UE"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DvTpyreMH9scO0",
     "name": "TRT Kurdî",
     "iptv_urls": [
@@ -1582,21 +1548,8 @@
     "iptv_urls": [
       "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qT6hiV3bnVI"
-    ],
+    "youtube_urls": [],
     "language": "eng",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KC5nh6bphX43l3",
-    "name": "TRT عربي",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Y1mM7dABGKM"
-    ],
-    "language": "ara",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -1682,7 +1635,7 @@
     "name": "TV100",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/P5BOJKmWaaI"
+      "https://www.youtube-nocookie.com/embed/6g_DvD8e2T0"
     ],
     "language": "tur",
     "country": "tr",

@@ -66,12 +66,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1q3kaCpiJgYIgc",
-    "name": "Assembleia SC: AO VIVO",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wW1BYrNl7L4"
+    "nanoid": "Tt9XEQGxhiqZ41",
+    "name": "Assembleia Legislativa do Estado de Mato Grosso",
+    "iptv_urls": [
+      "https://streaming.al.mt.gov.br/test/index.m3u8"
     ],
+    "youtube_urls": [],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -376,6 +376,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4NqzxbZMKzdN0D",
+    "name": "GuaTV",
+    "iptv_urls": [
+      "https://cdn.streamhispanatv.net:3352/live/guatvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dZC061Hb8JBajh",
     "name": "Hillsborough County TV HTV (Hillsborough County FL)",
     "iptv_urls": [
@@ -424,17 +435,6 @@
     "name": "Kern County Television",
     "iptv_urls": [
       "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JtUQGJtpnhTNyv",
-    "name": "LA CityView 35",
-    "iptv_urls": [
-      "https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -765,7 +765,8 @@
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8"
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8",
+      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -922,6 +923,17 @@
     "name": "Santa Maria Community Television Government Channel",
     "iptv_urls": [
       "https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Zi70FEF1M2coJp",
+    "name": "Santa Monica City TV 20 (Santa Monica CA)",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1168,17 +1180,6 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jdtDDFx09GQYAn",
-    "name": "Дума ТВ",
-    "iptv_urls": [
-      "https://dumatv.iptv2022.com/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
     "isGeoBlocked": false
   }
 ]

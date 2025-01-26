@@ -14,10 +14,6 @@
     "nanoid": "RT940A59Teonvk",
     "name": "Al Jazeera English",
     "iptv_urls": [
-      "https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8",
-      "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
-      "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
-      "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
       "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8"
     ],
     "youtube_urls": [],
@@ -148,19 +144,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ekFWl5aVUxSeip",
-    "name": "RT News",
-    "iptv_urls": [
-      "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
-      "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
-      "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "v7SxxnsQX39ThO",
     "name": "Scripps News",
     "iptv_urls": [
@@ -189,9 +172,7 @@
     "iptv_urls": [
       "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qT6hiV3bnVI"
-    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "tr",
     "isGeoBlocked": false
@@ -203,6 +184,7 @@
       "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
       "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8",
       "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
+      "https://wion-klowdtv.amagi.tv/playlist.m3u8",
       "https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8",
       "https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8",
       "https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8",
