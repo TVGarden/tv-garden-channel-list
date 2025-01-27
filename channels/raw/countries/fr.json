@@ -33,15 +33,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Gmuy6SpwOogHJz",
+    "nanoid": "2U4gd5rnY0obyR",
     "name": "AfricaNews English",
-    "iptv_urls": [
-      "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NQjabLGdP5g"
     ],
@@ -50,12 +44,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BnlejKnF7Y4nBM",
+    "nanoid": "Lo5vR5FNgGw4gl",
     "name": "AfricaNews Français",
-    "iptv_urls": [
-      "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://rakuten-africanews-2-lu.samsung.wurl.tv/manifest/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM"
     ],
@@ -101,6 +92,17 @@
     "name": "Brionnais TV",
     "iptv_urls": [
       "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RMbGSeJmY7CCNa",
+    "name": "Cannes Lérins TV",
+    "iptv_urls": [
+      "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -158,7 +160,6 @@
       "https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8",
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
       "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
-      "https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8",
       "https://rakuten-euronews-10-lu.samsung.wurl.tv/playlist.m3u8",
       "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"
     ],
@@ -185,9 +186,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S07VBtlQltCrbL",
+    "nanoid": "JyVf4M7JRgVcg7",
     "name": "Euronews German",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CQ3KsEbsYHs"
     ],
@@ -476,6 +479,17 @@
       "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fZyKRU2kHKETIx",
+    "name": "Lou!",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/HvW1khZP3ks"
+    ],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
@@ -834,6 +848,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "e2QKMdwgfK4Vxo",
+    "name": "Simon Super Lapin",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/62JK5HTUYgE"
+    ],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zlZnrWMlY26X8V",
     "name": "Sport En France",
     "iptv_urls": [
@@ -993,8 +1018,6 @@
     "nanoid": "uS6aOLXBCwTfBG",
     "name": "Trace Sport Stars (Australia)",
     "iptv_urls": [
-      "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
-      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

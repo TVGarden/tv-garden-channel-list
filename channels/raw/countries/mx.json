@@ -341,17 +341,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V6pPiJjEbQi9KL",
-    "name": "MVS TV",
-    "iptv_urls": [
-      "https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4i2dbm12cF2ARa",
     "name": "Nayarit Comunica",
     "iptv_urls": [
@@ -440,10 +429,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "inKpcU1CFpY4af",
+    "name": "SIPSE TV 8.1",
+    "iptv_urls": [
+      "https://webprod.sipse.com.mx:8080/show/merida.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bqZG2nHHXJFyOO",
     "name": "SIPSE TVCUN 8.1",
     "iptv_urls": [
       "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bWHBTSEbyYf27m",
+    "name": "Super Channel 12",
+    "iptv_urls": [
+      "https://servilive.com:3263/live/channel12live.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -534,6 +545,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/r_ORP9CLXR8"
+    ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OqUk1Slt9fsdYN",
+    "name": "Televisa Monterrey",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/KgeLzIQJZRg"
     ],
     "language": "spa",
     "country": "mx",
@@ -862,7 +884,19 @@
     "nanoid": "2EyL9brYPFxMTy",
     "name": "VB Media TV",
     "iptv_urls": [
-      "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8"
+      "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
+      "https://stream8.mexiserver.com:19360/vbmediatv-1/vbmediatv-1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NMv110aM0XbHrD",
+    "name": "Visión Televisión",
+    "iptv_urls": [
+      "https://cloudvideo.servers10.com:8081/8016/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
