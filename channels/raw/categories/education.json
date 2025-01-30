@@ -67,17 +67,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "5ZGnLxWOqASmvp",
-    "name": "Asharq Discovery",
-    "iptv_urls": [
-      "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "sa",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9K9o1s1ZymXXxU",
     "name": "Bolton Community Voice Channel (CVC) Education (Bolton CT)",
     "iptv_urls": [
@@ -86,6 +75,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1FGdyXp2FzRogD",
+    "name": "Canal 15 ILCE Summa Sabres",
+    "iptv_urls": [
+      "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -116,7 +116,9 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Ck0T_iRffPo"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -497,6 +499,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UakGhPnebL79ku",
+    "name": "KCAT Public Media TV",
+    "iptv_urls": [
+      "https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dzZhPTRLU6fXlS",
     "name": "KITE Victers (Kerala)",
     "iptv_urls": [
@@ -552,17 +565,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "x3F9gYLjcCoe0W",
-    "name": "Multizonas TV",
-    "iptv_urls": [
-      "https://cloudvideo.servers10.com:8081/8068/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2PK0HtN7psnOuw",
     "name": "Napa Valley TV Education Access Channel 27",
     "iptv_urls": [
@@ -599,6 +601,7 @@
     "nanoid": "dYt045ogXamqS6",
     "name": "NRWision",
     "iptv_urls": [
+      "https://fms.nrwision.de/live/livestreamHD.stream_1080p/playlist.m3u8",
       "https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -648,17 +651,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "n4MkAIlXwdSE8X",
-    "name": "OUN",
-    "iptv_urls": [
-      "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -893,17 +885,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "p4obNYU8nK7E4h",
-    "name": "TVE RS",
-    "iptv_urls": [
-      "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "m3PpQXO8kJ3GQC",
     "name": "TVK 2",
     "iptv_urls": [
@@ -959,17 +940,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "moehtnlcI4ChMQ",
-    "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pX1BBTNV790"
-    ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dux8IWjtPNnNTy",
     "name": "Vyas NIC",
     "iptv_urls": [
@@ -978,6 +948,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JliijnACP4jH0u",
+    "name": "WIKI TV",
+    "iptv_urls": [
+      "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "khm",
+    "country": "kh",
     "isGeoBlocked": false
   },
   {

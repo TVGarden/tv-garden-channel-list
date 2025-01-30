@@ -38,6 +38,7 @@
     "iptv_urls": [
       "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://37c774660687468c821a51190046facf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_AfricaNews/playlist.m3u8",
       "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
@@ -70,17 +71,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vdYQ0bMw05s"
     ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dz6yBedOZTM2uU",
-    "name": "BIP TV",
-    "iptv_urls": [
-      "https://biptv.tv/live/biptvstream_orig/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
@@ -122,7 +112,8 @@
     "nanoid": "N6zUpl0twGvMyn",
     "name": "Clubbing TV",
     "iptv_urls": [
-      "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8"
+      "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8",
+      "https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -292,6 +283,7 @@
     "nanoid": "QTt1dcipSCDwN0",
     "name": "Fashion TV (Spain)",
     "iptv_urls": [
+      "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8",
       "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8",
       "https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8"
@@ -565,6 +557,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "y5OuRzzHjHXep5",
+    "name": "Motorsport.tv",
+    "iptv_urls": [
+      "https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BoupFeA3cv43aA",
     "name": "Motorvision.tv (French)",
     "iptv_urls": [
@@ -807,17 +810,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ECSlxJfJ9jZA9a",
-    "name": "Rakuten Guardian",
-    "iptv_urls": [
-      "https://rakuten-guardian-1-fr.lg.wurl.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XkoIG08uOoZCuz",
     "name": "Rakuten TV Films Français",
     "iptv_urls": [
@@ -953,6 +945,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qN23teQnN4PdUo",
+    "name": "TéléGohelle",
+    "iptv_urls": [
+      "https://videas.agglo-lenslievin.fr/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ywCgVh7HIQrcsU",
     "name": "Televisa Telenovela Channel",
     "iptv_urls": [
@@ -1055,6 +1058,7 @@
     "nanoid": "uS6aOLXBCwTfBG",
     "name": "Trace Sport Stars (Australia)",
     "iptv_urls": [
+      "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
