@@ -125,7 +125,8 @@
     "nanoid": "UBjqGDOceqJLt2",
     "name": "ATV",
     "iptv_urls": [
-      "https://c.fulltvizle.com/aytv/index.m3u8"
+      "https://c.fulltvizle.com/aytv/index.m3u8",
+      "https://streamer2.nexgen.bz/ATV/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -228,8 +229,7 @@
     "nanoid": "4Za496nrSp2hGQ",
     "name": "Cekmeköy TV",
     "iptv_urls": [
-      "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8",
-      "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8"
+      "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -454,17 +454,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/FGL1GwoRRIw"
     ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CViLP4AU5zHBJ8",
-    "name": "Gonca TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -1106,17 +1095,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vlixqABLRnnfK4",
-    "name": "Öncü TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fEdPdOM5VlxlUw",
     "name": "Power Dance",
     "iptv_urls": [
@@ -1476,17 +1454,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IxjjPo0BdLNNBs",
-    "name": "TRT 2",
-    "iptv_urls": [
-      "https://tv-trt2.medya.trt.com.tr/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Tsl1TXkC1cdSTl",
     "name": "TRT Arabi",
     "iptv_urls": [
@@ -1558,9 +1525,7 @@
     "iptv_urls": [
       "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OMlmKwFaw2Q"
-    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -1604,21 +1569,8 @@
     "iptv_urls": [
       "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/sBSFCE8JjcE"
-    ],
+    "youtube_urls": [],
     "language": "eng",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KC5nh6bphX43l3",
-    "name": "TRT عربي",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lnRA9PZpF7Y"
-    ],
-    "language": "ara",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -1638,6 +1590,17 @@
     "name": "TV 1",
     "iptv_urls": [
       "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wf7MNM8AhVT0ZL",
+    "name": "TV 8",
+    "iptv_urls": [
+      "https://tv8-live.daioncdn.net/tv8/tv8.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
