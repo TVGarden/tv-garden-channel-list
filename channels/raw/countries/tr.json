@@ -229,7 +229,8 @@
     "nanoid": "4Za496nrSp2hGQ",
     "name": "Cekmeköy TV",
     "iptv_urls": [
-      "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8"
+      "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8",
+      "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -476,17 +477,6 @@
       "https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "I6D9IHQIDu6y7l",
-    "name": "Güldür Güldür Show",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/O9-xytxZFuI"
-    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -1095,6 +1085,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vlixqABLRnnfK4",
+    "name": "Öncü TV",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fEdPdOM5VlxlUw",
     "name": "Power Dance",
     "iptv_urls": [
@@ -1257,6 +1258,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ztmY_cCtUl0"
     ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Pj3Pb4MifHuOI3",
+    "name": "Sports TV",
+    "iptv_urls": [
+      "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -1454,6 +1466,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IxjjPo0BdLNNBs",
+    "name": "TRT 2",
+    "iptv_urls": [
+      "https://tv-trt2.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Tsl1TXkC1cdSTl",
     "name": "TRT Arabi",
     "iptv_urls": [
@@ -1525,7 +1548,9 @@
     "iptv_urls": [
       "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/us6RE6dDmmM"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -1569,8 +1594,21 @@
     "iptv_urls": [
       "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/VeWxAVrQoiM"
+    ],
     "language": "eng",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KC5nh6bphX43l3",
+    "name": "TRT عربي",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/iGakSHr5DJM"
+    ],
+    "language": "ara",
     "country": "tr",
     "isGeoBlocked": false
   },
