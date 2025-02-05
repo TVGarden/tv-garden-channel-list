@@ -157,10 +157,43 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Mut1mafEBDelBc",
+    "name": "CBS Sports Golazo Network",
+    "iptv_urls": [
+      "https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9CXmhwqvLqfUzo",
     "name": "CDN Deporte",
     "iptv_urls": [
       "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "E79H6dHPexVrsV",
+    "name": "Champion TV",
+    "iptv_urls": [
+      "https://canal.mediaserver.com.co/live/ChampionTv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cEtgYgEtHzj5Ic",
+    "name": "ColimdoT TV",
+    "iptv_urls": [
+      "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -242,6 +275,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ETfZkWKcpifxha",
+    "name": "ESR 24x7 eSports Network",
+    "iptv_urls": [
+      "https://eyeonesports.com/ES2RA-628g.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -616,7 +660,9 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
-      "https://pac12-samsungus.amagi.tv/playlist.m3u8"
+      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
+      "https://pac12-samsungus.amagi.tv/playlist.m3u8",
+      "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -684,7 +730,7 @@
     "name": "QSVS: Top Calcio 24",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/khJAWSXOJ9c"
+      "https://www.youtube-nocookie.com/embed/Nu2JGd0TJaM"
     ],
     "language": "ita",
     "country": "it",
@@ -772,6 +818,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UPkHrsKiFjmLP4",
+    "name": "Sharjah Sports TV",
+    "iptv_urls": [
+      "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PQO3nTobe9PoFo",
     "name": "SOS Kanal Plus",
     "iptv_urls": [
@@ -821,11 +878,23 @@
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
+      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QFeqNVC4yI068h",
+    "name": "SPOTV (Indonesia)",
+    "iptv_urls": [
+      "https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1041,10 +1110,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Wbrb2C2Gun42Sy",
-    "name": "TVS Classic Sports",
+    "nanoid": "weRNAtNJMdiRC8",
+    "name": "TVS Boxing",
     "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvs/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
