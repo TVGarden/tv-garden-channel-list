@@ -150,6 +150,7 @@
       "https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
+      "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
       "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"
     ],
     "youtube_urls": [
@@ -492,6 +493,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xOFPIpGGq4ZURX",
+    "name": "Littoral FM",
+    "iptv_urls": [
+      "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fZyKRU2kHKETIx",
     "name": "Lou!",
     "iptv_urls": [],
@@ -551,17 +563,6 @@
     "name": "MyTime Movie Network",
     "iptv_urls": [
       "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bpkqoQyazekjjY",
-    "name": "Mytime Movies",
-    "iptv_urls": [
-      "https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1048,7 +1049,6 @@
     "nanoid": "uS6aOLXBCwTfBG",
     "name": "Trace Sport Stars (Australia)",
     "iptv_urls": [
-      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1060,6 +1060,7 @@
     "nanoid": "9MNQHSCkqJkjse",
     "name": "Trace Urban (Australia)",
     "iptv_urls": [
+      "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1094,28 +1095,6 @@
     "name": "TV78",
     "iptv_urls": [
       "https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b7X4PEbbxyxgHq",
-    "name": "ViàMatélé",
-    "iptv_urls": [
-      "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZLb0LTi930oyUb",
-    "name": "VOIE TV",
-    "iptv_urls": [
-      "https://ssh101-fl.bozztv.com/ssh101/matelevisionweb/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
