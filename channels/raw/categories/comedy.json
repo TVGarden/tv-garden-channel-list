@@ -84,7 +84,6 @@
     "name": "Comedy Dynamics",
     "iptv_urls": [
       "https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8",
-      "https://comedydynamics-tcl.amagi.tv/playlist.m3u8",
       "https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -145,7 +144,7 @@
     "iptv_urls": [
       "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8",
       "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8",
-      "https://du1gyxfing4ke.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-HumorMill/152.m3u8"
+      "https://du1gyxfing4ke.cloudfront.net/scheduler/scheduleMaster/152.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -161,6 +160,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "jo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dbnw7VxkLHcOBs",
+    "name": "Just for Laughs Gags",
+    "iptv_urls": [
+      "https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -250,6 +260,17 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bSyZI3uj6B02G3",
+    "name": "Roya Comedy",
+    "iptv_urls": [
+      "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "jo",
     "isGeoBlocked": false
   },
   {

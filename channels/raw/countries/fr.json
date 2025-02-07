@@ -150,8 +150,8 @@
       "https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
-      "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
-      "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"
+      "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8",
+      "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
@@ -267,17 +267,6 @@
       "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8",
       "https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "043uvMlHjSlVqx",
-    "name": "Fashion TV UHD",
-    "iptv_urls": [
-      "https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -427,6 +416,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SYs8qP2f2Z7mEC",
+    "name": "Kozoom TV",
+    "iptv_urls": [
+      "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EjjtspCPPNAewo",
     "name": "KTO",
     "iptv_urls": [
@@ -508,7 +508,7 @@
     "name": "Lou!",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JXZgBuHvxvA"
+      "https://www.youtube-nocookie.com/embed/hFnQzwLkDiQ"
     ],
     "language": "fra",
     "country": "fr",
@@ -1060,7 +1060,6 @@
     "nanoid": "9MNQHSCkqJkjse",
     "name": "Trace Urban (Australia)",
     "iptv_urls": [
-      "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1095,6 +1094,17 @@
     "name": "TV78",
     "iptv_urls": [
       "https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZLb0LTi930oyUb",
+    "name": "VOIE TV",
+    "iptv_urls": [
+      "https://ssh101-fl.bozztv.com/ssh101/matelevisionweb/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
