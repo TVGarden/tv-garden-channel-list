@@ -111,10 +111,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T9dI0W8iuj2OFY",
-    "name": "Baden TV Süd",
+    "nanoid": "HISiOL7NmfoR6g",
+    "name": "Baden TV",
     "iptv_urls": [
-      "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8"
+      "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -761,6 +761,7 @@
     "nanoid": "E00cpYmcTm5FiQ",
     "name": "Motorvision",
     "iptv_urls": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/0968af15-603e-4856-9185-f61cf74ef17e/4.m3u8",
       "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
       "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
     ],
@@ -885,6 +886,17 @@
     "name": "Niederbayern TV Passau",
     "iptv_urls": [
       "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JMBqVoy25nEXh6",
+    "name": "Noa 4 Hamburg",
+    "iptv_urls": [
+      "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1081,18 +1093,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FfKKaHEk2MpmA6",
-    "name": "Radio Weser TV Bremen",
-    "iptv_urls": [
-      "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
-      "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "i2oVTNlM3TCzLz",
     "name": "Regio TV Bodensee",
     "iptv_urls": [
@@ -1241,17 +1241,6 @@
     "name": "Sender Neu Jerusalem",
     "iptv_urls": [
       "https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jQRy2HJhc0CvlQ",
-    "name": "Sonus FM TV",
-    "iptv_urls": [
-      "https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1506,17 +1495,6 @@
     "name": "Volksmusik TV",
     "iptv_urls": [
       "https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "m9sTB8PM1zE7oy",
-    "name": "VOX",
-    "iptv_urls": [
-      "https://s6.hopslan.com/voxx1/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
