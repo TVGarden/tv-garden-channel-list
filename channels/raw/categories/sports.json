@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "63DdsZA7YycDuJ",
-    "name": "Adventure Sports TV",
-    "iptv_urls": [
-      "https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "R9ko6Wy4FInVtz",
     "name": "AfroSport Nigeria",
     "iptv_urls": [
@@ -311,26 +300,27 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9Ji1RIoUGeL46E",
-    "name": "FITE 24/7",
-    "iptv_urls": [
-      "https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PpZ44VFR01MOAT",
     "name": "Fox Sports",
     "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/fox-sports.m3u8",
       "https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "3XWzDx4FnKV7NI",
+    "name": "Fox Sports en Espanol",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ODB4bpEpnnzd1R",
@@ -375,18 +365,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bhT3j01Nh3aRCQ",
-    "name": "Hard Knocks",
-    "iptv_urls": [
-      "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8",
-      "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -439,7 +417,7 @@
     "name": "ItalianFishingTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oxXC0rdj1Ts"
+      "https://www.youtube-nocookie.com/embed/pbqyjd2cf-U"
     ],
     "language": "ita",
     "country": "it",
@@ -847,6 +825,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UPkHrsKiFjmLP4",
+    "name": "Sharjah Sports TV",
+    "iptv_urls": [
+      "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PQO3nTobe9PoFo",
     "name": "SOS Kanal Plus",
     "iptv_urls": [
@@ -890,6 +879,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "za",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Pj3Pb4MifHuOI3",
+    "name": "Sports TV",
+    "iptv_urls": [
+      "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -972,9 +972,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GyaI3DfZ52LtJ4",
+    "nanoid": "iqgAqcjNcl4r3Z",
     "name": "TAY TV",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ZTtn95gTLlQ"
     ],
@@ -991,6 +993,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XdwrocdV5KOMCW",
+    "name": "Tennis Channel",
+    "iptv_urls": [
+      "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1151,14 +1164,44 @@
     "nanoid": "X8yK2ahG1lHzY9",
     "name": "World Poker Tour",
     "iptv_urls": [
-      "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8",
-      "https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8",
-      "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8",
       "https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EZYzbbetjgxX2q",
+    "name": "World Poker Tour 1",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/gWODJXnhu1M"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CCEdL436rIG1E6",
+    "name": "World Poker Tour 2",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/i7X7qdZp4KQ"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OhT2rOhQEAqu1t",
+    "name": "Zoy TV Sports 1",
+    "iptv_urls": [
+      "https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
     "isGeoBlocked": false
   },
   {
