@@ -27,7 +27,8 @@
     "nanoid": "OfbaNj7uCuziTj",
     "name": "Al Ekhbariya",
     "iptv_urls": [
-      "https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8"
+      "https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8",
+      "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/9AK1Vu7E1_Q"
@@ -51,7 +52,8 @@
     "nanoid": "gUNShL4GZ5DwVP",
     "name": "Al Quran Al Kareem TV",
     "iptv_urls": [
-      "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8"
+      "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8",
+      "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -63,7 +65,8 @@
     "name": "Al Saudiya",
     "iptv_urls": [
       "https://saudi-tv-prod-dub-enc.edgenextcdn.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8",
-      "https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8"
+      "https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8",
+      "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -74,7 +77,8 @@
     "nanoid": "TsXIocQtovCVbO",
     "name": "Al Sunnah Al Nabawiyah TV",
     "iptv_urls": [
-      "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8"
+      "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8",
+      "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -88,6 +92,28 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/w38Bna72qaw"
     ],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5ZGnLxWOqASmvp",
+    "name": "Asharq Discovery",
+    "iptv_urls": [
+      "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eNsC6GxX1XiJq8",
+    "name": "Asharq Documentary",
+    "iptv_urls": [
+      "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "ara",
     "country": "sa",
     "isGeoBlocked": false
@@ -372,6 +398,17 @@
       "https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index.m3u8"
     ],
     "youtube_urls": [],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wnXEnrj6C2tzO6",
+    "name": "أفلام تركية مدبلجة للعربية - Turkish Movies",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/L6WulV4w31Q"
+    ],
     "language": "ara",
     "country": "sa",
     "isGeoBlocked": false
