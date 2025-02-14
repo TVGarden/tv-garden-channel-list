@@ -38,7 +38,6 @@
     "iptv_urls": [
       "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://37c774660687468c821a51190046facf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_AfricaNews/playlist.m3u8",
       "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
@@ -51,9 +50,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Lo5vR5FNgGw4gl",
+    "nanoid": "BnlejKnF7Y4nBM",
     "name": "AfricaNews Français",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-2-lu.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM"
     ],
@@ -144,6 +146,7 @@
     "name": "Euronews English",
     "iptv_urls": [
       "https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8",
       "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8",
@@ -227,7 +230,7 @@
     "name": "Euronews Română",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JdI1y5imOPA"
+      "https://www.youtube-nocookie.com/embed/A6Z9kuEBSAg"
     ],
     "language": "ron",
     "country": "fr",
@@ -263,17 +266,6 @@
       "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8",
       "https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "043uvMlHjSlVqx",
-    "name": "Fashion TV UHD",
-    "iptv_urls": [
-      "https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -577,17 +569,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "B7oUuXqbWsfBhP",
-    "name": "OGGY",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PU8ba8Cgs6w"
-    ],
-    "language": "eng",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UV2K3Inr6FlKvf",
     "name": "P2M TV",
     "iptv_urls": [
@@ -819,6 +800,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PiWVJq36TGGfTp",
+    "name": "Rakuten TV Gusto.tv",
+    "iptv_urls": [
+      "https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jZlMQR1wIm8mNk",
     "name": "Rakuten TV Viki Europe",
     "iptv_urls": [
@@ -856,18 +848,6 @@
     "name": "RMC Story",
     "iptv_urls": [
       "https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xv9b7Q8DQqzTWg",
-    "name": "RT France",
-    "iptv_urls": [
-      "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
-      "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -1046,6 +1026,7 @@
     "nanoid": "uS6aOLXBCwTfBG",
     "name": "Trace Sport Stars (Australia)",
     "iptv_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1139,17 +1120,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kz1QrxbntvR2ns",
-    "name": "Zig & Sharko",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/o9NMAkfYOjI"
-    ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   }
