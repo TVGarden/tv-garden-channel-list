@@ -149,8 +149,7 @@
     "nanoid": "UBjqGDOceqJLt2",
     "name": "ATV",
     "iptv_urls": [
-      "https://c.fulltvizle.com/aytv/index.m3u8",
-      "https://streamer2.nexgen.bz/ATV/index.m3u8"
+      "https://c.fulltvizle.com/aytv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -264,7 +263,8 @@
     "nanoid": "4Za496nrSp2hGQ",
     "name": "Cekmeköy TV",
     "iptv_urls": [
-      "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8"
+      "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8",
+      "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -538,17 +538,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I6D9IHQIDu6y7l",
-    "name": "Güldür Güldür Show",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7vKlXBnzG2w"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rk4CX2TtGGZ6cO",
     "name": "Gülşah Film: Kemal Sunal Filmleri",
     "iptv_urls": [],
@@ -604,17 +593,6 @@
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/-HJwrahoMsQ"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tP5Ewc5P83XEEQ",
-    "name": "Her An Kur'an Her An Zikir",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/q6ehFyt8LvI"
     ],
     "language": "tur",
     "country": "tr",
@@ -932,17 +910,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oYLz4JWGWtAe6e",
-    "name": "Lider Haber",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5IPVDaRMMxs"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sIsIH2RBxpGiQq",
     "name": "Life TV",
     "iptv_urls": [
@@ -983,6 +950,17 @@
     ],
     "youtube_urls": [],
     "language": "ara",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kAe6ZeSL18s1wy",
+    "name": "Meltem TV",
+    "iptv_urls": [
+      "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -1322,7 +1300,8 @@
     "nanoid": "NTbXArc6oW55xA",
     "name": "Syria TV",
     "iptv_urls": [
-      "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8"
+      "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/OLWU0rKOQ6o"
@@ -1495,6 +1474,17 @@
     "name": "TRT 1",
     "iptv_urls": [
       "https://tv-trt1.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IxjjPo0BdLNNBs",
+    "name": "TRT 2",
+    "iptv_urls": [
+      "https://tv-trt2.medya.trt.com.tr/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
