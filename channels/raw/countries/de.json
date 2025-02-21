@@ -102,7 +102,19 @@
     "nanoid": "LGLjherg6GkxIA",
     "name": "Augsburg TV",
     "iptv_urls": [
+      "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8",
       "https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HISiOL7NmfoR6g",
+    "name": "Baden TV",
+    "iptv_urls": [
+      "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -727,7 +739,6 @@
     "nanoid": "E00cpYmcTm5FiQ",
     "name": "Motorvision",
     "iptv_urls": [
-      "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/0968af15-603e-4856-9185-f61cf74ef17e/4.m3u8",
       "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
       "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
     ],
@@ -948,51 +959,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hKXziqHmvJRVZi",
-    "name": "Parlamentsfernsehen 1",
-    "iptv_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8",
-      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZBBFj5GnvGni4T",
-    "name": "Parlamentsfernsehen 2",
-    "iptv_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eYYqGiBGykkSSs",
-    "name": "Parlamentsfernsehen 3",
-    "iptv_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9rKd670JNINyhC",
-    "name": "Parlamentsfernsehen 4",
-    "iptv_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HiMqxCwB3tPMLP",
     "name": "Pearl TV",
     "iptv_urls": [],
@@ -1052,6 +1018,18 @@
     "name": "QVC Style Germany",
     "iptv_urls": [
       "https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FfKKaHEk2MpmA6",
+    "name": "Radio Weser TV Bremen",
+    "iptv_urls": [
+      "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
+      "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1207,17 +1185,6 @@
     "name": "Sender Neu Jerusalem",
     "iptv_urls": [
       "https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jQRy2HJhc0CvlQ",
-    "name": "Sonus FM TV",
-    "iptv_urls": [
-      "https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",

@@ -38,7 +38,6 @@
     "iptv_urls": [
       "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://37c774660687468c821a51190046facf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_AfricaNews/playlist.m3u8",
       "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
@@ -147,9 +146,11 @@
     "name": "Euronews English",
     "iptv_urls": [
       "https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8",
-      "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"
+      "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8",
+      "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
@@ -265,6 +266,17 @@
       "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8",
       "https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "043uvMlHjSlVqx",
+    "name": "Fashion TV UHD",
+    "iptv_urls": [
+      "https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -568,17 +580,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "B7oUuXqbWsfBhP",
-    "name": "OGGY",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GspPJc9cu6o"
-    ],
-    "language": "eng",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UV2K3Inr6FlKvf",
     "name": "P2M TV",
     "iptv_urls": [
@@ -854,6 +855,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xv9b7Q8DQqzTWg",
+    "name": "RT France",
+    "iptv_urls": [
+      "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
+      "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e2QKMdwgfK4Vxo",
     "name": "Simon Super Lapin",
     "iptv_urls": [],
@@ -1119,17 +1132,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kz1QrxbntvR2ns",
-    "name": "Zig & Sharko",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GT6NCo_UFRE"
-    ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   }

@@ -5,8 +5,8 @@
     "iptv_urls": [
       "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
       "https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
-      "https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/playlist.m3u8"
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/playlist.m3u8",
+      "https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/n7eQejkXbnM"
@@ -73,10 +73,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "U4Ytf8HCWlTZ0o",
-    "name": "Al Wousta TV",
+    "nanoid": "yR85LzOCV21lPt",
+    "name": "Al Sharqiya Min Kabla",
     "iptv_urls": [
-      "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8"
+      "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -396,6 +396,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fmocYbtQ1fFZhn",
+    "name": "Pulse95 Radio",
+    "iptv_urls": [
+      "https://svs.itworkscdn.net/pulse95live/pulse96vision/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "we2YsCorQko3p5",
     "name": "Sama Dubai",
     "iptv_urls": [
@@ -443,6 +454,7 @@
     "nanoid": "RC2hZ1z0vrHMtE",
     "name": "Sharjah TV",
     "iptv_urls": [
+      "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
       "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8"
     ],
     "youtube_urls": [],
@@ -491,6 +503,17 @@
     "name": "Wanasah",
     "iptv_urls": [
       "https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rbtvbfV1OrLd1T",
+    "name": "Watar Radio",
+    "iptv_urls": [
+      "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
