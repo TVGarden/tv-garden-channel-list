@@ -352,17 +352,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z9SJ1A5tp7ppi1",
-    "name": "Inter TV",
-    "iptv_urls": [
-      "https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "g6nacBZmY3YsUr",
     "name": "Italia 2",
     "iptv_urls": [
@@ -530,6 +519,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ffGmMhn32f5osC",
+    "name": "Medjugorje Italia TV",
+    "iptv_urls": [
+      "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8Vum1VS0NvHh9O",
     "name": "Nautical Channel",
     "iptv_urls": [
@@ -538,6 +538,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Sj2JUEzVckT28q",
+    "name": "Nuova TV 1",
+    "iptv_urls": [
+      "https://nuovatv.net:8443/tv/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
     "country": "it",
     "isGeoBlocked": false
   },
@@ -764,17 +775,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1vFqQwnHb55YkM",
-    "name": "Radio Iglesias Sardegna",
-    "iptv_urls": [
-      "https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "M9X65jOBIP2jmf",
     "name": "Radio Italia Trend",
     "iptv_urls": [
@@ -855,7 +855,8 @@
     "nanoid": "gb89vMj4sSblmg",
     "name": "Rai 3",
     "iptv_urls": [
-      "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8"
+      "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8",
+      "https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1043,6 +1044,28 @@
     "name": "Sportitalia",
     "iptv_urls": [
       "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "63nHXrTCTF08X8",
+    "name": "Sportitalia Live 24",
+    "iptv_urls": [
+      "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L6xHaqwHEm1G78",
+    "name": "Sportitalia Solocalcio",
+    "iptv_urls": [
+      "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",

@@ -93,7 +93,7 @@
     "name": "Jetix",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/y15ps0Z2WZg"
+      "https://www.youtube-nocookie.com/embed/X3zQnDc_l20"
     ],
     "language": "rus",
     "country": "ru",
@@ -244,7 +244,8 @@
     "name": "Univer TV",
     "iptv_urls": [
       "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
-      "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8"
+      "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
+      "https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -300,17 +301,6 @@
     "name": "Астрахань.Ru TV",
     "iptv_urls": [
       "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qrQBwsfkDewreH",
-    "name": "Белгород 24",
-    "iptv_urls": [
-      "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -695,17 +685,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "U4INrzVYWsDWWg",
-    "name": "Первый канал",
-    "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/210.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "h4XqYLN5BBAUkl",
     "name": "Первый Ярославский",
     "iptv_urls": [
@@ -938,17 +917,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "84HXD5LPc8NimV",
-    "name": "Сургут 24",
-    "iptv_urls": [
-      "https://sitv.ru/vgtrk/stv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ph3sAZycESjTXH",
     "name": "Тамыр (Уфа)",
     "iptv_urls": [
@@ -956,6 +924,17 @@
     ],
     "youtube_urls": [],
     "language": "bak",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y2nF8rGgzUaTr0",
+    "name": "Телеканал 86 (Сургут)",
+    "iptv_urls": [
+      "https://sitv.ru/hls/s86.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
