@@ -88,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IJpns8FI8lNpRr",
-    "name": "ARD-alpha",
-    "iptv_urls": [
-      "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LGLjherg6GkxIA",
     "name": "Augsburg TV",
     "iptv_urls": [
@@ -717,6 +706,7 @@
     "nanoid": "E00cpYmcTm5FiQ",
     "name": "Motorvision",
     "iptv_urls": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/0968af15-603e-4856-9185-f61cf74ef17e/4.m3u8",
       "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
       "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
     ],
@@ -848,10 +838,43 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JMBqVoy25nEXh6",
+    "name": "Noa 4 Hamburg",
+    "iptv_urls": [
+      "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YxHL1LhWQRdskl",
+    "name": "Noa 4 Norderstedt",
+    "iptv_urls": [
+      "https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dYt045ogXamqS6",
     "name": "NRWision",
     "iptv_urls": [
       "https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dBXTRq4V9gggXi",
+    "name": "Oberlausitz TV",
+    "iptv_urls": [
+      "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref="
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -907,8 +930,7 @@
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8",
-      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1018,8 +1040,7 @@
     "nanoid": "FfKKaHEk2MpmA6",
     "name": "Radio Weser TV Bremen",
     "iptv_urls": [
-      "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
-      "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8"
+      "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1064,6 +1085,18 @@
     "name": "RNF",
     "iptv_urls": [
       "https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4uVJ6q6wliLG97",
+    "name": "RT DE",
+    "iptv_urls": [
+      "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
+      "https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
