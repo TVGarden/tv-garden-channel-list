@@ -244,17 +244,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vNfephVxrifCoZ",
-    "name": "Congreso de los Diputados 2",
-    "iptv_urls": [
-      "https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VUSPcmoFUEMqtT",
     "name": "Congreso de los Diputados 3",
     "iptv_urls": [
@@ -420,6 +409,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aZACmqFHyDlfSs",
+    "name": "Galveston County TV",
+    "iptv_urls": [
+      "https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jNKciKxgIk0NeD",
     "name": "Gilroy CMAP TV Channel 17",
     "iptv_urls": [
@@ -439,6 +439,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4NqzxbZMKzdN0D",
+    "name": "GuaTV",
+    "iptv_urls": [
+      "https://cdn.streamhispanatv.net:3352/live/guatvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "gt",
     "isGeoBlocked": false
   },
   {
@@ -530,17 +541,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I6uCCfd71b4oev",
-    "name": "Legislative Assembly of Ontario",
-    "iptv_urls": [
-      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8TYOGIS9hhXK0X",
     "name": "LHCAZTV",
     "iptv_urls": [
@@ -585,17 +585,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bgvnikihqe1JcN",
-    "name": "MRTV Parliament",
-    "iptv_urls": [
-      "https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mya",
-    "country": "mm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XYsmnPfcRc2O6U",
     "name": "Nashua GTV Channel 16 Nashua NH",
     "iptv_urls": [
@@ -626,6 +615,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9N0REUHRJR4gUt",
+    "name": "Nova24TV 2",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/GWX6VL0jVjU"
+    ],
+    "language": "slv",
+    "country": "si",
     "isGeoBlocked": false
   },
   {
@@ -728,18 +728,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EU0vQUFqUH2wCU",
-    "name": "Ontario Parliamentary Network",
-    "iptv_urls": [
-      "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
-      "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2igpQUbUlQ6ABJ",
     "name": "Orange County Orange TV (Orange County FL)",
     "iptv_urls": [
@@ -773,10 +761,55 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "iptv_urls": [
+      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8",
       "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZBBFj5GnvGni4T",
+    "name": "Parlamentsfernsehen 2",
+    "iptv_urls": [
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eYYqGiBGykkSSs",
+    "name": "Parlamentsfernsehen 3",
+    "iptv_urls": [
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9rKd670JNINyhC",
+    "name": "Parlamentsfernsehen 4",
+    "iptv_urls": [
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -999,7 +1032,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/c7nqmOu5KZw"
+      "https://www.youtube-nocookie.com/embed/mQG9ZCvTTCM"
     ],
     "language": "por",
     "country": "br",
