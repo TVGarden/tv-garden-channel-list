@@ -161,7 +161,6 @@
     "name": "Euronews English",
     "iptv_urls": [
       "https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8",
       "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8",
@@ -694,6 +693,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5j0y9VV2S7iUDo",
+    "name": "Persiana Family",
+    "iptv_urls": [
+      "https://familyhls.persiana.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AU3r7slfkyZL9C",
     "name": "Persiana HD",
     "iptv_urls": [
@@ -1196,7 +1206,6 @@
     "nanoid": "uS6aOLXBCwTfBG",
     "name": "Trace Sport Stars (Australia)",
     "iptv_urls": [
-      "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1208,6 +1217,7 @@
     "nanoid": "9MNQHSCkqJkjse",
     "name": "Trace Urban (Australia)",
     "iptv_urls": [
+      "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8"
     ],

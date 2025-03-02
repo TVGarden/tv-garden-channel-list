@@ -81,7 +81,6 @@
     "name": "Euronews English",
     "iptv_urls": [
       "https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8",
       "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8",
@@ -100,6 +99,7 @@
     "iptv_urls": [
       "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
       "https://livetv-fa.tubi.video/fox-live-now/index.m3u8",
+      "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
       "https://amg00488-foxdigital-newsnow-xumo-qbvgp.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -146,6 +146,19 @@
     "youtube_urls": [],
     "language": "jpn",
     "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ekFWl5aVUxSeip",
+    "name": "RT News",
+    "iptv_urls": [
+      "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+      "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
+      "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
