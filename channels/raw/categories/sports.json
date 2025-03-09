@@ -191,17 +191,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9CXmhwqvLqfUzo",
-    "name": "CDN Deporte",
-    "iptv_urls": [
-      "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "E79H6dHPexVrsV",
     "name": "Champion TV",
     "iptv_urls": [
@@ -350,6 +339,7 @@
     "name": "FUEL TV",
     "iptv_urls": [
       "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+      "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -423,6 +413,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vZumsCOw37zvtm",
+    "name": "IRIB3",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -603,9 +604,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pHAou4Bx2RmDNJ",
-    "name": "NBA",
+    "nanoid": "RcmUVMpfqvK186",
+    "name": "NBA TV",
     "iptv_urls": [
+      "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -672,7 +674,6 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
-      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -816,17 +817,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sRykC8BEAqLhk7",
-    "name": "San Marino RTV Sport",
-    "iptv_urls": [
-      "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "sm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UPkHrsKiFjmLP4",
     "name": "Sharjah Sports TV",
     "iptv_urls": [
@@ -852,6 +842,7 @@
     "nanoid": "zlZnrWMlY26X8V",
     "name": "Sport En France",
     "iptv_urls": [
+      "https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8",
       "https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8",
       "https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8"
     ],
@@ -886,9 +877,7 @@
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
-      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -944,6 +933,7 @@
     "name": "Swerve Sports",
     "iptv_urls": [
       "https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8",
+      "https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8",
       "https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8",
       "https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8"
     ],
@@ -1131,17 +1121,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "beAXn8CiW6Z5Te",
-    "name": "TVS Women Sports",
-    "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvswsn/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HoPPiJ6zSU8JBV",
     "name": "W14DK-D 14.5 All Sports Television Network",
     "iptv_urls": [
@@ -1200,10 +1179,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yxXfCHd5uHQMJD",
+    "name": "Беларусь 5",
+    "iptv_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "by",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hksyXK9W8Dv3Pj",
     "name": "Беларусь 5 Интернет",
     "iptv_urls": [
-      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
+      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
