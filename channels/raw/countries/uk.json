@@ -478,9 +478,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0rldb1A8xe4EuF",
+    "nanoid": "xAwIJiuvV7pfvX",
     "name": "GB News",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/QliL4CGc7iY"
     ],
@@ -500,68 +502,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GX5pzjQJRIR0wS",
-    "name": "Hadi TV French",
-    "iptv_urls": [
-      "https://live.ishiacloud.com/haditv.co.uk/haditv8.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AYKTzcljLTT7Zu",
-    "name": "Hadi TV Indonesian and Thai",
-    "iptv_urls": [
-      "https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EeUSludlq8QDVY",
-    "name": "Hadi TV Turkish and Kurdish",
-    "iptv_urls": [
-      "https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8VTGeN5gQOkuFc",
-    "name": "Hala London",
-    "iptv_urls": [
-      "https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gfaamDst89W7kn",
     "name": "Horrid Henry",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/9_msapG9bos"
     ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PdzSrk71b7uqDn",
-    "name": "Horse & Country TV",
-    "iptv_urls": [
-      "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-      "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
@@ -1151,6 +1097,7 @@
     "nanoid": "M9HwvmHmrMZElD",
     "name": "Wonder",
     "iptv_urls": [
+      "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
       "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

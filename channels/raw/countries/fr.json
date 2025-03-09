@@ -150,6 +150,7 @@
     "name": "Euronews English",
     "iptv_urls": [
       "https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8",
       "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8",
@@ -869,17 +870,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4ukW3AXj5x20Zs",
-    "name": "Rakuten TV Films Famille",
-    "iptv_urls": [
-      "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iLva87P8XGqzZK",
     "name": "Rakuten TV Films Romance",
     "iptv_urls": [
@@ -895,17 +885,6 @@
     "name": "Rakuten TV Séries Crime",
     "iptv_urls": [
       "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DTY2Ai8ce28nMW",
-    "name": "Rakuten TV The Guardian",
-    "iptv_urls": [
-      "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1001,6 +980,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xv9b7Q8DQqzTWg",
+    "name": "RT France",
+    "iptv_urls": [
+      "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
+      "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e2QKMdwgfK4Vxo",
     "name": "Simon Super Lapin",
     "iptv_urls": [],
@@ -1053,17 +1044,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ZbARVTcSZVU"
     ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qN23teQnN4PdUo",
-    "name": "TéléGohelle",
-    "iptv_urls": [
-      "https://videas.agglo-lenslievin.fr/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
@@ -1181,6 +1161,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2ytU28DiAXy4tf",
+    "name": "TV Finance",
+    "iptv_urls": [
+      "https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Bpbr5QPQbt4OY2",
     "name": "TV5Monde Style",
     "iptv_urls": [
@@ -1196,17 +1187,6 @@
     "name": "TV78",
     "iptv_urls": [
       "https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b7X4PEbbxyxgHq",
-    "name": "ViàMatélé",
-    "iptv_urls": [
-      "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

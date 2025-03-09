@@ -110,6 +110,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tANS8F526JB5KR",
+    "name": "Canal Catorce",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3qrZodX27EMHq4",
     "name": "Canal Diplomático",
     "iptv_urls": [
@@ -310,11 +321,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "y4MKCI3gxpO3zU",
+    "name": "FNX",
+    "iptv_urls": [
+      "https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "2QHwYMt2XZKYvG",
     "name": "Fox Soul",
     "iptv_urls": [
       "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
-      "https://apollo.production-public.tubi.io/live/ac-fox-soul-scte.m3u8"
+      "https://foxsoul-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -475,6 +497,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "kw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T7TXmLpBD9IwXz",
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",HRT 3",
+    "iptv_urls": [
+      "https://webtvstream.bhtelecom.ba/hrt3.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hrv",
+    "country": "hr",
     "isGeoBlocked": false
   },
   {
@@ -790,7 +823,8 @@
     "nanoid": "SouHlOn23CzTQS",
     "name": "НТВ Мир",
     "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/213.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/213.m3u8",
+      "https://streaming.skynetconnect.online/live/213.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

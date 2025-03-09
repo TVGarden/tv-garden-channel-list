@@ -5,7 +5,9 @@
     "iptv_urls": [
       "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/uS-wLITdaGo"
+    ],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
@@ -733,14 +735,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eyL4xvR1sE1phq",
+    "nanoid": "8UsE7S2700dwqG",
     "name": "Nicktoons",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://stream01.vnet.am/Boomerang/mono.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/79hNIfdEBYU"
     ],
-    "language": "eng",
-    "country": "us",
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1143,17 +1147,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KUTGOu9eHmEeCI",
-    "name": "TRT Çocuk",
-    "iptv_urls": [
-      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "A3RiBctXfom21P",
     "name": "TRT Diyanet Çocuk",
     "iptv_urls": [
@@ -1220,9 +1213,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hzA9M1g8Uiyjea",
+    "name": "Xtrema Cartoons",
+    "iptv_urls": [
+      "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5Tyk2mz2FivM6M",
     "name": "Zoo Moo (Australia)",
     "iptv_urls": [
+      "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
       "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8"
     ],
     "youtube_urls": [],
@@ -1234,7 +1239,8 @@
     "nanoid": "seBkiHFn8gkgrY",
     "name": "Карусель",
     "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
+      "https://streaming.skynetconnect.online/live/232.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1312,8 +1318,19 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dNT0JhzRetU"
+      "https://www.youtube-nocookie.com/embed/sK8Cly2ARak"
     ],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "75xuCxgX7cSDlo",
+    "name": "浙江少儿",
+    "iptv_urls": [
+      "https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "zho",
     "country": "cn",
     "isGeoBlocked": false
