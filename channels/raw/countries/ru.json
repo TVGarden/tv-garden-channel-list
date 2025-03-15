@@ -3,7 +3,8 @@
     "nanoid": "FGu69humFuY0mj",
     "name": "12 канал",
     "iptv_urls": [
-      "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8"
+      "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
+      "https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -305,10 +306,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hyGNAyWTM5V3VT",
+    "name": "БСТ (Башкирское спутниковое телевидение)",
+    "iptv_urls": [
+      "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tRjB1srD2Y47HO",
     "name": "Вместе РФ",
     "iptv_urls": [
       "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WMn4d8yyfRaen5",
+    "name": "Дагестан",
+    "iptv_urls": [
+      "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -402,6 +425,17 @@
       "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8",
       "https://streaming.televizor-24-tochka.ru/live/748.m3u8",
       "https://streaming.skynetconnect.online/live/748.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uKc7FCTFVYx1He",
+    "name": "Ингушетия ТВ",
+    "iptv_urls": [
+      "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -635,7 +669,6 @@
     "nanoid": "U4INrzVYWsDWWg",
     "name": "Первый канал",
     "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/210.m3u8",
       "https://streaming.skynetconnect.online/live/210.m3u8"
     ],
     "youtube_urls": [],
@@ -682,17 +715,6 @@
     "name": "Просвещение",
     "iptv_urls": [
       "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gsk2XRWySDDUs3",
-    "name": "Пятница International",
-    "iptv_urls": [
-      "https://stream01.vnet.am/Pyatnica/mono.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -961,6 +983,17 @@
     "iptv_urls": [
       "https://streaming.televizor-24-tochka.ru/live/38.m3u8",
       "https://streaming.skynetconnect.online/live/38.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mHCDrEybu2WeBY",
+    "name": "ТНТ MUSIC",
+    "iptv_urls": [
+      "https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

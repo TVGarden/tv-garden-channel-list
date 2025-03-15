@@ -170,7 +170,8 @@
     "nanoid": "UBjqGDOceqJLt2",
     "name": "ATV",
     "iptv_urls": [
-      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+      "https://trkvz-live.daioncdn.net/atv/atv.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -642,8 +643,7 @@
       "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6BX-NUzBSp8",
-      "https://www.youtube-nocookie.com/embed/Xsm6RKJPbKE"
+      "https://www.youtube-nocookie.com/embed/6BX-NUzBSp8"
     ],
     "language": "tur",
     "country": "tr",
@@ -814,6 +814,17 @@
     "name": "Kanal 32",
     "iptv_urls": [
       "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "F2Mb6ARE1l9qx2",
+    "name": "Kanal 33",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1051,6 +1062,17 @@
     ],
     "youtube_urls": [],
     "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "drX7A4kD0qM9Kr",
+    "name": "Mekameleen TV",
+    "iptv_urls": [
+      "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -1562,17 +1584,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IxjjPo0BdLNNBs",
-    "name": "TRT 2",
-    "iptv_urls": [
-      "https://tv-trt2.medya.trt.com.tr/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Tsl1TXkC1cdSTl",
     "name": "TRT Arabi",
     "iptv_urls": [
@@ -1903,17 +1914,6 @@
       "https://www.youtube-nocookie.com/embed/crwxJBQKWj4"
     ],
     "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "z7fzuBK8WkQvBK",
-    "name": "Zarok TV",
-    "iptv_urls": [
-      "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kur",
     "country": "tr",
     "isGeoBlocked": false
   }
