@@ -231,17 +231,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "syiSHu51AliWkD",
-    "name": "Lychnos TV",
-    "iptv_urls": [
-      "https://thor.mental-media.gr:19360/imp/imp.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0CjaISNUrSVNLH",
     "name": "Mad World",
     "iptv_urls": [
@@ -267,7 +256,8 @@
     "nanoid": "nOgaKVJqtjFRdy",
     "name": "Nea TV",
     "iptv_urls": [
-      "https://live.neatv.gr:8888/hls/neatv.m3u8"
+      "https://live.neatv.gr:8888/hls/neatv.m3u8",
+      "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
@@ -297,17 +287,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pjEgd6IVJGjdu8",
-    "name": "NRG TV",
-    "iptv_urls": [
-      "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "maB691Pev3fC3X",
     "name": "NS TV",
     "iptv_urls": [
@@ -323,17 +302,6 @@
     "name": "One Channel",
     "iptv_urls": [
       "https://onechannel.siliconweb.com/one/stream/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ell",
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "L3j1vKGF6lnpfD",
-    "name": "Panik TV",
-    "iptv_urls": [
-      "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
@@ -422,6 +390,17 @@
     "name": "Zougla TV",
     "iptv_urls": [
       "https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "D9a6Bz5bh6RDhY",
+    "name": "Βουλή Τηλεόραση",
+    "iptv_urls": [
+      "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "ell",
