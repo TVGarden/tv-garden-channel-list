@@ -116,7 +116,8 @@
     "name": "Clubbing TV",
     "iptv_urls": [
       "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8",
-      "https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8"
+      "https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8",
+      "https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -150,8 +151,7 @@
     "name": "Euronews English",
     "iptv_urls": [
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
-      "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8",
-      "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8"
+      "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
@@ -365,9 +365,7 @@
     "nanoid": "S9vpRWeeHUeMAA",
     "name": "France 24 Arabic",
     "iptv_urls": [
-      "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8",
-      "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8",
@@ -382,9 +380,7 @@
     "nanoid": "oTQxI54nBGEd6Z",
     "name": "France 24 English",
     "iptv_urls": [
-      "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
       "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8",
       "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8",
       "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8",
@@ -401,10 +397,6 @@
     "nanoid": "ueVL2E5ssubmBE",
     "name": "France 24 Español",
     "iptv_urls": [
-      "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8",
-      "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8",
       "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8",
       "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_900.m3u8",
@@ -422,10 +414,7 @@
     "nanoid": "4CWVkfpOd7mDjB",
     "name": "France 24 French",
     "iptv_urls": [
-      "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8",
       "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8",
-      "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8",
@@ -455,17 +444,6 @@
     ],
     "youtube_urls": [],
     "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "f1gcV762FL2zvG",
-    "name": "FX2 Farsi",
-    "iptv_urls": [
-      "https://toonixhls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
     "country": "fr",
     "isGeoBlocked": false
   },

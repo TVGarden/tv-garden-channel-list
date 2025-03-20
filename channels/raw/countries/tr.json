@@ -114,7 +114,6 @@
     "nanoid": "lv47aRLFxhLHwz",
     "name": "Al Rafidain",
     "iptv_urls": [
-      "https://arrafidain.tvplayer.online/arrafidaintv/source2/playlist.m3u8",
       "https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -159,7 +158,8 @@
     "nanoid": "UBjqGDOceqJLt2",
     "name": "ATV",
     "iptv_urls": [
-      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+      "https://trkvz-live.daioncdn.net/atv/atv.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -383,6 +383,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "S7A882wnqWEWLJ",
+    "name": "DİM TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1OlKTVorbB1nZr",
     "name": "Diyanet TV",
     "iptv_urls": [
@@ -397,7 +408,8 @@
     "nanoid": "hvA9a09zJ8ENTp",
     "name": "Diyar TV",
     "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8"
+      "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8",
+      "https://yayin30.haber100.com/live/diyartv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -853,6 +865,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Nc8padNv6HdMDR",
+    "name": "Kanal Urfa",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JwNiVAH26fmfiw",
     "name": "Kanal V",
     "iptv_urls": [
@@ -893,17 +916,6 @@
       "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xZTyr5HbWtd8xE",
-    "name": "Kemal Sunal Filmleri",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Vl2LsvfLw30"
-    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -953,11 +965,33 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UDmlskBaSdu1z8",
+    "name": "Kurtlar Vadisi",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/GwznzyLvC98"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VCYz7uZAyMJXcF",
     "name": "Kuzey Güney",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ay_whLpQXgc"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oYLz4JWGWtAe6e",
+    "name": "Lider Haber",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Uf-_giQ4URc"
     ],
     "language": "tur",
     "country": "tr",
@@ -1654,9 +1688,7 @@
     "iptv_urls": [
       "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Md2pCtENEak"
-    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "tr",
     "isGeoBlocked": false
@@ -1842,7 +1874,7 @@
     "name": "Yalan Dünya",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MnSGwoEpyCU"
+      "https://www.youtube-nocookie.com/embed/swCdxaGHkM8"
     ],
     "language": "tur",
     "country": "tr",
