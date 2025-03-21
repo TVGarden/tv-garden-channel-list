@@ -111,10 +111,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T9dI0W8iuj2OFY",
-    "name": "Baden TV Süd",
+    "nanoid": "HISiOL7NmfoR6g",
+    "name": "Baden TV",
     "iptv_urls": [
-      "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8"
+      "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -502,17 +502,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "18vGI4yRhljatv",
-    "name": "H1 Fernsehen",
-    "iptv_urls": [
-      "https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KWubgLKIN9lBtR",
     "name": "Handystar",
     "iptv_urls": [
@@ -553,6 +542,17 @@
       "https://www.youtube-nocookie.com/embed/uNd5kvrGHjk"
     ],
     "language": "eng",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C38uFQgyi8ggWU",
+    "name": "hr-fernsehen",
+    "iptv_urls": [
+      "https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1038,6 +1038,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FfKKaHEk2MpmA6",
+    "name": "Radio Weser TV Bremen",
+    "iptv_urls": [
+      "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
+      "https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "i2oVTNlM3TCzLz",
     "name": "Regio TV Bodensee",
     "iptv_urls": [
@@ -1396,17 +1408,6 @@
     "name": "TV Oberfranken (TVO)",
     "iptv_urls": [
       "https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NJf6re2BP1KzzE",
-    "name": "TV38 Südost-Niedersachen",
-    "iptv_urls": [
-      "https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref="
     ],
     "youtube_urls": [],
     "language": "deu",
