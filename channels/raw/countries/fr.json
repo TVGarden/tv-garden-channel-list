@@ -205,17 +205,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ebFbvTKN8YcHpc",
-    "name": "Euronews Polski",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9b_gZwufVKg"
-    ],
-    "language": "pol",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iGI0lZtaC0qVgq",
     "name": "Euronews Português",
     "iptv_urls": [],
@@ -365,10 +354,7 @@
     "nanoid": "S9vpRWeeHUeMAA",
     "name": "France 24 Arabic",
     "iptv_urls": [
-      "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8",
-      "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8",
@@ -384,9 +370,6 @@
     "name": "France 24 English",
     "iptv_urls": [
       "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8",
-      "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8",
       "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8",
       "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8",
@@ -402,8 +385,6 @@
     "nanoid": "ueVL2E5ssubmBE",
     "name": "France 24 Español",
     "iptv_urls": [
-      "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8",
       "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8",
       "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8",
@@ -423,10 +404,8 @@
     "nanoid": "4CWVkfpOd7mDjB",
     "name": "France 24 French",
     "iptv_urls": [
-      "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
       "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8",
       "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8",
-      "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8",
@@ -614,6 +593,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WWDxgACXyLT0i3",
+    "name": "MyTime Movie Network",
+    "iptv_urls": [
+      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "B7oUuXqbWsfBhP",
     "name": "OGGY",
     "iptv_urls": [],
@@ -662,17 +652,6 @@
     "name": "Persiana Comedy",
     "iptv_urls": [
       "https://comedyhls.persiana.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5j0y9VV2S7iUDo",
-    "name": "Persiana Family",
-    "iptv_urls": [
-      "https://familyhls.persiana.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -1030,6 +1009,17 @@
       "https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8"
     ],
     "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PNF9zodERQr3Zm",
+    "name": "SQOOL TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/RctRDxdK1Kk"
+    ],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
