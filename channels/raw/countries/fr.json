@@ -115,8 +115,7 @@
     "nanoid": "N6zUpl0twGvMyn",
     "name": "Clubbing TV",
     "iptv_urls": [
-      "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8",
-      "https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8"
+      "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -354,7 +353,10 @@
     "nanoid": "S9vpRWeeHUeMAA",
     "name": "France 24 Arabic",
     "iptv_urls": [
+      "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
+      "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8",
+      "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8",
@@ -370,6 +372,9 @@
     "name": "France 24 English",
     "iptv_urls": [
       "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
+      "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
+      "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8",
+      "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8",
       "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8",
       "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8",
@@ -385,6 +390,8 @@
     "nanoid": "ueVL2E5ssubmBE",
     "name": "France 24 Español",
     "iptv_urls": [
+      "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
+      "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8",
       "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8",
       "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8",
@@ -404,8 +411,10 @@
     "nanoid": "4CWVkfpOd7mDjB",
     "name": "France 24 French",
     "iptv_urls": [
+      "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
       "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8",
       "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8",
+      "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8",
@@ -593,17 +602,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WWDxgACXyLT0i3",
-    "name": "MyTime Movie Network",
-    "iptv_urls": [
-      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "B7oUuXqbWsfBhP",
     "name": "OGGY",
     "iptv_urls": [],
@@ -652,6 +650,17 @@
     "name": "Persiana Comedy",
     "iptv_urls": [
       "https://comedyhls.persiana.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5j0y9VV2S7iUDo",
+    "name": "Persiana Family",
+    "iptv_urls": [
+      "https://familyhls.persiana.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -839,17 +848,6 @@
     "name": "Rakuten TV Films Drames",
     "iptv_urls": [
       "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4ukW3AXj5x20Zs",
-    "name": "Rakuten TV Films Famille",
-    "iptv_urls": [
-      "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
