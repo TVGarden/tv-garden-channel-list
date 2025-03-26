@@ -414,17 +414,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FkwHKfpMGiYx0r",
-    "name": "ems TV Lingen",
-    "iptv_urls": [
-      "https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dikaN7zl5U7F3z",
     "name": "Erz-TV Stollberg",
     "iptv_urls": [
@@ -451,17 +440,6 @@
     "name": "Filstalwelle",
     "iptv_urls": [
       "https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JUHY7ZFUwE8O9n",
-    "name": "Finest TV",
-    "iptv_urls": [
-      "https://media.finest.tv/hls/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -717,6 +695,7 @@
     "nanoid": "E00cpYmcTm5FiQ",
     "name": "Motorvision",
     "iptv_urls": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/0968af15-603e-4856-9185-f61cf74ef17e/4.m3u8",
       "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
       "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
     ],
@@ -1230,6 +1209,17 @@
     "name": "SR Fernsehen",
     "iptv_urls": [
       "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v3xxGRtiYvFu9f",
+    "name": "SRF",
+    "iptv_urls": [
+      "https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",

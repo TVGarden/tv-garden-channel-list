@@ -115,7 +115,8 @@
     "nanoid": "N6zUpl0twGvMyn",
     "name": "Clubbing TV",
     "iptv_urls": [
-      "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8"
+      "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8",
+      "https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -200,6 +201,17 @@
       "https://www.youtube-nocookie.com/embed/jAn7L2Kt32U"
     ],
     "language": "hun",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ebFbvTKN8YcHpc",
+    "name": "Euronews Polski",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ICuHh9geTTI"
+    ],
+    "language": "pol",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -591,6 +603,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WWDxgACXyLT0i3",
+    "name": "MyTime Movie Network",
+    "iptv_urls": [
+      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "B7oUuXqbWsfBhP",
     "name": "OGGY",
     "iptv_urls": [],
@@ -837,6 +860,17 @@
     "name": "Rakuten TV Films Drames",
     "iptv_urls": [
       "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4ukW3AXj5x20Zs",
+    "name": "Rakuten TV Films Famille",
+    "iptv_urls": [
+      "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1106,17 +1140,6 @@
       "https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8"
     ],
     "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lyqsis1AvWCgnl",
-    "name": "Totally Spies!",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/llxnwhq0KJk"
-    ],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
