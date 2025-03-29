@@ -161,7 +161,8 @@
     "nanoid": "P1PoD5jjT64Mum",
     "name": "Outside TV",
     "iptv_urls": [
-      "https://livetv-fa.tubi.video/outsidetv2/playlist.m3u8"
+      "https://livetv-fa.tubi.video/outsidetv2/playlist.m3u8",
+      "https://outsidetv-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -177,6 +178,17 @@
     "youtube_urls": [],
     "language": "dhw",
     "country": "np",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XVHhDeQHjuS3Dt",
+    "name": "Peer TV Alto Adige",
+    "iptv_urls": [
+      "https://iptv.peer.biz/live/peertv-it.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -206,6 +218,7 @@
     "name": "Pursuit UP",
     "iptv_urls": [
       "https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8",
+      "https://pursuitup-klowdtv.amagi.tv/playlist.m3u8",
       "https://linear-205.frequency.stream/dist/xumo/205/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
