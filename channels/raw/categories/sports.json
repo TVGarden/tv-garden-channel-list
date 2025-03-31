@@ -135,17 +135,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "38wfpfuPiROwg3",
-    "name": "BEK TV Sports West",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "M4nYho03XLslkh",
     "name": "Billiard TV",
     "iptv_urls": [
@@ -180,17 +169,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Mut1mafEBDelBc",
-    "name": "CBS Sports Golazo Network",
-    "iptv_urls": [
-      "https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9CXmhwqvLqfUzo",
     "name": "CDN Deporte",
     "iptv_urls": [
@@ -221,6 +199,17 @@
     ],
     "language": "eng",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cEtgYgEtHzj5Ic",
+    "name": "ColimdoT TV",
+    "iptv_urls": [
+      "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -312,29 +301,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PpZ44VFR01MOAT",
-    "name": "Fox Sports",
-    "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/fox-sports.m3u8",
-      "https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "XS90SunRs05mKr",
-    "name": "Fox Sports 2",
-    "iptv_urls": [
-      "https://v1.thetvapp.to/hls/FoxSports2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3XWzDx4FnKV7NI",
     "name": "Fox Sports en Espanol",
     "iptv_urls": [
@@ -360,6 +326,7 @@
     "nanoid": "uV6lzloXXEajJ8",
     "name": "FUEL TV",
     "iptv_urls": [
+      "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
       "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8"
     ],
@@ -384,6 +351,17 @@
     "name": "Glory Kickboxing",
     "iptv_urls": [
       "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XM7JIFylNrPk0k",
+    "name": "Golf Channel",
+    "iptv_urls": [
+      "https://v1.thetvapp.to/hls/GolfChannel/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -547,28 +525,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C62h8Mqkm3S0Xj",
-    "name": "Marquee Sports Network",
-    "iptv_urls": [
-      "https://v1.thetvapp.to/hls/marquee-sports-network/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aY54tW4NQHZPI6",
-    "name": "MAV Select USA",
-    "iptv_urls": [
-      "https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "trjvtLbixg6iUs",
     "name": "MLB",
     "iptv_urls": [
@@ -651,8 +607,7 @@
     "name": "NBA TV",
     "iptv_urls": [
       "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist.m3u8",
-      "https://v1.thetvapp.to/hls/NBATV/index.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -803,6 +758,17 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RlDh4IHVR4WpZw",
+    "name": "QazSport",
+    "iptv_urls": [
+      "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kaz",
+    "country": "kz",
     "isGeoBlocked": false
   },
   {
@@ -1006,39 +972,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "sa",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CyO7zMkZVUY5yP",
-    "name": "Strongman",
-    "iptv_urls": [
-      "https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kXewqI7BHNU7et",
-    "name": "Strongman Champions League",
-    "iptv_urls": [
-      "https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Pxron2xOBbS269",
-    "name": "SuperTennis HD",
-    "iptv_urls": [
-      "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -1289,10 +1222,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uxa3RChSlTbz84",
-    "name": "TVS Sports Bureau",
+    "nanoid": "eIJ4L4aV4I4YRC",
+    "name": "TVS Turbo",
     "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1300,10 +1233,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eIJ4L4aV4I4YRC",
-    "name": "TVS Turbo",
+    "nanoid": "beAXn8CiW6Z5Te",
+    "name": "TVS Women Sports",
     "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvswsn/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1368,10 +1301,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hksyXK9W8Dv3Pj",
-    "name": "Беларусь 5 Интернет",
+    "nanoid": "yxXfCHd5uHQMJD",
+    "name": "Беларусь 5",
     "iptv_urls": [
-      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
