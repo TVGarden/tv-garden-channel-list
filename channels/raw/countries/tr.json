@@ -111,18 +111,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lv47aRLFxhLHwz",
-    "name": "Al Rafidain",
-    "iptv_urls": [
-      "https://arrafidain.tvplayer.online/arrafidaintv/source2/playlist.m3u8",
-      "https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Mmz7MUwsZ62HWK",
     "name": "Almahriah TV",
     "iptv_urls": [
@@ -159,7 +147,8 @@
     "nanoid": "UBjqGDOceqJLt2",
     "name": "ATV",
     "iptv_urls": [
-      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+      "https://trkvz-live.daioncdn.net/atv/atv.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -471,17 +460,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WHkVQZYPgkweaG",
-    "name": "Erzurum Web TV",
-    "iptv_urls": [
-      "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4WXm2uY8kIBqU4",
     "name": "ES TV",
     "iptv_urls": [
@@ -541,17 +519,6 @@
     "name": "Fortuna TV",
     "iptv_urls": [
       "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CViLP4AU5zHBJ8",
-    "name": "Gonca TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -798,17 +765,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F2Mb6ARE1l9qx2",
-    "name": "Kanal 33",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FgL1HEllG10WJt",
     "name": "KANAL 58",
     "iptv_urls": [
@@ -986,6 +942,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oYLz4JWGWtAe6e",
+    "name": "Lider Haber",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/aSslxUTvJl8"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sIsIH2RBxpGiQq",
     "name": "Life TV",
     "iptv_urls": [
@@ -1082,6 +1049,17 @@
     "iptv_urls": [
       "https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8",
       "https://trkvz-live.daioncdn.net/minikago/minikago.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lm6hIGSOHhNu9y",
+    "name": "MTürk TV",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1289,17 +1267,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ulrTrc9phjqbgY",
-    "name": "Radyo Dinle: Billboard Hot 100",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JDEJdUMtTJc"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "chIk5iSEHPVcXb",
     "name": "Radyo Dinle: Top Songs",
     "iptv_urls": [],
@@ -1402,7 +1369,6 @@
     "nanoid": "NTbXArc6oW55xA",
     "name": "Syria TV",
     "iptv_urls": [
-      "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
       "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017",
       "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8"
     ],
@@ -1554,6 +1520,17 @@
     "name": "TRT 1",
     "iptv_urls": [
       "https://tv-trt1.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IxjjPo0BdLNNBs",
+    "name": "TRT 2",
+    "iptv_urls": [
+      "https://tv-trt2.medya.trt.com.tr/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1807,6 +1784,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Dti0xsuIDuqqFU",
+    "name": "TYT Turk",
+    "iptv_urls": [
+      "https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gyPeJZZGGZ1NXS",
     "name": "Ulusal Kanal",
     "iptv_urls": [],
@@ -1891,17 +1879,6 @@
       "https://www.youtube-nocookie.com/embed/crwxJBQKWj4"
     ],
     "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "z7fzuBK8WkQvBK",
-    "name": "Zarok TV",
-    "iptv_urls": [
-      "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kur",
     "country": "tr",
     "isGeoBlocked": false
   }
