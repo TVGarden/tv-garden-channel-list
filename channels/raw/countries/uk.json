@@ -493,6 +493,7 @@
     "name": "Horse & Country TV",
     "iptv_urls": [
       "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
+      "https://hncfree-samsungau.amagi.tv/playlist.m3u8",
       "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -649,6 +650,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FeQiCZUhzv3lT3",
+    "name": "Moonbug Kids",
+    "iptv_urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4mZBJCs1ol4paJ",
     "name": "MTA 3 Al-Arabia",
     "iptv_urls": [],
@@ -684,20 +696,68 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ABvz5besjAbXTq",
-    "name": "MTA6 Asia",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Oq5CeKvMBwI"
+    "nanoid": "AKoMEdWVVOqbwn",
+    "name": "MTA3 Al-Arabia",
+    "iptv_urls": [
+      "https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8"
     ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "orMV5kjpjMECfw",
+    "name": "MTA4 Africa",
+    "iptv_urls": [
+      "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GMy0xgf6M7FRAV",
+    "nanoid": "7HUreojw7Nl7Wt",
+    "name": "MTA5 Africa",
+    "iptv_urls": [
+      "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8aepLLt93YRC0U",
+    "name": "MTA6 Asia",
+    "iptv_urls": [
+      "https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Oq5CeKvMBwI"
+    ],
+    "language": "urd",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iaqZtNqjxbaRq8",
+    "name": "MTA7 Asia",
+    "iptv_urls": [
+      "https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jVLg1Tk3qRtGOF",
     "name": "MTA8 America",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/xk8Tm0ZnhXM"
     ],
@@ -823,6 +883,17 @@
       "https://www.youtube-nocookie.com/embed/eWwHYPOilEQ"
     ],
     "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DqKr2u3T1rmLql",
+    "name": "Rakuten Top Movies UK",
+    "iptv_urls": [
+      "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -993,28 +1064,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BzEkhaJoomu7sR",
-    "name": "TV Warehouse",
-    "iptv_urls": [
-      "https://tvwarehouse.r.worldssl.net/mystream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1btf1OdluU3nsE",
-    "name": "V2BEAT",
-    "iptv_urls": [
-      "https://abr.de1se01.v2beat.live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "S031zk98bWY7Ix",
     "name": "WildBrain Kids",
     "iptv_urls": [],
@@ -1040,7 +1089,6 @@
     "nanoid": "M9HwvmHmrMZElD",
     "name": "Wonder",
     "iptv_urls": [
-      "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
       "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
