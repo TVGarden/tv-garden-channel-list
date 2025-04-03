@@ -5,6 +5,7 @@
     "iptv_urls": [
       "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
       "https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/playlist.m3u8",
       "https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8"
     ],
     "youtube_urls": [
@@ -76,17 +77,6 @@
     "name": "Al Shallal TV",
     "iptv_urls": [
       "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yR85LzOCV21lPt",
-    "name": "Al Sharqiya Min Kabla",
-    "iptv_urls": [
-      "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -271,17 +261,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "43meg58mA5npya",
-    "name": "Dubai TV",
-    "iptv_urls": [
-      "https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NpgtvD38qnisOV",
     "name": "Dubai Zaman",
     "iptv_urls": [
@@ -438,6 +417,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OijQbjwV7a9kgP",
+    "name": "Sharjah 2",
+    "iptv_urls": [
+      "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IhAqN9CcULw7M0",
+    "name": "Sharjah Radio",
+    "iptv_urls": [
+      "https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8RMhUftFipxVz5",
     "name": "Sharjah Radio Quran",
     "iptv_urls": [
@@ -463,6 +464,7 @@
     "nanoid": "RC2hZ1z0vrHMtE",
     "name": "Sharjah TV",
     "iptv_urls": [
+      "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
       "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8"
     ],
     "youtube_urls": [],
@@ -478,7 +480,7 @@
       "https://stream.skynewsarabia.com/hls/sna.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5uFOH3ZLykw"
+      "https://www.youtube-nocookie.com/embed/oY976rzO-EI"
     ],
     "language": "ara",
     "country": "ae",
@@ -522,6 +524,17 @@
     "name": "Wanasah",
     "iptv_urls": [
       "https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rbtvbfV1OrLd1T",
+    "name": "Watar Radio",
+    "iptv_urls": [
+      "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
