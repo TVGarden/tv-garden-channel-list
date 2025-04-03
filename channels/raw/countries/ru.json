@@ -115,7 +115,8 @@
     "nanoid": "VMF9bz9jysLZtk",
     "name": "RT Documentary English",
     "iptv_urls": [
-      "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8"
+      "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+      "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -139,7 +140,8 @@
     "nanoid": "mPfWobHfV25q8P",
     "name": "RT en Español",
     "iptv_urls": [
-      "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8"
+      "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+      "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -371,17 +373,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3dZo5rKRvX9Upt",
-    "name": "Домашний",
-    "iptv_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jdtDDFx09GQYAn",
     "name": "Дума ТВ",
     "iptv_urls": [
@@ -501,6 +492,28 @@
     "name": "Легендарный 24",
     "iptv_urls": [
       "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xBvNUxKG46FiuF",
+    "name": "Магнат ТВ",
+    "iptv_urls": [
+      "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PZBt17abf1Uupk",
+    "name": "Миллет",
+    "iptv_urls": [
+      "https://live.trkmillet.ru/millet/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -665,6 +678,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dgMx8sDoefxlM7",
+    "name": "Просвещение",
+    "iptv_urls": [
+      "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "inrIAM0pONvuTd",
     "name": "Пятница!",
     "iptv_urls": [
@@ -750,17 +774,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AL13wnHi0qOCN5",
-    "name": "С1 (Сургут)",
-    "iptv_urls": [
-      "https://sitv.ru/hls/stv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -876,17 +889,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SospeNQm4Xiqkm",
-    "name": "СТС Love",
-    "iptv_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "snZYO98kl0kLwq",
     "name": "Суббота!",
     "iptv_urls": [
@@ -953,17 +955,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5tqG6WDtzDXtxC",
-    "name": "Телеканал Ювелирия",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/m47Clv4OJ8U"
-    ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lFHxymRgYvsnV7",
     "name": "Телплюс ТВ (Астрахань)",
     "iptv_urls": [
@@ -1001,6 +992,7 @@
     "name": "ТНТ",
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8",
+      "https://streaming.televizor-24-tochka.ru/live/38.m3u8",
       "https://streaming.skynetconnect.online/live/38.m3u8"
     ],
     "youtube_urls": [],
@@ -1065,17 +1057,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LU94ChiZWq3jZI",
-    "name": "Че!",
-    "iptv_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "prXcBYtn3tI3lj",
     "name": "Эхо TV (Рязань)",
     "iptv_urls": [
@@ -1104,17 +1085,6 @@
       "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UXs7jUvZNYr6Hi",
-    "name": "ЮВЕЛИРТРЕЙД",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OBdhiNnlyso"
-    ],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false

@@ -49,7 +49,8 @@
     "iptv_urls": [
       "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
       "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-      "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+      "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+      "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CJVBX7KI5nU"
@@ -107,17 +108,6 @@
     "name": "CJ OnStyle",
     "iptv_urls": [
       "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "h6sGUfEb8F8FM3",
-    "name": "CJ OnStyle Plus",
-    "iptv_urls": [
-      "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -335,17 +325,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KfP1wxKWGNerV7",
-    "name": "MBC Daegu (대구 MBC)",
-    "iptv_urls": [
-      "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CVYe8DrHATgn7K",
     "name": "MBC Daejeon (대전 MBC)",
     "iptv_urls": [
@@ -368,17 +347,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I27keaXmXV9AK5",
-    "name": "MBC Jeju (제주 MBC)",
-    "iptv_urls": [
-      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FkEZ1qiww38D8n",
     "name": "NBS Korea Agricultural Broadcasting",
     "iptv_urls": [
@@ -390,10 +358,43 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oNnWdV2miCH9OF",
+    "name": "NS Home Shopping",
+    "iptv_urls": [
+      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8fjuljf7xVUPuM",
+    "name": "NS Shop Plus",
+    "iptv_urls": [
+      "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dniHBftPCZaKkW",
     "name": "OBS Gyeongin TV (OBS경인TV)",
     "iptv_urls": [
       "https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n4MkAIlXwdSE8X",
+    "name": "OUN",
+    "iptv_urls": [
+      "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -483,6 +484,28 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CMnAakQCEdM"
+    ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qfMepn6hwcvIUS",
+    "name": "TVCHOSUN JOY",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/9WhUZ4j3ct8"
+    ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vhNaz7xD7cy5Pv",
+    "name": "TVCHOSUN MUSIC",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/MS_YdWtKHYU"
     ],
     "language": "kor",
     "country": "kr",
