@@ -728,6 +728,7 @@
     "nanoid": "E00cpYmcTm5FiQ",
     "name": "Motorvision",
     "iptv_urls": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/0968af15-603e-4856-9185-f61cf74ef17e/4.m3u8",
       "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
       "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
     ],
@@ -774,6 +775,17 @@
     "name": "NDR Mecklenburg-Vorpommern",
     "iptv_urls": [
       "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "k5LiEhsAnjMfOw",
+    "name": "NDR Niedersachsen",
+    "iptv_urls": [
+      "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -830,17 +842,6 @@
     "name": "Niederbayern TV Passau",
     "iptv_urls": [
       "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JMBqVoy25nEXh6",
-    "name": "Noa 4 Hamburg",
-    "iptv_urls": [
-      "https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
