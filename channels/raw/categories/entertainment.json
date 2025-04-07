@@ -617,6 +617,7 @@
     "nanoid": "PGCEtKFHRk5CDn",
     "name": "Circle",
     "iptv_urls": [
+      "https://circle-roku.amagi.tv/playlist.m3u8",
       "https://circle-samsung.amagi.tv/playlist.m3u8",
       "https://circle-vizio.amagi.tv/playlist.m3u8",
       "https://circle-xumo.amagi.tv/playlist.m3u8"
@@ -668,6 +669,17 @@
     ],
     "language": "spa",
     "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rktKDWAwui8L2o",
+    "name": "Crime + Investigation",
+    "iptv_urls": [
+      "https://v1.thetvapp.to/hls/CrimePlusInvestigation/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -854,7 +866,6 @@
     "name": "Estrella TV",
     "iptv_urls": [
       "https://estrellatv-oando.amagi.tv/playlist.m3u8",
-      "https://estrellatv-glewed.amagi.tv/playlist.m3u8",
       "https://estrellatv-plex.amagi.tv/playlist.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-estrellatv.m3u8",
       "https://estrellatv-xumo.amagi.tv/playlist.m3u8"
@@ -1031,14 +1042,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ih14zXXaGxE7G6",
-    "name": "GET TV",
+    "nanoid": "HGtPDQoNFPOwzf",
+    "name": "Girasol TV",
     "iptv_urls": [
-      "https://cnn.livestreaminggroup.info:3050/live/gettvlive.m3u8"
+      "https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "do",
+    "country": "hn",
     "isGeoBlocked": false
   },
   {
@@ -1050,17 +1061,6 @@
     ],
     "language": "deu",
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KorxP0jgE3cFyZ",
-    "name": "GO TV",
-    "iptv_urls": [
-      "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -1244,17 +1244,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BrkDT01veCngGY",
-    "name": "JameJam",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226178/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "plB7keRPLB8ziF",
     "name": "Jim",
     "iptv_urls": [
@@ -1365,17 +1354,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WDcwZf2E3dacPA",
-    "name": "Kidz Atresmedia",
-    "iptv_urls": [
-      "https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zhwxNZSEDp40Xw",
     "name": "KNR TV: KNR1",
     "iptv_urls": [],
@@ -1428,6 +1406,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rJk7wr9dQ6bRRq",
+    "name": "LatacungaTV",
+    "iptv_urls": [
+      "https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
     "isGeoBlocked": false
   },
   {
@@ -1728,28 +1717,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "REBYGh1RuUH6vg",
-    "name": "Namayesh",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226148/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KIi40oTBRJuXcj",
-    "name": "Nasim",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226653/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OTt34K7T0tKEK5",
     "name": "National Geographic",
     "iptv_urls": [],
@@ -1849,28 +1816,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UFhJvCynS1YxoD",
-    "name": "Nuova TV 2",
-    "iptv_urls": [
-      "https://nuovatv.net:8443/tv2/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2Cav4NiycHssKE",
-    "name": "NW Magazine",
-    "iptv_urls": [
-      "https://hls.newworldtv.com/nw-magazine/video/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "tg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4SGtz6tJu3YUoE",
     "name": "Olelo Community Media Channel 55",
     "iptv_urls": [
@@ -1890,6 +1835,17 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kNsWM7D3MJH7TB",
+    "name": "Panc TV Peru",
+    "iptv_urls": [
+      "https://panel.host-live.com:19360/20000/20000.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -2030,6 +1986,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uFlU6kMvYcKxZm",
+    "name": "Ran TV Israel",
+    "iptv_urls": [
+      "https://streaminglive.co.il:3730/live/raniamranilive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "il",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qO9vRi6qWS9n0t",
     "name": "Raquel Daruech TV",
     "iptv_urls": [],
@@ -2160,17 +2127,6 @@
     ],
     "language": "kor",
     "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GJgk9QNg4rWVdR",
-    "name": "SET TV 2",
-    "iptv_urls": [
-      "https://5dcabf026b188.streamlock.net/SET22/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -2481,6 +2437,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "e5Cesrm1AEWOjC",
+    "name": "TR24",
+    "iptv_urls": [
+      "https://stream.it-innov.com/tr24/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "cm",
     "isGeoBlocked": false
   },
   {
@@ -2807,7 +2774,7 @@
     "name": "Watania2 Replay",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HSzjYiHiwes"
+      "https://www.youtube-nocookie.com/embed/o--sqhsViO4"
     ],
     "language": "ara",
     "country": "tn",
@@ -2850,6 +2817,7 @@
     "nanoid": "Vc3SRmmxmlUN8r",
     "name": "WTV Canal 20",
     "iptv_urls": [
+      "https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8",
       "https://cloudvideo.servers10.com:8081/8130/index.m3u8"
     ],
     "youtube_urls": [],
@@ -2880,6 +2848,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XhN7WumhsQidL3",
+    "name": "XPTV2",
+    "iptv_urls": [
+      "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
