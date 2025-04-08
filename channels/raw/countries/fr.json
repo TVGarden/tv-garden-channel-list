@@ -138,7 +138,8 @@
     "name": "Euronews English",
     "iptv_urls": [
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
-      "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8"
+      "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8",
+      "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
@@ -343,6 +344,7 @@
     "iptv_urls": [
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
       "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8",
+      "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8",
@@ -531,7 +533,7 @@
     "name": "Mosaïk Cristal",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8e808JrbIRQ"
+      "https://www.youtube-nocookie.com/embed/6YasJ8ISSkY"
     ],
     "language": "fra",
     "country": "fr",
@@ -846,6 +848,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DTY2Ai8ce28nMW",
+    "name": "Rakuten TV The Guardian",
+    "iptv_urls": [
+      "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sTBFORbd1e1OPY",
     "name": "Rakuten TV Top Films",
     "iptv_urls": [
@@ -960,7 +973,6 @@
     "nanoid": "zlZnrWMlY26X8V",
     "name": "Sport En France",
     "iptv_urls": [
-      "https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8",
       "https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8",
       "https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8"
     ],
