@@ -60,7 +60,7 @@
     "name": "Get Movies: Маша и Медведь",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tIYUQ7LnTXg"
+      "https://www.youtube-nocookie.com/embed/tvuOA-4dP6I"
     ],
     "language": "rus",
     "country": "ru",
@@ -71,7 +71,7 @@
     "name": "Jetix",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NfXDBeM_5lE"
+      "https://www.youtube-nocookie.com/embed/F3hqfbRzYeI"
     ],
     "language": "rus",
     "country": "ru",
@@ -96,6 +96,18 @@
     ],
     "youtube_urls": [],
     "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JnxjBtQt6s0RPO",
+    "name": "RT Arabic",
+    "iptv_urls": [
+      "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
+      "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -139,7 +151,6 @@
     "nanoid": "ekFWl5aVUxSeip",
     "name": "RT News",
     "iptv_urls": [
-      "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
       "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
       "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8"
     ],
@@ -160,12 +171,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uuwdAM4ggDTLQ4",
+    "name": "SONGTV Russia",
+    "iptv_urls": [
+      "https://songtv.hls.iptvdc.com/web-russia/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OoOqpCfI3BbmiH",
     "name": "TaronaMusic",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6977KHZH-gU"
     ],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0hiQdgKd6nMh6h",
+    "name": "TV BRICS Russian",
+    "iptv_urls": [
+      "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
@@ -220,17 +253,6 @@
     "name": "Астрахань.Ru TV",
     "iptv_urls": [
       "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qrQBwsfkDewreH",
-    "name": "Белгород 24",
-    "iptv_urls": [
-      "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -318,7 +340,6 @@
     "nanoid": "GXyfpkGN0MGlca",
     "name": "Дом Кино",
     "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/44.m3u8",
       "https://streaming.skynetconnect.online/live/44.m3u8"
     ],
     "youtube_urls": [],
@@ -543,6 +564,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SouHlOn23CzTQS",
+    "name": "НТВ Мир",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/213.m3u8",
+      "https://streaming.skynetconnect.online/live/213.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xWysqbFfCvojGt",
     "name": "НТМ (Народное телевидение Мордовии)",
     "iptv_urls": [
@@ -568,7 +601,6 @@
     "nanoid": "U4INrzVYWsDWWg",
     "name": "Первый канал",
     "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/210.m3u8",
       "https://streaming.skynetconnect.online/live/210.m3u8"
     ],
     "youtube_urls": [],
@@ -591,7 +623,6 @@
     "nanoid": "VzlSomi4YyimMb",
     "name": "Победа",
     "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/43.m3u8",
       "https://streaming.skynetconnect.online/live/43.m3u8"
     ],
     "youtube_urls": [],
@@ -707,6 +738,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AL13wnHi0qOCN5",
+    "name": "С1 (Сургут)",
+    "iptv_urls": [
+      "https://sitv.ru/hls/stv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -866,6 +908,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Y2nF8rGgzUaTr0",
+    "name": "Телеканал 86 (Сургут)",
+    "iptv_urls": [
+      "https://sitv.ru/hls/s86.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8ftc8iZBLVvHNe",
     "name": "Телеканал ЕДА",
     "iptv_urls": [],
@@ -970,6 +1023,7 @@
     "nanoid": "TfaEWFgppVp2Rt",
     "name": "Три Ангела",
     "iptv_urls": [
+      "https://hls.tv.3angels.ru/stream.m3u8",
       "https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8"
     ],
     "youtube_urls": [],

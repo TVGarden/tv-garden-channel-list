@@ -234,17 +234,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GE37pCdEhOkN7g",
-    "name": "Dubai Racing 2",
-    "iptv_urls": [
-      "https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CLmt4qMWKgdRSD",
     "name": "Dubai Racing 3",
     "iptv_urls": [
@@ -336,6 +325,7 @@
     "nanoid": "uV6lzloXXEajJ8",
     "name": "FUEL TV",
     "iptv_urls": [
+      "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
       "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8"
     ],
@@ -360,17 +350,6 @@
     "name": "Glory Kickboxing",
     "iptv_urls": [
       "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XM7JIFylNrPk0k",
-    "name": "Golf Channel",
-    "iptv_urls": [
-      "https://v1.thetvapp.to/hls/GolfChannel/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -702,6 +681,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yxyIFaB4Q9mpks",
+    "name": "Oman Sports TV",
+    "iptv_urls": [
+      "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "om",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GS1iJoWQ7ta8Q1",
     "name": "Ovación TV",
     "iptv_urls": [
@@ -716,7 +706,9 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
+      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
+      "https://pac12-vizio.amagi.tv/playlist.m3u8",
       "https://pac12-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -890,17 +882,6 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "sm",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UPkHrsKiFjmLP4",
-    "name": "Sharjah Sports TV",
-    "iptv_urls": [
-      "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
     "isGeoBlocked": false
   },
   {
@@ -1219,17 +1200,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "beAXn8CiW6Z5Te",
-    "name": "TVS Women Sports",
-    "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvswsn/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HoPPiJ6zSU8JBV",
     "name": "W14DK-D 14.5 All Sports Television Network",
     "iptv_urls": [
@@ -1244,6 +1214,7 @@
     "nanoid": "X8yK2ahG1lHzY9",
     "name": "World Poker Tour",
     "iptv_urls": [
+      "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8",
       "https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8",
       "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8",
       "https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8"
