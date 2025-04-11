@@ -49,8 +49,7 @@
     "iptv_urls": [
       "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
       "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-      "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-      "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8"
+      "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CJVBX7KI5nU"
@@ -88,28 +87,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/cxtw2RuOYac"
     ],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c1NFFrE1mrstbE",
-    "name": "CGNTV South Korea",
-    "iptv_urls": [
-      "https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "H2CDIH8qBgxAa8",
-    "name": "CJ OnStyle",
-    "iptv_urls": [
-      "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
@@ -292,39 +269,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3x38tId4pHxaqx",
-    "name": "JCN TV",
-    "iptv_urls": [
-      "https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xgn0FUKlpDXRRt",
-    "name": "Lotte Home Shopping",
-    "iptv_urls": [
-      "https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6c1onCC872cpGK",
-    "name": "Lotte OneTV",
-    "iptv_urls": [
-      "https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fU7mUMEnsqINVT",
     "name": "MBC Chuncheon (춘천 MBC)",
     "iptv_urls": [
@@ -369,32 +313,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "I27keaXmXV9AK5",
+    "name": "MBC Jeju (제주 MBC)",
+    "iptv_urls": [
+      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FkEZ1qiww38D8n",
     "name": "NBS Korea Agricultural Broadcasting",
     "iptv_urls": [
       "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oNnWdV2miCH9OF",
-    "name": "NS Home Shopping",
-    "iptv_urls": [
-      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8fjuljf7xVUPuM",
-    "name": "NS Shop Plus",
-    "iptv_urls": [
-      "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -413,23 +346,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4MkAIlXwdSE8X",
-    "name": "OUN",
-    "iptv_urls": [
-      "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LaJUiyDd3qErb2",
     "name": "Pororo 뽀로로: #1",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/C1ch0Ixw1XI"
     ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n26qmggV9TtEoA",
+    "name": "SBS KNN",
+    "iptv_urls": [
+      "https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
