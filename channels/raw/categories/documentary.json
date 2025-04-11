@@ -78,9 +78,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S7lyJHbl70de7u",
+    "nanoid": "WH7adDfFfMrDqi",
     "name": "Bloomberg Originals",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/OlUMDZchivQ"
     ],
@@ -89,9 +91,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zV7a20HW4WTHRY",
+    "name": "BritBox Mysteries",
+    "iptv_urls": [
+      "https://aegis-cloudfront-1.tubi.video/647bc22c-e1bb-4bca-afaf-5de99cbc2286/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "u673t64oVwJcTF",
     "name": "CGTN Documentary",
     "iptv_urls": [
+      "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
       "https://english-livebkali.cgtn.com/live/doccgtn.m3u8"
     ],
     "youtube_urls": [],
@@ -125,11 +139,35 @@
     "nanoid": "sm6jSJZU2R13Dv",
     "name": "Court TV",
     "iptv_urls": [
+      "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-court-tv.m3u8",
       "https://scripps-courttv-2-us.xumo.wurl.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jAekBDqlLERFF0",
+    "name": "Dateline 24/7",
+    "iptv_urls": [
+      "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FQVKNsI92Y63Vf",
+    "name": "Dokusat",
+    "iptv_urls": [
+      "https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -177,29 +215,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T7TXmLpBD9IwXz",
-    "name": "HRT 3",
-    "iptv_urls": [
-      "https://webtvstream.bhtelecom.ba/hrt3.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hrv",
-    "country": "hr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YDIi3VBX7D7fKC",
-    "name": "La 2 Catalunya",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/3987218.m3u8",
-      "https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "feuZPyWhX6la0P",
     "name": "Law & Crime",
     "iptv_urls": [
@@ -223,6 +238,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AbcJxYxf3cyf3H",
+    "name": "NatureTime",
+    "iptv_urls": [
+      "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OMzjODF6Uqhu43",
     "name": "Nova TV Agrotour",
     "iptv_urls": [
@@ -237,7 +263,8 @@
     "nanoid": "gOuwLzCKrgxJvt",
     "name": "Reelz",
     "iptv_urls": [
-      "https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8"
+      "https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-reelz.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

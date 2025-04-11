@@ -71,6 +71,7 @@
     "name": "Comedy Dynamics",
     "iptv_urls": [
       "https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/427cd05d-a47b-4b16-a2fe-5e739da93966/playlist.m3u8",
       "https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -87,6 +88,17 @@
     "youtube_urls": [],
     "language": "ron",
     "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "a82B1uF4Xa8Tt2",
+    "name": "El Club de la Comedia",
+    "iptv_urls": [
+      "https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -117,11 +129,24 @@
     "nanoid": "qy6bcbSL050Vab",
     "name": "Humor Mill",
     "iptv_urls": [
+      "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8",
+      "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8",
       "https://du1gyxfing4ke.cloudfront.net/scheduler/scheduleMaster/152.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yQMuoatPHbGi75",
+    "name": "Jordan Comedy",
+    "iptv_urls": [
+      "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "jo",
     "isGeoBlocked": false
   },
   {
@@ -150,6 +175,7 @@
     "nanoid": "hpo8bmZBPSGLRO",
     "name": "LOL Network",
     "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/lol-network3.m3u8",
       "https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -175,6 +201,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ctyzvJLoid0"
     ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gVSkjx7ERfVlOt",
+    "name": "LOL Standup",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
@@ -210,6 +247,28 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BWox3silAPVdCg",
+    "name": "Ramez",
+    "iptv_urls": [
+      "https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bSyZI3uj6B02G3",
+    "name": "Roya Comedy",
+    "iptv_urls": [
+      "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "jo",
     "isGeoBlocked": false
   },
   {

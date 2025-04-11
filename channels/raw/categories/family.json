@@ -47,11 +47,35 @@
     "nanoid": "KXpoKCIRUIeAgz",
     "name": "Dove Channel",
     "iptv_urls": [
+      "https://dovenow-tcl.amagi.tv/playlist.m3u8",
       "https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WfWOCQye5PaNeZ",
+    "name": "Estrella Games",
+    "iptv_urls": [
+      "https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-estrella-games.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "bedjGFwz8KJzzX",
+    "name": "MCI Television",
+    "iptv_urls": [
+      "https://video.ejeserver.com/live/mcitelevision.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
     "isGeoBlocked": false
   },
   {
@@ -91,6 +115,7 @@
     "nanoid": "hHJ75oA0QESCWc",
     "name": "The Pet Collective",
     "iptv_urls": [
+      "https://81d1c38525014f39a1705b01e04d91c2.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_ThePetCollective-1/e61c7287-aeba-417a-a455-a3fa1ce51ab8/0.m3u8",
       "https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

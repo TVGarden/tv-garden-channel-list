@@ -4,6 +4,7 @@
     "name": "Al Araby TV",
     "iptv_urls": [
       "https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616",
       "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8",
       "https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8"
     ],
@@ -17,7 +18,19 @@
     "name": "Al Araby TV 2",
     "iptv_urls": [
       "https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617",
       "https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "qa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mIaAqLMCDH73r4",
+    "name": "Al Jazeera",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -50,10 +63,7 @@
     "nanoid": "RT940A59Teonvk",
     "name": "Al Jazeera English",
     "iptv_urls": [
-      "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
-      "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
-      "https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8",
-      "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
