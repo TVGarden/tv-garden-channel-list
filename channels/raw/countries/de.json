@@ -155,10 +155,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5YHWYv7FsfOfjz",
-    "name": "BR Fernsehen Nord",
+    "nanoid": "QHfB2HaDRgtHoK",
+    "name": "Chemnitz Fernsehen",
     "iptv_urls": [
-      "https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8"
+      "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -370,17 +370,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JUHY7ZFUwE8O9n",
-    "name": "Finest TV",
-    "iptv_urls": [
-      "https://media.finest.tv/hls/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WRVOp3UlwzyfTu",
     "name": "Franken Fernsehen (Nürnberg)",
     "iptv_urls": [
@@ -473,6 +462,17 @@
     "name": "HSE24 Trend",
     "iptv_urls": [
       "https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wBMPZbYU5rhwEy",
+    "name": "iSTUFF",
+    "iptv_urls": [
+      "https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -597,10 +597,21 @@
     "name": "Motorvision",
     "iptv_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/0968af15-603e-4856-9185-f61cf74ef17e/4.m3u8",
-      "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535"
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "paDrWcFyUNsNMX",
+    "name": "München TV",
+    "iptv_urls": [
+      "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -672,17 +683,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uulIpGX9jYzIDT",
-    "name": "Oberpfalz TV",
-    "iptv_urls": [
-      "https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "t25XYUZkAL9Kgw",
     "name": "OF-TV Offenbach",
     "iptv_urls": [
@@ -721,28 +721,6 @@
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
       "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZBBFj5GnvGni4T",
-    "name": "Parlamentsfernsehen 2",
-    "iptv_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9rKd670JNINyhC",
-    "name": "Parlamentsfernsehen 4",
-    "iptv_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -838,6 +816,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1BfHLDA67bx4O6",
+    "name": "Regio TV Stuttgart",
+    "iptv_urls": [
+      "https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6I4CQI5DQQYidR",
     "name": "RFH",
     "iptv_urls": [
@@ -853,18 +842,6 @@
     "name": "RNF",
     "iptv_urls": [
       "https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4uVJ6q6wliLG97",
-    "name": "RT DE",
-    "iptv_urls": [
-      "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8",
-      "https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -909,6 +886,17 @@
     "name": "Sachsen Fernsehen Vogtland",
     "iptv_urls": [
       "https://vogtland.iptv-playoutcenter.de/vogtland/vogtlandfernsehen.stream_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MeAu6iEeCuE0br",
+    "name": "Salve TV",
+    "iptv_urls": [
+      "https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -986,6 +974,17 @@
     "name": "SR Fernsehen",
     "iptv_urls": [
       "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v3xxGRtiYvFu9f",
+    "name": "SRF",
+    "iptv_urls": [
+      "https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1084,6 +1083,7 @@
     "nanoid": "26XgnwsMGpjD8v",
     "name": "Tide TV",
     "iptv_urls": [
+      "https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8",
       "https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1118,6 +1118,28 @@
     "name": "TV Ingolstadt",
     "iptv_urls": [
       "https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dXWsfau5FP9NYo",
+    "name": "TV Oberfranken (TVO)",
+    "iptv_urls": [
+      "https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NJf6re2BP1KzzE",
+    "name": "TV38 Südost-Niedersachen",
+    "iptv_urls": [
+      "https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref="
     ],
     "youtube_urls": [],
     "language": "deu",

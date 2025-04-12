@@ -204,17 +204,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ebFbvTKN8YcHpc",
-    "name": "Euronews Polski",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ICuHh9geTTI"
-    ],
-    "language": "pol",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iGI0lZtaC0qVgq",
     "name": "Euronews Português",
     "iptv_urls": [],
@@ -353,6 +342,10 @@
     "nanoid": "S9vpRWeeHUeMAA",
     "name": "France 24 Arabic",
     "iptv_urls": [
+      "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
+      "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8",
+      "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8",
+      "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8",
@@ -466,6 +459,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b021fCKa5QLcMJ",
+    "name": "LCI",
+    "iptv_urls": [
+      "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -789,10 +793,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3UupDDnNXaxwcR",
-    "name": "Rakuten TV Films Comédie",
+    "nanoid": "9PtGiKgkdbGXR3",
+    "name": "Rakuten TV Films Action",
     "iptv_urls": [
-      "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8"
+      "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -844,10 +848,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DTY2Ai8ce28nMW",
-    "name": "Rakuten TV The Guardian",
+    "nanoid": "sTBFORbd1e1OPY",
+    "name": "Rakuten TV Top Films",
     "iptv_urls": [
-      "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8"
+      "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -855,10 +859,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sTBFORbd1e1OPY",
-    "name": "Rakuten TV Top Films",
+    "nanoid": "YRkHEIR7BUEziN",
+    "name": "Rakuten TV Trailers",
     "iptv_urls": [
-      "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
+      "https://a01cb16df2c946afa72d661622953cad.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4546/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -910,9 +914,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FEPMlCUYAxMEYZ",
+    "name": "RMC Découverte",
+    "iptv_urls": [
+      "https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WRXxoyW4bEOLd9",
+    "name": "RMC Story",
+    "iptv_urls": [
+      "https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xv9b7Q8DQqzTWg",
     "name": "RT France",
     "iptv_urls": [
+      "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
       "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -935,6 +962,7 @@
     "nanoid": "zlZnrWMlY26X8V",
     "name": "Sport En France",
     "iptv_urls": [
+      "https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8",
       "https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8",
       "https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8"
     ],

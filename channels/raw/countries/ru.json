@@ -60,7 +60,7 @@
     "name": "Get Movies: Маша и Медведь",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UqE7FPUSMp0"
+      "https://www.youtube-nocookie.com/embed/-8rw3qyCpFU"
     ],
     "language": "rus",
     "country": "ru",
@@ -115,6 +115,7 @@
     "nanoid": "VMF9bz9jysLZtk",
     "name": "RT Documentary English",
     "iptv_urls": [
+      "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
       "https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -126,7 +127,8 @@
     "nanoid": "0mulGVhtSW9kDC",
     "name": "RT Documentary Russian",
     "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/554.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/554.m3u8",
+      "https://streaming.skynetconnect.online/live/554.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -137,7 +139,8 @@
     "nanoid": "mPfWobHfV25q8P",
     "name": "RT en Español",
     "iptv_urls": [
-      "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8"
+      "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+      "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -154,6 +157,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "acZdedePfsl15d",
+    "name": "RU TV",
+    "iptv_urls": [
+      "https://hls-03-video.webcaramba.com/rutv/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -202,6 +216,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wllXuyEivFsvvl",
+    "name": "Архыз 24",
+    "iptv_urls": [
+      "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GaxdR3CfuVEY6D",
     "name": "Астрахань 24",
     "iptv_urls": [
@@ -228,6 +253,17 @@
     "name": "Астрахань.Ru TV",
     "iptv_urls": [
       "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qrQBwsfkDewreH",
+    "name": "Белгород 24",
+    "iptv_urls": [
+      "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -312,18 +348,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GXyfpkGN0MGlca",
-    "name": "Дом Кино",
-    "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/44.m3u8",
-      "https://streaming.skynetconnect.online/live/44.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jdtDDFx09GQYAn",
     "name": "Дума ТВ",
     "iptv_urls": [
@@ -360,7 +384,6 @@
     "nanoid": "0aNqMqNfvYuTeN",
     "name": "Звезда",
     "iptv_urls": [
-      "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
       "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8",
       "https://streaming.televizor-24-tochka.ru/live/748.m3u8",
       "https://streaming.skynetconnect.online/live/748.m3u8"
@@ -454,6 +477,17 @@
     "name": "Магнат ТВ",
     "iptv_urls": [
       "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PZBt17abf1Uupk",
+    "name": "Миллет",
+    "iptv_urls": [
+      "https://live.trkmillet.ru/millet/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -572,6 +606,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "U4INrzVYWsDWWg",
+    "name": "Первый канал",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/210.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "h4XqYLN5BBAUkl",
     "name": "Первый Ярославский",
     "iptv_urls": [
@@ -586,7 +631,8 @@
     "nanoid": "VzlSomi4YyimMb",
     "name": "Победа",
     "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/43.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/43.m3u8",
+      "https://streaming.skynetconnect.online/live/43.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -598,17 +644,6 @@
     "name": "Прима",
     "iptv_urls": [
       "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dgMx8sDoefxlM7",
-    "name": "Просвещение",
-    "iptv_urls": [
-      "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -664,6 +699,17 @@
     "name": "РЕН ТВ",
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kUjDpkaxsNrqT9",
+    "name": "Россия 24",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/30.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -841,6 +887,17 @@
     "name": "ТВК 24",
     "iptv_urls": [
       "https://air.tvk6.ru/tvk24/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y2nF8rGgzUaTr0",
+    "name": "Телеканал 86 (Сургут)",
+    "iptv_urls": [
+      "https://sitv.ru/hls/s86.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
