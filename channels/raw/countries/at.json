@@ -68,17 +68,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ys4B9XdtEVPSqS",
-    "name": "K19",
-    "iptv_urls": [
-      "https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5tTy78tgvm7wa1",
     "name": "KIT-TV",
     "iptv_urls": [
@@ -159,6 +148,7 @@
     "nanoid": "9lZHsJeKwkxURo",
     "name": "Red Bull TV",
     "iptv_urls": [
+      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
       "https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8"
     ],
     "youtube_urls": [],
@@ -233,10 +223,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YQPekJKCEusA1c",
+    "name": "Tirol TV",
+    "iptv_urls": [
+      "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tkuZRX9Vv5gpW6",
     "name": "TV 1 Oberösterreich",
     "iptv_urls": [
       "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "poBLTECPZ1p4X6",
+    "name": "W24",
+    "iptv_urls": [
+      "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
