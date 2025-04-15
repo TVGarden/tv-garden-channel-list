@@ -122,9 +122,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XTAYEbL85qggwx",
+    "nanoid": "DnEqNUdycNeHRJ",
     "name": "Çiftçi TV",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/oeuFq6uIJGY"
     ],
@@ -214,6 +216,17 @@
     "name": "DLTV 2",
     "iptv_urls": [
       "https://cdn-live.dltv.ac.th/dltv02.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z2nBboETrkSzIa",
+    "name": "DLTV 3",
+    "iptv_urls": [
+      "https://cdn-live.dltv.ac.th/dltv03.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -541,6 +554,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xx7eina1wOQhnp",
+    "name": "MCN6 Arts Channel",
+    "iptv_urls": [
+      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "a5pCHJNR4Ar34s",
     "name": "Mobile County Public Schools TV Network (MCPSS)",
     "iptv_urls": [
@@ -626,6 +650,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n4MkAIlXwdSE8X",
+    "name": "OUN",
+    "iptv_urls": [
+      "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -783,6 +818,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DCzhAOMfIMF2kt",
+    "name": "TV Nuevo León Canal 28 (XHMNL-TDT)",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AOK2yURwDU45yn",
     "name": "TV UJAT (XHUJAT-TDT)",
     "iptv_urls": [
@@ -874,7 +920,8 @@
     "nanoid": "dux8IWjtPNnNTy",
     "name": "Vyas NIC",
     "iptv_urls": [
-      "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8"
+      "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8",
+      "https://hls.media.nic.in/hls/live/vyas/vyas.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
