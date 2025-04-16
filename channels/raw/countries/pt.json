@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "UMtS6zsgi9sFxf",
+    "name": "ADB TV",
+    "iptv_urls": [
+      "https://customer-dxeagripmkqbhyeq.cloudflarestream.com/580c36d77be200bf5c7d3efc06487bd4/manifest/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MYnHsDG9stKwV8",
     "name": "ARTV Canal Parlamento",
     "iptv_urls": [
@@ -33,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6a0uMnCPmvoNNv",
-    "name": "Maná Église Online",
-    "iptv_urls": [
-      "https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L7FZh6x4RpxcuN",
     "name": "Maná Iglesia Online",
     "iptv_urls": [
@@ -51,17 +51,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YoDeMa770rI1x3",
-    "name": "Maná Igreja Online",
-    "iptv_urls": [
-      "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
     "country": "pt",
     "isGeoBlocked": false
   },
@@ -80,7 +69,8 @@
     "nanoid": "TSRnjpHQT3lzQ6",
     "name": "NPC Rádio e TV",
     "iptv_urls": [
-      "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8"
+      "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8",
+      "https://stmv1.srvif.com/npc/npc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -238,6 +228,17 @@
     ],
     "youtube_urls": [],
     "language": "rus",
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8Zval48r5m3T99",
+    "name": "TVI",
+    "iptv_urls": [
+      "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
     "country": "pt",
     "isGeoBlocked": false
   },
