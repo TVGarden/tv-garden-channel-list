@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QzSkQCeFOqXwg8",
-    "name": "Africa 24 English",
-    "iptv_urls": [
-      "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2U4gd5rnY0obyR",
     "name": "AfricaNews English",
     "iptv_urls": [],
@@ -84,17 +73,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9liJNhs1fNC6iE",
-    "name": "Brionnais TV",
-    "iptv_urls": [
-      "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -343,12 +321,12 @@
     "name": "France 24 Arabic",
     "iptv_urls": [
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8",
       "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8",
-      "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8"
+      "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8",
+      "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -392,6 +370,17 @@
       "https://www.youtube-nocookie.com/embed/Z-Nwo-ypKtM"
     ],
     "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "f1gcV762FL2zvG",
+    "name": "FX2 Farsi",
+    "iptv_urls": [
+      "https://toonixhls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -451,10 +440,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "b021fCKa5QLcMJ",
+    "name": "LCI",
+    "iptv_urls": [
+      "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YpQng8lk2pHqeY",
     "name": "Le Figaro IDF",
     "iptv_urls": [
       "https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xOFPIpGGq4ZURX",
+    "name": "Littoral FM",
+    "iptv_urls": [
+      "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -1009,7 +1020,6 @@
     "nanoid": "9MNQHSCkqJkjse",
     "name": "Trace Urban (Australia)",
     "iptv_urls": [
-      "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8"
     ],

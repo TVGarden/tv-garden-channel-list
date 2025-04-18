@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "pNO1A2SnOPsV3y",
+    "name": "AABC TV",
+    "iptv_urls": [
+      "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hye",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SUz6ZlewrjG9Ml",
     "name": "Abai TV",
     "iptv_urls": [
@@ -181,9 +192,7 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oeuFq6uIJGY"
-    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -259,7 +268,7 @@
     "name": "DD Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/trjy3rAFHhk"
+      "https://www.youtube-nocookie.com/embed/9X4XzCI-u6g"
     ],
     "language": "urd",
     "country": "in",
@@ -273,17 +282,6 @@
     ],
     "youtube_urls": [],
     "language": "urd",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nuCkj2isILRO5a",
-    "name": "EET TV",
-    "iptv_urls": [
-      "https://eu.streamjo.com/eetlive/eettv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -347,7 +345,6 @@
     "name": "Fox Soul",
     "iptv_urls": [
       "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
-      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-fox-soul-scte.m3u8"
     ],
     "youtube_urls": [],
@@ -486,28 +483,6 @@
     "youtube_urls": [],
     "language": "kur",
     "country": "se",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wlRG0aqJ5L1mdG",
-    "name": "KTV 2",
-    "iptv_urls": [
-      "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "kw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "x84vEYjClS3UTx",
-    "name": "KTV Arabe",
-    "iptv_urls": [
-      "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "kw",
     "isGeoBlocked": false
   },
   {
@@ -823,7 +798,8 @@
     "nanoid": "SouHlOn23CzTQS",
     "name": "НТВ Мир",
     "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/213.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/213.m3u8",
+      "https://streaming.skynetconnect.online/live/213.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
