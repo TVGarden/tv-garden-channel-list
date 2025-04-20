@@ -71,7 +71,7 @@
     "name": "Jetix",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uFsks3j641g"
+      "https://www.youtube-nocookie.com/embed/MX8nxgWwgs4"
     ],
     "language": "rus",
     "country": "ru",
@@ -100,6 +100,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JnxjBtQt6s0RPO",
+    "name": "RT Arabic",
+    "iptv_urls": [
+      "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
+      "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VMF9bz9jysLZtk",
     "name": "RT Documentary English",
     "iptv_urls": [
@@ -115,7 +127,8 @@
     "nanoid": "0mulGVhtSW9kDC",
     "name": "RT Documentary Russian",
     "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/554.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/554.m3u8",
+      "https://streaming.skynetconnect.online/live/554.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -148,12 +161,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uuwdAM4ggDTLQ4",
+    "name": "SONGTV Russia",
+    "iptv_urls": [
+      "https://songtv.hls.iptvdc.com/web-russia/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OoOqpCfI3BbmiH",
     "name": "TaronaMusic",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6977KHZH-gU"
     ],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0hiQdgKd6nMh6h",
+    "name": "TV BRICS Russian",
+    "iptv_urls": [
+      "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
@@ -174,17 +209,6 @@
     "name": "Архыз 24",
     "iptv_urls": [
       "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GaxdR3CfuVEY6D",
-    "name": "Астрахань 24",
-    "iptv_urls": [
-      "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -295,18 +319,6 @@
     "name": "Дождь",
     "iptv_urls": [
       "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GXyfpkGN0MGlca",
-    "name": "Дом Кино",
-    "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/44.m3u8",
-      "https://streaming.skynetconnect.online/live/44.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -499,8 +511,7 @@
     "nanoid": "lCl8WMVdJ5MxcZ",
     "name": "Надежда",
     "iptv_urls": [
-      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
-      "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -544,7 +555,8 @@
     "nanoid": "SouHlOn23CzTQS",
     "name": "НТВ Мир",
     "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/213.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/213.m3u8",
+      "https://streaming.skynetconnect.online/live/213.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -567,6 +579,18 @@
     "name": "НТС (Севастополь)",
     "iptv_urls": [
       "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "U4INrzVYWsDWWg",
+    "name": "Первый канал",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/210.m3u8",
+      "https://streaming.skynetconnect.online/live/210.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -703,17 +727,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AL13wnHi0qOCN5",
-    "name": "С1 (Сургут)",
-    "iptv_urls": [
-      "https://sitv.ru/hls/stv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -873,17 +886,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y2nF8rGgzUaTr0",
-    "name": "Телеканал 86 (Сургут)",
-    "iptv_urls": [
-      "https://sitv.ru/hls/s86.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8ftc8iZBLVvHNe",
     "name": "Телеканал ЕДА",
     "iptv_urls": [],
@@ -917,17 +919,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lFHxymRgYvsnV7",
-    "name": "Телплюс ТВ (Астрахань)",
-    "iptv_urls": [
-      "https://streaming.astrakhan.ru/telplushd/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RH6fEJb5kMD2Ge",
     "name": "ТК Алмазный край",
     "iptv_urls": [
@@ -954,7 +945,8 @@
     "name": "ТНТ",
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/38.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/38.m3u8",
+      "https://streaming.skynetconnect.online/live/38.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1011,17 +1003,6 @@
     "name": "Хузур ТВ",
     "iptv_urls": [
       "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AyRHI5JIwcnvUa",
-    "name": "Центр (Красноярск)",
-    "iptv_urls": [
-      "https://stream.tck.tv/hd.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

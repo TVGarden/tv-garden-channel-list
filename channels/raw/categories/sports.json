@@ -281,7 +281,6 @@
     "nanoid": "uV6lzloXXEajJ8",
     "name": "FUEL TV",
     "iptv_urls": [
-      "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
       "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8"
     ],
@@ -347,17 +346,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Bhg2eumLYO3zNj",
-    "name": "Idman TV",
-    "iptv_urls": [
-      "https://str.yodacdn.net/idman/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "aze",
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8tdnSXtJAn0eyk",
     "name": "Insight TV",
     "iptv_urls": [
@@ -369,17 +357,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vZumsCOw37zvtm",
-    "name": "IRIB3",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -678,8 +655,7 @@
     "iptv_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8",
-      "https://pac12-firetv.amagi.tv/playlist.m3u8"
+      "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -890,17 +866,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5ajptuhyjIdeFx",
-    "name": "Sports Connect",
-    "iptv_urls": [
-      "https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Pj3Pb4MifHuOI3",
     "name": "Sports TV",
     "iptv_urls": [
@@ -915,6 +880,7 @@
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
+      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1041,7 +1007,7 @@
     "nanoid": "uS6aOLXBCwTfBG",
     "name": "Trace Sport Stars (Australia)",
     "iptv_urls": [
-      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
+      "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1193,17 +1159,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "beAXn8CiW6Z5Te",
-    "name": "TVS Women Sports",
-    "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvswsn/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HoPPiJ6zSU8JBV",
     "name": "W14DK-D 14.5 All Sports Television Network",
     "iptv_urls": [
@@ -1218,7 +1173,6 @@
     "nanoid": "X8yK2ahG1lHzY9",
     "name": "World Poker Tour",
     "iptv_urls": [
-      "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8",
       "https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8",
       "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8",
       "https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8"
