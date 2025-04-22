@@ -45,10 +45,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "U2Aiz8KrVs5iFm",
-    "name": "BNR Nieuwsradio",
+    "nanoid": "hxElXQEHI6wIHq",
+    "name": "BR6 TV",
     "iptv_urls": [
-      "https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8"
+      "https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -180,6 +180,7 @@
     "nanoid": "8tdnSXtJAn0eyk",
     "name": "Insight TV",
     "iptv_urls": [
+      "https://insighttv-samsungau.amagi.tv/playlist.m3u8",
       "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
       "https://insighttv-samsungindia.amagi.tv/playlist.m3u8",
       "https://insighttv-samsung-uk.amagi.tv/playlist.m3u8",
@@ -209,6 +210,17 @@
     ],
     "youtube_urls": [],
     "language": "kur",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LaumigPirXIG5i",
+    "name": "KempenTV",
+    "iptv_urls": [
+      "https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
     "country": "nl",
     "isGeoBlocked": false
   },
@@ -478,6 +490,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eFozWtc9ctVlJw",
+    "name": "ORTS",
+    "iptv_urls": [
+      "https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lVckuJkdAyoSxp",
     "name": "Qmusic (Netherlands)",
     "iptv_urls": [
@@ -654,10 +677,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "goxtzeUVZGIYKs",
+    "name": "RTV Noord Extra",
+    "iptv_urls": [
+      "https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LpQFuIp1jHcUHG",
     "name": "RTV Oost",
     "iptv_urls": [
       "https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pKPcdscpQHKJ4v",
+    "name": "RTV Parkstad",
+    "iptv_urls": [
+      "https://live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -724,6 +769,17 @@
     "name": "RTV Veluwezoom",
     "iptv_urls": [
       "https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UyWYSAuGPQ1FRF",
+    "name": "RTV Westerwolde",
+    "iptv_urls": [
+      "https://media.rtvwesterwolde.nl/hls/live/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -808,17 +864,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xhOkE32mWm3czA",
-    "name": "SOL 2",
-    "iptv_urls": [
-      "https://live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3yqUEutbjyfIc5",
     "name": "Streek TV",
     "iptv_urls": [
@@ -878,6 +923,28 @@
     "name": "UStad",
     "iptv_urls": [
       "https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "i2GpEeoaXxzJ13",
+    "name": "Vechtdal TV",
+    "iptv_urls": [
+      "https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zl0ukpBnhgDrtz",
+    "name": "WeertFM TV",
+    "iptv_urls": [
+      "https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
