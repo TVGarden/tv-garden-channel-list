@@ -5,8 +5,7 @@
     "iptv_urls": [
       "https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8",
       "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616",
-      "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8",
-      "https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8"
+      "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -18,8 +17,20 @@
     "name": "Al Araby TV 2",
     "iptv_urls": [
       "https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617",
       "https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8",
       "https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "qa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mIaAqLMCDH73r4",
+    "name": "Al Jazeera",
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -38,34 +49,40 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5HtHLmw7FvH2BD",
-    "name": "Al Jazeera Balkans",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/y8JcLOL4yiQ"
-    ],
-    "language": "bos",
-    "country": "qa",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hcbNomXbX4pueG",
+    "nanoid": "RT940A59Teonvk",
     "name": "Al Jazeera English",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/gCNeDWCI0vo"
     ],
-    "language": "eng",
+    "language": "",
     "country": "qa",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D1UohFaYHBd7Uu",
+    "nanoid": "zXY3iyHS9joFvJ",
     "name": "Al Jazeera Mubasher",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
+      "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Lwbp9WfLslc"
     ],
+    "language": "ara",
+    "country": "qa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WVCjkBMypSAImO",
+    "name": "Al Jazeera Mubasher 24",
+    "iptv_urls": [
+      "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
+      "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "ara",
     "country": "qa",
     "isGeoBlocked": false
