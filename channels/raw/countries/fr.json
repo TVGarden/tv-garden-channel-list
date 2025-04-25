@@ -171,8 +171,7 @@
     "name": "Euronews English",
     "iptv_urls": [
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
-      "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8",
-      "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8"
+      "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
@@ -241,7 +240,7 @@
     "name": "Euronews Română",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/meEZT2wrxCQ"
+      "https://www.youtube-nocookie.com/embed/au7z88OqkS0"
     ],
     "language": "ron",
     "country": "fr",
@@ -365,7 +364,6 @@
     "name": "France 24 Arabic",
     "iptv_urls": [
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8",
@@ -394,7 +392,6 @@
     "name": "France 24 French",
     "iptv_urls": [
       "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
-      "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8",
       "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8",
       "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8",
@@ -580,6 +577,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B7oUuXqbWsfBhP",
+    "name": "OGGY",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/4fs42tPscuo"
+    ],
+    "language": "eng",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -793,17 +801,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9PtGiKgkdbGXR3",
-    "name": "Rakuten TV Films Action",
-    "iptv_urls": [
-      "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3UupDDnNXaxwcR",
     "name": "Rakuten TV Films Comédie",
     "iptv_urls": [
@@ -958,18 +955,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xv9b7Q8DQqzTWg",
-    "name": "RT France",
-    "iptv_urls": [
-      "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8",
-      "https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "e2QKMdwgfK4Vxo",
     "name": "Simon Super Lapin",
     "iptv_urls": [],
@@ -1049,6 +1034,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4jQHIfHCVNdR4R",
+    "name": "TF1",
+    "iptv_urls": [
+      "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xr9GORhfEbIqas",
     "name": "TFX",
     "iptv_urls": [
@@ -1086,7 +1082,7 @@
     "name": "Totally Spies!",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Gj2P22jTgZw"
+      "https://www.youtube-nocookie.com/embed/6-PBHMVMAms"
     ],
     "language": "fra",
     "country": "fr",
@@ -1225,6 +1221,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kz1QrxbntvR2ns",
+    "name": "Zig & Sharko",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/RedTfuZ2TbM"
+    ],
+    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },

@@ -60,8 +60,7 @@
     "iptv_urls": [
       "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
       "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-      "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-      "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8"
+      "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CJVBX7KI5nU"
@@ -119,17 +118,6 @@
     "name": "CJ OnStyle",
     "iptv_urls": [
       "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "h6sGUfEb8F8FM3",
-    "name": "CJ OnStyle Plus",
-    "iptv_urls": [
-      "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -248,6 +236,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PwiAIPffasG0wh",
+    "name": "Gongyoung Shopping",
+    "iptv_urls": [
+      "https://etv.publichs.com/live5.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ha2TQrOiJuUiVm",
     "name": "GS My Shop",
     "iptv_urls": [
@@ -358,34 +357,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KfP1wxKWGNerV7",
-    "name": "MBC Daegu (대구 MBC)",
-    "iptv_urls": [
-      "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CVYe8DrHATgn7K",
     "name": "MBC Daejeon (대전 MBC)",
     "iptv_urls": [
       "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iXvzjzF2ajSUq3",
-    "name": "MBC every1",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-knKhFC52ls"
-    ],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
@@ -428,17 +405,6 @@
     "name": "NS Home Shopping",
     "iptv_urls": [
       "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8fjuljf7xVUPuM",
-    "name": "NS Shop Plus",
-    "iptv_urls": [
-      "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -567,17 +533,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vhNaz7xD7cy5Pv",
-    "name": "TVCHOSUN MUSIC",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/u_kxURRqBe0"
-    ],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ALMRp6hUXQ2Vmy",
     "name": "tvN D ENT: 스트리트 푸드 파이터",
     "iptv_urls": [],
@@ -659,7 +614,7 @@
     "name": "어서와 한국은 처음이지",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/r7GPLGzmeJg"
+      "https://www.youtube-nocookie.com/embed/Q5d7iAOe4RE"
     ],
     "language": "kor",
     "country": "kr",
