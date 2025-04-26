@@ -366,17 +366,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sRtXiK8RAqxlx6",
-    "name": "Fort Lauderdale FLTV (Fort Lauderdale FL)",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JtpMZKlL4SeNOl",
     "name": "Fort Pierce Live Stream (Fort Pierce FL)",
     "iptv_urls": [
@@ -476,6 +465,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g3OLRIXo3TVOmX",
+    "name": "Korea TV",
+    "iptv_urls": [
+      "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JtUQGJtpnhTNyv",
     "name": "LA CityView 35",
     "iptv_urls": [
@@ -539,17 +539,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J0RozSUIYYOF3l",
-    "name": "Lok Sabha TV",
-    "iptv_urls": [
-      "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -951,14 +940,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BqqeaBGazomeJi",
-    "name": "Sansad TV",
+    "nanoid": "RbOtxF7iZNzUEr",
+    "name": "RTM Parlimen (Dewan Negara)",
     "iptv_urls": [
-      "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8"
+      "https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8"
     ],
     "youtube_urls": [],
-    "language": "hin",
-    "country": "in",
+    "language": "mal",
+    "country": "my",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b9eQGrQfCzFYHL",
+    "name": "RTM Parlimen (Dewan Rakyat)",
+    "iptv_urls": [
+      "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7"
+    ],
+    "youtube_urls": [],
+    "language": "mal",
+    "country": "my",
     "isGeoBlocked": false
   },
   {
@@ -1065,7 +1065,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Obep5MV646E"
+      "https://www.youtube-nocookie.com/embed/tvaWJ0ITiN8"
     ],
     "language": "por",
     "country": "br",

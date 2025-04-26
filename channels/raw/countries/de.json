@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LAPj7zIAvtxGKM",
+    "name": "Alex Berlin",
+    "iptv_urls": [
+      "https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BLdX0ZRRE4xZ0i",
     "name": "Allgäu TV",
     "iptv_urls": [
@@ -33,10 +44,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IJpns8FI8lNpRr",
-    "name": "ARD-alpha",
+    "nanoid": "LGLjherg6GkxIA",
+    "name": "Augsburg TV",
     "iptv_urls": [
-      "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
+      "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8",
+      "https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -44,11 +56,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LGLjherg6GkxIA",
-    "name": "Augsburg TV",
+    "nanoid": "HISiOL7NmfoR6g",
+    "name": "Baden TV",
     "iptv_urls": [
-      "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8",
-      "https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8"
+      "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T9dI0W8iuj2OFY",
+    "name": "Baden TV Süd",
+    "iptv_urls": [
+      "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -89,10 +111,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5YHWYv7FsfOfjz",
-    "name": "BR Fernsehen Nord",
+    "nanoid": "5Sr9qxxUmLUHZa",
+    "name": "BLK Regional TV",
     "iptv_urls": [
-      "https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8"
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8",
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8",
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -392,17 +416,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KWubgLKIN9lBtR",
-    "name": "Handystar",
-    "iptv_urls": [
-      "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "C38uFQgyi8ggWU",
     "name": "hr-fernsehen",
     "iptv_urls": [
@@ -493,6 +506,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Wb0Im4H36585vz",
+    "name": "Kanal12 Spremberg TV",
+    "iptv_urls": [
+      "https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hkGnYbKbnHGzDM",
     "name": "KaufBei TV",
     "iptv_urls": [
@@ -504,10 +528,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "br6wZifeeVhnb4",
+    "name": "Khatereh TV",
+    "iptv_urls": [
+      "https://khaterehhls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0yjVBN9zD5VvoM",
     "name": "KiKA",
     "iptv_urls": [
-      "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8",
       "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8"
     ],
     "youtube_urls": [],
@@ -588,50 +622,6 @@
     "name": "NDR Fernsehen International",
     "iptv_urls": [
       "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GeKNyE31y73DJT",
-    "name": "NDR Hamburg",
-    "iptv_urls": [
-      "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1YKtmiXKofHZmI",
-    "name": "NDR Mecklenburg-Vorpommern",
-    "iptv_urls": [
-      "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "k5LiEhsAnjMfOw",
-    "name": "NDR Niedersachsen",
-    "iptv_urls": [
-      "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "q4UQePM8wCREnl",
-    "name": "NDR Schleswig-Holstein",
-    "iptv_urls": [
-      "https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -740,10 +730,67 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MUm8U37A4OvXc2",
+    "name": "OK Dessau",
+    "iptv_urls": [
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8",
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ixhyYhnKxhDZBe",
+    "name": "OK Flensburg",
+    "iptv_urls": [
+      "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TAd1Ubg7TEmAUU",
     "name": "OK Kiel",
     "iptv_urls": [
       "https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3sRXXJs8hqTfO5",
+    "name": "OK Magdeburg",
+    "iptv_urls": [
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FYuXPwk6jlP8bJ",
+    "name": "OK Merseburg-Querfurt",
+    "iptv_urls": [
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rBGrW8kNGesFFe",
+    "name": "OK Salzwedel",
+    "iptv_urls": [
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8",
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-salzwedel_high/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -874,6 +921,29 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ILjNpPssxRQReN",
+    "name": "RAN1",
+    "iptv_urls": [
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eDxTJNmoxWEurz",
+    "name": "RBW",
+    "iptv_urls": [
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8",
+      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "i2oVTNlM3TCzLz",
     "name": "Regio TV Bodensee",
     "iptv_urls": [
@@ -911,6 +981,17 @@
     "name": "RFH",
     "iptv_urls": [
       "https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Wm5wGl36SAC05e",
+    "name": "RFO",
+    "iptv_urls": [
+      "https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1117,6 +1198,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "APsiDTtaBUvYQA",
+    "name": "teltOwkanal",
+    "iptv_urls": [
+      "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "26XgnwsMGpjD8v",
     "name": "Tide TV",
     "iptv_urls": [
@@ -1220,129 +1312,7 @@
     "nanoid": "4YJWj04hCfbsQM",
     "name": "WDR 1 Live",
     "iptv_urls": [
-      "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8",
       "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VX0nmnBQ8D5Pdv",
-    "name": "WDR Fernsehen Aachen",
-    "iptv_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kpnjh9YYciFo9a",
-    "name": "WDR Fernsehen Bielefeld",
-    "iptv_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9bq9EK8pK09oGU",
-    "name": "WDR Fernsehen Bonn",
-    "iptv_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "syMY9oojgpG8KI",
-    "name": "WDR Fernsehen Dortmund",
-    "iptv_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mhLwW0aVVzdJ90",
-    "name": "WDR Fernsehen Duisburg",
-    "iptv_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Gt6McIqzqsAgE1",
-    "name": "WDR Fernsehen Düsseldorf",
-    "iptv_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6Lz1ceHetsyoUa",
-    "name": "WDR Fernsehen Essen",
-    "iptv_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HOEGJfbN2vEljn",
-    "name": "WDR Fernsehen Köln",
-    "iptv_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wxs1H0scf0XK4q",
-    "name": "WDR Fernsehen Münster",
-    "iptv_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dEZtPa59baOyrW",
-    "name": "WDR Fernsehen Siegen",
-    "iptv_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dC86JbiDgYV1qp",
-    "name": "WDR Fernsehen Wuppertal",
-    "iptv_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",

@@ -113,7 +113,6 @@
     "nanoid": "NrTK4ahuPqgFRE",
     "name": "CBC News Network",
     "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/ac-cbc2.m3u8",
       "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8"
     ],
     "youtube_urls": [
@@ -142,17 +141,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hNiR0Bzv5qlmQG",
-    "name": "CityNews Montreal",
-    "iptv_urls": [
-      "https://dai.google.com/linear/hls/event/v6WfM9eaSjeioOsT6I2q3g/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -514,6 +502,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NEAiVIrorOOeH4",
+    "name": "NETV Toronto",
+    "iptv_urls": [
+      "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XVgAGRmSpMBubT",
     "name": "Newfoundland Television",
     "iptv_urls": [
@@ -651,6 +650,17 @@
     "name": "Sportsnet 360",
     "iptv_urls": [
       "https://v1.thetvapp.to/hls/sportsnet-360/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0lYz1EXCW0YfWa",
+    "name": "Sportsnet One",
+    "iptv_urls": [
+      "https://v1.thetvapp.to/hls/sportsnet-one/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -947,8 +957,7 @@
     "nanoid": "0S2JNOd1EtCcs1",
     "name": "Today's Shopping Choice (TSC)",
     "iptv_urls": [
-      "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8",
-      "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
+      "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1083,6 +1092,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CsTHvxP2fsg"
     ],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wQ9GTRyYVowsvi",
+    "name": "WCGtv Public",
+    "iptv_urls": [
+      "https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
