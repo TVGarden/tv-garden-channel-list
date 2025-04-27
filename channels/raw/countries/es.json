@@ -231,10 +231,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CAvApZGdH2bpuz",
+    "name": "Canal 24 Horas",
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/1694255.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1HbuNXkbC5ZCG3",
     "name": "Canal 24 Horas Canarias",
     "iptv_urls": [
-      "https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_dvr.m3u8"
+      "https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_dvr.m3u8",
+      "https://ztnr.rtve.es/ztnr/5473142.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -245,7 +257,8 @@
     "nanoid": "l6PY3HPMk2VaSf",
     "name": "Canal 24 Horas Catalunya",
     "iptv_urls": [
-      "https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8"
+      "https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8",
+      "https://ztnr.rtve.es/ztnr/4952053.m3u8"
     ],
     "youtube_urls": [],
     "language": "cat",
@@ -539,6 +552,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hH4CoV8wpIpgVv",
+    "name": "El Toro TV",
+    "iptv_urls": [
+      "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "w8nJcI9HkWg8Yr",
     "name": "Empordà TV",
     "iptv_urls": [
@@ -656,28 +680,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MtvAPbtuZZyeOW",
-    "name": "La 2 Canarias",
-    "iptv_urls": [
-      "https://rtvelivestream.akamaized.net/rtvesec/can/la2_can_main_dvr.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YDIi3VBX7D7fKC",
-    "name": "La 2 Catalunya",
-    "iptv_urls": [
-      "https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1158,10 +1160,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xRegMZSkKkDbP5",
-    "name": "TeleVigo",
+    "nanoid": "1nQKxr4bzoAoiY",
+    "name": "Telemotril",
     "iptv_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8"
+      "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1169,10 +1171,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MYmpRnITzqWFJm",
-    "name": "Televisión Aranda",
+    "nanoid": "xRegMZSkKkDbP5",
+    "name": "TeleVigo",
     "iptv_urls": [
-      "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8"
+      "https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1216,8 +1218,7 @@
     "nanoid": "yAvkQDCoQRxCiQ",
     "name": "Trece TV",
     "iptv_urls": [
-      "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8",
-      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
+      "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
