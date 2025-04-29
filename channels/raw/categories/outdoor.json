@@ -104,7 +104,8 @@
     "name": "Horse & Country TV",
     "iptv_urls": [
       "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-      "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
+      "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -147,9 +148,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yWx96N1LT28ilx",
+    "name": "Outdoor Channel",
+    "iptv_urls": [
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "P1PoD5jjT64Mum",
     "name": "Outside TV",
     "iptv_urls": [
+      "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
       "https://livetv-fa.tubi.video/outsidetv2/playlist.m3u8"
     ],
     "youtube_urls": [],
