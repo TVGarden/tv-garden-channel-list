@@ -165,17 +165,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vUd9BZTcBgBOm3",
-    "name": "Catamarca TV",
-    "iptv_urls": [
-      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "h25WUyBe4528fW",
     "name": "Channel S",
     "iptv_urls": [
@@ -268,7 +257,7 @@
     "name": "DD Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xwELY1sS0Rs"
+      "https://www.youtube-nocookie.com/embed/Eq7NNhCr1Ew"
     ],
     "language": "urd",
     "country": "in",
@@ -367,7 +356,6 @@
     "name": "Fox Soul",
     "iptv_urls": [
       "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
-      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-fox-soul-scte.m3u8"
     ],
     "youtube_urls": [],
@@ -406,6 +394,17 @@
     ],
     "language": "rom",
     "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1LzUAhU5QCo1yS",
+    "name": "Guaymate",
+    "iptv_urls": [
+      "https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -509,6 +508,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "br6wZifeeVhnb4",
+    "name": "Khatereh TV",
+    "iptv_urls": [
+      "https://castor.streamthatvideo.co:8081/khaterehtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MFBhdF22oHPsQx",
     "name": "Komala TV",
     "iptv_urls": [
@@ -517,6 +527,17 @@
     "youtube_urls": [],
     "language": "kur",
     "country": "se",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wlRG0aqJ5L1mdG",
+    "name": "KTV 2",
+    "iptv_urls": [
+      "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "kw",
     "isGeoBlocked": false
   },
   {
@@ -550,17 +571,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ie6Cl28U3aDpAI",
-    "name": "Medeniyyet TV",
-    "iptv_urls": [
-      "https://str.yodacdn.net/medeniyyet/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "aze",
-    "country": "az",
     "isGeoBlocked": false
   },
   {
@@ -933,7 +943,8 @@
     "nanoid": "SouHlOn23CzTQS",
     "name": "НТВ Мир",
     "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/213.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/213.m3u8",
+      "https://streaming.skynetconnect.online/live/213.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

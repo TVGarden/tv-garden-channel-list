@@ -72,9 +72,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D1UohFaYHBd7Uu",
+    "nanoid": "zXY3iyHS9joFvJ",
     "name": "Al Jazeera Mubasher",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
+      "https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8",
+      "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Lwbp9WfLslc"
     ],
@@ -156,18 +160,6 @@
     "iptv_urls": [
       "https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8",
       "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "qa",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nRS5DLp96YBtfJ",
-    "name": "Qatar Television 2",
-    "iptv_urls": [
-      "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8",
-      "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
