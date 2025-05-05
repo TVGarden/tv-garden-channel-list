@@ -501,7 +501,7 @@
     "iptv_urls": [
       "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
       "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
-      "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8"
+      "https://cmc-kowdtv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1602,17 +1602,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J1ZxKC4hiVQsq4",
-    "name": "Latin Zone TV",
-    "iptv_urls": [
-      "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ztcv27i6GrEiFD",
     "name": "Lausitzwelle",
     "iptv_urls": [
@@ -1654,6 +1643,17 @@
     "youtube_urls": [],
     "language": "ron",
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xOFPIpGGq4ZURX",
+    "name": "Littoral FM",
+    "iptv_urls": [
+      "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -1742,17 +1742,6 @@
     ],
     "language": "jpn",
     "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ip9MDCdkimyNqv",
-    "name": "Luna Estéreo 106.4 FM",
-    "iptv_urls": [
-      "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
     "isGeoBlocked": false
   },
   {
@@ -1989,6 +1978,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AxLy0nB5LvmZiY",
+    "name": "Millenium 109 FM",
+    "iptv_urls": [
+      "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UCjLTTayb4q6mw",
     "name": "MNTV Music",
     "iptv_urls": [
@@ -2011,10 +2011,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "q6atLfAg2ohp9S",
-    "name": "MoozRo",
+    "nanoid": "fGL8972rlBYSPd",
+    "name": "MoozDance",
     "iptv_urls": [
-      "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8"
+      "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y9iv9PnBd0DUNW",
+    "name": "MoozHits",
+    "iptv_urls": [
+      "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",
@@ -2263,17 +2274,6 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jz0ciRS06fe4gc",
-    "name": "Nueva Vida TV",
-    "iptv_urls": [
-      "https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pr",
     "isGeoBlocked": false
   },
   {
@@ -2918,17 +2918,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wqtEMGQtkW2vmM",
-    "name": "Radio Suyai TV",
-    "iptv_urls": [
-      "https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "C6oSzIHCShu5sK",
     "name": "Radio Télé Hit",
     "iptv_urls": [
@@ -2937,17 +2926,6 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "ht",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vy9HTzZfX7NGXL",
-    "name": "Radio Tropical Tarapoto",
-    "iptv_urls": [
-      "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -3743,10 +3721,10 @@
     "nanoid": "9MNQHSCkqJkjse",
     "name": "Trace Urban (Australia)",
     "iptv_urls": [
-      "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8",
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8",
       "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8"
     ],
@@ -3837,7 +3815,7 @@
     "name": "TVCHOSUN MUSIC",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/I0tMXAQabqY"
+      "https://www.youtube-nocookie.com/embed/JeU1_Wdu15A"
     ],
     "language": "kor",
     "country": "kr",
