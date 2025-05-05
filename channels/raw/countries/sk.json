@@ -26,8 +26,7 @@
     "name": "ducktv",
     "iptv_urls": [
       "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8",
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168",
-      "https://weyyak-live.akamaized.net/weyyak_ducktv/index.m3u8"
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -79,10 +78,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YZDUiqkX55pfU6",
+    "name": "Televízia Močenok",
+    "iptv_urls": [
+      "https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "slk",
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NePDHatqqYOqTp",
     "name": "TV Central",
     "iptv_urls": [
       "https://arenasportslovakia.ddns.net/hls/cetv2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "slk",
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ulsMU1MaHTBaTP",
+    "name": "TV DK",
+    "iptv_urls": [
+      "https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "slk",
@@ -105,6 +126,17 @@
     "name": "TV NRSR",
     "iptv_urls": [
       "https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "slk",
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lY0NSe1C5uyuBW",
+    "name": "TVT",
+    "iptv_urls": [
+      "https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "slk",
