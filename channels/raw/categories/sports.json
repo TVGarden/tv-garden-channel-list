@@ -223,6 +223,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "upZUS4jnd1EPJG",
+    "name": "Chelsea Football Club",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/z_M1LpfTJe8"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cEtgYgEtHzj5Ic",
     "name": "ColimdoT TV",
     "iptv_urls": [
@@ -772,6 +783,17 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "wZamjnT98pF2K3",
+    "name": "NESN",
+    "iptv_urls": [
+      "https://v16.thetvapp.to/hls/new-england-sports-network/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6lpaQyZbyTYwzV",
     "name": "NFL",
     "iptv_urls": [
@@ -797,7 +819,8 @@
     "nanoid": "jfKOQiiLREewGY",
     "name": "NHL",
     "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/ac-nhl.m3u8"
+      "https://apollo.production-public.tubi.io/live/ac-nhl.m3u8",
+      "https://nhl-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1035,29 +1058,6 @@
     "iptv_urls": [
       "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8",
       "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y3HiLvYOUz8nJV",
-    "name": "Sportitalia 24",
-    "iptv_urls": [
-      "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "L6xHaqwHEm1G78",
-    "name": "Sportitalia Solocalcio",
-    "iptv_urls": [
-      "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1391,17 +1391,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uxa3RChSlTbz84",
-    "name": "TVS Sports Bureau",
-    "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eIJ4L4aV4I4YRC",
     "name": "TVS Turbo",
     "iptv_urls": [
@@ -1505,22 +1494,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yxXfCHd5uHQMJD",
-    "name": "Беларусь 5",
-    "iptv_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hksyXK9W8Dv3Pj",
     "name": "Беларусь 5 Интернет",
     "iptv_urls": [
-      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
+      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
