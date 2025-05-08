@@ -375,9 +375,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g4VnkSt3v2F081",
+    "nanoid": "vyAlDaoF9WU1Q1",
     "name": "Euronews English",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8",
+      "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
     ],
@@ -456,7 +460,7 @@
     "name": "Euronews Română",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/au7z88OqkS0"
+      "https://www.youtube-nocookie.com/embed/RRxGYi6yzOA"
     ],
     "language": "ron",
     "country": "fr",
@@ -901,17 +905,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y5OuRzzHjHXep5",
-    "name": "Motorsport.tv",
-    "iptv_urls": [
-      "https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BoupFeA3cv43aA",
     "name": "Motorvision.tv (French)",
     "iptv_urls": [
@@ -1003,6 +996,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pzS6cuKLPwTruY",
+    "name": "No Comment TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/I0pWrk0XT04"
+    ],
+    "language": "eng",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "B7oUuXqbWsfBhP",
     "name": "OGGY",
     "iptv_urls": [],
@@ -1040,6 +1044,17 @@
     "name": "Persiana Cinema",
     "iptv_urls": [
       "https://cinehls.persiana.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rD66Oim1zZv8fD",
+    "name": "Persiana Comedy",
+    "iptv_urls": [
+      "https://comedyhls.persiana.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -1338,17 +1353,6 @@
     "name": "Rakuten TV Top Films",
     "iptv_urls": [
       "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YRkHEIR7BUEziN",
-    "name": "Rakuten TV Trailers",
-    "iptv_urls": [
-      "https://a01cb16df2c946afa72d661622953cad.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4546/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
