@@ -132,17 +132,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O6l4QcUlPIUsX6",
-    "name": "Cinevault 80s",
-    "iptv_urls": [
-      "https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "hkyMh1FkUqryxv",
     "name": "Classic Cinema",
     "iptv_urls": [
@@ -246,6 +235,17 @@
     "name": "Filmrise Forensic Files",
     "iptv_urls": [
       "https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5N3GomNjwPZl39",
+    "name": "Filmrise True Crime",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -418,18 +418,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g3vaXRs7MKcSOW",
-    "name": "iFilm Persian",
-    "iptv_urls": [
-      "https://live.presstv.ir/hls/ifilmfa.m3u8",
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226842/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9tdQOe3oPZhf4V",
     "name": "Kairali We",
     "iptv_urls": [
@@ -488,7 +476,6 @@
     "nanoid": "LUYj2NSC05NKH3",
     "name": "Maverick Black Cinema",
     "iptv_urls": [
-      "https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-maverick-black-cinema.m3u8"
     ],
     "youtube_urls": [],
@@ -579,8 +566,7 @@
     "nanoid": "OO4sfDrtpxEZzI",
     "name": "MyTime Movie Network",
     "iptv_urls": [
-      "https://livetv-fa.tubi.video/my-time/playlist.m3u8",
-      "https://mytime-tcl.amagi.tv/playlist.m3u8"
+      "https://livetv-fa.tubi.video/my-time/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
