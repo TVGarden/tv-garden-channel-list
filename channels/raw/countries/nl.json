@@ -213,6 +213,7 @@
     "nanoid": "8tdnSXtJAn0eyk",
     "name": "Insight TV",
     "iptv_urls": [
+      "https://insighttv-samsungau.amagi.tv/playlist.m3u8",
       "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
       "https://insighttv-samsungindia.amagi.tv/playlist.m3u8",
       "https://insighttv-samsung-uk.amagi.tv/playlist.m3u8",
@@ -456,6 +457,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dFannK4ymI7mlh",
+    "name": "Omroep Gelderland",
+    "iptv_urls": [
+      "https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hk7PXKEYotjuny",
     "name": "Omroep Hoeksche Waard",
     "iptv_urls": [
@@ -549,6 +561,17 @@
     "name": "Omroep West",
     "iptv_urls": [
       "https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pzKNc2nvONww0m",
+    "name": "Omroep Zeeland",
+    "iptv_urls": [
+      "https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",

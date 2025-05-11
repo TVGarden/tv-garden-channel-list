@@ -132,6 +132,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rSzoHw6czoZxUT",
+    "name": "BeIN Sports XTRA",
+    "iptv_urls": [
+      "https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3am68X6zps1DGJ",
     "name": "BeIN SPORTS XTRA",
     "iptv_urls": [
@@ -493,6 +504,7 @@
     "nanoid": "8tdnSXtJAn0eyk",
     "name": "Insight TV",
     "iptv_urls": [
+      "https://insighttv-samsungau.amagi.tv/playlist.m3u8",
       "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
       "https://insighttv-samsungindia.amagi.tv/playlist.m3u8",
       "https://insighttv-samsung-uk.amagi.tv/playlist.m3u8",
@@ -501,6 +513,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vZumsCOw37zvtm",
+    "name": "IRIB3",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -829,7 +852,10 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
-      "https://pac12-samsungus.amagi.tv/playlist.m3u8"
+      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
+      "https://pac12-samsungus.amagi.tv/playlist.m3u8",
+      "https://pac12-vizio.amagi.tv/playlist.m3u8",
+      "https://pac12-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -938,18 +964,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DlnA3363JGvPGt",
-    "name": "RightNow TV",
-    "iptv_urls": [
-      "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
-      "https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vfExfpKOcJ4kwS",
     "name": "RTA Sport",
     "iptv_urls": [
@@ -1032,31 +1046,7 @@
     "nanoid": "e4huLQp9M80Lrf",
     "name": "Sportitalia",
     "iptv_urls": [
-      "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8",
       "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y3HiLvYOUz8nJV",
-    "name": "Sportitalia 24",
-    "iptv_urls": [
-      "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "L6xHaqwHEm1G78",
-    "name": "Sportitalia Solocalcio",
-    "iptv_urls": [
-      "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
-      "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1090,7 +1080,7 @@
     "name": "SportsGrid",
     "iptv_urls": [
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
+      "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1216,6 +1206,7 @@
     "nanoid": "XdwrocdV5KOMCW",
     "name": "Tennis Channel",
     "iptv_urls": [
+      "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
     ],
     "youtube_urls": [],
