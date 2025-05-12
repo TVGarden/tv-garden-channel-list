@@ -504,7 +504,6 @@
     "nanoid": "8tdnSXtJAn0eyk",
     "name": "Insight TV",
     "iptv_urls": [
-      "https://insighttv-samsungau.amagi.tv/playlist.m3u8",
       "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
       "https://insighttv-samsungindia.amagi.tv/playlist.m3u8",
       "https://insighttv-samsung-uk.amagi.tv/playlist.m3u8",
@@ -513,17 +512,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vZumsCOw37zvtm",
-    "name": "IRIB3",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -827,6 +815,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iqW7NImquoQlAB",
+    "name": "NHRA TV",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-nhra.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n3Vm2leSNIdmDK",
+    "name": "Nitro Circus",
+    "iptv_urls": [
+      "https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yxyIFaB4Q9mpks",
     "name": "Oman Sports TV",
     "iptv_urls": [
@@ -852,10 +862,8 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
-      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8",
-      "https://pac12-firetv.amagi.tv/playlist.m3u8"
+      "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -964,6 +972,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DlnA3363JGvPGt",
+    "name": "RightNow TV",
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
+      "https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vfExfpKOcJ4kwS",
     "name": "RTA Sport",
     "iptv_urls": [
@@ -1043,6 +1063,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SIki0bxRn3r6qL",
+    "name": "Sport Italia",
+    "iptv_urls": [
+      "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e4huLQp9M80Lrf",
     "name": "Sportitalia",
     "iptv_urls": [
@@ -1079,8 +1110,8 @@
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
-      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-      "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1124,10 +1155,21 @@
     "nanoid": "gGeFL1urlq0cmR",
     "name": "Strongman",
     "iptv_urls": [
-      "https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8"
+      "https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wyl3teU5PiAwbZ",
+    "name": "Strongman Champions League",
+    "iptv_urls": [
+      "https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -1206,7 +1248,17 @@
     "nanoid": "XdwrocdV5KOMCW",
     "name": "Tennis Channel",
     "iptv_urls": [
-      "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+      "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XdwrocdV5KOMCW",
+    "name": "Tennis Channel",
+    "iptv_urls": [
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1402,10 +1454,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uxa3RChSlTbz84",
-    "name": "TVS Sports Bureau",
+    "nanoid": "eIJ4L4aV4I4YRC",
+    "name": "TVS Turbo",
     "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1413,10 +1465,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eIJ4L4aV4I4YRC",
-    "name": "TVS Turbo",
+    "nanoid": "beAXn8CiW6Z5Te",
+    "name": "TVS Women Sports",
     "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvswsn/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1438,7 +1490,7 @@
     "nanoid": "Rbcaed64dSHjvH",
     "name": "World of Freesports",
     "iptv_urls": [
-      "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
+      "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
