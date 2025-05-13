@@ -113,19 +113,7 @@
     "nanoid": "rapVigofEJSHYU",
     "name": "C-SPAN",
     "iptv_urls": [
-      "https://windnew.newkso.ru/wind/premium750/mono.m3u8",
-      "https://v1.thetvapp.to/hls/CSPAN/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "Do7oeDT3YviGiQ",
-    "name": "C-SPAN 2",
-    "iptv_urls": [
-      "https://v1.thetvapp.to/hls/CSPAN2/index.m3u8"
+      "https://windnew.newkso.ru/wind/premium750/mono.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -212,17 +200,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5q56p206iZwWfG",
-    "name": "City of Oakland (KTOP)",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CI4BtTpHkRl4IU",
     "name": "CityTV San Diego",
     "iptv_urls": [
@@ -245,10 +222,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VQKAVjDBKZb0pj",
+    "name": "Congreso de los Diputados 1",
+    "iptv_urls": [
+      "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VUSPcmoFUEMqtT",
     "name": "Congreso de los Diputados 3",
     "iptv_urls": [
       "https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zoe4KOWUPEQWXA",
+    "name": "Congreso de los Diputados 5",
+    "iptv_urls": [
+      "https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -325,19 +324,7 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "iptv_urls": [
-      "https://video.oct.dc.gov/out/u/15_12.m3u8",
       "https://video.oct.dc.gov/out/u/DCC.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Nf4iMslErjtXta",
-    "name": "DC.gov Council Hearing Room 120 (Washington DC)",
-    "iptv_urls": [
-      "https://video.oct.dc.gov/out/u/97_12.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -437,6 +424,17 @@
     "name": "Gainesville Community 12TV (Gainesville FL)",
     "iptv_urls": [
       "https://lin10.isilive.ca/live/gainesville/live/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aZACmqFHyDlfSs",
+    "name": "Galveston County TV",
+    "iptv_urls": [
+      "https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -919,17 +917,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ncwhfZ9mDVBGeC",
-    "name": "Pasco TV (Pasco County FL)",
-    "iptv_urls": [
-      "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wZidfsC4OxRSqJ",
     "name": "Pinole Community Television (PCTV) Channel 26 (Pinole CA)",
     "iptv_urls": [
@@ -1155,7 +1142,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oFGtib_KSgU"
+      "https://www.youtube-nocookie.com/embed/viuSG0_cas8"
     ],
     "language": "por",
     "country": "br",
@@ -1179,6 +1166,17 @@
       "https://stream3.camara.gov.br/tv2/manifest.m3u8"
     ],
     "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ljxQJllBAK9Pvk",
+    "name": "TV Câmara Porto Alegre",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/aQRtw-vb3AE"
+    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false

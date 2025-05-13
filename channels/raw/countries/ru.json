@@ -194,6 +194,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3OOeiozk8ilduN",
+    "name": "Univer TV",
+    "iptv_urls": [
+      "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
+      "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zaYBtAZLn513w6",
     "name": "Zafari Rahimzod",
     "iptv_urls": [],
@@ -330,6 +342,17 @@
     "name": "Дождь",
     "iptv_urls": [
       "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GXyfpkGN0MGlca",
+    "name": "Дом Кино",
+    "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/44.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -577,7 +600,8 @@
     "nanoid": "lCl8WMVdJ5MxcZ",
     "name": "Надежда",
     "iptv_urls": [
-      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+      "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -663,17 +687,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "U4INrzVYWsDWWg",
-    "name": "Первый канал",
-    "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/210.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "h4XqYLN5BBAUkl",
     "name": "Первый Ярославский",
     "iptv_urls": [
@@ -688,8 +701,7 @@
     "nanoid": "VzlSomi4YyimMb",
     "name": "Победа",
     "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/43.m3u8",
-      "https://streaming.skynetconnect.online/live/43.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/43.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1045,7 +1057,8 @@
     "name": "ТНТ",
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/38.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/38.m3u8",
+      "https://streaming.skynetconnect.online/live/38.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1091,6 +1104,17 @@
     "name": "Хузур ТВ",
     "iptv_urls": [
       "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AyRHI5JIwcnvUa",
+    "name": "Центр (Красноярск)",
+    "iptv_urls": [
+      "https://stream.tck.tv/hd.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
