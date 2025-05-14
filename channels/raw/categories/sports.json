@@ -11,9 +11,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UyP5uli9gNPXtq",
+    "nanoid": "ZSJcujZT32sD1B",
     "name": "A Spor",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/7uBpwcn2ZZ0"
     ],
@@ -368,6 +370,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KX1A3Tor2NIXFo",
+    "name": "GEM Fit",
+    "iptv_urls": [
+      "https://ca-rt.onetv.app/gemfit/index-0.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2PSn9nszcZJLfL",
     "name": "Glory Kickboxing",
     "iptv_urls": [
@@ -416,7 +429,6 @@
     "nanoid": "8tdnSXtJAn0eyk",
     "name": "Insight TV",
     "iptv_urls": [
-      "https://insighttv-samsungau.amagi.tv/playlist.m3u8",
       "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
       "https://insighttv-samsungindia.amagi.tv/playlist.m3u8",
       "https://insighttv-samsung-uk.amagi.tv/playlist.m3u8",
@@ -428,14 +440,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RFeb11iCYGMUEw",
-    "name": "ItalianFishingTV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KLYD42cGvpM"
+    "nanoid": "vZumsCOw37zvtm",
+    "name": "IRIB3",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8"
     ],
-    "language": "ita",
-    "country": "it",
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -650,17 +662,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iqW7NImquoQlAB",
-    "name": "NHRA TV",
-    "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/ac-nhra.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "n3Vm2leSNIdmDK",
     "name": "Nitro Circus",
     "iptv_urls": [
@@ -746,17 +747,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Nu2JGd0TJaM"
-    ],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iIVNfVlPfpnfeB",
-    "name": "QSVS: Top Planet",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Q22k1YCP8Co"
     ],
     "language": "ita",
     "country": "it",
@@ -913,7 +903,31 @@
     "nanoid": "e4huLQp9M80Lrf",
     "name": "Sportitalia",
     "iptv_urls": [
+      "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8",
       "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "y3HiLvYOUz8nJV",
+    "name": "Sportitalia 24",
+    "iptv_urls": [
+      "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L6xHaqwHEm1G78",
+    "name": "Sportitalia Solocalcio",
+    "iptv_urls": [
+      "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
+      "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -946,9 +960,9 @@
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
-      "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1063,17 +1077,6 @@
     "nanoid": "XdwrocdV5KOMCW",
     "name": "Tennis Channel",
     "iptv_urls": [
-      "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XdwrocdV5KOMCW",
-    "name": "Tennis Channel",
-    "iptv_urls": [
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1129,6 +1132,7 @@
     "nanoid": "uS6aOLXBCwTfBG",
     "name": "Trace Sport Stars (Australia)",
     "iptv_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1181,10 +1185,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Wbrb2C2Gun42Sy",
-    "name": "TVS Classic Sports",
+    "nanoid": "weRNAtNJMdiRC8",
+    "name": "TVS Boxing",
     "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvs/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
