@@ -139,6 +139,7 @@
     "nanoid": "mPfWobHfV25q8P",
     "name": "RT en Español",
     "iptv_urls": [
+      "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
       "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -156,17 +157,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "acZdedePfsl15d",
-    "name": "RU TV",
-    "iptv_urls": [
-      "https://hls-03-video.webcaramba.com/rutv/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -210,17 +200,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/cERy_JvCJeg"
     ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wllXuyEivFsvvl",
-    "name": "Архыз 24",
-    "iptv_urls": [
-      "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
@@ -528,40 +507,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V76m2HETkVONkL",
-    "name": "МузТВ",
-    "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/618.m3u8",
-      "https://streaming.skynetconnect.online/live/618.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0T5ExxCBLutEAO",
-    "name": "Музыка 1 International",
-    "iptv_urls": [
-      "https://kino-1.catcast.tv/content/37745/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wXSCH4nmOtCss7",
-    "name": "Музыка 2 International",
-    "iptv_urls": [
-      "https://kino-1.catcast.tv/content/37742/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "P4d9EwOGhyWfO5",
     "name": "Музыка Кино International",
     "iptv_urls": [
@@ -778,7 +723,7 @@
     "nanoid": "Y4xhoODgjNlFG2",
     "name": "Россия РТР",
     "iptv_urls": [
-      "https://streaming.skynetconnect.online/live/211.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/211.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -801,6 +746,17 @@
     "name": "Салям (Уфа)",
     "iptv_urls": [
       "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PW2xZpZsaU6dJX",
+    "name": "Своё ТВ (Ставрополь)",
+    "iptv_urls": [
+      "https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1022,7 +978,6 @@
     "name": "ТНТ",
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/38.m3u8",
       "https://streaming.skynetconnect.online/live/38.m3u8"
     ],
     "youtube_urls": [],
@@ -1069,6 +1024,17 @@
     "name": "Хузур ТВ",
     "iptv_urls": [
       "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "prXcBYtn3tI3lj",
+    "name": "Эхо TV (Рязань)",
+    "iptv_urls": [
+      "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
