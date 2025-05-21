@@ -381,9 +381,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DVI7GyZARZZPbM",
+    "nanoid": "ptE116wUMswJaQ",
     "name": "DW Russian",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/KTkDG7NdAB0"
     ],
@@ -418,17 +420,6 @@
     "name": "Erz-TV Stollberg",
     "iptv_urls": [
       "https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "W9Bp7ViyOHjoax",
-    "name": "EWTN Germany",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -761,7 +752,8 @@
     "name": "Motorvision TV",
     "iptv_urls": [
       "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8"
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8",
+      "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -776,6 +768,17 @@
     ],
     "youtube_urls": [],
     "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nSKKagLIpNXooQ",
+    "name": "Naruto Germany",
+    "iptv_urls": [
+      "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "de",
     "isGeoBlocked": false
   },
