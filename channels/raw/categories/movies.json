@@ -388,7 +388,8 @@
     "nanoid": "g3vaXRs7MKcSOW",
     "name": "iFilm Persian",
     "iptv_urls": [
-      "https://live.presstv.ir/hls/ifilmfa.m3u8"
+      "https://live.presstv.ir/hls/ifilmfa.m3u8",
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226842/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -415,6 +416,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GwTrM0kpZSwLus",
+    "name": "Kinoteatr",
+    "iptv_urls": [
+      "https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "uzb",
+    "country": "uz",
     "isGeoBlocked": false
   },
   {
@@ -571,6 +583,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mKiiX9v0iS1lOZ",
+    "name": "Next HD",
+    "iptv_urls": [
+      "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -742,10 +765,32 @@
     "nanoid": "6xG0BDh6352B56",
     "name": "Rakuten TV Comedy Movies",
     "iptv_urls": [
+      "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6xG0BDh6352B56",
+    "name": "Rakuten TV Comedy Movies",
+    "iptv_urls": [
       "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "S5iQDEhbXxxIw7",
+    "name": "Rakuten TV Drama Movies",
+    "iptv_urls": [
+      "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -808,6 +853,17 @@
     "nanoid": "duHgjkhG7rfbm4",
     "name": "Rakuten TV Family Movies",
     "iptv_urls": [
+      "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "duHgjkhG7rfbm4",
+    "name": "Rakuten TV Family Movies",
+    "iptv_urls": [
       "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8"
     ],
     "youtube_urls": [],
@@ -823,17 +879,6 @@
     ],
     "youtube_urls": [],
     "language": "ita",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "duHgjkhG7rfbm4",
-    "name": "Rakuten TV Family Movies",
-    "iptv_urls": [
-      "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -952,17 +997,6 @@
     "name": "Sony Canal Novelas",
     "iptv_urls": [
       "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XGRGTdUBCrPtdB",
-    "name": "Star Channel Central America",
-    "iptv_urls": [
-      "https://streamer1.nexgen.bz/STAR/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1102,14 +1136,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jznTuWIBt2HrkT",
-    "name": "ZB Cinema",
+    "nanoid": "GXyfpkGN0MGlca",
+    "name": "Дом Кино",
     "iptv_urls": [
-      "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/44.m3u8",
+      "https://streaming.skynetconnect.online/live/44.m3u8"
     ],
     "youtube_urls": [],
-    "language": "ben",
-    "country": "in",
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]
