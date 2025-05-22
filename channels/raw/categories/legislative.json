@@ -110,17 +110,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "D7ZT1sq2fuOQXq",
-    "name": "Camera dei Deputati (via RR)",
-    "iptv_urls": [
-      "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nvi12xPQhPg1F5",
     "name": "Canal Gov",
     "iptv_urls": [
@@ -443,17 +432,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aZACmqFHyDlfSs",
-    "name": "Galveston County TV",
-    "iptv_urls": [
-      "https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jNKciKxgIk0NeD",
     "name": "Gilroy CMAP TV Channel 17",
     "iptv_urls": [
@@ -586,17 +564,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NLIFoRpmAx5nwO",
-    "name": "Legislative Assembly of El Salvador",
-    "iptv_urls": [
-      "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "I6uCCfd71b4oev",
     "name": "Legislative Assembly of Ontario",
     "iptv_urls": [
@@ -616,6 +583,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J0RozSUIYYOF3l",
+    "name": "Lok Sabha TV",
+    "iptv_urls": [
+      "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -862,6 +840,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RrsTSYgGNniraQ",
+    "name": "Országgyűlés (Plenáris)",
+    "iptv_urls": [
+      "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hun",
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iPhkcC76kYpp0C",
     "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
     "iptv_urls": [
@@ -870,6 +859,29 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "iptv_urls": [
+      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hKXziqHmvJRVZi",
+    "name": "Parlamentsfernsehen 1",
+    "iptv_urls": [
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8",
+      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -1019,6 +1031,7 @@
     "nanoid": "BqqeaBGazomeJi",
     "name": "Sansad TV",
     "iptv_urls": [
+      "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
       "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8"
     ],
     "youtube_urls": [],
