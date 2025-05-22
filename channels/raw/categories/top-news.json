@@ -15,7 +15,6 @@
     "nanoid": "RT940A59Teonvk",
     "name": "Al Jazeera English",
     "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8",
       "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
       "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
       "https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8",
@@ -27,17 +26,6 @@
     ],
     "language": "eng",
     "country": "qa",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "31U63I8METsDXI",
-    "name": "BBC News (North America)",
-    "iptv_urls": [
-      "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -82,8 +70,7 @@
     "name": "Euronews English",
     "iptv_urls": [
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
-      "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8",
-      "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8"
+      "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
@@ -159,6 +146,7 @@
       "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
       "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8",
       "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
+      "https://wion-klowdtv.amagi.tv/playlist.m3u8",
       "https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8",
       "https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8",
       "https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8",

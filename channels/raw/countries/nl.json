@@ -92,7 +92,8 @@
     "nanoid": "uOcj7SNsYLGnvO",
     "name": "Dit is Helmond",
     "iptv_urls": [
-      "https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8"
+      "https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8",
+      "https://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -202,7 +203,6 @@
     "nanoid": "8tdnSXtJAn0eyk",
     "name": "Insight TV",
     "iptv_urls": [
-      "https://insighttv-samsungau.amagi.tv/playlist.m3u8",
       "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
       "https://insighttv-samsungindia.amagi.tv/playlist.m3u8",
       "https://insighttv-samsung-uk.amagi.tv/playlist.m3u8",
@@ -251,7 +251,8 @@
     "nanoid": "LaumigPirXIG5i",
     "name": "KempenTV",
     "iptv_urls": [
-      "https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8"
+      "https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8",
+      "https://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -722,6 +723,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bzhuoIIHDSQpOH",
+    "name": "Rotterdam Podium TV",
+    "iptv_urls": [
+      "https://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wypSVAbA0JFPBr",
     "name": "RPL TV Woerden",
     "iptv_urls": [
@@ -877,6 +889,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CZnHYlnJ5o4fmb",
+    "name": "RTV Rijnmond Extra",
+    "iptv_urls": [
+      "https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ua4a0OdjOruHxv",
     "name": "RTV Rijnstreek TV",
     "iptv_urls": [
@@ -925,6 +948,17 @@
     "name": "RTV Westerwolde",
     "iptv_urls": [
       "https://media.rtvwesterwolde.nl/hls/live/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MG8m0vh6HIQQvq",
+    "name": "RTV Zulthe",
+    "iptv_urls": [
+      "https://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -1078,7 +1112,8 @@
     "nanoid": "kFgkTaYcE0JGsc",
     "name": "UStad",
     "iptv_urls": [
-      "https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8"
+      "https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8",
+      "https://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",

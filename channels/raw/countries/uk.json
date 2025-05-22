@@ -247,10 +247,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "31U63I8METsDXI",
-    "name": "BBC News (North America)",
+    "nanoid": "nDcsFjMY51qN6T",
+    "name": "BBC News Asia Pacific",
     "iptv_urls": [
-      "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8"
+      "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -258,10 +258,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nDcsFjMY51qN6T",
-    "name": "BBC News Asia Pacific",
+    "nanoid": "5AawuunW60xBF5",
+    "name": "BBC News North America",
     "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
+      "https://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -852,7 +852,6 @@
     "name": "Horse & Country TV",
     "iptv_urls": [
       "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-      "https://hncfree-samsungau.amagi.tv/playlist.m3u8",
       "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8"
     ],
@@ -1225,6 +1224,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hNQTzHtY43GPXe",
+    "name": "MyTime Movie Network",
+    "iptv_urls": [
+      "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IfkJanzGXFP1d9",
     "name": "MyZen Wellbeing TV",
     "iptv_urls": [
@@ -1284,7 +1294,8 @@
     "nanoid": "vnFJqEonENKTpG",
     "name": "Now 80s",
     "iptv_urls": [
-      "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8"
+      "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8",
+      "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1870,22 +1881,12 @@
     "nanoid": "M9HwvmHmrMZElD",
     "name": "Wonder",
     "iptv_urls": [
+      "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
       "https://wonder-samsung-uk.amagi.tv/playlist.m3u8",
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "B0N3YLVGTZmUxD",
-    "name": "World War TV",
-    "iptv_urls": [
-      "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "uk",
     "isGeoBlocked": false
   },

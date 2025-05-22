@@ -15,7 +15,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Grn7aGyqTGw"
+      "https://www.youtube-nocookie.com/embed/LNVmow2ty6o"
     ],
     "language": "jpn",
     "country": "jp",
@@ -42,17 +42,6 @@
     "language": "ara",
     "country": "sa",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BKprRPWc9ugskl",
-    "name": "Backstage",
-    "iptv_urls": [
-      "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "hTeaugAEZXJDNG",
@@ -140,6 +129,7 @@
     "iptv_urls": [
       "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-court-tv.m3u8",
+      "https://fl3.moveonjoy.com/COURT_TV/index.m3u8",
       "https://scripps-courttv-2-us.xumo.wurl.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -236,20 +226,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SLs4iwL91kXPt7",
-    "name": "History 2 Latin America",
-    "iptv_urls": [
-      "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "feuZPyWhX6la0P",
     "name": "Law & Crime",
     "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8",
       "https://cdn.lawandcrime.net/rewind/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -269,15 +249,26 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FBy5CyFMdFdZVB",
-    "name": "Nature Time",
+    "nanoid": "y4nk0aoGzm3AAy",
+    "name": "National Geographic East",
     "iptv_urls": [
-      "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8"
+      "https://fl3.moveonjoy.com/National_Geographic/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "l7Jl9bi9Vw9aAN",
+    "name": "National Geographic Wild East",
+    "iptv_urls": [
+      "https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "AbcJxYxf3cyf3H",
@@ -291,20 +282,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5dGASmS4TNjspn",
-    "name": "O'zbekiston Tarixi",
-    "iptv_urls": [
-      "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "uzb",
-    "country": "uz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gOuwLzCKrgxJvt",
     "name": "Reelz",
     "iptv_urls": [
+      "https://fl3.moveonjoy.com/REELZ/index.m3u8",
       "https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-reelz.m3u8"
     ],
@@ -349,6 +330,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "A5R07LvuGwmiXe",
+    "name": "viju History",
+    "iptv_urls": [
+      "https://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cRlSQH7iSIDJ6Y",
     "name": "Xtrema Animal",
     "iptv_urls": [
@@ -357,6 +349,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sao2rpFyAlLRAD",
+    "name": "Нано ТВ HD",
+    "iptv_urls": [
+      "https://s1.tv-nano.com/Nano_rec/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]

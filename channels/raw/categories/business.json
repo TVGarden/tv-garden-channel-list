@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hNpror6ZnqPuws",
-    "name": "Aleph Business",
-    "iptv_urls": [
-      "https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sPGmyALtlBkjD3",
     "name": "Ameritrade",
     "iptv_urls": [
@@ -199,7 +188,8 @@
       "https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/playlist.m3u8",
       "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8",
-      "https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8"
+      "https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8",
+      "https://fl3.moveonjoy.com/BLOOMBERG/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -240,6 +230,20 @@
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7XcP1junyS1aZN",
+    "name": "CNBC",
+    "iptv_urls": [
+      "https://fl3.moveonjoy.com/CNBC/index.m3u8",
+      "https://fl5.moveonjoy.com/CNBC/index.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/9NyxcX3rhQs"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "l5OyakGxbKuntA",
@@ -286,6 +290,17 @@
     "language": "ben",
     "country": "bd",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hO3HYR4TgtSkMv",
+    "name": "FOX Business",
+    "iptv_urls": [
+      "https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "Oknqtc1CKDoMam",
@@ -396,7 +411,8 @@
     "nanoid": "q4DSKSowsI5CDz",
     "name": "РБК",
     "iptv_urls": [
-      "https://online-video.rbc.ru/spb/rbctv_spb.m3u8"
+      "https://online-video.rbc.ru/spb/rbctv_spb.m3u8",
+      "https://online-video.rbc.ru/online2/rbctv.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
