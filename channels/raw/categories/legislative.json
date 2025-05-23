@@ -108,7 +108,18 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "D7ZT1sq2fuOQXq",
+    "name": "Camera dei Deputati (via RR)",
+    "iptv_urls": [
+      "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "nvi12xPQhPg1F5",
@@ -455,17 +466,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aZACmqFHyDlfSs",
-    "name": "Galveston County TV",
-    "iptv_urls": [
-      "https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jNKciKxgIk0NeD",
     "name": "Gilroy CMAP TV Channel 17",
     "iptv_urls": [
@@ -686,6 +686,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rbn6cvKzk6DQ5D",
+    "name": "Moorpark Government Channel",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kvwQnIw0mzRmPS",
     "name": "Morro Bay Channel 20",
     "iptv_urls": [
@@ -694,17 +705,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bgvnikihqe1JcN",
-    "name": "MRTV Parliament",
-    "iptv_urls": [
-      "https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mya",
-    "country": "mm",
     "isGeoBlocked": false
   },
   {
@@ -885,6 +885,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RrsTSYgGNniraQ",
+    "name": "Országgyűlés (Plenáris)",
+    "iptv_urls": [
+      "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hun",
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iPhkcC76kYpp0C",
     "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
     "iptv_urls": [
@@ -1022,7 +1033,7 @@
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/r4mhqfcWQUk"
+      "https://www.youtube-nocookie.com/embed/L266n5aTLuQ"
     ],
     "language": "por",
     "country": "br",
@@ -1188,7 +1199,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AjCrp_FYxM8"
+      "https://www.youtube-nocookie.com/embed/dt9vXnvUsAY"
     ],
     "language": "por",
     "country": "br",
@@ -1212,17 +1223,6 @@
       "https://stream3.camara.gov.br/tv2/manifest.m3u8"
     ],
     "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ljxQJllBAK9Pvk",
-    "name": "TV Câmara Porto Alegre",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZaGca6ajQUw"
-    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -1269,6 +1269,116 @@
     "youtube_urls": [],
     "language": "srp",
     "country": "me",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yaYUxFsan9hbOE",
+    "name": "Tweede Kamer: Actualiteitenkanaal",
+    "iptv_urls": [
+      "https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&subtitles=live&keyframes=1"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6OQOS7AT6Gma3n",
+    "name": "Tweede Kamer: Aletta Jacobszaal",
+    "iptv_urls": [
+      "https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&subtitles=live&keyframes=1"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5hB4P9nJujh5eA",
+    "name": "Tweede Kamer: Enquetezaal",
+    "iptv_urls": [
+      "https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&subtitles=live&keyframes=1"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PL16C9OHm1Jw0b",
+    "name": "Tweede Kamer: Groen van Prinstererzaal",
+    "iptv_urls": [
+      "https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&subtitles=live&keyframes=1"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BJ3SYF7xMwSu2u",
+    "name": "Tweede Kamer: Max van der Stoelzaal",
+    "iptv_urls": [
+      "https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&subtitles=live&keyframes=1"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MOoTHhVYsb8MlG",
+    "name": "Tweede Kamer: Plenaire zaal",
+    "iptv_urls": [
+      "https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&subtitles=live&keyframes=1"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rB1O4Lh7x5fa2y",
+    "name": "Tweede Kamer: Suze Groenewegzaal",
+    "iptv_urls": [
+      "https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&subtitles=live&keyframes=1"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qHNjpcf1s4YBcD",
+    "name": "Tweede Kamer: Thorbeckezaal",
+    "iptv_urls": [
+      "https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&subtitles=live&keyframes=1"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9j3l55qDqhq9x4",
+    "name": "Tweede Kamer: Troelstrazaal",
+    "iptv_urls": [
+      "https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&subtitles=live&keyframes=1"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xk5ybVwggmYe7A",
+    "name": "Tweede Kamer: Wttewaall van Stoetwegenzaal",
+    "iptv_urls": [
+      "https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&subtitles=live&keyframes=1"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
     "isGeoBlocked": false
   },
   {
@@ -1346,6 +1456,17 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]
