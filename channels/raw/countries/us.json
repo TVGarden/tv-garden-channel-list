@@ -526,6 +526,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "J88e8bsmJwJAa9",
+    "name": "ABC 9 Manchester NH (WMUR-TV)",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-wmur.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6GRxUtyig9iReC",
     "name": "ABC 9 Orlando FL (WFTV)",
     "iptv_urls": [
@@ -535,6 +546,39 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "zJnRUCujbE5rsE",
+    "name": "ABC 9 Tucson AZ (KGUN)",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-kgun.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zFKNkoqOE86IJb",
+    "name": "ABC 10 San Diego CA (KGTV)",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-kgtv2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lQFIrEOBic33KW",
+    "name": "ABC 12 Milwaukee WI (WISN)",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-wisn.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "fUImOroeKbNmIu",
@@ -551,7 +595,8 @@
     "nanoid": "FvoDqszRR2kPXc",
     "name": "ABC 13 Las Vegas NV (KTNV)",
     "iptv_urls": [
-      "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8"
+      "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-ktnv.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -562,18 +607,8 @@
     "nanoid": "J4kO7nEfQyQdta",
     "name": "ABC 15 Phoenix AZ (KNXV-TV)",
     "iptv_urls": [
-      "https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "P2fWBHgMBpSZm6",
-    "name": "ABC 16 Jackson MS (WAPT)",
-    "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/ac-wapt.m3u8"
+      "https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-knxv2.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -595,7 +630,6 @@
     "nanoid": "sEZoYXTwR6Il6L",
     "name": "ABC 25 Waco TX (KXXV)",
     "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/ac-kxxv.m3u8",
       "https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8"
     ],
     "youtube_urls": [],
@@ -887,7 +921,8 @@
     "name": "AccuWeather Now",
     "iptv_urls": [
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
-      "https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8"
+      "https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8",
+      "https://accuweather-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -955,6 +990,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/kz9kKFppjy4"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hGr0mEe1PJFgos",
+    "name": "Adult Swim: Home Movies",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ZW3TW27Huq8"
     ],
     "language": "eng",
     "country": "us",
@@ -1376,6 +1422,17 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "sPGmyALtlBkjD3",
+    "name": "Ameritrade",
+    "iptv_urls": [
+      "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "et5iR1Oc0qBZ3J",
@@ -2599,9 +2656,9 @@
     "nanoid": "PQQXKouZscaQuL",
     "name": "California Music Channel",
     "iptv_urls": [
+      "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
       "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
-      "https://cmc-ono.amagi.tv/playlist.m3u8",
-      "https://cmc-kowdtv.amagi.tv/playlist.m3u8"
+      "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -2649,17 +2706,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PzhPJdswYfjvhG",
-    "name": "Canela Hits",
-    "iptv_urls": [
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -2924,17 +2970,6 @@
       "https://fl3.moveonjoy.com/CBS_News/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IHaxFoPVY134s2",
-    "name": "CBS News",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UNPFlcazdNE"
-    ],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
@@ -3232,7 +3267,7 @@
     "name": "Channel One",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CJJiY_-LlOE"
+      "https://www.youtube-nocookie.com/embed/5JtlE2AD28A"
     ],
     "language": "fas",
     "country": "us",
@@ -3385,7 +3420,6 @@
     "nanoid": "PGCEtKFHRk5CDn",
     "name": "Circle",
     "iptv_urls": [
-      "https://circle-roku.amagi.tv/playlist.m3u8",
       "https://circle-samsung.amagi.tv/playlist.m3u8",
       "https://circle-vizio.amagi.tv/playlist.m3u8",
       "https://circle-xumo.amagi.tv/playlist.m3u8",
@@ -4476,7 +4510,8 @@
     "nanoid": "5DmuRSA4rN0cux",
     "name": "Dr. Gene Scott",
     "iptv_urls": [
-      "https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8"
+      "https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8",
+      "https://wescottcc.piksel.tech/Manifest/UTB-NetworkStream.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -4791,7 +4826,6 @@
       "https://estrellanews-plex.amagi.tv/playlist.m3u8",
       "https://estrellanews-roku.amagi.tv/playlist.m3u8",
       "https://estrellanews-samsung-us.amagi.tv/playlist.m3u8",
-      "https://estrellanews-glewed.amagi.tv/playlist.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-estrella-news.m3u8",
       "https://estrellanews-xumo.amagi.tv/playlist.m3u8"
     ],
@@ -4989,17 +5023,6 @@
       "https://www.youtube-nocookie.com/embed/e3w9K2SsRaY"
     ],
     "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wTn0cUj98LEdhG",
-    "name": "Farscape: La Saga en Español",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2gRJga1arvM"
-    ],
-    "language": "spa",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -5368,6 +5391,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LEVISRKumWlfDZ",
+    "name": "FOX 5 Washington DC (WTTG)",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-wttg.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pAzc9G6M3DvmYc",
     "name": "FOX 6 Milwaukee WI (WITI)",
     "iptv_urls": [
@@ -5401,6 +5435,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C0VZVWZuBLzCt1",
+    "name": "FOX 10 Phoenix AZ (KSAZ)",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-ksaz.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2VJNyXfxHTTlqU",
     "name": "FOX 11 Los Angeles CA (KTTV)",
     "iptv_urls": [],
@@ -5423,6 +5468,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LgavsKesB3JwlB",
+    "name": "FOX 13 Seattle WA (KCPQ)",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-kcpq.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tuYGPxnBDpvD7w",
     "name": "FOX 23 Cape Girardeau MO (KBSI-DT1)",
     "iptv_urls": [
@@ -5437,12 +5493,24 @@
     "nanoid": "ex47lG06qbb5bo",
     "name": "FOX 25 Boston MA (WFXT)",
     "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-wfxt.m3u8",
       "https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "PcFrrUztngKceJ",
+    "name": "FOX 26 Houston TX (KRIV)",
+    "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-kriv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "hO3HYR4TgtSkMv",
@@ -5488,7 +5556,6 @@
     "name": "Fox Soul",
     "iptv_urls": [
       "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
-      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-fox-soul-scte.m3u8",
       "https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8"
     ],
@@ -5548,8 +5615,7 @@
       "https://amg01542-foxweatherllc-foxweather-rokuus-e6l7m.amagi.tv/playlist/amg01542-foxweatherllc-foxweather-rokuus/playlist.m3u8",
       "https://247wlive.foxweather.com/stream/index.m3u8",
       "https://livetv-fa.tubi.video/fox-weather/index.m3u8",
-      "https://amg01542-foxweatherllc-foxweather-xumo-ve91o.amagi.tv/playlist.m3u8",
-      "https://foxweather-xumo.amagi.tv/playlist.m3u8"
+      "https://amg01542-foxweatherllc-foxweather-xumo-ve91o.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/wt6SIE7BXS8"
@@ -6305,17 +6371,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SLs4iwL91kXPt7",
-    "name": "History 2 Latin America",
-    "iptv_urls": [
-      "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qxePZA6EsUq3Nx",
     "name": "HMI PROMZ NEWS",
     "iptv_urls": [
@@ -6536,6 +6591,17 @@
     ],
     "youtube_urls": [],
     "language": "urd",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "R4FIFmo3Vk5KDw",
+    "name": "Hunt Fish TV",
+    "iptv_urls": [
+      "https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -8625,6 +8691,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZeAx7j3JRGf8dF",
+    "name": "MMC TV USA",
+    "iptv_urls": [
+      "https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "a5pCHJNR4Ar34s",
     "name": "Mobile County Public Schools TV Network (MCPSS)",
     "iptv_urls": [
@@ -9266,17 +9343,6 @@
     "name": "NBC 8 Lancaster PA (WGAL)",
     "iptv_urls": [
       "https://apollo.production-public.tubi.io/live/ac-wgal.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VxxrkNjPRbPHpB",
-    "name": "NBC 8 Lima OH (WLIO-DT1)",
-    "iptv_urls": [
-      "https://live.field59.com/wlio/wlio1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -10019,10 +10085,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Xd4zMebQRYFlnw",
+    "name": "NYXT",
+    "iptv_urls": [
+      "https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NiTjGp1PXehjKc",
     "name": "OAN",
     "iptv_urls": [
-      "https://oneamericanews-vizio.amagi.tv/playlist.m3u8",
       "https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -11406,8 +11482,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KjF2Vl25g6IXPG",
+    "name": "Rubble & Crew: Rescue Builder Cove",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/VAS1TJ65jc4"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yaGZOXaM7fLcee",
-    "name": "Rubble & Crew: Rubble's Construction Rescues",
+    "name": "Rubble & Crew: Rubble's Ultimate Rescues",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NeMN_0J6xSY"
@@ -11785,6 +11872,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "u1ZgnJ6z0GpN4w",
+    "name": "Shout! Studios: ALF (Español)",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Is33E0MhWO8"
+    ],
+    "language": "spa",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9WIN5KhtEj3GSs",
     "name": "Shout! Studios: Bonanza",
     "iptv_urls": [],
@@ -11803,6 +11901,39 @@
       "https://www.youtube-nocookie.com/embed/iKqd0E_PVJo"
     ],
     "language": "spa",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FKVOnlguwo29NC",
+    "name": "Shout! Studios: Booker",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/E7SvwJuxom0"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7abjm0tQN75ZCL",
+    "name": "Shout! Studios: Breaking the Magician's Code",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/2UBiwYtUdNo"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MmvGAkIJ1Y1or8",
+    "name": "Shout! Studios: Dennis the Menace",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/IvlU5LEnlpE"
+    ],
+    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -11829,11 +11960,88 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JfdQ8GXk8vD883",
+    "name": "Shout! Studios: Father Knows Best",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ZOB7H11nT1g"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XkbGu3rq1XhnYN",
+    "name": "Shout! Studios: Hawkeye",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/TwHXDdQdKzk"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fxYAd4OmyqIq2r",
     "name": "Shout! Studios: Hunter",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/53PmzHQ0gWE"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qybJSYh84g1aFG",
+    "name": "Shout! Studios: Jim Henson's The StoryTeller (English)",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/NLzrGpU_rtc"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1Lp8epuukUYATV",
+    "name": "Shout! Studios: Jim Henson's The StoryTeller (Español)",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/5BvQ0nlUdd0"
+    ],
+    "language": "spa",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZDY5dtc37IuOJQ",
+    "name": "Shout! Studios: Most Daring",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/qL0jS4TwGl0"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2gR04ExHT9Yw4o",
+    "name": "Shout! Studios: MST3K",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/U0u5AertMdc"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7DpQICMHFWq9zR",
+    "name": "Shout! Studios: Pee-wee's Playhouse",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/O2FDZ7OCN7g"
     ],
     "language": "eng",
     "country": "us",
@@ -11862,11 +12070,33 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ugDBKGGwBkvqDh",
+    "name": "Shout! Studios: Silk Stalkings",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/gdSn0Q_Wvjk"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wUSpMu2QcKeu6y",
     "name": "Shout! Studios: The Beverly Hillbillies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-rXNBrEh_Ec"
+      "https://www.youtube-nocookie.com/embed/eeblPx5gA4g"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "64cJ2WsHJ0zSgH",
+    "name": "Shout! Studios: The Carol Burnett Show",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/dn70V8TqufE"
     ],
     "language": "eng",
     "country": "us",
@@ -11878,6 +12108,39 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/W_mUgTfrZDE"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vsnk5zgcuEn5eB",
+    "name": "Shout! Studios: The Lone Ranger",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/5ohCTRI2ERs"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sRW5JL5ajcW4tT",
+    "name": "Shout! Studios: The Rebel",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/uil3V5uVrGs"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RTxVBg4h4jRPiM",
+    "name": "Shout! Studios: The Whitest Kids U' Know",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/OASJU52gCcE"
     ],
     "language": "eng",
     "country": "us",
@@ -12153,7 +12416,6 @@
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
-      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
       "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
     ],
@@ -12542,8 +12804,8 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "liTQ5GjDS4XNF7",
-    "name": "Tastemade en Español",
+    "nanoid": "AU79Q982Hd3lD2",
+    "name": "Tastemade en Espanol",
     "iptv_urls": [
       "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
     ],
@@ -13306,6 +13568,7 @@
     "nanoid": "PgiKCroCjbQXUS",
     "name": "Timeline",
     "iptv_urls": [
+      "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
       "https://timeline-samsung-uk.amagi.tv/playlist.m3u8",
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8"
     ],
@@ -13404,11 +13667,55 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bRf3UzBovojYuj",
+    "name": "TokuSHOUTsu: Jackie Chan Movies",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/fXITLYQ0hls"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5zMPOhKUR72wAc",
     "name": "TokuSHOUTsu: Kamen Rider",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/GlLHS3dXJH4"
+    ],
+    "language": "jpn",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AmV4ok8Ydjas0L",
+    "name": "TokuSHOUTsu: Kamen Rider Geats",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/81Ra3tah1FA"
+    ],
+    "language": "jpn",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oUTXA9oxGi5Idx",
+    "name": "TokuSHOUTsu: Kamen Rider Kuuga",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Ad-iExxmwh8"
+    ],
+    "language": "jpn",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jCCrC4uMCnnFWp",
+    "name": "TokuSHOUTsu: Kamen Rider Ryuki",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/fqQrAa_QW4M"
     ],
     "language": "jpn",
     "country": "us",
@@ -13422,6 +13729,17 @@
       "https://www.youtube-nocookie.com/embed/8aybnaUkC_k"
     ],
     "language": "jpn",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qXw7oM1iiaR54T",
+    "name": "TokuSHOUTsu: Karate & Samurai Classics",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/i3ru23yIvrE"
+    ],
+    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -13464,6 +13782,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/IsJbDY4II60"
+    ],
+    "language": "jpn",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9iRhPY3wnnJFy7",
+    "name": "TokuSHOUTsu: Super Sentai Gingaman",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/WibxBi1dr1c"
     ],
     "language": "jpn",
     "country": "us",
@@ -13631,6 +13960,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/5CZX796YbYU"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "26AcVbeXd6M2rq",
+    "name": "Travel Channel: Creepiest Cryptid Countdown",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/nWawBc5fLDc"
     ],
     "language": "eng",
     "country": "us",
@@ -14187,6 +14527,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5q1WUlrrnksdHQ",
+    "name": "UCTV University of California",
+    "iptv_urls": [
+      "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mOVoepTQVpOqRy",
     "name": "UFC",
     "iptv_urls": [
@@ -14429,21 +14780,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kz6VoRZeElNADR",
-    "name": "Vice News",
-    "iptv_urls": [
-      "https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fOwZvfkhUzyVje",
     "name": "Vice TV",
     "iptv_urls": [
-      "https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8",
       "https://fl3.moveonjoy.com/VICELAND/index.m3u8",
       "https://aegis-cloudfront-1.tubi.video/073ab3b0-a8a5-472d-9b45-46d3dead6146/playlist.m3u8"
     ],
@@ -15126,17 +15465,6 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PM6gvoKgoWCd78",
-    "name": "Wired2Fish",
-    "iptv_urls": [
-      "https://wire2fish-klowdtv.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "IXWGMTB8HsMhJd",
