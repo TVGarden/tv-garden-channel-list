@@ -513,17 +513,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vZumsCOw37zvtm",
-    "name": "IRIB3",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RFeb11iCYGMUEw",
     "name": "ItalianFishingTV",
     "iptv_urls": [],
@@ -1023,7 +1012,19 @@
     "nanoid": "e4huLQp9M80Lrf",
     "name": "Sportitalia",
     "iptv_urls": [
+      "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8",
       "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L6xHaqwHEm1G78",
+    "name": "Sportitalia Solocalcio",
+    "iptv_urls": [
+      "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1056,7 +1057,6 @@
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
-      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
       "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
     ],
@@ -1206,7 +1206,6 @@
     "nanoid": "XdwrocdV5KOMCW",
     "name": "Tennis Channel",
     "iptv_urls": [
-      "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
       "https://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8"
     ],
@@ -1253,6 +1252,7 @@
     "name": "Trace Sport Stars (Australia)",
     "iptv_urls": [
       "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1393,10 +1393,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uxa3RChSlTbz84",
-    "name": "TVS Sports Bureau",
+    "nanoid": "eIJ4L4aV4I4YRC",
+    "name": "TVS Turbo",
     "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1404,10 +1404,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eIJ4L4aV4I4YRC",
-    "name": "TVS Turbo",
+    "nanoid": "beAXn8CiW6Z5Te",
+    "name": "TVS Women Sports",
     "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvswsn/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1496,22 +1496,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yxXfCHd5uHQMJD",
-    "name": "Беларусь 5",
-    "iptv_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hksyXK9W8Dv3Pj",
     "name": "Беларусь 5 Интернет",
     "iptv_urls": [
-      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
+      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
