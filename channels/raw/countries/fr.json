@@ -397,9 +397,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g4VnkSt3v2F081",
+    "nanoid": "vyAlDaoF9WU1Q1",
     "name": "Euronews English",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8",
+      "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
     ],
@@ -915,7 +919,7 @@
     "name": "Lou!",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Y5hRBS33RMc"
+      "https://www.youtube-nocookie.com/embed/7nWux8UipL4"
     ],
     "language": "fra",
     "country": "fr",
@@ -1001,17 +1005,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WWDxgACXyLT0i3",
-    "name": "MyTime Movie Network",
-    "iptv_urls": [
-      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X3IxUR8ey6Sxpy",
     "name": "MyZen TV",
     "iptv_urls": [
@@ -1053,6 +1046,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Cr0DIFxyZCHqxM",
+    "name": "Nollywood TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/trn03/gin-nollywoodtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1206,7 +1210,7 @@
       "https://raphls.persiana.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
-    "language": "fra",
+    "language": "fas",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1347,6 +1351,17 @@
     "name": "Rakuten TV Films Comédie",
     "iptv_urls": [
       "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4OHJUKjDj7pE2U",
+    "name": "Rakuten TV Films Drames",
+    "iptv_urls": [
+      "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1513,7 +1528,7 @@
     "name": "Simon Super Lapin",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kMhSHAXg56U"
+      "https://www.youtube-nocookie.com/embed/3ijUAD0HyXg"
     ],
     "language": "fra",
     "country": "fr",
