@@ -24,17 +24,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v9zxgiBZu0T9zY",
-    "name": "ACCDN",
-    "iptv_urls": [
-      "https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vTc6zE7fNGmQoa",
     "name": "ACCN",
     "iptv_urls": [
@@ -101,17 +90,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "STqWBGNuuaGmco",
-    "name": "Arryadia",
-    "iptv_urls": [
-      "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ma",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YFqOd9RFAP2HGq",
     "name": "Bahrain Sports 1",
     "iptv_urls": [
@@ -145,28 +123,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3am68X6zps1DGJ",
-    "name": "BeIN SPORTS XTRA",
-    "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/ac-bein.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tpb1jC3wP21Ow4",
     "name": "BeIN SPORTS XTRA en Espanol",
     "iptv_urls": [
-      "https://bein-esp-klowdtv.amagi.tv/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8",
       "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
     "country": "us",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "38wfpfuPiROwg3",
@@ -211,17 +176,6 @@
     "youtube_urls": [],
     "language": "por",
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Mut1mafEBDelBc",
-    "name": "CBS Sports Golazo Network",
-    "iptv_urls": [
-      "https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -357,6 +311,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FXwKUFU0adf6iT",
+    "name": "ESPNews",
+    "iptv_urls": [
+      "https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cMxlAncsoEae2c",
     "name": "FanDuel Sports Network",
     "iptv_urls": [
@@ -401,17 +366,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3XWzDx4FnKV7NI",
-    "name": "Fox Sports en Espanol",
-    "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ODB4bpEpnnzd1R",
     "name": "Fubo Sports Network",
     "iptv_urls": [
@@ -420,20 +374,18 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "uV6lzloXXEajJ8",
     "name": "FUEL TV",
     "iptv_urls": [
-      "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
-      "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "at",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "3PWIwG9FFIlO5Y",
@@ -519,6 +471,17 @@
     "name": "IRIB 3",
     "iptv_urls": [
       "https://live20.bozztv.com/dvrfl05/gin-irib3/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vZumsCOw37zvtm",
+    "name": "IRIB3",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -614,17 +577,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wiIsgplTccLk32",
-    "name": "Lacrosse TV",
-    "iptv_urls": [
-      "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hRCPRwYpEDOZ41",
     "name": "MadeinBO TV",
     "iptv_urls": [
@@ -677,6 +629,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Pd5U9ygw4LfGIv",
+    "name": "MMA-TV.com",
+    "iptv_urls": [
+      "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -739,14 +702,12 @@
     "nanoid": "RcmUVMpfqvK186",
     "name": "NBA TV",
     "iptv_urls": [
-      "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist.m3u8",
       "https://fl3.moveonjoy.com/NBA_TV/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "6lpaQyZbyTYwzV",
@@ -764,6 +725,17 @@
     "name": "NFL Network",
     "iptv_urls": [
       "https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "97N1k9GO6GGiLj",
+    "name": "NFL RedZone",
+    "iptv_urls": [
+      "https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -819,7 +791,6 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
-      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -998,17 +969,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e4huLQp9M80Lrf",
-    "name": "Sportitalia",
-    "iptv_urls": [
-      "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5ajptuhyjIdeFx",
     "name": "Sports Connect",
     "iptv_urls": [
@@ -1161,18 +1121,8 @@
     "nanoid": "XdwrocdV5KOMCW",
     "name": "Tennis Channel",
     "iptv_urls": [
-      "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XdwrocdV5KOMCW",
-    "name": "Tennis Channel",
-    "iptv_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
+      "https://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1210,19 +1160,6 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uS6aOLXBCwTfBG",
-    "name": "Trace Sport Stars (Australia)",
-    "iptv_urls": [
-      "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
-      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
-      "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -1340,17 +1277,6 @@
     "name": "TVS Sports",
     "iptv_urls": [
       "https://bozztv.com/gusa/gusa-tvssports/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uxa3RChSlTbz84",
-    "name": "TVS Sports Bureau",
-    "iptv_urls": [
-      "https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

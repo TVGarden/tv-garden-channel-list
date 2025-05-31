@@ -47,14 +47,12 @@
     "nanoid": "uV6lzloXXEajJ8",
     "name": "FUEL TV",
     "iptv_urls": [
-      "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
-      "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "at",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "KfXvvS2DuTflFJ",
@@ -64,6 +62,17 @@
       "https://www.youtube-nocookie.com/embed/5PQflZZWokI"
     ],
     "language": "deu",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8BTaahrpIJaruI",
+    "name": "GipsyTv Wien",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_5GiOsOEuAI"
+    ],
+    "language": "rom",
     "country": "at",
     "isGeoBlocked": false
   },
@@ -167,17 +176,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5xY9cw7ypbOud1",
-    "name": "R9",
-    "iptv_urls": [
-      "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9lZHsJeKwkxURo",
     "name": "Red Bull TV",
     "iptv_urls": [
@@ -212,10 +210,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ArpzONQunFnW4f",
+    "name": "ServusTV",
+    "iptv_urls": [
+      "https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "at",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "FprwnAkCKvi17W",
     "name": "Steiermark TV",
     "iptv_urls": [
       "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref="
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NnzCt5oT1Oi61H",
+    "name": "Stimmungsgarten TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -271,17 +291,6 @@
     "name": "TV 1 Oberösterreich",
     "iptv_urls": [
       "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "poBLTECPZ1p4X6",
-    "name": "W24",
-    "iptv_urls": [
-      "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
