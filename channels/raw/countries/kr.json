@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7Nrb5k66iwjlCb",
+    "name": "ABN TV",
+    "iptv_urls": [
+      "https://vod2.abn.co.kr/IPHONE/abn.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YbFD75G4AxdNyE",
     "name": "All the K-POP",
     "iptv_urls": [],
@@ -48,6 +59,7 @@
     "name": "Arirang TV",
     "iptv_urls": [
       "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+      "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
       "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8"
     ],
     "youtube_urls": [
@@ -65,17 +77,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3DWH3Zf0EtNUaG",
-    "name": "BTN TV",
-    "iptv_urls": [
-      "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
   },
@@ -213,34 +214,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iHYNLGETdvi3C5",
-    "name": "FGTV",
-    "iptv_urls": [
-      "https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Oknqtc1CKDoMam",
     "name": "GCNTV Korea",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/5RohSU40cps"
     ],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PwiAIPffasG0wh",
-    "name": "Gongyoung Shopping",
-    "iptv_urls": [
-      "https://etv.publichs.com/live5.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
@@ -290,39 +269,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JdXXEWHEkhS0rD",
-    "name": "Hyundai Home Shopping",
-    "iptv_urls": [
-      "https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1xSzaZqPtNC9v8",
-    "name": "Hyundai Home Shopping Plus",
-    "iptv_urls": [
-      "https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3x38tId4pHxaqx",
-    "name": "JCN TV",
-    "iptv_urls": [
-      "https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HT484Vai89qYgV",
     "name": "KBS LiveCam DokDo",
     "iptv_urls": [
@@ -351,17 +297,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/OxQQsIvJTTU"
     ],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g3OLRIXo3TVOmX",
-    "name": "Korea TV",
-    "iptv_urls": [
-      "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
@@ -404,17 +339,6 @@
     "name": "MBC Daegu (대구 MBC)",
     "iptv_urls": [
       "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CVYe8DrHATgn7K",
-    "name": "MBC Daejeon (대전 MBC)",
-    "iptv_urls": [
-      "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -527,6 +451,17 @@
       "https://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wLvMxnvxZbDm1t",
+    "name": "SBS",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/63lepd6clh4"
+    ],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
@@ -735,6 +670,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/hfyG1tc_BRk"
+    ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G8gkhykxbwh0qG",
+    "name": "토마토집통",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/x6h0BdUvR30"
     ],
     "language": "kor",
     "country": "kr",
