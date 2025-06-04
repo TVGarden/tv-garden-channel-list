@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MYnHsDG9stKwV8",
-    "name": "ARTV Canal Parlamento",
-    "iptv_urls": [
-      "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1q3kaCpiJgYIgc",
     "name": "Assembleia SC: AO VIVO",
     "iptv_urls": [],
@@ -111,17 +100,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D7ZT1sq2fuOQXq",
-    "name": "Camera dei Deputati (via RR)",
-    "iptv_urls": [
-      "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nvi12xPQhPg1F5",
     "name": "Canal Gov",
     "iptv_urls": [
@@ -132,6 +110,17 @@
     ],
     "language": "por",
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rNsPk0ZuXHne3A",
+    "name": "Canal Parlamento",
+    "iptv_urls": [
+      "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -212,25 +201,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VQKAVjDBKZb0pj",
-    "name": "Congreso de los Diputados 1",
+    "nanoid": "VUSPcmoFUEMqtT",
+    "name": "Congreso de los Diputados 3",
     "iptv_urls": [
-      "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8"
+      "https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WscC7Swxpk8hjp",
-    "name": "Congreso del Perú en Vivo",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bvMwtbKZdEM"
-    ],
-    "language": "spa",
-    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -311,10 +289,55 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4fRrTYUzIhzCTk",
+    "name": "DC Council Channel",
+    "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/15_12.m3u8",
+      "https://video.oct.dc.gov/out/u/DCC.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Nf4iMslErjtXta",
+    "name": "DC.gov Council Hearing Room 120 (Washington DC)",
+    "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/97_12.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7rKceCpkpRKp2Z",
     "name": "Denver 8 TV (Denver CO)",
     "iptv_urls": [
       "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ApGDxajKB8Y5cQ",
+    "name": "DerryTV 17",
+    "iptv_urls": [
+      "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oleSYlNVNmvs3W",
+    "name": "District of Columbia Network (DCN)",
+    "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/DCN.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -381,6 +404,17 @@
     "name": "Gainesville Community 12TV (Gainesville FL)",
     "iptv_urls": [
       "https://lin10.isilive.ca/live/gainesville/live/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aZACmqFHyDlfSs",
+    "name": "Galveston County TV",
+    "iptv_urls": [
+      "https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -509,6 +543,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NLIFoRpmAx5nwO",
+    "name": "Legislative Assembly of El Salvador",
+    "iptv_urls": [
+      "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "I6uCCfd71b4oev",
     "name": "Legislative Assembly of Ontario",
     "iptv_urls": [
@@ -590,6 +635,17 @@
     "name": "Moorpark Government Channel",
     "iptv_urls": [
       "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kvwQnIw0mzRmPS",
+    "name": "Morro Bay Channel 20",
+    "iptv_urls": [
+      "https://agp-nimble.streamguys1.com/MBCh20/MBCh20/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -785,6 +841,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iPhkcC76kYpp0C",
+    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
+    "iptv_urls": [
+      "https://pbcmedia.pbcgov.org:1936/live/mp4live.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
@@ -911,7 +978,7 @@
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/M1oEk1lkd2U"
+      "https://www.youtube-nocookie.com/embed/YHgRqRKo_yY"
     ],
     "language": "por",
     "country": "br",
@@ -982,39 +1049,6 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "opyAnsv5wOocnb",
-    "name": "SGTV (Seminole County FL)",
-    "iptv_urls": [
-      "https://live.seminolecountyfl.gov/live-2/live/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "k7nW4NRLHkqiax",
-    "name": "Somaliland National TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/dvrfl05/gin-somaliland/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "som",
-    "country": "so",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bMkXILI7Cwn65v",
-    "name": "St. Pete TV (SPTV) (St Petersburg FL)",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1334,6 +1368,17 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]
