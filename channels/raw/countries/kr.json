@@ -60,7 +60,8 @@
     "iptv_urls": [
       "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
       "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-      "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+      "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+      "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CJVBX7KI5nU"
@@ -87,6 +88,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/cxtw2RuOYac"
     ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "c1NFFrE1mrstbE",
+    "name": "CGNTV South Korea",
+    "iptv_urls": [
+      "https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
@@ -128,8 +140,7 @@
     "nanoid": "NpUlbVPgoMC0BT",
     "name": "EBS 1",
     "iptv_urls": [
-      "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
-      "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
+      "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -192,6 +203,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iHYNLGETdvi3C5",
+    "name": "FGTV",
+    "iptv_urls": [
+      "https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Oknqtc1CKDoMam",
     "name": "GCNTV Korea",
     "iptv_urls": [],
@@ -203,10 +225,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PwiAIPffasG0wh",
-    "name": "Gongyoung Shopping",
+    "nanoid": "Ha2TQrOiJuUiVm",
+    "name": "GS My Shop",
     "iptv_urls": [
-      "https://etv.publichs.com/live5.stream/playlist.m3u8"
+      "https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -236,39 +258,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JdXXEWHEkhS0rD",
-    "name": "Hyundai Home Shopping",
-    "iptv_urls": [
-      "https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1xSzaZqPtNC9v8",
-    "name": "Hyundai Home Shopping Plus",
-    "iptv_urls": [
-      "https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3x38tId4pHxaqx",
-    "name": "JCN TV",
-    "iptv_urls": [
-      "https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Z5dt0NMdPPY3fJ",
     "name": "KBS News",
     "iptv_urls": [],
@@ -286,28 +275,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/OxQQsIvJTTU"
     ],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xgn0FUKlpDXRRt",
-    "name": "Lotte Home Shopping",
-    "iptv_urls": [
-      "https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6c1onCC872cpGK",
-    "name": "Lotte OneTV",
-    "iptv_urls": [
-      "https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
@@ -368,17 +335,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oNnWdV2miCH9OF",
-    "name": "NS Home Shopping",
-    "iptv_urls": [
-      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LaJUiyDd3qErb2",
     "name": "Pororo 뽀로로: #1",
     "iptv_urls": [],
@@ -394,7 +350,7 @@
     "name": "SBS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/255u4g-tnrw"
+      "https://www.youtube-nocookie.com/embed/b9Eg2QYefe8"
     ],
     "language": "kor",
     "country": "kr",
@@ -407,6 +363,28 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/lDcWeklf6DI"
     ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CyzmTDSgy94fJZ",
+    "name": "Shinsegae Shopping TV",
+    "iptv_urls": [
+      "https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hiABpRG1XhgOmb",
+    "name": "Shopping NT",
+    "iptv_urls": [
+      "https://live.shoppingntmall.com/live/10011.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
@@ -471,17 +449,6 @@
     "name": "W Shopping",
     "iptv_urls": [
       "https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1k54RUxaC9SuQn",
-    "name": "WBC TV",
-    "iptv_urls": [
-      "https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
