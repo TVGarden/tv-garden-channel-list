@@ -113,12 +113,22 @@
     "nanoid": "rapVigofEJSHYU",
     "name": "C-SPAN",
     "iptv_urls": [
-      "https://windnew.newkso.ru/wind/premium750/mono.m3u8",
       "https://fl3.moveonjoy.com/C-SPAN/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "D7ZT1sq2fuOQXq",
+    "name": "Camera dei Deputati (via RR)",
+    "iptv_urls": [
+      "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -179,6 +189,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "udSOaNy3d31JFB",
+    "name": "Chamber TV",
+    "iptv_urls": [
+      "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ltz",
+    "country": "lu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5q56p206iZwWfG",
     "name": "City of Oakland (KTOP)",
     "iptv_urls": [
@@ -201,14 +222,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xoaAXrl0HaqGHm",
-    "name": "Collier Television CTV (Naples FL)",
+    "nanoid": "VQKAVjDBKZb0pj",
+    "name": "Congreso de los Diputados 1",
     "iptv_urls": [
-      "https://reflect-collier-countyboc.cablecast.tv/live-4/live/live.m3u8"
+      "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VUSPcmoFUEMqtT",
+    "name": "Congreso de los Diputados 3",
+    "iptv_urls": [
+      "https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -378,6 +410,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "d7pcxFhPY8vfBm",
+    "name": "Folketinget",
+    "iptv_urls": [
+      "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "dan",
+    "country": "dk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sRtXiK8RAqxlx6",
     "name": "Fort Lauderdale FLTV (Fort Lauderdale FL)",
     "iptv_urls": [
@@ -499,6 +542,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g3OLRIXo3TVOmX",
+    "name": "Korea TV",
+    "iptv_urls": [
+      "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JtUQGJtpnhTNyv",
     "name": "LA CityView 35",
     "iptv_urls": [
@@ -602,6 +656,28 @@
     "name": "Monroe County Television MCTV (Monroe County FL)",
     "iptv_urls": [
       "https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rbn6cvKzk6DQ5D",
+    "name": "Moorpark Government Channel",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kvwQnIw0mzRmPS",
+    "name": "Morro Bay Channel 20",
+    "iptv_urls": [
+      "https://agp-nimble.streamguys1.com/MBCh20/MBCh20/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -775,10 +851,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2igpQUbUlQ6ABJ",
-    "name": "Orange County Orange TV (Orange County FL)",
+    "nanoid": "iPhkcC76kYpp0C",
+    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
     "iptv_urls": [
-      "https://otv3.ocfl.net/OrangeTV/smil:OrangeTV.smil/playlist.m3u8"
+      "https://pbcmedia.pbcgov.org:1936/live/mp4live.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -786,14 +862,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pCRvE4DABiQZWc",
-    "name": "Orange Government Access TV (Orange CT)",
+    "nanoid": "hKXziqHmvJRVZi",
+    "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
-      "https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
+    "language": "deu",
+    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -838,6 +914,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "nz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ncwhfZ9mDVBGeC",
+    "name": "Pasco TV (Pasco County FL)",
+    "iptv_urls": [
+      "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -900,7 +987,7 @@
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FmjFGErzohE"
+      "https://www.youtube-nocookie.com/embed/B41Pofkm2pc"
     ],
     "language": "por",
     "country": "br",
@@ -952,6 +1039,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZLv6M8x6GdOHFN",
+    "name": "Senato TV",
+    "iptv_urls": [
+      "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "opyAnsv5wOocnb",
     "name": "SGTV (Seminole County FL)",
     "iptv_urls": [
@@ -985,17 +1083,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RErWNfh4idOsdr",
-    "name": "Thai Parliament TV",
-    "iptv_urls": [
-      "https://tv-live.tpchannel.org/live/tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qFCAsqxqc8Wr0C",
     "name": "The Florida Channel",
     "iptv_urls": [
@@ -1026,17 +1113,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qIar6axvqjptwG",
-    "name": "TV Assembleia Minas Gerais",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iRHxk3mBGgw"
-    ],
-    "language": "por",
-    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1290,17 +1366,6 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jdtDDFx09GQYAn",
-    "name": "Дума ТВ",
-    "iptv_urls": [
-      "https://dumatv.iptv2022.com/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
     "isGeoBlocked": false
   }
 ]
