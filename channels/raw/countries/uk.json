@@ -870,6 +870,9 @@
     "nanoid": "PdzSrk71b7uqDn",
     "name": "Horse & Country TV",
     "iptv_urls": [
+      "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
+      "https://hncfree-samsungau.amagi.tv/playlist.m3u8",
+      "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -882,6 +885,28 @@
     "name": "Hotel Inspector",
     "iptv_urls": [
       "https://amg00654-itv-amg00654c4-rakuten-uk-5263.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ax5pTgmKOYxFp2",
+    "name": "I Survived",
+    "iptv_urls": [
+      "https://8e979536.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0lTdXJ2aXZlZF9ITFM/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1uc6fgCpqvhGpf",
+    "name": "Ice Road Truckers",
+    "iptv_urls": [
+      "https://6ffa57ba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ljZVJvYWRUcnVja2Vyc19ITFM/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -925,6 +950,7 @@
     "nanoid": "5oHHeA42AXWK92",
     "name": "Iran International",
     "iptv_urls": [
+      "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
       "https://live.livetvstream.co.uk/LS-63503-4/index.m3u8",
       "https://live.playstop.me/1816184091/index.m3u8",
       "https://live.playstop.me/LS-63503-4/index.m3u8"
@@ -1232,7 +1258,8 @@
     "nanoid": "dghMmTzwXBJf5R",
     "name": "Noor TV",
     "iptv_urls": [
-      "https://sscsott.com/srt/noortvuk/index.fmp4.m3u8"
+      "https://sscsott.com/srt/noortvuk/index.fmp4.m3u8",
+      "https://sscsott.com/srt/noortvuk/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "urd",
@@ -1273,58 +1300,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oDAqM5B8g5KfOJ",
-    "name": "Pointless",
-    "iptv_urls": [
-      "https://amg00627-amg00627c34-rakuten-uk-4005.playouts.now.amagi.tv/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "v69UzxTpxlGJCh",
     "name": "Pop",
     "iptv_urls": [
-      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-      "https://jmp2.uk/sam-GBBC430000128.m3u8"
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v69UzxTpxlGJCh",
-    "name": "Pop",
-    "iptv_urls": [
-      "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PtCR4buc9gSJ8D",
-    "name": "Popflix",
-    "iptv_urls": [
-      "https://signatureentertainment-popflix-1-gb.rakuten.wurl.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tTQU3p0AwIUNhr",
-    "name": "Project Runway",
-    "iptv_urls": [
-      "https://amg02189-amg02189c1-rakuten-us-5453.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1390,17 +1372,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XmoAEo1rG1z1pb",
-    "name": "Rakuten TV Reality",
-    "iptv_urls": [
-      "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LBgy50ndUo4gUm",
     "name": "Rakuten TV Romance Movies",
     "iptv_urls": [
@@ -1412,10 +1383,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "40vnak64N4cSd7",
+    "name": "Rakuten TV Sci-Fi",
+    "iptv_urls": [
+      "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0ZRJdHepxEWWQs",
     "name": "Rakuten TV Trailers",
     "iptv_urls": [
       "https://26b638b2564d41f8b6a36b6dd59e8d4f.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4313/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jNN9ef0ljzGJ7E",
+    "name": "Real Crime Beta",
+    "iptv_urls": [
+      "https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1463,17 +1456,6 @@
       "https://www.youtube-nocookie.com/embed/BRwk7Ouy_dQ"
     ],
     "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jzzGsdYEse1KmU",
-    "name": "Simaye Azadi",
-    "iptv_urls": [
-      "https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1595,6 +1577,28 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/SzLW769ef-c"
     ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yenlo48DOLbqmP",
+    "name": "The Chat Show Channel",
+    "iptv_urls": [
+      "https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JKNSbXVeYHdPS9",
+    "name": "Tiny Pop",
+    "iptv_urls": [
+      "https://jmp2.uk/sam-GBBD3200003T6.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
@@ -1722,6 +1726,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "S031zk98bWY7Ix",
+    "name": "WildBrain Kids",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/fD0DwQMancI"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pmINkM6RSJSVHl",
     "name": "WildEarth",
     "iptv_urls": [
@@ -1738,7 +1753,6 @@
     "nanoid": "M9HwvmHmrMZElD",
     "name": "Wonder",
     "iptv_urls": [
-      "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
       "https://wonder-samsung-uk.amagi.tv/playlist.m3u8",
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8"
     ],
