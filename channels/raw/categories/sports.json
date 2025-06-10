@@ -81,7 +81,6 @@
     "name": "Arryadia",
     "iptv_urls": [
       "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8",
-      "https://cdn.live.easybroadcast.io/ts_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8",
       "https://cdn.live.easybroadcast.io/ts_corp/73_arryadia-tnt_zcmwjdc/playlist_dvr.m3u8"
     ],
     "youtube_urls": [],
@@ -220,17 +219,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eR1xoR8d2AHyV1",
-    "name": "DAZN Combat",
-    "iptv_urls": [
-      "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -789,6 +777,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yxyIFaB4Q9mpks",
+    "name": "Oman Sports TV",
+    "iptv_urls": [
+      "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "om",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GS1iJoWQ7ta8Q1",
     "name": "Ovación TV",
     "iptv_urls": [
@@ -803,11 +802,23 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
+      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jzuycObZqJe6ba",
+    "name": "Persiana Sport",
+    "iptv_urls": [
+      "https://edge06.776740.ir.cdn.ir/hls2/persiana.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -992,20 +1003,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Pj3Pb4MifHuOI3",
-    "name": "Sports TV",
-    "iptv_urls": [
-      "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
+      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1105,11 +1106,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iqgAqcjNcl4r3Z",
+    "nanoid": "GyaI3DfZ52LtJ4",
     "name": "TAY TV",
-    "iptv_urls": [
-      "https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ZTtn95gTLlQ"
     ],
@@ -1182,6 +1181,17 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uS6aOLXBCwTfBG",
+    "name": "Trace Sport Stars (Australia)",
+    "iptv_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -1339,10 +1349,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "beAXn8CiW6Z5Te",
+    "name": "TVS Women Sports",
+    "iptv_urls": [
+      "https://bozztv.com/gusa/gusa-tvswsn/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ds5kjE7mChd5a5",
     "name": "Varzesh TV",
     "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8"
+      "https://stream.sainaertebat.com/hls2/varzeshtest.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
