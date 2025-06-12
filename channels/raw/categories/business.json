@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sPGmyALtlBkjD3",
-    "name": "Ameritrade",
-    "iptv_urls": [
-      "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "iptv_urls": [
@@ -149,7 +138,8 @@
     "nanoid": "GQEjero7WWkJqT",
     "name": "Bloomberg HT",
     "iptv_urls": [
-      "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8"
+      "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
+      "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -182,12 +172,7 @@
     "nanoid": "USmuuhVA4Jtz9O",
     "name": "Bloomberg TV US",
     "iptv_urls": [
-      "https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://bloomberg-bloomberg-1-dk.samsung.wurl.tv/playlist.m3u8",
-      "https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/playlist.m3u8",
-      "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8",
-      "https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8",
       "https://fl3.moveonjoy.com/BLOOMBERG/index.m3u8"
     ],
     "youtube_urls": [],
@@ -243,6 +228,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "l5OyakGxbKuntA",
+    "name": "CNBC Africa",
+    "iptv_urls": [
+      "https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/aZiDfMO7CI8"
+    ],
+    "language": "eng",
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "acbY5wCKKgtMnI",
     "name": "CNBC Arabiya",
     "iptv_urls": [
@@ -262,6 +260,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2E1QCHJTYwtjGg",
+    "name": "DeFiance Media",
+    "iptv_urls": [
+      "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "pr",
     "isGeoBlocked": false
   },
   {

@@ -136,6 +136,8 @@
     "nanoid": "PdzSrk71b7uqDn",
     "name": "Horse & Country TV",
     "iptv_urls": [
+      "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
+      "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -215,7 +217,6 @@
     "nanoid": "yWx96N1LT28ilx",
     "name": "Outdoor Channel",
     "iptv_urls": [
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
       "https://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8"
     ],
     "youtube_urls": [],
@@ -233,17 +234,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QS3la54YlW2E1e",
-    "name": "Paryawaran TV",
-    "iptv_urls": [
-      "https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "dhw",
-    "country": "np",
     "isGeoBlocked": false
   },
   {
@@ -307,6 +297,17 @@
     "name": "Swamiji TV American",
     "iptv_urls": [
       "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5ZPKeEUbFRktME",
+    "name": "Swamiji TV Australian",
+    "iptv_urls": [
+      "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
