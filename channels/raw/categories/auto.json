@@ -25,7 +25,7 @@
     "nanoid": "gype1Rdsg8nVpE",
     "name": "Canal Motor",
     "iptv_urls": [
-      "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8"
+      "https://digicom.hls.iptvdc.com/motorstv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -58,13 +58,22 @@
     "nanoid": "AnsxJ9lwOQIGKd",
     "name": "Motorvision TV",
     "iptv_urls": [
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8",
       "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eVngthpIQVtLBa",
+    "name": "Retro TV (KCKS-LD9)",
+    "iptv_urls": [
+      "https://cdn.igocast.com/channel9_hls/channel9_master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -87,17 +96,6 @@
     ],
     "language": "eng",
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YA4vVd6XX2nkAU",
-    "name": "Top Gear en Espanol",
-    "iptv_urls": [
-      "https://bbc-topgearenespanol-1-eu.rakuten.wurl.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "us",
     "isGeoBlocked": false
   }
 ]

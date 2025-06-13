@@ -70,7 +70,8 @@
     "name": "Euronews English",
     "iptv_urls": [
       "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
-      "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8"
+      "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8",
+      "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
@@ -102,18 +103,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v7SxxnsQX39ThO",
-    "name": "Scripps News",
-    "iptv_urls": [
-      "https://livetv-fa.tubi.video/scripps-news/playlist.m3u8",
-      "https://scripps-newsy-1-us.xumo.wurl.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2UurVFYPvprdL8",
     "name": "Sky News",
     "iptv_urls": [],
@@ -125,9 +114,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1RYI9mEKLKbyln",
+    "nanoid": "egFyCvci4RMv2r",
     "name": "TRT World",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/df6HnzD3BUs"
     ],
