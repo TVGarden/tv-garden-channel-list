@@ -36,7 +36,6 @@
     "nanoid": "mIBXDjfzsNrIT3",
     "name": "12TV Alicante",
     "iptv_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
       "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
     ],
     "youtube_urls": [],
@@ -173,6 +172,17 @@
     ],
     "youtube_urls": [],
     "language": "cat",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nZxdZLBQ6KuYOb",
+    "name": "Cadena Elite",
+    "iptv_urls": [
+      "https://cloudvideo.servers10.com:8081/8004/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -456,17 +466,6 @@
     "name": "Congreso de los Diputados 1",
     "iptv_urls": [
       "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VUSPcmoFUEMqtT",
-    "name": "Congreso de los Diputados 3",
-    "iptv_urls": [
-      "https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -771,17 +770,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3A0Eci8EhuLpsb",
-    "name": "La 1 Canarias",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/5190066.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LEP2yAUVAvVur6",
     "name": "La 1 Catalunya",
     "iptv_urls": [
@@ -793,13 +781,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YDIi3VBX7D7fKC",
-    "name": "La 2 Catalunya",
+    "nanoid": "MtvAPbtuZZyeOW",
+    "name": "La 2 Canarias",
     "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
+      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
     ],
     "youtube_urls": [],
-    "language": "cat",
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1563,17 +1551,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GITlIKa8D8B8BX",
-    "name": "RTV Marbella",
-    "iptv_urls": [
-      "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "69wABBZ5acLQs0",
     "name": "RTV Vida",
     "iptv_urls": [
@@ -1712,17 +1689,6 @@
     "name": "Telemadrid Internacional",
     "iptv_urls": [
       "https://new-international-23-secure2.akamaized.net/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xRegMZSkKkDbP5",
-    "name": "TeleVigo",
-    "iptv_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1946,6 +1912,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ucoNo9BnF3MpPw",
+    "name": "Zylo Cine Friki",
+    "iptv_urls": [
+      "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "es",
     "isGeoBlocked": false
   }

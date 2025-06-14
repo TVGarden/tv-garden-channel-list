@@ -81,8 +81,7 @@
     "name": "Arryadia",
     "iptv_urls": [
       "https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8",
-      "https://cdn.live.easybroadcast.io/ts_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8",
-      "https://cdn.live.easybroadcast.io/ts_corp/73_arryadia-tnt_zcmwjdc/playlist_dvr.m3u8"
+      "https://cdn.live.easybroadcast.io/ts_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -500,14 +499,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ReX8AreJwWmYHR",
-    "name": "KSA Sports",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/87v7Aqd1mYU"
+    "nanoid": "SYs8qP2f2Z7mEC",
+    "name": "Kozoom TV",
+    "iptv_urls": [
+      "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8"
     ],
-    "language": "ara",
-    "country": "sa",
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -802,6 +801,7 @@
     "nanoid": "Zv1phHWvbz0bE7",
     "name": "Poker Go",
     "iptv_urls": [
+      "https://apollo.production-public.tubi.io/live/ac-pokergo.m3u8",
       "https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -890,6 +890,7 @@
     "nanoid": "DlnA3363JGvPGt",
     "name": "RightNow TV",
     "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8",
       "https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8"
     ],
     "youtube_urls": [],
@@ -955,28 +956,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e4huLQp9M80Lrf",
-    "name": "Sportitalia",
-    "iptv_urls": [
-      "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "L6xHaqwHEm1G78",
-    "name": "Sportitalia Solocalcio",
-    "iptv_urls": [
-      "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5ajptuhyjIdeFx",
     "name": "Sports Connect",
     "iptv_urls": [
@@ -1002,6 +981,7 @@
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
+      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1029,6 +1009,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p5Qra4uAAAEonh",
+    "name": "SSC Action Waleed",
+    "iptv_urls": [
+      "https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "sa",
     "isGeoBlocked": false
   },
   {
@@ -1069,9 +1060,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GyaI3DfZ52LtJ4",
+    "nanoid": "iqgAqcjNcl4r3Z",
     "name": "TAY TV",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ZTtn95gTLlQ"
     ],
@@ -1144,6 +1137,17 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uS6aOLXBCwTfBG",
+    "name": "Trace Sport Stars (Australia)",
+    "iptv_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
