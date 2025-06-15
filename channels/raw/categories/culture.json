@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "A1HSPKu1efRkNQ",
-    "name": "Amani TV",
-    "iptv_urls": [
-      "https://goccn.cloud/hls/amanitv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "sn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "iptv_urls": [
@@ -225,7 +214,9 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Rn7YUa_fsjw"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -489,7 +480,6 @@
     "nanoid": "2ZxD1tHZuInNcl",
     "name": "Jewish Life Television",
     "iptv_urls": [
-      "https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8",
       "https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8"
     ],
     "youtube_urls": [],
@@ -506,6 +496,17 @@
     "youtube_urls": [],
     "language": "kur",
     "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Bvox2CnXHOsvHp",
+    "name": "JOS TV HD",
+    "iptv_urls": [
+      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "cg",
     "isGeoBlocked": false
   },
   {
@@ -671,6 +672,50 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5kYv876l5SB1BL",
+    "name": "Nei Monggol TV 2 Mongolian Culture Channel",
+    "iptv_urls": [
+      "https://play1-qk.nmtv.cn/live/1686561065304370.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G3z1qWfpSyIFVO",
+    "name": "Nei Monggol TV Agriculture & Animal Channel",
+    "iptv_urls": [
+      "https://play1-qk.nmtv.cn/live/1686561299036179.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bt1m1v4h1CmExI",
+    "name": "NHK World-Japan",
+    "iptv_urls": [
+      "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "jpn",
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bt1m1v4h1CmExI",
+    "name": "NHK World-Japan",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "jpn",
+    "country": "jp",
     "isGeoBlocked": false
   },
   {
@@ -872,17 +917,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zxSTa9IKp200xg",
-    "name": "Suyai TV",
-    "iptv_urls": [
-      "https://signal.suyaitv.cl/live/35/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WSVwH48J9agVpk",
     "name": "TBN TV",
     "iptv_urls": [
@@ -898,6 +932,17 @@
     "name": "Teatro TV",
     "iptv_urls": [
       "https://m.iostream.it/hls/teatrotv/teatrotv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bZLmwi1rLZYaKq",
+    "name": "Telepace 2",
+    "iptv_urls": [
+      "https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
