@@ -59,6 +59,7 @@
     "name": "Asharq News",
     "iptv_urls": [
       "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8",
+      "https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8",
       "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8"
     ],
     "youtube_urls": [
@@ -110,17 +111,6 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dKwoD3dEbTFFj9",
-    "name": "Bloomberg Adria",
-    "iptv_urls": [
-      "https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "srp",
-    "country": "rs",
     "isGeoBlocked": false
   },
   {
@@ -216,6 +206,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "l5OyakGxbKuntA",
+    "name": "CNBC Africa",
+    "iptv_urls": [
+      "https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/aZiDfMO7CI8"
+    ],
+    "language": "eng",
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "acbY5wCKKgtMnI",
     "name": "CNBC Arabiya",
     "iptv_urls": [
@@ -292,17 +295,6 @@
     ],
     "language": "eng",
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rW8dm4MTBacJXv",
-    "name": "Negocios TV",
-    "iptv_urls": [
-      "https://streaming013.gestec-video.com/hls/negociostv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
     "isGeoBlocked": false
   },
   {
