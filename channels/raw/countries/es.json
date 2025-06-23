@@ -36,8 +36,18 @@
     "nanoid": "mIBXDjfzsNrIT3",
     "name": "12TV Alicante",
     "iptv_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
       "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "freTyGra76p2OI",
+    "name": "24 Horas HEVC",
+    "iptv_urls": [
+      "https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -188,17 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nZxdZLBQ6KuYOb",
-    "name": "Cadena Elite",
-    "iptv_urls": [
-      "https://cloudvideo.servers10.com:8081/8004/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bJvWnnQVU7Dde8",
     "name": "Canal 1 Mar Menor-Torre Pacheco",
     "iptv_urls": [
@@ -320,6 +319,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OW9bAVyqxJwlzp",
+    "name": "Canal Diocesano",
+    "iptv_urls": [
+      "https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MR0b7ODlkTFOj0",
     "name": "Canal Málaga RTV",
     "iptv_urls": [
@@ -353,11 +363,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WsnjAbyAewcp2y",
+    "nanoid": "eBQvdhBLUdsLwz",
     "name": "Canal Sur Andalucia",
-    "iptv_urls": [
-      "https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/iSoDmBlmbus"
     ],
@@ -370,6 +378,28 @@
     "name": "Canal Sur Andalucía 2",
     "iptv_urls": [
       "https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "004y5qUZAci0tq",
+    "name": "Canal Sur Andalucia HEVC",
+    "iptv_urls": [
+      "https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "esp",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Pf3Zsb1GIIiXjl",
+    "name": "Canal Sur Noticias",
+    "iptv_urls": [
+      "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -443,21 +473,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VQKAVjDBKZb0pj",
-    "name": "Congreso de los Diputados 1",
+    "nanoid": "q6c5GY0b9gKhEF",
+    "name": "Clan HEVC",
     "iptv_urls": [
-      "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VUSPcmoFUEMqtT",
-    "name": "Congreso de los Diputados 3",
-    "iptv_urls": [
-      "https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8"
+      "https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -696,17 +715,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HwhpJMBxrNJdLl",
-    "name": "Guada TV",
-    "iptv_urls": [
-      "https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "waVMWHYlkj0xMU",
     "name": "Hamaika Telebista",
     "iptv_urls": [
@@ -725,17 +733,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "d6sampxmKXCisS",
-    "name": "Interalmeria TV",
-    "iptv_urls": [
-      "https://interalmeria.tv/directo/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -777,6 +774,50 @@
     "name": "La 1 HEVC",
     "iptv_urls": [
       "https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "254O8QVRoi3Ec6",
+    "name": "La 2",
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MtvAPbtuZZyeOW",
+    "name": "La 2 Canarias",
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YDIi3VBX7D7fKC",
+    "name": "La 2 Catalunya",
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dh1VzjndvWHc9j",
+    "name": "La 2 HEVC",
+    "iptv_urls": [
+      "https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1653,8 +1694,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RYfMxL6JZWi97a",
-    "name": "Teledeporte",
+    "nanoid": "II5REXf4hv8DV4",
+    "name": "Teledeporte HEVC",
     "iptv_urls": [
       "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8"
     ],
@@ -1739,6 +1780,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yAvkQDCoQRxCiQ",
+    "name": "Trece TV",
+    "iptv_urls": [
+      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
