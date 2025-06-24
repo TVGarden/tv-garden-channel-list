@@ -60,7 +60,7 @@
     "name": "Gusto TV",
     "iptv_urls": [
       "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-      "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8"
+      "https://gusto-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -98,6 +98,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "jo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gTc7saNCrij9pg",
+    "name": "Kulinar TV Show",
+    "iptv_urls": [
+      "https://api.alpaca.t62a.com/hls/9110/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -139,6 +150,17 @@
     "iptv_urls": [
       "https://tastemade-xumo.amagi.tv/playlist.m3u8",
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9OVSMqBuq14sWp",
+    "name": "Tastemade Australia",
+    "iptv_urls": [
+      "https://tmint-aus-samsungau.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
