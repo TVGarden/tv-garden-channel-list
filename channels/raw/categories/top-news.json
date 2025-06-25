@@ -3,7 +3,8 @@
     "nanoid": "P8q5mRZ0E6h0hF",
     "name": "ABC News",
     "iptv_urls": [
-      "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+      "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+      "https://livetv-fa.tubi.video/abc-news/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -14,13 +15,29 @@
     "nanoid": "RT940A59Teonvk",
     "name": "Al Jazeera English",
     "iptv_urls": [
-      "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8"
+      "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+      "https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8",
+      "https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8",
+      "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+      "https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8",
+      "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/gCNeDWCI0vo"
     ],
     "language": "eng",
     "country": "qa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GqdJfmTvg6EO3X",
+    "name": "CGTN",
+    "iptv_urls": [
+      "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -47,6 +64,20 @@
     ],
     "language": "eng",
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vyAlDaoF9WU1Q1",
+    "name": "Euronews English",
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-euronews2.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
+    ],
+    "language": "eng",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
