@@ -66,6 +66,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FsR4OMNuaQ7RDi",
+    "name": "Africa 24 Sport",
+    "iptv_urls": [
+      "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "R9ko6Wy4FInVtz",
     "name": "AfroSport Nigeria",
     "iptv_urls": [
@@ -399,17 +410,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kM3B5XM0dLyl7Z",
-    "name": "GEM Fit",
-    "iptv_urls": [
-      "https://ca-rt.onetv.app/gemfit/index-0.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bhT3j01Nh3aRCQ",
     "name": "Hard Knocks",
     "iptv_urls": [
@@ -712,7 +712,8 @@
     "nanoid": "jfKOQiiLREewGY",
     "name": "NHL",
     "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/ac-nhl.m3u8"
+      "https://apollo.production-public.tubi.io/live/ac-nhl.m3u8",
+      "https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -742,10 +743,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GS1iJoWQ7ta8Q1",
+    "name": "Ovación TV",
+    "iptv_urls": [
+      "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
-      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -912,6 +923,40 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "e4huLQp9M80Lrf",
+    "name": "Sportitalia",
+    "iptv_urls": [
+      "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "y3HiLvYOUz8nJV",
+    "name": "Sportitalia 24",
+    "iptv_urls": [
+      "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L6xHaqwHEm1G78",
+    "name": "Sportitalia Solocalcio",
+    "iptv_urls": [
+      "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
+      "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Pj3Pb4MifHuOI3",
     "name": "Sports TV",
     "iptv_urls": [
@@ -965,6 +1010,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MQPS4xlMRr3b3B",
+    "name": "Star Sports 1 Tamil HD",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tam",
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1151,8 +1207,7 @@
     "nanoid": "Ds5kjE7mChd5a5",
     "name": "Varzesh TV",
     "iptv_urls": [
-      "https://stream.sainaertebat.com/hls2/varzeshtest.m3u8",
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8"
+      "https://stream.sainaertebat.com/hls2/varzeshtest.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
