@@ -156,17 +156,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6iayHissAMhCay",
-    "name": "CDTV",
-    "iptv_urls": [
-      "https://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xIwhqLk3kSoWQX",
     "name": "CFM TV Channel 98",
     "iptv_urls": [
@@ -597,17 +586,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J0RozSUIYYOF3l",
-    "name": "Lok Sabha TV",
-    "iptv_urls": [
-      "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1YbhdzonsHfQ5t",
     "name": "Martin County MCTV (Martin County FL)",
     "iptv_urls": [
@@ -623,6 +601,28 @@
     "name": "Monroe County Television MCTV (Monroe County FL)",
     "iptv_urls": [
       "https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rbn6cvKzk6DQ5D",
+    "name": "Moorpark Government Channel",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kvwQnIw0mzRmPS",
+    "name": "Morro Bay Channel 20",
+    "iptv_urls": [
+      "https://agp-nimble.streamguys1.com/MBCh20/MBCh20/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -821,7 +821,6 @@
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8",
       "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
     ],
     "youtube_urls": [],
@@ -1094,17 +1093,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qIar6axvqjptwG",
-    "name": "TV Assembleia Minas Gerais",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HlrNi8OLi80"
-    ],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lEDKV79GLKVqjL",
     "name": "TV Câmara",
     "iptv_urls": [
@@ -1355,6 +1343,17 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]
