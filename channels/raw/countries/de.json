@@ -111,28 +111,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HISiOL7NmfoR6g",
-    "name": "Baden TV",
-    "iptv_urls": [
-      "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T9dI0W8iuj2OFY",
-    "name": "Baden TV Süd",
-    "iptv_urls": [
-      "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uVgni6lRnPbvo9",
     "name": "BBC Top Gear Germany",
     "iptv_urls": [
@@ -184,6 +162,17 @@
     ],
     "youtube_urls": [],
     "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AbxXTVaBkxXkK3",
+    "name": "Comedy & Shows",
+    "iptv_urls": [
+      "https://comedy-and-shows-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -974,7 +963,7 @@
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
-      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1704,7 +1693,8 @@
     "nanoid": "HOEGJfbN2vEljn",
     "name": "WDR Fernsehen Köln",
     "iptv_urls": [
-      "https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8"
+      "https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8",
+      "https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
