@@ -212,17 +212,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Mut1mafEBDelBc",
-    "name": "CBS Sports Golazo Network",
-    "iptv_urls": [
-      "https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fCLJzcFEAdF5fQ",
     "name": "CBS Sports Network USA",
     "iptv_urls": [
@@ -441,6 +430,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iOiamhyolWHwQd",
+    "name": "HorseTV",
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -765,10 +765,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GS1iJoWQ7ta8Q1",
+    "name": "Ovación TV",
+    "iptv_urls": [
+      "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
-      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1063,8 +1073,8 @@
     "nanoid": "XdwrocdV5KOMCW",
     "name": "Tennis Channel",
     "iptv_urls": [
-      "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
+      "https://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1131,6 +1141,17 @@
     "name": "TSN3",
     "iptv_urls": [
       "https://fl5.moveonjoy.com/TSN_3/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5ikJPlxT4rSlki",
+    "name": "TSN4",
+    "iptv_urls": [
+      "https://fl5.moveonjoy.com/TSN_4/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
