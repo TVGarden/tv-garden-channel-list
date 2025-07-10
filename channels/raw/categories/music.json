@@ -477,7 +477,6 @@
     "nanoid": "PQQXKouZscaQuL",
     "name": "California Music Channel",
     "iptv_urls": [
-      "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
       "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -736,6 +735,17 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4TFbQdQIR6USV5",
+    "name": "DBM TV",
+    "iptv_urls": [
+      "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -1047,17 +1057,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KorxP0jgE3cFyZ",
-    "name": "GO TV",
-    "iptv_urls": [
-      "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NJ6pWSSyTgFCxv",
     "name": "GugakTV 국악방송",
     "iptv_urls": [
@@ -1168,6 +1167,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "InDGnYJDQn6YQp",
+    "name": "Indie Playlists",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/q15vyN2YLaI"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2m0gEtXYdWeCIN",
     "name": "Infinita TV",
     "iptv_urls": [
@@ -1234,6 +1244,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PJNGWLztLvRiLZ",
+    "name": "Jawhara TV",
+    "iptv_urls": [
+      "https://streaming.toutech.net/live/jtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "tn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "szTcH8uBBiqxys",
     "name": "Jeddah Radio",
     "iptv_urls": [
@@ -1289,14 +1310,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Dqgwi0HQE4Shzw",
-    "name": "Juice TV",
+    "nanoid": "MIcJy2C1jnLtEJ",
+    "name": "KandelaTV",
     "iptv_urls": [
-      "https://juicex.nz/hls/mystream.m3u8"
+      "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "nz",
+    "language": "spa",
+    "country": "ve",
     "isGeoBlocked": false
   },
   {
@@ -1398,6 +1419,17 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O3t69Sz5G9vyIV",
+    "name": "KurdMax Music",
+    "iptv_urls": [
+      "https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kur",
+    "country": "iq",
     "isGeoBlocked": false
   },
   {
@@ -1775,18 +1807,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2RNOyGKRiGPXuw",
-    "name": "MasMusica FM",
-    "iptv_urls": [
-      "https://movil.ejeserver.com/live/masmusica.m3u8",
-      "https://video.ejeserver.com/live/masmusica.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "T411svN9rFZRYL",
     "name": "MBC FM",
     "iptv_urls": [
@@ -1854,17 +1874,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZgK3gN33Rh7QOj",
-    "name": "Miel TV",
-    "iptv_urls": [
-      "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AxLy0nB5LvmZiY",
     "name": "Millenium 109 FM",
     "iptv_urls": [
@@ -1906,6 +1915,50 @@
     ],
     "language": "msa",
     "country": "my",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fGL8972rlBYSPd",
+    "name": "MoozDance",
+    "iptv_urls": [
+      "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y9iv9PnBd0DUNW",
+    "name": "MoozHits",
+    "iptv_urls": [
+      "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "q6atLfAg2ohp9S",
+    "name": "MoozRo",
+    "iptv_urls": [
+      "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0vWRP5qYJXkBiC",
+    "name": "Mosaique FM",
+    "iptv_urls": [
+      "https://cdn.live.easybroadcast.io/abr_corp/63_mosaique-fm_rn56tgl/playlist_dvr.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "tn",
     "isGeoBlocked": false
   },
   {
@@ -2384,6 +2437,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "r4O5xUGbFguCQr",
+    "name": "Pequeradio",
+    "iptv_urls": [
+      "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -2882,6 +2946,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OfxlPXMdx9tH7C",
+    "name": "Radio Reforma Se Oye",
+    "iptv_urls": [
+      "https://www.streaming507.net:19360/mevo2/mevo2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pa",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wqtEMGQtkW2vmM",
     "name": "Radio Suyai TV",
     "iptv_urls": [
@@ -2912,17 +2987,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e9kOBIAu1B0cCj",
-    "name": "Radio TV Sal One",
-    "iptv_urls": [
-      "https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "cv",
     "isGeoBlocked": false
   },
   {
@@ -3057,6 +3121,17 @@
     "youtube_urls": [],
     "language": "rus",
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RV4q1AzygKEv9i",
+    "name": "Salsa Gorda Television",
+    "iptv_urls": [
+      "https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
     "isGeoBlocked": false
   },
   {
@@ -3202,17 +3277,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "gu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qBotfslU49CqYW",
-    "name": "Star Folk",
-    "iptv_urls": [
-      "https://live.muzickatv.mk/live/StarMusic.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mkd",
-    "country": "mk",
     "isGeoBlocked": false
   },
   {
@@ -3568,6 +3632,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bLqTjYrLiOzgkY",
+    "name": "The Country Network",
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ylg36gP6EgZbPE",
     "name": "THE K-POP",
     "iptv_urls": [],
@@ -3678,6 +3753,17 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SUR27YVxiEVQoo",
+    "name": "Tropi Q 99.7 FM",
+    "iptv_urls": [
+      "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pa",
     "isGeoBlocked": false
   },
   {
@@ -3832,17 +3918,6 @@
     "youtube_urls": [],
     "language": "nld",
     "country": "cw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "baPvUzzfHutjpv",
-    "name": "Vepaco TV",
-    "iptv_urls": [
-      "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
     "isGeoBlocked": false
   },
   {
