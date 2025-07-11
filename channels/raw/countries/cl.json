@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "bl19xd6Od9LNtI",
-    "name": "13 Realities",
-    "iptv_urls": [
-      "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iLm2GxTYJUyGu5",
     "name": "24 Horas",
     "iptv_urls": [],
@@ -220,6 +209,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LRgPxcQZ9T6wh6",
+    "name": "EnerGeek",
+    "iptv_urls": [
+      "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fho666tDNHtuPI",
+    "name": "EnerGeek Fan",
+    "iptv_urls": [
+      "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ratiMYbPjlz1Pp",
+    "name": "EnerGeek Radio",
+    "iptv_urls": [
+      "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mboCNwiMaOzg2v",
     "name": "Girovisual",
     "iptv_urls": [
@@ -264,6 +286,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6uP6CNEGYjRRQY",
+    "name": "Kanade",
+    "iptv_urls": [
+      "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LtuGw8CUEvQRPo",
     "name": "La Popular TV",
     "iptv_urls": [
@@ -279,7 +312,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HFxjYDN2zp8"
+      "https://www.youtube-nocookie.com/embed/fTrmEJw-VMw"
     ],
     "language": "spa",
     "country": "cl",
@@ -355,6 +388,7 @@
     "nanoid": "3FPl5RIfISFiTh",
     "name": "PRIDEtv LATAM",
     "iptv_urls": [
+      "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
       "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8"
     ],
     "youtube_urls": [],
@@ -400,17 +434,6 @@
     "name": "Radio Suyai TV",
     "iptv_urls": [
       "https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "r4CX0jMIawWSzS",
-    "name": "Rec TV",
-    "iptv_urls": [
-      "https://marine2.miplay.cl/rec/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -500,17 +523,6 @@
     "name": "Tele 2 Web (Retiro)",
     "iptv_urls": [
       "https://inliveserver.com:1936/11516/11516/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "okKQ8KDUVqmzeR",
-    "name": "Teletrak",
-    "iptv_urls": [
-      "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -706,6 +718,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fsG9WCXeLX2m3u",
+    "name": "Universidad Autónoma Temuco (UATV)",
+    "iptv_urls": [
+      "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
+      "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rZh1GpFWO9ft0O",
     "name": "UTV",
     "iptv_urls": [
@@ -732,17 +756,6 @@
     "name": "VC Online",
     "iptv_urls": [
       "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "osBw1hYyNiagCw",
-    "name": "Vision Plus TV (1080i)",
-    "iptv_urls": [
-      "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

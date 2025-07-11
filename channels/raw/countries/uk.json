@@ -260,7 +260,9 @@
     "nanoid": "RQlB3Nwkn2RwIf",
     "name": "BBC Persian",
     "iptv_urls": [
-      "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8"
+      "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8",
+      "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8",
+      "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/5qN1dRjatv8"
@@ -358,6 +360,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "upZUS4jnd1EPJG",
+    "name": "Chelsea Football Club",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/YY1B0zue_cI"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K1Rki2QXOUbCd5",
     "name": "Classic Mr Bean",
     "iptv_urls": [],
@@ -376,17 +389,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EsG05glOa64"
-    ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -512,6 +514,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "y9tmDdGOMUn9pB",
+    "name": "Garshom TV",
+    "iptv_urls": [
+      "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "mal",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xAwIJiuvV7pfvX",
     "name": "GB News",
     "iptv_urls": [
@@ -563,6 +576,39 @@
     "name": "GREAT! real",
     "iptv_urls": [
       "https://amg01753-amg01753c5-rakuten-uk-5500.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GX5pzjQJRIR0wS",
+    "name": "Hadi TV French",
+    "iptv_urls": [
+      "https://live.ishiacloud.com/haditv.co.uk/haditv8.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AYKTzcljLTT7Zu",
+    "name": "Hadi TV Indonesian and Thai",
+    "iptv_urls": [
+      "https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EeUSludlq8QDVY",
+    "name": "Hadi TV Turkish and Kurdish",
+    "iptv_urls": [
+      "https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -662,6 +708,7 @@
     "name": "Horse & Country TV",
     "iptv_urls": [
       "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
+      "https://hncfree-samsungau.amagi.tv/playlist.m3u8",
       "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -752,6 +799,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hZnck01GsH43td",
+    "name": "Kalemeh TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/gin-trn09/gp-kalemehnews/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0exBUXoo9VKRKb",
     "name": "Kalsan TV",
     "iptv_urls": [
@@ -825,6 +883,17 @@
     ],
     "youtube_urls": [],
     "language": "mal",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bo21hLJMIvGNlD",
+    "name": "Manoto",
+    "iptv_urls": [
+      "https://ca-rt.onetv.app/manototv/index-0.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1049,6 +1118,17 @@
     "iptv_urls": [
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
       "https://jmp2.uk/sam-GBBC430000128.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v69UzxTpxlGJCh",
+    "name": "Pop",
+    "iptv_urls": [
+      "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1498,6 +1578,7 @@
     "nanoid": "M9HwvmHmrMZElD",
     "name": "Wonder",
     "iptv_urls": [
+      "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
       "https://wonder-samsung-uk.amagi.tv/playlist.m3u8",
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8"
     ],
