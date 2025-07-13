@@ -25,6 +25,7 @@
     "nanoid": "mIBXDjfzsNrIT3",
     "name": "12TV Alicante",
     "iptv_urls": [
+      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
       "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
     ],
     "youtube_urls": [],
@@ -378,17 +379,6 @@
     "name": "Canal Sur Noticias",
     "iptv_urls": [
       "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nkGLqkxeFYNtxg",
-    "name": "Canal Taronja Anoia",
-    "iptv_urls": [
-      "https://ingest1-video.streaming-pro.com/canaltaronja/anoia/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1674,6 +1664,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xRegMZSkKkDbP5",
+    "name": "TeleVigo",
+    "iptv_urls": [
+      "https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MYmpRnITzqWFJm",
     "name": "Televisión Aranda",
     "iptv_urls": [
@@ -1714,17 +1715,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yAvkQDCoQRxCiQ",
-    "name": "Trece TV",
-    "iptv_urls": [
-      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
