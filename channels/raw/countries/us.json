@@ -104,7 +104,6 @@
     "nanoid": "KYGIeDxsNvxsVW",
     "name": "23 ABC Bakersfield CA (KERO)",
     "iptv_urls": [
-      "https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-kero.m3u8"
     ],
     "youtube_urls": [],
@@ -264,6 +263,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pNO1A2SnOPsV3y",
+    "name": "AABC TV",
+    "iptv_urls": [
+      "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hye",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -686,7 +696,6 @@
     "nanoid": "kDjSptOkY1KuHP",
     "name": "ABC Tallahassee",
     "iptv_urls": [
-      "https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-wtxl.m3u8"
     ],
     "youtube_urls": [],
@@ -1289,6 +1298,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sPGmyALtlBkjD3",
+    "name": "Ameritrade",
+    "iptv_urls": [
+      "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -2224,8 +2244,7 @@
     "nanoid": "PQQXKouZscaQuL",
     "name": "California Music Channel",
     "iptv_urls": [
-      "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
-      "https://cmc-kowdtv.amagi.tv/playlist.m3u8"
+      "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -2423,6 +2442,7 @@
     "nanoid": "mpd1PqMRba7R2W",
     "name": "CBS 3 Omaha NE (KMTV-TV)",
     "iptv_urls": [
+      "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-kmtv.m3u8"
     ],
     "youtube_urls": [],
@@ -2823,6 +2843,7 @@
     "iptv_urls": [
       "https://circle-roku.amagi.tv/playlist.m3u8",
       "https://circle-samsung.amagi.tv/playlist.m3u8",
+      "https://circle-vizio.amagi.tv/playlist.m3u8",
       "https://circle-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -2961,17 +2982,6 @@
       "https://live.field59.com/wrde/wrde1/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BMO0FRe0mBVXUu",
-    "name": "CoinVaultTV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8rbO3NMfOdc"
-    ],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
@@ -4300,17 +4310,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JQZnz0xzW7U9yY",
-    "name": "FOX 2 Detroit MI (WJBK)",
-    "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3rAY12UVXfYd24",
     "name": "FOX 2 San Francisco CA (KTVU)",
     "iptv_urls": [
@@ -4347,7 +4346,6 @@
     "nanoid": "das2oF3S38ymzv",
     "name": "FOX 5 New York NY (WNYW)",
     "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8",
       "https://fl1.moveonjoy.com/FOX_EAST/index.m3u8"
     ],
     "youtube_urls": [],
@@ -4371,17 +4369,6 @@
     "name": "FOX 6 Milwaukee WI (WITI)",
     "iptv_urls": [
       "https://apollo.production-public.tubi.io/live/ac-witi.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "u7T8QsD84kHNyW",
-    "name": "FOX 7 Austin TX (KTBC)",
-    "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/ac-ktbc.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -4435,17 +4422,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LgavsKesB3JwlB",
-    "name": "FOX 13 Seattle WA (KCPQ)",
-    "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/ac-kcpq.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4E6X904HwVeo9A",
     "name": "FOX 13 Tampa Bay FL (WTVT)",
     "iptv_urls": [
@@ -4472,17 +4448,6 @@
     "name": "FOX 23 Cape Girardeau MO (KBSI-DT1)",
     "iptv_urls": [
       "https://live.field59.com/kbsi/kbsi1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PcFrrUztngKceJ",
-    "name": "FOX 26 Houston TX (KRIV)",
-    "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/ac-kriv.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -4699,6 +4664,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IrIinPCU23p82T",
+    "name": "Gagsnetwork",
+    "iptv_urls": [
+      "https://s7.merlive.am/gagsnetwork/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MajPICf3UNUH9K",
     "name": "Gainesville Community 12TV (Gainesville FL)",
     "iptv_urls": [
@@ -4739,17 +4715,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "o8GJhpgQxXREN1",
-    "name": "Geb Tv (KBPX LD5)",
-    "iptv_urls": [
-      "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -7775,6 +7740,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1cMUm2YnhrYVgK",
+    "name": "NBC West (San Diego)",
+    "iptv_urls": [
+      "https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Nym192LS730UQa",
     "name": "NBCLX",
     "iptv_urls": [
@@ -7882,7 +7858,7 @@
       "https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0QkLMFrrqXA"
+      "https://www.youtube-nocookie.com/embed/bnKrnB3B6U0"
     ],
     "language": "",
     "country": "us",
@@ -8410,6 +8386,7 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
+      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -9482,6 +9459,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EjMbsaxNUFde0n",
+    "name": "SBN TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/trn03/gin-sbntv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vqqMqreGJE4rVd",
     "name": "Scholastic Classic: The Magic School Bus",
     "iptv_urls": [],
@@ -10148,6 +10136,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ET18NWOQxg62KF",
+    "name": "Sunny Bunnies: Adventures #2",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Pc799zbbGjQ"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yntImanlicC0Cd",
     "name": "Super Channel Hearties Canada",
     "iptv_urls": [
@@ -10288,6 +10287,17 @@
     "iptv_urls": [
       "https://tastemade-xumo.amagi.tv/playlist.m3u8",
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9OVSMqBuq14sWp",
+    "name": "Tastemade Australia",
+    "iptv_urls": [
+      "https://tmint-aus-samsungau.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -10513,7 +10523,6 @@
     "nanoid": "XdwrocdV5KOMCW",
     "name": "Tennis Channel",
     "iptv_urls": [
-      "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
       "https://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8"
     ],
@@ -10838,7 +10847,6 @@
     "nanoid": "PgiKCroCjbQXUS",
     "name": "Timeline",
     "iptv_urls": [
-      "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
       "https://timeline-samsung-uk.amagi.tv/playlist.m3u8",
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8"
     ],
@@ -10852,7 +10860,7 @@
     "name": "Times Now World",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jb-PCYWOPik"
+      "https://www.youtube-nocookie.com/embed/i0RutfZXRm4"
     ],
     "language": "eng",
     "country": "us",
@@ -11690,6 +11698,7 @@
     "nanoid": "2Lb6R7njzbQhuI",
     "name": "WFTX News Fort Myers FL",
     "iptv_urls": [
+      "https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-wftx.m3u8"
     ],
     "youtube_urls": [],
@@ -11746,17 +11755,6 @@
     "name": "Whittier CityTV (Whittier CA)",
     "iptv_urls": [
       "https://whittier.cablecast.tv/live/stream-1/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wrKbPfUy3RjEUp",
-    "name": "WHSG-DT4",
-    "iptv_urls": [
-      "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -11982,17 +11980,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/t1GodAvci_g"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ruu5iGUi82TkIe",
-    "name": "WPLG Local 10",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rjF_c7PH_mQ"
     ],
     "language": "eng",
     "country": "us",
