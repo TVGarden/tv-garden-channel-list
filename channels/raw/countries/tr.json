@@ -15,8 +15,7 @@
     "name": "24 TV",
     "iptv_urls": [
       "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
-      "https://tv.ensonhaber.com/tv24/tv24.m3u8",
-      "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
+      "https://tv.ensonhaber.com/tv24/tv24.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/cs8h7IljHNc"
@@ -63,7 +62,7 @@
     "name": "A Para",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nhOvOQUCRKI"
+      "https://www.youtube-nocookie.com/embed/TWSjDlU3WDU"
     ],
     "language": "tur",
     "country": "tr",
@@ -88,17 +87,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E5ZP6IbFs3YpcP",
-    "name": "Akit TV",
-    "iptv_urls": [
-      "https://akittv-live.ercdn.net/akittv/akittv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -186,7 +174,7 @@
     "name": "beIN SPORTS Türkiye",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CtUorRNqC4s"
+      "https://www.youtube-nocookie.com/embed/LqQrpAJYHRg"
     ],
     "language": "tur",
     "country": "tr",
@@ -218,7 +206,6 @@
     "nanoid": "GQEjero7WWkJqT",
     "name": "Bloomberg HT",
     "iptv_urls": [
-      "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
       "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8"
     ],
     "youtube_urls": [],
@@ -343,7 +330,9 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/zdJmWj0rDz4"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -353,17 +342,6 @@
     "name": "Cine 1",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5fs06aCclYgUTH",
-    "name": "Cine5",
-    "iptv_urls": [
-      "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -699,7 +677,8 @@
       "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6BX-NUzBSp8"
+      "https://www.youtube-nocookie.com/embed/6BX-NUzBSp8",
+      "https://www.youtube-nocookie.com/embed/-IWcW_QJmk4"
     ],
     "language": "tur",
     "country": "tr",
@@ -721,8 +700,7 @@
     "nanoid": "sdWptNGaPnKBBW",
     "name": "Habertürk TV",
     "iptv_urls": [
-      "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
-      "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
+      "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -747,7 +725,7 @@
     "name": "Her An Kur'an Her An Zikir",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PT1-spj6MPc"
+      "https://www.youtube-nocookie.com/embed/8Mz9G8O7ESE"
     ],
     "language": "tur",
     "country": "tr",
@@ -858,6 +836,17 @@
     "name": "Kanal 23",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "y2961fqTVAJ9qU",
+    "name": "Kanal 26",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1015,6 +1004,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/z8o52IfBhGk"
     ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0Pgb5PyNdyF41a",
+    "name": "Kent Türk TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -1434,6 +1434,17 @@
     "iptv_urls": [
       "https://dogus-live.daioncdn.net/startv/startv.m3u8"
     ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6lJlEA65TFCwvp",
+    "name": "Star TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/gin-trn09/gin-startv/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/82O6yOy_XwE"
     ],
@@ -1593,6 +1604,17 @@
     "name": "TRT 1",
     "iptv_urls": [
       "https://tv-trt1.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IxjjPo0BdLNNBs",
+    "name": "TRT 2",
+    "iptv_urls": [
+      "https://tv-trt2.medya.trt.com.tr/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",

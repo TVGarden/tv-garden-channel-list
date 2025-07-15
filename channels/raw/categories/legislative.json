@@ -126,7 +126,9 @@
     "iptv_urls": [
       "https://canalgov-stream.ebc.com.br/index.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/w3c3GSIbM_Q"
+    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -195,6 +197,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VQKAVjDBKZb0pj",
+    "name": "Congreso de los Diputados 1",
+    "iptv_urls": [
+      "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -379,6 +392,17 @@
     "name": "Gainesville Community 12TV (Gainesville FL)",
     "iptv_urls": [
       "https://lin10.isilive.ca/live/gainesville/live/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aZACmqFHyDlfSs",
+    "name": "Galveston County TV",
+    "iptv_urls": [
+      "https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -617,17 +641,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bgvnikihqe1JcN",
-    "name": "MRTV Parliament",
-    "iptv_urls": [
-      "https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mya",
-    "country": "mm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XYsmnPfcRc2O6U",
     "name": "Nashua GTV Channel 16 Nashua NH",
     "iptv_urls": [
@@ -861,10 +874,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wZidfsC4OxRSqJ",
-    "name": "Pinole Community Television (PCTV) Channel 26 (Pinole CA)",
+    "nanoid": "ncwhfZ9mDVBGeC",
+    "name": "Pasco TV (Pasco County FL)",
     "iptv_urls": [
-      "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8"
+      "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -872,10 +885,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yNNp8bbIlgtQQ9",
-    "name": "Placentia TV (Placentia CA)",
+    "nanoid": "wZidfsC4OxRSqJ",
+    "name": "Pinole Community Television (PCTV) Channel 26 (Pinole CA)",
     "iptv_urls": [
-      "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/playlist.m3u8"
+      "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1074,7 +1087,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wkONqHDVjK8"
+      "https://www.youtube-nocookie.com/embed/UGF4mdcUVME"
     ],
     "language": "por",
     "country": "br",
@@ -1098,6 +1111,17 @@
       "https://stream3.camara.gov.br/tv2/manifest.m3u8"
     ],
     "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ljxQJllBAK9Pvk",
+    "name": "TV Câmara Porto Alegre",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/2G2F8szoR2U"
+    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -1320,17 +1344,6 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jdtDDFx09GQYAn",
-    "name": "Дума ТВ",
-    "iptv_urls": [
-      "https://dumatv.iptv2022.com/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
     "isGeoBlocked": false
   }
 ]
