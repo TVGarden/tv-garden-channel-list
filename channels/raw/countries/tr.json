@@ -15,22 +15,12 @@
     "name": "24 TV",
     "iptv_urls": [
       "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
-      "https://tv.ensonhaber.com/tv24/tv24.m3u8"
+      "https://tv.ensonhaber.com/tv24/tv24.m3u8",
+      "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/cs8h7IljHNc"
     ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BK9jwiVs1a14vu",
-    "name": "360",
-    "iptv_urls": [
-      "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -87,6 +77,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "E5ZP6IbFs3YpcP",
+    "name": "Akit TV",
+    "iptv_urls": [
+      "https://akittv-live.ercdn.net/akittv/akittv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -206,6 +207,7 @@
     "nanoid": "GQEjero7WWkJqT",
     "name": "Bloomberg HT",
     "iptv_urls": [
+      "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
       "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8"
     ],
     "youtube_urls": [],
@@ -671,14 +673,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EGLHx6bgJtwQkq",
+    "nanoid": "DQBIA3Sz0TNokH",
     "name": "Haber Global",
-    "iptv_urls": [
-      "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6BX-NUzBSp8",
-      "https://www.youtube-nocookie.com/embed/-IWcW_QJmk4"
+      "https://www.youtube-nocookie.com/embed/6BX-NUzBSp8"
     ],
     "language": "tur",
     "country": "tr",
@@ -700,7 +699,8 @@
     "nanoid": "sdWptNGaPnKBBW",
     "name": "Habertürk TV",
     "iptv_urls": [
-      "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8"
+      "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
+      "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -847,17 +847,6 @@
     "name": "Kanal 26",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bRsKMoXGrApX11",
-    "name": "Kanal 32",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1090,7 +1079,7 @@
     "name": "Lider Haber",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BDp7fqtSEjg"
+      "https://www.youtube-nocookie.com/embed/5isyKbn-lag"
     ],
     "language": "tur",
     "country": "tr",
@@ -1277,17 +1266,6 @@
     "name": "On4 TV",
     "iptv_urls": [
       "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vlixqABLRnnfK4",
-    "name": "Öncü TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1604,17 +1582,6 @@
     "name": "TRT 1",
     "iptv_urls": [
       "https://tv-trt1.medya.trt.com.tr/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IxjjPo0BdLNNBs",
-    "name": "TRT 2",
-    "iptv_urls": [
-      "https://tv-trt2.medya.trt.com.tr/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
