@@ -148,7 +148,7 @@
     "name": "Jetix",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Kja1iUnxeRQ"
+      "https://www.youtube-nocookie.com/embed/EDl4B2EaivE"
     ],
     "language": "rus",
     "country": "ru",
@@ -159,6 +159,17 @@
     "name": "Kino 1 International",
     "iptv_urls": [
       "https://kino-1.catcast.tv/content/38617/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gSNslvci5VvEfL",
+    "name": "Kino 24",
+    "iptv_urls": [
+      "https://sirius.greenhosting.ru/Kino24Ru/video.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -805,17 +816,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jdtDDFx09GQYAn",
-    "name": "Дума ТВ",
-    "iptv_urls": [
-      "https://dumatv.iptv2022.com/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qEiTrcvSLIUuPW",
     "name": "Евразия (Орск)",
     "iptv_urls": [
@@ -968,17 +968,6 @@
     "name": "Курай (Уфа)",
     "iptv_urls": [
       "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "K7MkhCrOepYy6F",
-    "name": "Легендарный 24",
-    "iptv_urls": [
-      "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1389,17 +1378,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qtiWLEZdWFW0Tb",
-    "name": "СПАС",
-    "iptv_urls": [
-      "https://spas.mediacdn.ru/cdn/spas/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zFcQgIj3O4E7R6",
     "name": "Страна FM",
     "iptv_urls": [
@@ -1521,9 +1499,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AIHRA4w3vdxLfI",
+    "name": "Толк HD",
+    "iptv_urls": [
+      "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
+      "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TfaEWFgppVp2Rt",
     "name": "Три Ангела",
     "iptv_urls": [
+      "https://hls.tv.3angels.ru/stream.m3u8",
       "https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
