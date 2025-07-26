@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sPGmyALtlBkjD3",
+    "name": "Ameritrade",
+    "iptv_urls": [
+      "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "iptv_urls": [
@@ -147,17 +158,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cUUd6iJP5ivAhb",
-    "name": "Business 24 Africa",
-    "iptv_urls": [
-      "https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4CH3D1e5BYIgIk",
     "name": "Cafe Trade TV",
     "iptv_urls": [
@@ -259,6 +259,17 @@
     ],
     "language": "kor",
     "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9DN7gLNDS2Rbj2",
+    "name": "Le Nouveau Manager TV",
+    "iptv_urls": [
+      "https://lnmlive.com/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "bj",
     "isGeoBlocked": false
   },
   {
@@ -379,13 +390,15 @@
     "name": "Yahoo! Finance",
     "iptv_urls": [
       "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
+      "https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8",
       "https://yahoo-plex.amagi.tv/playlist.m3u8",
+      "https://yahoo-roku-us.amagi.tv/playlist.m3u8",
       "https://yahoo-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "q4DSKSowsI5CDz",
@@ -415,7 +428,7 @@
     "name": "토마토증권통",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/w24gwEDB0tI"
+      "https://www.youtube-nocookie.com/embed/YdLQFI05coc"
     ],
     "language": "kor",
     "country": "kr",

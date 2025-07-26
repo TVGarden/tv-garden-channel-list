@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "sFxGybHHfJgVTf",
+    "name": "13 Teleseries",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "duPMBZPaUyeW5e",
     "name": "Al-Nahar Drama",
     "iptv_urls": [
@@ -37,12 +48,14 @@
     "nanoid": "TMYtFK0Z2UCe2X",
     "name": "Are We There Yet?",
     "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/ac-are-we-there-yet2.m3u8"
+      "https://apollo.production-public.tubi.io/live/ac-are-we-there-yet2.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetse-samsungse/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "dWew6qx5gHEn1X",
@@ -93,12 +106,14 @@
     "nanoid": "o0UvEWQ7gtWbCm",
     "name": "Baywatch",
     "iptv_urls": [
-      "https://apollo.production-public.tubi.io/live/ac-baywatch.m3u8"
+      "https://amg00145-buzzr-bigballs-baywatch-rokuus-qq7iy.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8",
+      "https://apollo.production-public.tubi.io/live/ac-baywatch.m3u8",
+      "https://baywatch-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "Av9FF1Csdpa3AH",
@@ -160,6 +175,17 @@
     "name": "Cold Case Files",
     "iptv_urls": [
       "https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6XMnKrqKeumP7M",
+    "name": "Deal or No Deal",
+    "iptv_urls": [
+      "https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -362,7 +388,7 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "8Sy3wSrKI5zIqF",
@@ -409,6 +435,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "X6kETzsLQOUt4r",
+    "name": "MST3K",
+    "iptv_urls": [
+      "https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "WfBeWY1RnvDWYZ",
     "name": "Muhteşem Yüzyıl",
     "iptv_urls": [],
@@ -435,6 +472,7 @@
     "name": "Nosey",
     "iptv_urls": [
       "https://aegis-cloudfront-1.tubi.video/78c30bbd-f60c-4ee6-9922-ad7aa63ca8ec/playlist.m3u8",
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8",
       "https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -479,12 +517,25 @@
     "nanoid": "EqniGxixO4xx8t",
     "name": "PBS Antiques Roadshow",
     "iptv_urls": [
+      "https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "WjQsJ6SPRLhezs",
+    "name": "PBS Nature",
+    "iptv_urls": [
+      "https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "vosJ1MimmKjovt",
@@ -502,7 +553,7 @@
     "name": "Shout! Studios: Farscape (English)",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_FbyorGik0w"
+      "https://www.youtube-nocookie.com/embed/slrwCWZ2Rok"
     ],
     "language": "eng",
     "country": "us",
@@ -592,17 +643,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ZOmCzo5FMpw"
     ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UmtxmIOFxU2zb9",
-    "name": "True Crime Network",
-    "iptv_urls": [
-      "https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-truecrimenetwork/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false

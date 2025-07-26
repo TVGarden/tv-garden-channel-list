@@ -33,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4RrCqsrdFtghH",
-    "name": "Afroculture TV",
-    "iptv_urls": [
-      "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kViHud7pJIRjfw",
     "name": "AlKawthar",
     "iptv_urls": [
@@ -99,6 +88,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aqQXMCUUfxQaZj",
+    "name": "Ayeneh TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/dvrfl05/gin-ayeneh/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zK7yBiaKTXUpou",
     "name": "BBC Four UK HD",
     "iptv_urls": [
@@ -129,28 +129,6 @@
     "youtube_urls": [],
     "language": "nld",
     "country": "bq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5b9R7v4eVMOgWj",
-    "name": "BX Arts",
-    "iptv_urls": [
-      "https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HuKbcFSSELNiGB",
-    "name": "BX Culture",
-    "iptv_urls": [
-      "https://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -305,7 +283,7 @@
     "name": "DD Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pN0a7IcS9G0"
+      "https://www.youtube-nocookie.com/embed/wNsNdhlBJPQ"
     ],
     "language": "urd",
     "country": "in",
@@ -397,13 +375,14 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "2QHwYMt2XZKYvG",
     "name": "Fox Soul",
     "iptv_urls": [
       "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
+      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
       "https://apollo.production-public.tubi.io/live/ac-fox-soul-scte.m3u8",
       "https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8"
     ],
@@ -479,17 +458,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UxG3mUsSPHjVwR",
-    "name": "IRIB 4",
-    "iptv_urls": [
-      "https://live20.bozztv.com/dvrfl05/gin-irib4/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DTB26EOMXy8ybv",
     "name": "IRIB4",
     "iptv_urls": [
@@ -557,17 +525,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jQJvTxDWSnTdN6",
-    "name": "KIIO-LD1",
-    "iptv_urls": [
-      "https://live20.bozztv.com/gin-36bay3/gt-usarmenia/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hye",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MFBhdF22oHPsQx",
     "name": "Komala TV",
     "iptv_urls": [
@@ -623,6 +580,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xx7eina1wOQhnp",
+    "name": "MCN6 Arts Channel",
+    "iptv_urls": [
+      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ie6Cl28U3aDpAI",
     "name": "Medeniyyet TV",
     "iptv_urls": [
@@ -670,7 +638,9 @@
     "nanoid": "0TixmjZkK89lpR",
     "name": "Museum TV",
     "iptv_urls": [
-      "https://rakutenaa-museumtv-fr-rakuten-nilyp.amagi.tv/playlist/rakutenAA-museumtv-fr-rakuten/playlist.m3u8"
+      "https://rakutenaa-museumtv-fr-rakuten-nilyp.amagi.tv/playlist/rakutenAA-museumtv-fr-rakuten/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungnl/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -692,7 +662,8 @@
     "nanoid": "DYE3hoA18KCa6q",
     "name": "Museum TV Fast",
     "iptv_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8"
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungse/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -708,6 +679,28 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5kYv876l5SB1BL",
+    "name": "Nei Monggol TV 2 Mongolian Culture Channel",
+    "iptv_urls": [
+      "https://play1-qk.nmtv.cn/live/1686561065304370.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G3z1qWfpSyIFVO",
+    "name": "Nei Monggol TV Agriculture & Animal Channel",
+    "iptv_urls": [
+      "https://play1-qk.nmtv.cn/live/1686561299036179.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -742,28 +735,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2itYFYUTuGRf0A",
-    "name": "NTV",
-    "iptv_urls": [
-      "https://panel.miplay.cl:8082/ntv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Xd4zMebQRYFlnw",
-    "name": "NYXT",
-    "iptv_urls": [
-      "https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -808,17 +779,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RiifWdXjWLsqP4",
-    "name": "ORF III HD",
-    "iptv_urls": [
-      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
     "isGeoBlocked": false
   },
   {
@@ -1009,17 +969,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kzJfBlHkfUdVrP",
-    "name": "TV+ 2",
-    "iptv_urls": [
-      "https://panel.miplay.cl:8082/tvmas2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "p4obNYU8nK7E4h",
     "name": "TVE RS",
     "iptv_urls": [
@@ -1061,18 +1010,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ye",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SouHlOn23CzTQS",
-    "name": "НТВ Мир",
-    "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/213.m3u8",
-      "https://streaming.skynetconnect.online/live/213.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
     "isGeoBlocked": false
   }
 ]
