@@ -485,9 +485,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g4VnkSt3v2F081",
+    "nanoid": "vyAlDaoF9WU1Q1",
     "name": "Euronews English",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
     ],
@@ -1019,37 +1021,24 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0TixmjZkK89lpR",
-    "name": "Museum TV",
+    "nanoid": "frxoUV6KIlJwd1",
+    "name": "MyTime Movie Network France",
     "iptv_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungnl/playlist.m3u8"
+      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "fra",
+    "language": "",
     "country": "fr",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9ipkx1eMK9YlsC",
-    "name": "Museum TV English",
+    "nanoid": "bpkqoQyazekjjY",
+    "name": "Mytime Movies",
     "iptv_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8"
+      "https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "X3IxUR8ey6Sxpy",
-    "name": "MyZen TV",
-    "iptv_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
+    "language": "",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1351,17 +1340,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PGDjufEBywGkq1",
-    "name": "Qwest TV Jazz & Beyond",
-    "iptv_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kVuXOdBXr2x3dW",
     "name": "Rakuten TV Alerte Cobra",
     "iptv_urls": [
@@ -1622,7 +1600,6 @@
     "name": "TRACE Latina",
     "iptv_urls": [
       "https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8",
       "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1659,8 +1636,6 @@
     "iptv_urls": [
       "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8",
       "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1709,6 +1684,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FYoDPpWlyg9gMc",
+    "name": "viàTéléPaese",
+    "iptv_urls": [
+      "https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
