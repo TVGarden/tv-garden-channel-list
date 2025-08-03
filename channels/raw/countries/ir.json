@@ -280,7 +280,9 @@
     "iptv_urls": [
       "https://ch1hls.wns.live/hls/stream.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/OGVxMuTMnD8"
+    ],
     "language": "",
     "country": "ir",
     "isGeoBlocked": false
@@ -521,8 +523,7 @@
     "nanoid": "AUxfFZfjCkbWnr",
     "name": "ITN",
     "iptv_urls": [
-      "https://itnhls.wns.live/hls/stream.m3u8",
-      "https://ca-rt.onetv.app:8443/ITN/index-0.m3u8"
+      "https://itnhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
@@ -766,6 +767,17 @@
     "name": "Quran",
     "iptv_urls": [
       "https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xRGq4FvGDTWgUJ",
+    "name": "RasoulallahTv",
+    "iptv_urls": [
+      "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",
