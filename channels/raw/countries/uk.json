@@ -157,8 +157,8 @@
     "nanoid": "511xNHZg5Co5nc",
     "name": "BBC Arabic",
     "iptv_urls": [
-      "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8",
       "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.m3u8",
+      "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8",
       "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8"
     ],
     "youtube_urls": [],
@@ -368,6 +368,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vFuB4amnCAnzu2",
+    "name": "Crafter's TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/-2Mjia7wwV8"
+    ],
+    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -687,6 +698,7 @@
     "name": "Horse & Country TV",
     "iptv_urls": [
       "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
+      "https://hncfree-samsungau.amagi.tv/playlist.m3u8",
       "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1094,8 +1106,7 @@
     "nanoid": "vnFJqEonENKTpG",
     "name": "Now 80s",
     "iptv_urls": [
-      "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8",
-      "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8"
+      "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1107,17 +1118,6 @@
     "name": "Now 80s",
     "iptv_urls": [
       "https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nhxyWnxbL3kVsl",
-    "name": "NOW Rock",
-    "iptv_urls": [
-      "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1263,17 +1263,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jz4YnIQOr3KiI6",
-    "name": "Rakuten TV Thrillers UK",
-    "iptv_urls": [
-      "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MGZ1lmWoKAZERn",
     "name": "Rakuten TV Trailers UK",
     "iptv_urls": [
@@ -1302,6 +1291,17 @@
       "https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Kfvf3u3DJLtcM5",
+    "name": "Shaun the Sheep Official",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/I_3XlhA0S_4"
+    ],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
@@ -1535,17 +1535,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "at7QYcug7oV0tu",
-    "name": "WildBrain Max: LEGO Spiderman",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WNpBAG1KOrs"
-    ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },

@@ -99,17 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sVMuojFlIFBAT6",
-    "name": "Al Wilayah",
-    "iptv_urls": [
-      "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kViHud7pJIRjfw",
     "name": "AlKawthar",
     "iptv_urls": [
@@ -280,7 +269,9 @@
     "iptv_urls": [
       "https://ch1hls.wns.live/hls/stream.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/g2XTY0-kTRc"
+    ],
     "language": "",
     "country": "ir",
     "isGeoBlocked": false
@@ -290,17 +281,6 @@
     "name": "Datis TV",
     "iptv_urls": [
       "https://dathls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0jnJzwpi6P9KjW",
-    "name": "Eslah TV",
-    "iptv_urls": [
-      "https://eslahtvhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -430,17 +410,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KkkufkxTZZv1cF",
-    "name": "IRIB1",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DD2ybQzhzwfj0e",
     "name": "IRIB2",
     "iptv_urls": [
@@ -523,6 +492,28 @@
     "iptv_urls": [
       "https://itnhls.wns.live/hls/stream.m3u8",
       "https://ca-rt.onetv.app:8443/ITN/index-0.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cqVD8AqrGaIB83",
+    "name": "ITV Life",
+    "iptv_urls": [
+      "https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5Wb2HvhHtCDdaW",
+    "name": "ITV Persian Music",
+    "iptv_urls": [
+      "https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "language": "fas",

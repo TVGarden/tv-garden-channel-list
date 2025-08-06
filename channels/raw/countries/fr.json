@@ -99,6 +99,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JYn1ySxy92KPFz",
+    "name": "Africanews French",
+    "iptv_urls": [
+      "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4rxDy7n64uQPGF",
     "name": "Alpe d’Huez TV",
     "iptv_urls": [
@@ -280,6 +291,17 @@
     "name": "BFM Marseille",
     "iptv_urls": [
       "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YcswJ4HZrr9OYD",
+    "name": "BFM Nice Côte d'Azur",
+    "iptv_urls": [
+      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -913,7 +935,7 @@
     "name": "Mosaïk Cristal",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qV_Ygyc-Pwc"
+      "https://www.youtube-nocookie.com/embed/6DO3-LfpAdM"
     ],
     "language": "fra",
     "country": "fr",
@@ -924,17 +946,6 @@
     "name": "Motorvision.tv (French)",
     "iptv_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "frxoUV6KIlJwd1",
-    "name": "MyTime Movie Network France",
-    "iptv_urls": [
-      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1510,6 +1521,7 @@
     "nanoid": "uS6aOLXBCwTfBG",
     "name": "Trace Sport Stars (Australia)",
     "iptv_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

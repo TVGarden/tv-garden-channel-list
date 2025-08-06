@@ -14,6 +14,7 @@
     "nanoid": "TFUyUrLKl7M3tP",
     "name": "24 TV",
     "iptv_urls": [
+      "https://tv.ensonhaber.com/tv24/tv24.m3u8",
       "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
     ],
     "youtube_urls": [
@@ -61,7 +62,7 @@
     "name": "A Para",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KNIsXV10qS0"
+      "https://www.youtube-nocookie.com/embed/6UumuJyWcFA"
     ],
     "language": "tur",
     "country": "tr",
@@ -86,6 +87,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "E5ZP6IbFs3YpcP",
+    "name": "Akit TV",
+    "iptv_urls": [
+      "https://akittv-live.ercdn.net/akittv/akittv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -191,12 +203,35 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NxCKTyzKVXGji0",
+    "name": "Benguturk TV",
+    "iptv_urls": [
+      "https://tv.ensonhaber.com/benguturk/benguturk.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zMmmbAaZGmXuXi",
     "name": "BENGÜTÜRK TV",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/OuEt1b7a_q8"
     ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GQEjero7WWkJqT",
+    "name": "Bloomberg HT",
+    "iptv_urls": [
+      "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
+      "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -637,9 +672,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zy1Qg9wldw4r2A",
+    "nanoid": "EGLHx6bgJtwQkq",
     "name": "Haber Global",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6BX-NUzBSp8"
     ],
@@ -653,6 +690,18 @@
     "iptv_urls": [
       "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8",
       "https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sdWptNGaPnKBBW",
+    "name": "Habertürk TV",
+    "iptv_urls": [
+      "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
+      "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -784,10 +833,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bRsKMoXGrApX11",
-    "name": "Kanal 32",
+    "nanoid": "F2Mb6ARE1l9qx2",
+    "name": "Kanal 33",
     "iptv_urls": [
-      "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8"
+      "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1394,6 +1443,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "InVI6XNTBkTyM8",
+    "name": "TBMM TV",
+    "iptv_urls": [
+      "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5GoagSnDbPwxmH",
     "name": "Tele 1",
     "iptv_urls": [
@@ -1655,6 +1715,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bgn8mfchHatjpX",
+    "name": "TV 52",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "W5plAUUYqWIZ2k",
     "name": "TV 100",
     "iptv_urls": [
@@ -1806,17 +1877,6 @@
       "https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mt3iJJumDsrhIg",
-    "name": "WildBrain Çocuklar: Mr. Bean",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nsM3zGcqXL4"
-    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
