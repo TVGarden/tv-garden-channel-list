@@ -57,14 +57,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fruS79xWb73ha2",
-    "name": "Barney the Dinosaur",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jZ292bKwu54"
+    "nanoid": "hkDzNHa7Mm4MEd",
+    "name": "Anime Vision",
+    "iptv_urls": [
+      "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8"
     ],
-    "language": "eng",
-    "country": "ca",
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Zue327U2SxgoQE",
+    "name": "Anime Vision Classics",
+    "iptv_urls": [
+      "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -311,17 +322,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DdiVuOolojZUS0",
-    "name": "MCN6 Music Channel",
-    "iptv_urls": [
-      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YQjVrcxLsl4KlI",
     "name": "Pingvīns",
     "iptv_urls": [
@@ -374,17 +374,6 @@
     ],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WPwzwJjxFjY"
-    ],
-    "language": "fra",
-    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -545,8 +534,7 @@
     "nanoid": "gJChs4RXWcqghm",
     "name": "Мультимания",
     "iptv_urls": [
-      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
-      "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
+      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -557,7 +545,8 @@
     "nanoid": "9Uizi8HMPFF6Ku",
     "name": "Солнце",
     "iptv_urls": [
-      "https://tv.mediacdn.ru/live/solntse/playlist.m3u8"
+      "https://tv.mediacdn.ru/live/solntse/playlist.m3u8",
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

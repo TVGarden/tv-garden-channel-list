@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "75FbucgZ55jtlf",
-    "name": "Bread TV面包台",
-    "iptv_urls": [
-      "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cmn",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oxYQjuprLnH9X5",
     "name": "CCTV-4中文国际",
     "iptv_urls": [],
@@ -55,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3yeaLOItD0HtrR",
+    "name": "CGTN Arabic",
+    "iptv_urls": [
+      "https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "u673t64oVwJcTF",
     "name": "CGTN Documentary",
     "iptv_urls": [
@@ -87,6 +87,17 @@
       "https://www.youtube-nocookie.com/embed/_6dRRfnYJws"
     ],
     "language": "eng",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hkFFCXUNQeINYF",
+    "name": "CGTN Français",
+    "iptv_urls": [
+      "https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
     "country": "cn",
     "isGeoBlocked": false
   },
@@ -137,10 +148,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bwgaKqLtIHt0Ax",
-    "name": "Jiangxi Economy & Life Channel",
+    "nanoid": "7Hsc69UuEllEuA",
+    "name": "Harbin Movie Channel",
     "iptv_urls": [
-      "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8"
+      "https://stream.hrbtv.net/yspd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0XIDLKsVgOzvJh",
+    "name": "Nanchang News & Generalist Channel",
+    "iptv_urls": [
+      "https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -269,43 +291,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v5Cnt9e5fETRq9",
-    "name": "QTV-3",
-    "iptv_urls": [
-      "https://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v5Etfhhhhl9Em5",
-    "name": "QTV-4",
-    "iptv_urls": [
-      "https://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1by9GcHy62iZ4M",
     "name": "QTV-5",
     "iptv_urls": [
       "https://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KVsjP0kIbz2vIV",
-    "name": "QTV-6",
-    "iptv_urls": [
-      "https://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -523,22 +512,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ez5NBYjpiihwmc",
-    "name": "宿州科教",
-    "iptv_urls": [
-      "https://live.ahsz.tv/video/s10001-kxjy/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0REjP55mYk4y0F",
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Wuqd-6-aWC4"
+      "https://www.youtube-nocookie.com/embed/RdAgeJX9Y-4"
     ],
     "language": "zho",
     "country": "cn",
@@ -549,17 +527,6 @@
     "name": "嵊州综合",
     "iptv_urls": [
       "https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fpwejyOguNcChA",
-    "name": "广东 Ⅰ 韶关公共台",
-    "iptv_urls": [
-      "https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

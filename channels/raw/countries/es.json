@@ -25,7 +25,6 @@
     "nanoid": "mIBXDjfzsNrIT3",
     "name": "12TV Alicante",
     "iptv_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
       "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
     ],
     "youtube_urls": [],
@@ -107,6 +106,28 @@
     "name": "Alcarria TV",
     "iptv_urls": [
       "https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hkDzNHa7Mm4MEd",
+    "name": "Anime Vision",
+    "iptv_urls": [
+      "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Zue327U2SxgoQE",
+    "name": "Anime Vision Classics",
+    "iptv_urls": [
+      "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -755,6 +776,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YDIi3VBX7D7fKC",
+    "name": "La 2 Catalunya",
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "j360OR5hG3FP0t",
     "name": "La Urban TV",
     "iptv_urls": [
@@ -784,6 +816,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b0E5tyyObiYQ6m",
+    "name": "LiraTV",
+    "iptv_urls": [
+      "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1019,28 +1062,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n6FdB4EmWOzmzf",
-    "name": "Popular TV Cantabria",
-    "iptv_urls": [
-      "https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "p3vZHxf8AOEfM0",
-    "name": "Popular TV Melilla",
-    "iptv_urls": [
-      "https://5940924978228.streamlock.net/8009/8009/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "T3G7Gzr0nlBJuF",
     "name": "Popular TV Murcia",
     "iptv_urls": [
@@ -1081,17 +1102,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OfgEoWKYhuXnuw",
-    "name": "Rakuten Top Movies UK",
-    "iptv_urls": [
-      "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1158,6 +1168,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "clglnKNLhH9d22",
+    "name": "Rakuten TV Comedy Movies Finland",
+    "iptv_urls": [
+      "https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1294,13 +1315,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "urCoNCEQ0JVzsM",
-    "name": "Rakuten TV Family Movies Spain",
+    "nanoid": "GM8ISh0gwWKywf",
+    "name": "Rakuten TV Family Movies Italy",
     "iptv_urls": [
-      "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+      "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
+    "language": "ita",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1342,17 +1363,6 @@
     "name": "Rakuten TV Sci-Fi Spain",
     "iptv_urls": [
       "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yoWnDlFSJLbaIM",
-    "name": "Rakuten TV Thrillers Spain",
-    "iptv_urls": [
-      "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1411,6 +1421,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HYpCGBVfi8MGbS",
+    "name": "Rantaró el ninja boy",
+    "iptv_urls": [
+      "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1648,6 +1669,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yAvkQDCoQRxCiQ",
+    "name": "Trece TV",
+    "iptv_urls": [
+      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tJnnR1sDEnmxAh",
     "name": "TV Almassora",
     "iptv_urls": [
@@ -1655,6 +1687,17 @@
     ],
     "youtube_urls": [],
     "language": "cat",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eHijSwcOOuzyYg",
+    "name": "TV BRICS Spanish",
+    "iptv_urls": [
+      "https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
