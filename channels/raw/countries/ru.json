@@ -57,17 +57,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HHYr8wd1E9ioQk",
-    "name": "Cinema",
-    "iptv_urls": [
-      "https://catchup.videoline.ru/cinema/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nJhafyMiMVkZKn",
     "name": "Dag Music",
     "iptv_urls": [],
@@ -232,7 +221,8 @@
     "name": "Univer TV",
     "iptv_urls": [
       "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
-      "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8"
+      "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
+      "https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -318,17 +308,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Rtthjg4Rw9SfrY",
-    "name": "Аист ТВ",
-    "iptv_urls": [
-      "https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wllXuyEivFsvvl",
     "name": "Архыз 24",
     "iptv_urls": [
@@ -344,17 +323,6 @@
     "name": "Астрахань 24",
     "iptv_urls": [
       "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PnYs28KZYftvil",
-    "name": "Астрахань.Ru Sport",
-    "iptv_urls": [
-      "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -653,17 +621,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6BCaKILHCLZmH7",
-    "name": "Конный Мир",
-    "iptv_urls": [
-      "https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "W3k5nQPsuuFhwy",
     "name": "Красная линия",
     "iptv_urls": [
@@ -946,6 +903,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gB8tELUDVeaGTe",
+    "name": "НВК Саха",
+    "iptv_urls": [
+      "https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "sah",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fPNHa2Iphxep7n",
     "name": "Нижний Новгород 24",
     "iptv_urls": [
@@ -1182,17 +1150,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ErPJMqv9I7NNQs",
-    "name": "Пятница! International",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "drjOcpMWcmy63q",
     "name": "Пятый Канал",
     "iptv_urls": [
@@ -1233,6 +1190,17 @@
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8",
       "https://streaming.televizor-24-tochka.ru/live/14.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ALCY7omnDvZ2KZ",
+    "name": "РЕН ТВ International",
+    "iptv_urls": [
+      "https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1634,6 +1602,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AIHRA4w3vdxLfI",
+    "name": "Толк HD",
+    "iptv_urls": [
+      "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
+      "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TfaEWFgppVp2Rt",
     "name": "Три Ангела",
     "iptv_urls": [
@@ -1650,6 +1630,17 @@
     "name": "Хузур ТВ",
     "iptv_urls": [
       "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AyRHI5JIwcnvUa",
+    "name": "Центр (Красноярск)",
+    "iptv_urls": [
+      "https://stream.tck.tv/hd.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
