@@ -408,17 +408,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RMbGSeJmY7CCNa",
-    "name": "Cannes Lérins TV",
-    "iptv_urls": [
-      "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6Dh7B6KYUVtbpZ",
     "name": "Cherie 25",
     "iptv_urls": [
@@ -942,17 +931,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OT7cC0iY15HoKp",
-    "name": "Mosaïk Cristal",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WkzoP1PmBOs"
-    ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BoupFeA3cv43aA",
     "name": "Motorvision.tv (French)",
     "iptv_urls": [
@@ -1272,10 +1250,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kVuXOdBXr2x3dW",
+    "name": "Rakuten TV Alerte Cobra",
+    "iptv_urls": [
+      "https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rTxlqI5hFxSUmd",
     "name": "Rakuten TV Documentaries France",
     "iptv_urls": [
       "https://eb3687a0cdc54432b90a95543c0a6cbc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6224/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9PtGiKgkdbGXR3",
+    "name": "Rakuten TV Films Action",
+    "iptv_urls": [
+      "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1353,6 +1353,17 @@
     "name": "Rakuten TV The Guardian",
     "iptv_urls": [
       "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dK7Tr0arpe0iTb",
+    "name": "Rakuten TV Top Films France",
+    "iptv_urls": [
+      "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1510,7 +1521,9 @@
     "nanoid": "uS6aOLXBCwTfBG",
     "name": "Trace Sport Stars (Australia)",
     "iptv_urls": [
-      "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
+      "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
+      "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
