@@ -25,6 +25,7 @@
     "nanoid": "mIBXDjfzsNrIT3",
     "name": "12TV Alicante",
     "iptv_urls": [
+      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
       "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
     ],
     "youtube_urls": [],
@@ -271,17 +272,6 @@
     "name": "Canal 4 Mallorca",
     "iptv_urls": [
       "https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z7MEi4DtQ5gKCY",
-    "name": "Canal 10 Empordà",
-    "iptv_urls": [
-      "https://ventdelnord.tv:8080/escala/directe.m3u8"
     ],
     "youtube_urls": [],
     "language": "cat",
@@ -577,17 +567,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SaW33CEbNSofdS",
-    "name": "EL PAÍS TV",
-    "iptv_urls": [
-      "https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hH4CoV8wpIpgVv",
     "name": "El Toro TV",
     "iptv_urls": [
@@ -595,17 +574,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "w8nJcI9HkWg8Yr",
-    "name": "Empordà TV",
-    "iptv_urls": [
-      "https://video3.lhdserver.es/empordatv2/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -672,17 +640,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SOCPsEqDypGNwA",
-    "name": "Fitel TV",
-    "iptv_urls": [
-      "https://tv.mywifisocial.es/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -767,7 +724,8 @@
     "nanoid": "254O8QVRoi3Ec6",
     "name": "La 2",
     "iptv_urls": [
-      "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8"
+      "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8",
+      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -775,13 +733,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YDIi3VBX7D7fKC",
-    "name": "La 2 Catalunya",
+    "nanoid": "MtvAPbtuZZyeOW",
+    "name": "La 2 Canarias",
     "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
+      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
     ],
     "youtube_urls": [],
-    "language": "cat",
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -815,28 +773,6 @@
     ],
     "youtube_urls": [],
     "language": "ron",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iHJMMNrrNRdPm9",
-    "name": "Logos TV",
-    "iptv_urls": [
-      "https://streamer1.streamhost.org/salive/logosH/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tAfeiYdJicPmo2",
-    "name": "Logos TV Estudio",
-    "iptv_urls": [
-      "https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1083,6 +1019,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OfgEoWKYhuXnuw",
+    "name": "Rakuten Top Movies UK",
+    "iptv_urls": [
+      "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cZ8WdRSawqzh4E",
     "name": "Rakuten TV Action Movies Finland",
     "iptv_urls": [
@@ -1090,6 +1037,17 @@
     ],
     "youtube_urls": [],
     "language": "fin",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9Te0eCyfaDh09o",
+    "name": "Rakuten TV Action Movies Germany",
+    "iptv_urls": [
+      "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1270,17 +1228,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GM8ISh0gwWKywf",
-    "name": "Rakuten TV Family Movies Italy",
-    "iptv_urls": [
-      "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "urCoNCEQ0JVzsM",
     "name": "Rakuten TV Family Movies Spain",
     "iptv_urls": [
@@ -1310,17 +1257,6 @@
     ],
     "youtube_urls": [],
     "language": "fin",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "azCmZT5s8W62Ny",
-    "name": "Rakuten TV Romance Movies Spain",
-    "iptv_urls": [
-      "https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1512,6 +1448,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TAur6WI03rCzWr",
+    "name": "SpektraTV",
+    "iptv_urls": [
+      "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SKSq9EL0wsiHSO",
     "name": "STZ Telebista",
     "iptv_urls": [
@@ -1664,6 +1611,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yAvkQDCoQRxCiQ",
+    "name": "Trece TV",
+    "iptv_urls": [
+      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
