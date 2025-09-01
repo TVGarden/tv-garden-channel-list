@@ -325,7 +325,8 @@
     "nanoid": "lpYmUDR5HpXALT",
     "name": "DW English",
     "iptv_urls": [
-      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -365,6 +366,17 @@
     "name": "EchtJetzt TV",
     "iptv_urls": [
       "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FkwHKfpMGiYx0r",
+    "name": "ems TV Lingen",
+    "iptv_urls": [
+      "https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -804,10 +816,33 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dYt045ogXamqS6",
+    "name": "NRWision",
+    "iptv_urls": [
+      "https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uulIpGX9jYzIDT",
     "name": "Oberpfalz TV",
     "iptv_urls": [
       "https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "t25XYUZkAL9Kgw",
+    "name": "OF-TV Offenbach",
+    "iptv_urls": [
+      "https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8",
+      "https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1048,6 +1083,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6I4CQI5DQQYidR",
+    "name": "RFH",
+    "iptv_urls": [
+      "https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "50AOLuz78mWfKm",
     "name": "RiC",
     "iptv_urls": [
@@ -1130,6 +1176,17 @@
     "name": "Schlager Deluxe",
     "iptv_urls": [
       "https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5J132TbInkq065",
+    "name": "Seenluft24",
+    "iptv_urls": [
+      "https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref="
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1283,6 +1340,7 @@
     "nanoid": "26XgnwsMGpjD8v",
     "name": "Tide TV",
     "iptv_urls": [
+      "https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8",
       "https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
