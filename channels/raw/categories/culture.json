@@ -292,9 +292,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5VAqVtAJLz9Qp2",
+    "nanoid": "FCckxA9xKjRmBd",
     "name": "DD Urdu",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://cdn-4.pishow.tv/live/8/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/bIeY8zFYyXU"
     ],
@@ -625,17 +627,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ie6Cl28U3aDpAI",
-    "name": "Medeniyyet TV",
-    "iptv_urls": [
-      "https://str.yodacdn.net/medeniyyet/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "aze",
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "q666a4s6CEkDLb",
     "name": "Midpen Media Center Arts Issues and Lifestyles Channel 30",
     "iptv_urls": [
@@ -666,6 +657,28 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5kYv876l5SB1BL",
+    "name": "Nei Monggol TV 2 Mongolian Culture Channel",
+    "iptv_urls": [
+      "https://play1-qk.nmtv.cn/live/1686561065304370.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G3z1qWfpSyIFVO",
+    "name": "Nei Monggol TV Agriculture & Animal Channel",
+    "iptv_urls": [
+      "https://play1-qk.nmtv.cn/live/1686561299036179.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -950,6 +963,7 @@
     "nanoid": "SouHlOn23CzTQS",
     "name": "НТВ Мир",
     "iptv_urls": [
+      "https://fdvr02.vnet.am/HTB/mono.m3u8",
       "https://streaming.thestream.cyou/live/213.m3u8"
     ],
     "youtube_urls": [],
