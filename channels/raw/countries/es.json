@@ -416,7 +416,9 @@
     "iptv_urls": [
       "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/UEZ-nvN5BmU"
+    ],
     "language": "spa",
     "country": "es",
     "isGeoBlocked": false
@@ -598,17 +600,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SaW33CEbNSofdS",
-    "name": "EL PAÍS TV",
-    "iptv_urls": [
-      "https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hH4CoV8wpIpgVv",
     "name": "El Toro TV",
     "iptv_urls": [
@@ -638,6 +629,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "awUBqlQNui5V6X",
+    "name": "Estilo y Vida",
+    "iptv_urls": [
+      "https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -708,17 +710,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HwhpJMBxrNJdLl",
-    "name": "Guada TV",
-    "iptv_urls": [
-      "https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "waVMWHYlkj0xMU",
     "name": "Hamaika Telebista",
     "iptv_urls": [
@@ -766,33 +757,10 @@
     "nanoid": "254O8QVRoi3Ec6",
     "name": "La 2",
     "iptv_urls": [
-      "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8",
-      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
+      "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MtvAPbtuZZyeOW",
-    "name": "La 2 Canarias",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YDIi3VBX7D7fKC",
-    "name": "La 2 Catalunya",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1039,6 +1007,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MBXc78WctcBqtJ",
+    "name": "POP World TV",
+    "iptv_urls": [
+      "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "T3G7Gzr0nlBJuF",
     "name": "Popular TV Murcia",
     "iptv_urls": [
@@ -1105,17 +1084,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9Te0eCyfaDh09o",
-    "name": "Rakuten TV Action Movies Germany",
-    "iptv_urls": [
-      "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "C4SJBjbzRYK0Ib",
     "name": "Rakuten TV Action Movies Italy",
     "iptv_urls": [
@@ -1127,13 +1095,24 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "akUnyMZyexeI3L",
-    "name": "Rakuten TV Action Movies Spain",
+    "nanoid": "pegM9YYgQxLOsZ",
+    "name": "Rakuten TV Action Movies UK",
     "iptv_urls": [
-      "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
+      "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
+    "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SqdL0M66Q2lMl2",
+    "name": "Rakuten TV Cine Español",
+    "iptv_urls": [
+      "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1182,6 +1161,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "t7k18gf1UBscLd",
+    "name": "Rakuten TV Comedy Movies UK",
+    "iptv_urls": [
+      "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cWeIWfx3JTfA50",
     "name": "Rakuten TV Crime Series Spain",
     "iptv_urls": [
@@ -1200,17 +1190,6 @@
     ],
     "youtube_urls": [],
     "language": "fin",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EaeTZ1F3YbDKxk",
-    "name": "Rakuten TV Drama Movies Germany",
-    "iptv_urls": [
-      "https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1248,6 +1227,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hfwTzzqbXODdPh",
+    "name": "Rakuten TV Family Movies Finland",
+    "iptv_urls": [
+      "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "47gMxXtvKDDhIZ",
     "name": "Rakuten TV Family Movies Germany",
     "iptv_urls": [
@@ -1277,17 +1267,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CSJ9U3CaF9Bkyz",
-    "name": "Rakuten TV Family Movies UK",
-    "iptv_urls": [
-      "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1369,13 +1348,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dGOfxttCQdrVvT",
-    "name": "Rakuten TV Top Movies Spain",
+    "nanoid": "yUsiwm1HWdYF0z",
+    "name": "Rakuten TV Trailers Spain",
     "iptv_urls": [
-      "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+      "https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
+    "language": "",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1800,10 +1779,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IQrnnNNldjOCl4",
-    "name": "XPTV US",
+    "nanoid": "OyFemiSp7sx4JI",
+    "name": "XPTV1",
     "iptv_urls": [
-      "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8"
+      "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1811,10 +1790,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OyFemiSp7sx4JI",
-    "name": "XPTV1",
+    "nanoid": "XhN7WumhsQidL3",
+    "name": "XPTV2",
     "iptv_urls": [
-      "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8"
+      "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
