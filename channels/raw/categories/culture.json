@@ -66,6 +66,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "d4L8PBtWXj8rtD",
+    "name": "AsiriTV",
+    "iptv_urls": [
+      "https://video2.lhdserver.es/asiritv/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RVhsNQobWPGtMu",
     "name": "Athaqafia",
     "iptv_urls": [
@@ -574,28 +585,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bRsOMGDYN8BEJ2",
-    "name": "Kweli TV",
-    "iptv_urls": [
-      "https://amg00562-amg00562c1-kwelitv-worldwide-3293.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HS1ymLCkui3RQB",
-    "name": "Malchin TV",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mon",
-    "country": "mn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uhsDpCyJ34U7ue",
     "name": "MBC 3",
     "iptv_urls": [
@@ -677,17 +666,6 @@
     "name": "Nei Monggol TV 2 Mongolian Culture Channel",
     "iptv_urls": [
       "https://play1-qk.nmtv.cn/live/1686561065304370.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "G3z1qWfpSyIFVO",
-    "name": "Nei Monggol TV Agriculture & Animal Channel",
-    "iptv_urls": [
-      "https://play1-qk.nmtv.cn/live/1686561299036179.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -842,7 +820,8 @@
     "nanoid": "qWijccdHGumaJp",
     "name": "Salira TV",
     "iptv_urls": [
-      "https://live.salira.tv:3870/stream/play.m3u8"
+      "https://live.salira.tv:3870/stream/play.m3u8",
+      "https://live.salira.tv/p/3870/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -979,17 +958,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ye",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7IG6c8BLRlAZXA",
-    "name": "Беларусь 3",
-    "iptv_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
     "isGeoBlocked": false
   },
   {

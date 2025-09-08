@@ -353,17 +353,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ozrwv5yOFSMLm3",
-    "name": "QTV-2",
-    "iptv_urls": [
-      "https://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KVsjP0kIbz2vIV",
     "name": "QTV-6",
     "iptv_urls": [
@@ -389,7 +378,8 @@
     "nanoid": "qWijccdHGumaJp",
     "name": "Salira TV",
     "iptv_urls": [
-      "https://live.salira.tv:3870/stream/play.m3u8"
+      "https://live.salira.tv:3870/stream/play.m3u8",
+      "https://live.salira.tv/p/3870/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -441,6 +431,17 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "OVcMIdQh1mNNYo",
+    "name": "The Jamie Oliver Channel",
+    "iptv_urls": [
+      "https://jamieoliver-xumo.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "7Qxt6cb3OdvMTv",
     "name": "Домашний International",
     "iptv_urls": [
@@ -456,6 +457,17 @@
     "name": "Открытый мир. Здоровье",
     "iptv_urls": [
       "https://v4.proofix.ru/0mir/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kmnCkTtdi4cLR8",
+    "name": "Сити Эдем МедЗдрав",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/47519/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
