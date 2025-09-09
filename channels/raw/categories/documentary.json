@@ -81,7 +81,8 @@
     "name": "BBC Earth",
     "iptv_urls": [
       "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8"
+      "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+      "https://livetv-fa.tubi.video/bbc-earth2/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -106,6 +107,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/OlUMDZchivQ"
     ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zV7a20HW4WTHRY",
+    "name": "BritBox Mysteries",
+    "iptv_urls": [
+      "https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
@@ -170,6 +182,7 @@
     "nanoid": "jAekBDqlLERFF0",
     "name": "Dateline 24/7",
     "iptv_urls": [
+      "https://livetv-fa.tubi.video/dateline/master.m3u8",
       "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8"
     ],
     "youtube_urls": [],
@@ -189,14 +202,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J5HDeVjO016Oz1",
-    "name": "EPlanet TV",
+    "nanoid": "nFh3xqtwlLRiFW",
+    "name": "Ecovisión",
     "iptv_urls": [
-      "https://eplhls.wns.live/hls/stream.m3u8"
+      "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
     ],
     "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4wQfnJFniXWD7Z",
+    "name": "FBI Files",
+    "iptv_urls": [
+      "https://livetv-fa.tubi.video/the-fbi-files/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -312,17 +336,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z8mYDJcZ89iDxN",
-    "name": "National Geographic Wild",
-    "iptv_urls": [
-      "https://fdvr02.vnet.am/NatGeoWild/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "l7Jl9bi9Vw9aAN",
     "name": "National Geographic Wild East",
     "iptv_urls": [
@@ -337,7 +350,8 @@
     "nanoid": "gOuwLzCKrgxJvt",
     "name": "Reelz",
     "iptv_urls": [
-      "https://fl3.moveonjoy.com/REELZ/index.m3u8"
+      "https://fl3.moveonjoy.com/REELZ/index.m3u8",
+      "https://livetv-fa.tubi.video/reelz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -449,7 +463,6 @@
     "nanoid": "MqDMOFjeabxoo9",
     "name": "Наука 2.0",
     "iptv_urls": [
-      "https://fdvr02.vnet.am/Nauka/mono.m3u8",
       "https://vod.tuva.ru/nauka2/index.m3u8"
     ],
     "youtube_urls": [],
