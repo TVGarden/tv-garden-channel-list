@@ -485,9 +485,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g4VnkSt3v2F081",
+    "nanoid": "vyAlDaoF9WU1Q1",
     "name": "Euronews English",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
     ],
@@ -1371,17 +1373,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DTY2Ai8ce28nMW",
-    "name": "Rakuten TV The Guardian",
-    "iptv_urls": [
-      "https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dK7Tr0arpe0iTb",
     "name": "Rakuten TV Top Films France",
     "iptv_urls": [
@@ -1564,7 +1555,6 @@
     "nanoid": "9MNQHSCkqJkjse",
     "name": "Trace Urban (Australia)",
     "iptv_urls": [
-      "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8"
     ],
@@ -1655,17 +1645,6 @@
     "name": "Wasabi la chaîne anime",
     "iptv_urls": [
       "https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MfromPRZ284XwB",
-    "name": "Zee One",
-    "iptv_urls": [
-      "https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
