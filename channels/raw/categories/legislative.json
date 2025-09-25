@@ -44,28 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JFJOFG2QiSIpX1",
-    "name": "Apple Valley Channel 180",
-    "iptv_urls": [
-      "https://reflect-applevalley.cablecast.tv/live-3/live/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MYnHsDG9stKwV8",
-    "name": "ARTV Canal Parlamento",
-    "iptv_urls": [
-      "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1q3kaCpiJgYIgc",
     "name": "Assembleia SC: AO VIVO",
     "iptv_urls": [],
@@ -401,7 +379,8 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "iptv_urls": [
-      "https://video.oct.dc.gov/out/u/15_12.m3u8"
+      "https://video.oct.dc.gov/out/u/15_12.m3u8",
+      "https://video.oct.dc.gov/out/u/DCC.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -435,6 +414,17 @@
     "name": "DerryTV 17",
     "iptv_urls": [
       "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oleSYlNVNmvs3W",
+    "name": "District of Columbia Network (DCN)",
+    "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/DCN.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -651,17 +641,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nL6rUZQLImlMd3",
-    "name": "Leesburg Lakefront TV (Leesburg FL)",
-    "iptv_urls": [
-      "https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o3TJTeJqxvVtfC",
     "name": "Legislative Assembly of British Columbia",
     "iptv_urls": [
@@ -736,6 +715,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nM9QbGyGixB92t",
+    "name": "Long Beach Television",
+    "iptv_urls": [
+      "https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -982,17 +972,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RrsTSYgGNniraQ",
-    "name": "Országgyűlés (Plenáris)",
-    "iptv_urls": [
-      "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hun",
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iPhkcC76kYpp0C",
     "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
     "iptv_urls": [
@@ -1001,6 +980,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "iptv_urls": [
+      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -1049,17 +1039,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UIPjkMitEOuZ0j",
-    "name": "Parliament TV",
-    "iptv_urls": [
-      "https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mon",
-    "country": "mn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pGZdS7NMq1FAlR",
     "name": "Parliament TV",
     "iptv_urls": [
@@ -1104,17 +1083,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yNNp8bbIlgtQQ9",
-    "name": "Placentia TV (Placentia CA)",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Q9dCNxq4aYMzuQ",
     "name": "Pompano Beach Web Streaming (Pompano Beach FL)",
     "iptv_urls": [
@@ -1137,22 +1105,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HSwH6uFzgwd6tN",
-    "name": "Privesc.Eu TV",
-    "iptv_urls": [
-      "https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "md",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TGxMGkMiPXHlY0",
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JhvY7prafwE"
+      "https://www.youtube-nocookie.com/embed/W5nugxx6_q0"
     ],
     "language": "por",
     "country": "br",
@@ -1259,17 +1216,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4LXxz87wiJdex1",
-    "name": "Stockton GovTV (Stockton CA)",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RErWNfh4idOsdr",
     "name": "Thai Parliament TV",
     "iptv_urls": [
@@ -1329,7 +1275,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/icwo4OsH5CQ"
+      "https://www.youtube-nocookie.com/embed/SgwmNsUlUrM"
     ],
     "language": "por",
     "country": "br",
@@ -1410,6 +1356,17 @@
     "youtube_urls": [],
     "language": "srp",
     "country": "me",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "W0lA7PCxUxxbuy",
+    "name": "TVR Parlemen",
+    "iptv_urls": [
+      "https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
     "isGeoBlocked": false
   },
   {
