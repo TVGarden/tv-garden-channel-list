@@ -99,17 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rapVigofEJSHYU",
-    "name": "C-SPAN",
-    "iptv_urls": [
-      "https://fl7.moveonjoy.com/C-SPAN/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "D7ZT1sq2fuOQXq",
     "name": "Camera dei Deputati (via RR)",
     "iptv_urls": [
@@ -379,6 +368,7 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/15_12.m3u8",
       "https://video.oct.dc.gov/out/u/DCC.m3u8"
     ],
     "youtube_urls": [],
@@ -413,17 +403,6 @@
     "name": "DerryTV 17",
     "iptv_urls": [
       "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oleSYlNVNmvs3W",
-    "name": "District of Columbia Network (DCN)",
-    "iptv_urls": [
-      "https://video.oct.dc.gov/out/u/DCN.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -629,17 +608,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g3OLRIXo3TVOmX",
-    "name": "Korea TV",
-    "iptv_urls": [
-      "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o3TJTeJqxvVtfC",
     "name": "Legislative Assembly of British Columbia",
     "iptv_urls": [
@@ -673,6 +641,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "I6uCCfd71b4oev",
+    "name": "Legislative Assembly of Ontario",
+    "iptv_urls": [
+      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ggVaTzuCKy1JEd",
     "name": "Legislative Assembly TV Nunavut",
     "iptv_urls": [
@@ -699,28 +678,6 @@
     "name": "LHCAZTV",
     "iptv_urls": [
       "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J0RozSUIYYOF3l",
-    "name": "Lok Sabha TV",
-    "iptv_urls": [
-      "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nM9QbGyGixB92t",
-    "name": "Long Beach Television",
-    "iptv_urls": [
-      "https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -937,6 +894,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EU0vQUFqUH2wCU",
+    "name": "Ontario Parliamentary Network",
+    "iptv_urls": [
+      "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+      "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2igpQUbUlQ6ABJ",
     "name": "Orange County Orange TV (Orange County FL)",
     "iptv_urls": [
@@ -967,17 +936,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jtokavrUrj69rD",
-    "name": "Parlamento de Navarra",
-    "iptv_urls": [
-      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -1139,12 +1097,22 @@
     "nanoid": "BqqeaBGazomeJi",
     "name": "Sansad TV",
     "iptv_urls": [
-      "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
-      "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8"
+      "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lk5z9wCW6biNWj",
+    "name": "Santa Maria Community Television Government Channel",
+    "iptv_urls": [
+      "https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1284,7 +1252,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9aHGDwHHQgA"
+      "https://www.youtube-nocookie.com/embed/EKFFjWBmVE8"
     ],
     "language": "por",
     "country": "br",
@@ -1365,17 +1333,6 @@
     "youtube_urls": [],
     "language": "srp",
     "country": "me",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "W0lA7PCxUxxbuy",
-    "name": "TVR Parlemen",
-    "iptv_urls": [
-      "https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1511,17 +1468,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F2xwfHx05Hn1Zy",
-    "name": "Wolcott Governmental TV (Wolcott CT)",
-    "iptv_urls": [
-      "https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mAWCWxuOurkpj4",
     "name": "YouDotGov",
     "iptv_urls": [
@@ -1552,17 +1498,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jdtDDFx09GQYAn",
-    "name": "Дума ТВ",
-    "iptv_urls": [
-      "https://dumatv.iptv2022.com/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
     "isGeoBlocked": false
   }
 ]
