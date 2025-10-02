@@ -22,11 +22,33 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "H8TtlIKgrW2bwo",
+    "name": "Antena Seis TV",
+    "iptv_urls": [
+      "https://video1.azulstream.com:8081/antenaseistv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X0fe1ozGC5qVsh",
     "name": "Canal 1",
     "iptv_urls": [
       "https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8",
       "https://video20.klm99.com:3993/live/canal1crlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "o4P6nK9Xq1r6Io",
+    "name": "Canal 3 KMK TV (576i)",
+    "iptv_urls": [
+      "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -41,17 +63,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "O4M3Z3Jo7F6qrX",
-    "name": "Cartago Medios TV",
-    "iptv_urls": [
-      "https://acceso.radiosportstv.online:3368/live/cartagomediostvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "cr",
     "isGeoBlocked": false
   },
@@ -221,17 +232,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KWtXBE79zVCsGO",
-    "name": "San José TV",
-    "iptv_urls": [
-      "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RYVkiPv8DNw6UC",
     "name": "Sarapiqui TV",
     "iptv_urls": [
@@ -276,10 +276,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0dNDSI0p6Xtcvm",
-    "name": "TeleMas",
+    "nanoid": "GHvLc9YKjbjb4r",
+    "name": "Telefides",
     "iptv_urls": [
-      "https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8"
+      "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -287,10 +287,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aeI6TVNDKNvZiP",
-    "name": "TeleSUR Costa Rica",
+    "nanoid": "0dNDSI0p6Xtcvm",
+    "name": "TeleMas",
     "iptv_urls": [
-      "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
+      "https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

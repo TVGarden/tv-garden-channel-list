@@ -14,6 +14,7 @@
     "nanoid": "TFUyUrLKl7M3tP",
     "name": "24 TV",
     "iptv_urls": [
+      "https://tv.ensonhaber.com/tv24/tv24.m3u8",
       "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
     ],
     "youtube_urls": [
@@ -62,17 +63,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6-Q8v_e-M2g"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UyP5uli9gNPXtq",
-    "name": "A Spor",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/T8E3BjZ6i-0"
     ],
     "language": "tur",
     "country": "tr",
@@ -178,25 +168,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UBjqGDOceqJLt2",
-    "name": "ATV",
-    "iptv_urls": [
-      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/M-oU2PiJ7Z4"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ryl2lCtBRetuci",
     "name": "beIN SPORTS Türkiye",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ovXYPBAzo-w"
     ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NxCKTyzKVXGji0",
+    "name": "Benguturk TV",
+    "iptv_urls": [
+      "https://tv.ensonhaber.com/benguturk/benguturk.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -216,6 +204,7 @@
     "nanoid": "GQEjero7WWkJqT",
     "name": "Bloomberg HT",
     "iptv_urls": [
+      "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
       "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8"
     ],
     "youtube_urls": [],
@@ -515,6 +504,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WDQpCRq4dLb0NU",
+    "name": "Fortuna TV",
+    "iptv_urls": [
+      "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fN7GQX8c6GD2uU",
     "name": "GEM Pixel",
     "iptv_urls": [
@@ -581,9 +581,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zy1Qg9wldw4r2A",
+    "nanoid": "EGLHx6bgJtwQkq",
     "name": "Haber Global",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6BX-NUzBSp8"
     ],
@@ -607,7 +609,8 @@
     "nanoid": "sdWptNGaPnKBBW",
     "name": "Habertürk TV",
     "iptv_urls": [
-      "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8"
+      "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
+      "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1004,6 +1007,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iiGNenuQXArznR",
+    "name": "Milyon TV",
+    "iptv_urls": [
+      "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lm6hIGSOHhNu9y",
     "name": "MTürk TV",
     "iptv_urls": [
@@ -1316,6 +1330,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "InVI6XNTBkTyM8",
+    "name": "TBMM TV",
+    "iptv_urls": [
+      "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5GoagSnDbPwxmH",
     "name": "Tele 1",
     "iptv_urls": [
@@ -1333,17 +1358,6 @@
     "name": "Tempo TV",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "P0WoAW3Gb3anS0",
-    "name": "TGRT Belgesel TV",
-    "iptv_urls": [
-      "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1623,6 +1637,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OIvcwYgKcH6Zff",
+    "name": "TV4",
+    "iptv_urls": [
+      "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xeTfkERPG7gBJq",
     "name": "TV100",
     "iptv_urls": [],
@@ -1686,6 +1711,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/guiHVhRhLBQ"
     ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uapefUqX2LMbPL",
+    "name": "Vuslat TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
