@@ -25,8 +25,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BK9jwiVs1a14vu",
-    "name": "360",
+    "nanoid": "l1r7irH3I4S5Jm",
+    "name": "360 TV",
     "iptv_urls": [
       "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
     ],
@@ -182,11 +182,22 @@
     "nanoid": "UBjqGDOceqJLt2",
     "name": "ATV",
     "iptv_urls": [
-      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/M-oU2PiJ7Z4"
     ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nMakM6G0sKUXTn",
+    "name": "ATV Avrupa",
+    "iptv_urls": [
+      "https://streamer2.nexgen.bz/ATV/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -281,17 +292,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ujhH0nIPBP5W03",
-    "name": "Cartoon Network Türkiye",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CdXNwnEUaVQ"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6EhlkDLmeZJVkW",
     "name": "Cartoon Network Türkiye: Kral Şakir",
     "iptv_urls": [],
@@ -355,6 +355,17 @@
       "https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5ZXjzA9WC4UY7k",
+    "name": "Çocuklar Duymasın",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/1g6hhBNLyGU"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -670,7 +681,7 @@
     "name": "Her An Kur'an Her An Zikir",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ccUnh8u-k3I"
+      "https://www.youtube-nocookie.com/embed/j8D9l015LKM"
     ],
     "language": "tur",
     "country": "tr",
@@ -825,17 +836,6 @@
     "name": "Kanal Hayat",
     "iptv_urls": [
       "https://tbn02a.ltnschedule.com/hls/nx21i.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Nc8padNv6HdMDR",
-    "name": "Kanal Urfa",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1053,17 +1053,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lm6hIGSOHhNu9y",
-    "name": "MTürk TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WfBeWY1RnvDWYZ",
     "name": "Muhteşem Yüzyıl",
     "iptv_urls": [],
@@ -1145,17 +1134,6 @@
     "name": "Olay Türk TV Kayseri",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nM1GaRJQCBKP0P",
-    "name": "On 6",
-    "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1435,17 +1413,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IxjjPo0BdLNNBs",
-    "name": "TRT 2",
-    "iptv_urls": [
-      "https://tv-trt2.medya.trt.com.tr/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Tsl1TXkC1cdSTl",
     "name": "TRT Arabi",
     "iptv_urls": [
@@ -1479,8 +1446,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "B4p8Btbl0EvnFg",
-    "name": "TRT Cocuk",
+    "nanoid": "KUTGOu9eHmEeCI",
+    "name": "TRT Çocuk",
     "iptv_urls": [
       "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
     ],
@@ -1525,8 +1492,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SzgR90XNVNHUfm",
-    "name": "TRT Kurdi",
+    "nanoid": "DvTpyreMH9scO0",
+    "name": "TRT Kurdî",
     "iptv_urls": [
       "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8"
     ],
@@ -1536,8 +1503,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "unxk1JraxZ6i36",
-    "name": "TRT Muzik",
+    "nanoid": "bCGYFHLgk5E21x",
+    "name": "TRT Müzik",
     "iptv_urls": [
       "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
     ],
@@ -1547,8 +1514,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3plQYqBTSXG2ii",
-    "name": "TRT Turk",
+    "nanoid": "0Rg9Ao8zmETQkR",
+    "name": "TRT Türk",
     "iptv_urls": [
       "https://tv-trtturk.medya.trt.com.tr/master.m3u8"
     ],
@@ -1629,7 +1596,7 @@
     "nanoid": "W5plAUUYqWIZ2k",
     "name": "TV 100",
     "iptv_urls": [
-      "https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8"
+      "https://tv100-live.daioncdn.net/tv100/tv100.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1749,22 +1716,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uapefUqX2LMbPL",
-    "name": "Vuslat TV",
-    "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6i2Exc39Jo7dz5",
     "name": "WildBrain Çocuklar: Çilekli Kurabiye",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8DAgDfPALf4"
+      "https://www.youtube-nocookie.com/embed/XXBBejYKR0U"
     ],
     "language": "tur",
     "country": "tr",
