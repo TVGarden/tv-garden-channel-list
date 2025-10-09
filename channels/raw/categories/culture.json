@@ -200,17 +200,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vUd9BZTcBgBOm3",
-    "name": "Catamarca TV",
-    "iptv_urls": [
-      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RMJta2uB0RhiFk",
     "name": "Channel One",
     "iptv_urls": [
@@ -219,17 +208,6 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bOECFgCiEv5hef",
-    "name": "Channel Ten +",
-    "iptv_urls": [
-      "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119692/channeltenpluscband/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "tz",
     "isGeoBlocked": false
   },
   {
@@ -249,7 +227,9 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/oR4tCa5Q7yw"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -333,6 +313,17 @@
     ],
     "language": "urd",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QtZoQSlu8071bX",
+    "name": "Eawaz TV",
+    "iptv_urls": [
+      "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "urd",
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -467,6 +458,17 @@
     "youtube_urls": [],
     "language": "vie",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "duSXiulPj9T5qC",
+    "name": "Guaymate TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -691,10 +693,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5kYv876l5SB1BL",
-    "name": "Nei Monggol TV 2 Mongolian Culture Channel",
+    "nanoid": "G3z1qWfpSyIFVO",
+    "name": "Nei Monggol TV Agriculture & Animal Channel",
     "iptv_urls": [
-      "https://play1-qk.nmtv.cn/live/1686561065304370.m3u8"
+      "https://play1-qk.nmtv.cn/live/1686561299036179.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -780,17 +782,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CB542USEKKwSaw",
-    "name": "Ondambiental TV",
-    "iptv_urls": [
-      "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RiifWdXjWLsqP4",
     "name": "ORF III HD",
     "iptv_urls": [
@@ -849,7 +840,7 @@
     "nanoid": "y8ufu4YXUzuRSK",
     "name": "RTB 3",
     "iptv_urls": [
-      "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/rtb3/playlist.m3u8"
+      "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "mos",
@@ -857,13 +848,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pVZHqTGz2ASFOH",
-    "name": "RTB Zenith",
+    "nanoid": "y8ufu4YXUzuRSK",
+    "name": "RTB 3",
     "iptv_urls": [
-      "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119690/rtbzenith/playlist.m3u8"
+      "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/rtb3/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "fra",
+    "language": "mos",
     "country": "bf",
     "isGeoBlocked": false
   },
