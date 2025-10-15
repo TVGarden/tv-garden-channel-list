@@ -342,17 +342,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cUhHOnv9aj6JeQ",
-    "name": "BFM Normandie",
-    "iptv_urls": [
-      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oMWoXuzyayZcUr",
     "name": "BFM Tech & Co",
     "iptv_urls": [
@@ -474,9 +463,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g4VnkSt3v2F081",
+    "nanoid": "vyAlDaoF9WU1Q1",
     "name": "Euronews English",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
     ],
@@ -1283,6 +1274,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9PtGiKgkdbGXR3",
+    "name": "Rakuten TV Films Action",
+    "iptv_urls": [
+      "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3UupDDnNXaxwcR",
     "name": "Rakuten TV Films Comédie",
     "iptv_urls": [
@@ -1298,6 +1300,17 @@
     "name": "Rakuten TV Films Drames",
     "iptv_urls": [
       "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4ukW3AXj5x20Zs",
+    "name": "Rakuten TV Films Famille",
+    "iptv_urls": [
+      "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1524,6 +1537,17 @@
     "name": "TV3V",
     "iptv_urls": [
       "https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1knGFXXt1Z1tXg",
+    "name": "TV7 Colmar",
+    "iptv_urls": [
+      "https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

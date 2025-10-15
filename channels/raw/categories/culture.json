@@ -99,17 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sxyxVLiw42nzZS",
-    "name": "Ayeneh TV",
-    "iptv_urls": [
-      "https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bYTvtLA2rlhnbu",
     "name": "Bonaire.tv",
     "iptv_urls": [
@@ -176,17 +165,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3qrZodX27EMHq4",
-    "name": "Canal Diplomático",
-    "iptv_urls": [
-      "https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WsnjAbyAewcp2y",
     "name": "Canal Sur Andalucia",
     "iptv_urls": [
@@ -208,17 +186,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RMJta2uB0RhiFk",
-    "name": "Channel One",
-    "iptv_urls": [
-      "https://livestream.5centscdn.com/ch1app/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -281,13 +248,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZtL7zxGFBmbkdi",
+    "nanoid": "3RFBxxtq5PlDQ7",
     "name": "DD Kashir",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://cdn-6.pishow.tv/live/16/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/v8ek4kVfr5Y"
     ],
-    "language": "ksm",
+    "language": "hin",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -346,6 +315,18 @@
     "youtube_urls": [],
     "language": "tam",
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h9xUZ9qtOT3ejC",
+    "name": "El 33 Originals",
+    "iptv_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -447,6 +428,17 @@
     "youtube_urls": [],
     "language": "vie",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8BTaahrpIJaruI",
+    "name": "GipsyTv Wien",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/E5mmedrMOCk"
+    ],
+    "language": "rom",
+    "country": "at",
     "isGeoBlocked": false
   },
   {
@@ -674,8 +666,7 @@
     "nanoid": "bt1m1v4h1CmExI",
     "name": "NHK World-Japan",
     "iptv_urls": [
-      "https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8",
-      "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
+      "https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8"
     ],
     "youtube_urls": [],
     "language": "jpn",
@@ -815,17 +806,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y8ufu4YXUzuRSK",
-    "name": "RTB 3",
-    "iptv_urls": [
-      "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mos",
-    "country": "bf",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qWijccdHGumaJp",
     "name": "Salira TV",
     "iptv_urls": [
@@ -959,6 +939,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7UeLUueVRqvHR1",
+    "name": "UNISUL TV",
+    "iptv_urls": [
+      "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oNFu9DPCaWFslY",
     "name": "Yemen Shabab Channel",
     "iptv_urls": [
@@ -967,17 +958,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ye",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7IG6c8BLRlAZXA",
-    "name": "Беларусь 3",
-    "iptv_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
     "isGeoBlocked": false
   },
   {
