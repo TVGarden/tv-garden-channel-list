@@ -154,17 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j1Mx0NYk5KtzPX",
-    "name": "Canal 4 San Juan",
-    "iptv_urls": [
-      "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bP0degf1e4sc5i",
     "name": "Canal 5 Del Pueblo",
     "iptv_urls": [
@@ -264,6 +253,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vZ56OvN6qo2jGQ",
+    "name": "Canal 10 Cordoba",
+    "iptv_urls": [
+      "https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pGg9E7GpQgpIle",
     "name": "Canal 11 de la Costa",
     "iptv_urls": [
@@ -308,9 +308,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EBJnvOws8NXMUv",
+    "nanoid": "IKwTslDp6GIv1l",
     "name": "Canal 26",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/jwEtUHVxbjU"
     ],
@@ -409,6 +412,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tZLaG8MHkNY9P0",
+    "name": "Canal Santa María",
+    "iptv_urls": [
+      "https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vUd9BZTcBgBOm3",
     "name": "Catamarca TV",
     "iptv_urls": [
@@ -420,32 +434,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TyUx4dR3i3hPtN",
-    "name": "Celta TV",
-    "iptv_urls": [
-      "https://vivo.solumedia.com:19360/celta/celta.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YK4jerPW8Ia03w",
     "name": "Chaco TV",
     "iptv_urls": [
       "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "njewIOEi3Bzjbb",
-    "name": "Chilecito TV",
-    "iptv_urls": [
-      "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -508,6 +500,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uvdbgKYfuDPGUL",
+    "name": "El Observador 107.9",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/b4KkQoKmTlg"
+    ],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GdDjRTp2cOF0FH",
     "name": "El Ocho",
     "iptv_urls": [],
@@ -558,6 +561,17 @@
       "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rvSLmYJvnwZ691",
+    "name": "El Tres TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/IRA3v9w9ISA"
+    ],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -718,6 +732,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rTESua6N7jfUdx",
+    "name": "Quantica TV",
+    "iptv_urls": [
+      "https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YhjhdGNmg0598B",
     "name": "Quiero Música TV",
     "iptv_urls": [],
@@ -854,7 +879,7 @@
     "name": "Telediario Digital",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qFqM2mki2JE"
+      "https://www.youtube-nocookie.com/embed/imcq2EB-qCU"
     ],
     "language": "spa",
     "country": "ar",
@@ -876,7 +901,7 @@
     "name": "Telefe Rosario",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hFQQ5dQ6KKA"
+      "https://www.youtube-nocookie.com/embed/lEMO-EA4KB8"
     ],
     "language": "spa",
     "country": "ar",
@@ -889,6 +914,17 @@
       "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C4INN3f93tsfyG",
+    "name": "Televisión Pública",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/b79Si_aYInM"
+    ],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -967,17 +1003,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/IE9oIavXXVg"
     ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zo8XR2eU3AtpaE",
-    "name": "VerTV (VTV)",
-    "iptv_urls": [
-      "https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
