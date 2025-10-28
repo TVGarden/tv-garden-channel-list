@@ -58,7 +58,8 @@
     "nanoid": "3IPx7Vn2DfdZ1y",
     "name": "Asharq News",
     "iptv_urls": [
-      "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8"
+      "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8",
+      "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/f6VpkfV7m4Y"
@@ -72,6 +73,17 @@
     "name": "Asharq News Portrait",
     "iptv_urls": [
       "https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Tl12ojqlqKkMqp",
+    "name": "Asharq Radio",
+    "iptv_urls": [
+      "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -189,6 +201,17 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G00HUpBKHxckzh",
+    "name": "CNBC Asia",
+    "iptv_urls": [
+      "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "sg",
     "isGeoBlocked": false
   },
   {
@@ -391,7 +414,7 @@
     "name": "토마토증권통",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/K46qEgEGzlw"
+      "https://www.youtube-nocookie.com/embed/Xjnqp8TiaeI"
     ],
     "language": "kor",
     "country": "kr",
