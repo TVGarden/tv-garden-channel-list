@@ -25,7 +25,6 @@
     "nanoid": "VW5KCkVwmL5Q1A",
     "name": "A1 TV",
     "iptv_urls": [
-      "https://stream.a1mediagroep.nl/hls/a1tv.m3u8",
       "https://www.a1mediagroep.nl/hls/a1tv.m3u8"
     ],
     "youtube_urls": [],
@@ -312,6 +311,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YgwesPOmCiZn25",
+    "name": "LOE TV",
+    "iptv_urls": [
+      "https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "nld",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qUy0NOK2hQdQ38",
     "name": "LON TV",
     "iptv_urls": [
@@ -338,17 +348,6 @@
     "name": "Magic PowerRadio",
     "iptv_urls": [
       "https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FP3acnOjLcACEs",
-    "name": "Meer TV",
-    "iptv_urls": [
-      "https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "nld",
@@ -588,8 +587,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lVckuJkdAyoSxp",
-    "name": "Qmusic (Netherlands)",
+    "nanoid": "aXKbWdoNA0k5zr",
+    "name": "Qmusic",
     "iptv_urls": [
       "https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8"
     ],
