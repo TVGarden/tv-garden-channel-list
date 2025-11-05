@@ -99,17 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D7ZT1sq2fuOQXq",
-    "name": "Camera dei Deputati (via RR)",
-    "iptv_urls": [
-      "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nvi12xPQhPg1F5",
     "name": "Canal Gov",
     "iptv_urls": [
@@ -357,6 +346,7 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/15_12.m3u8",
       "https://video.oct.dc.gov/out/u/DCC.m3u8"
     ],
     "youtube_urls": [],
@@ -391,17 +381,6 @@
     "name": "DerryTV 17",
     "iptv_urls": [
       "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oleSYlNVNmvs3W",
-    "name": "District of Columbia Network (DCN)",
-    "iptv_urls": [
-      "https://video.oct.dc.gov/out/u/DCN.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -684,6 +663,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nM9QbGyGixB92t",
+    "name": "Long Beach Television",
+    "iptv_urls": [
+      "https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1YbhdzonsHfQ5t",
     "name": "Martin County MCTV (Martin County FL)",
     "iptv_urls": [
@@ -905,17 +895,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2igpQUbUlQ6ABJ",
-    "name": "Orange County Orange TV (Orange County FL)",
-    "iptv_urls": [
-      "https://otv3.ocfl.net/OrangeTV/smil:OrangeTV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pCRvE4DABiQZWc",
     "name": "Orange Government Access TV (Orange CT)",
     "iptv_urls": [
@@ -1071,11 +1050,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wLGEtXn6Wy8mhK",
+    "name": "Public Senat 24/24",
+    "iptv_urls": [
+      "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TGxMGkMiPXHlY0",
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JUJG5Ym-thI"
+      "https://www.youtube-nocookie.com/embed/z4nn3OCVWQE"
     ],
     "language": "por",
     "country": "br",
@@ -1241,7 +1231,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hr1kwvvYFfc"
+      "https://www.youtube-nocookie.com/embed/uziYIibPHjs"
     ],
     "language": "por",
     "country": "br",
@@ -1322,6 +1312,17 @@
     "youtube_urls": [],
     "language": "srp",
     "country": "me",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "W0lA7PCxUxxbuy",
+    "name": "TVR Parlemen",
+    "iptv_urls": [
+      "https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
     "isGeoBlocked": false
   },
   {
