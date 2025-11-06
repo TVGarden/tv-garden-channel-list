@@ -179,19 +179,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UBjqGDOceqJLt2",
-    "name": "ATV",
-    "iptv_urls": [
-      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/M-oU2PiJ7Z4"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nMakM6G0sKUXTn",
     "name": "ATV Avrupa",
     "iptv_urls": [
@@ -251,17 +238,6 @@
     "name": "BRTV",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CEq81a8k48ENyx",
-    "name": "Bursa AS TV",
-    "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -340,7 +316,9 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/IdUWsa7hCxo"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -939,17 +917,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sIsIH2RBxpGiQq",
-    "name": "Life TV",
-    "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1XTuK8yl6RBDGO",
     "name": "Line TV",
     "iptv_urls": [
@@ -1034,6 +1001,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GIntzeUgHcQOIa",
+    "name": "Number 1 Ask",
+    "iptv_urls": [
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -1304,6 +1282,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "P0WoAW3Gb3anS0",
+    "name": "TGRT Belgesel TV",
+    "iptv_urls": [
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "brUJhCIZbgC3FC",
     "name": "TGRT Haber",
     "iptv_urls": [
@@ -1407,17 +1396,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KUTGOu9eHmEeCI",
-    "name": "TRT Çocuk",
-    "iptv_urls": [
-      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "A3RiBctXfom21P",
     "name": "TRT Diyanet Çocuk",
     "iptv_urls": [
@@ -1425,17 +1403,6 @@
     ],
     "youtube_urls": [],
     "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Nd6Jk2mSM7BspG",
-    "name": "TRT EBA Ortaokul",
-    "iptv_urls": [
-      "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -1453,10 +1420,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DvTpyreMH9scO0",
+    "name": "TRT Kurdî",
+    "iptv_urls": [
+      "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bCGYFHLgk5E21x",
     "name": "TRT Müzik",
     "iptv_urls": [
       "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0Rg9Ao8zmETQkR",
+    "name": "TRT Türk",
+    "iptv_urls": [
+      "https://tv-trtturk.medya.trt.com.tr/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",

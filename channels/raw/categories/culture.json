@@ -77,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "d4L8PBtWXj8rtD",
+    "name": "AsiriTV",
+    "iptv_urls": [
+      "https://video2.lhdserver.es/asiritv/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qVg6FeIeH4mzo2",
     "name": "Aurora Arte",
     "iptv_urls": [
@@ -143,17 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tANS8F526JB5KR",
-    "name": "Canal Catorce",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WsnjAbyAewcp2y",
     "name": "Canal Sur Andalucia",
     "iptv_urls": [
@@ -195,7 +195,9 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/IdUWsa7hCxo"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -266,7 +268,7 @@
       "https://cdn-4.pishow.tv/live/8/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/d_SXrsOYfPE"
+      "https://www.youtube-nocookie.com/embed/0JLNjBP6BZI"
     ],
     "language": "urd",
     "country": "in",
@@ -393,17 +395,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y9tmDdGOMUn9pB",
-    "name": "Garshom TV",
-    "iptv_urls": [
-      "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mal",
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -728,17 +719,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RiifWdXjWLsqP4",
-    "name": "ORF III HD",
-    "iptv_urls": [
-      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "T0s7Y4K2sYggX7",
     "name": "Orler TV",
     "iptv_urls": [
@@ -828,17 +808,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QP7DyV43LNSLl9",
-    "name": "StoryChannel TV",
-    "iptv_urls": [
-      "https://136044159.r.cdnsun.net/storychannel.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ma",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Am4Jb6RFmtHHBI",
     "name": "Superscreen TV",
     "iptv_urls": [
@@ -858,6 +827,17 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pPBCS2MvphaQfx",
+    "name": "Tra Vinh TV",
+    "iptv_urls": [
+      "https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
     "isGeoBlocked": false
   },
   {
@@ -942,7 +922,6 @@
     "name": "Культура",
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/9.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
     ],
     "youtube_urls": [],
