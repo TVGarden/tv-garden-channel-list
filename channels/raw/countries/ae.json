@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "o7f2wdALXEzHZs",
-    "name": "Ajman TV",
-    "iptv_urls": [
-      "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kkVzrzXzjFuUCN",
     "name": "Al Arabiya",
     "iptv_urls": [
@@ -39,6 +28,17 @@
     "name": "Al Arabiya Programs",
     "iptv_urls": [
       "https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nm9j1gcFiJ0xm0",
+    "name": "Al Dafrah TV",
+    "iptv_urls": [
+      "https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -129,6 +129,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/wK1e4ZXne8s",
       "https://www.youtube-nocookie.com/embed/k4VEBavsQ6g"
+    ],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rVlkWuhkPTSNkw",
+    "name": "Cartoonito MENA",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Koe1Dmep7fI"
     ],
     "language": "ara",
     "country": "ae",
@@ -408,10 +419,21 @@
       "https://stream.skynewsarabia.com/ott/ott.m3u8",
       "https://stream.skynewsarabia.com/hls/sna.m3u8"
     ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lHA8lYSDtLC5LR",
+    "name": "Sky News Arabia",
+    "iptv_urls": [
+      "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/U--OjmpjF5o"
     ],
-    "language": "ara",
+    "language": "",
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -423,6 +445,17 @@
     ],
     "youtube_urls": [],
     "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "za3qiXgehwFjJ6",
+    "name": "Sky News Arabia Vertical",
+    "iptv_urls": [
+      "https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "ae",
     "isGeoBlocked": false
   },
