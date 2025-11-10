@@ -563,17 +563,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WjzlJmHsxUPxpZ",
-    "name": "MNB Sport",
-    "iptv_urls": [
-      "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mon",
-    "country": "mn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VV5nh58QSIjuA6",
     "name": "More Than Sports TV",
     "iptv_urls": [
@@ -629,10 +618,43 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2I0E34LAB9aatW",
-    "name": "NFL Sunday Ticket 1",
+    "nanoid": "rUv4QWUWz6Tkw6",
+    "name": "NFL Sunday Ticket 2",
     "iptv_urls": [
-      "https://fl2.moveonjoy.com/NFL_1/index.m3u8"
+      "https://fl2.moveonjoy.com/NFL_2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xj9g7fFU3oevNu",
+    "name": "NFL Sunday Ticket 6",
+    "iptv_urls": [
+      "https://fl2.moveonjoy.com/NFL_6/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HHaXbd6R3fZnuR",
+    "name": "NFL Sunday Ticket 7",
+    "iptv_urls": [
+      "https://fl2.moveonjoy.com/NFL_7/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DzsOUyW4bItO8C",
+    "name": "NFL Sunday Ticket 10",
+    "iptv_urls": [
+      "https://fl2.moveonjoy.com/NFL_10/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -700,7 +722,8 @@
     "name": "Pac 12 Insider",
     "iptv_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
-      "https://pac12-samsungus.amagi.tv/playlist.m3u8"
+      "https://pac12-samsungus.amagi.tv/playlist.m3u8",
+      "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1306,10 +1329,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yxXfCHd5uHQMJD",
+    "name": "Беларусь 5",
+    "iptv_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "by",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hksyXK9W8Dv3Pj",
     "name": "Беларусь 5 Интернет",
     "iptv_urls": [
-      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
+      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
