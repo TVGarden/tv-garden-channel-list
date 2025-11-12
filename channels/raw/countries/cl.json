@@ -88,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JmmUfpMTKm3wFZ",
-    "name": "Atacama TV (Copiapó)",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/atacamatv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9jkb1tHOSl1q2X",
     "name": "Aysen TV",
     "iptv_urls": [
@@ -160,6 +149,17 @@
       "https://v2.tustreaming.cl/chilechannel/index.m3u8"
     ],
     "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fJikHBvZcviret",
+    "name": "Chilevisión",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/vQHBdS2Aj08"
+    ],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -264,6 +264,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "k8mitUmGi9GKFi",
+    "name": "Hiperconectados TV",
+    "iptv_urls": [
+      "https://cdn-edge1.cef-technology.com/chf-cdn/hiper_tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nG7lFRDfSfbs7Z",
     "name": "Holvoet TV (Copiapó)",
     "iptv_urls": [
@@ -312,19 +323,8 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ILCOUslNWOY"
+      "https://www.youtube-nocookie.com/embed/e76wtFeo-Ns"
     ],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rFCQYWbNPQlvWE",
-    "name": "MTNA TV",
-    "iptv_urls": [
-      "https://live.mtna.tv/hls/mtna/mtna.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -366,7 +366,8 @@
     "nanoid": "3FPl5RIfISFiTh",
     "name": "PRIDEtv LATAM",
     "iptv_urls": [
-      "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
+      "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
+      "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -588,17 +589,6 @@
     "name": "TVU Concepción",
     "iptv_urls": [
       "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uiKxEXDS2qwujf",
-    "name": "U Los Lagos TV",
-    "iptv_urls": [
-      "https://tv.ulagos.cl/web/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
