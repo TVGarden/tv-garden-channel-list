@@ -452,9 +452,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g4VnkSt3v2F081",
+    "nanoid": "vyAlDaoF9WU1Q1",
     "name": "Euronews English",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
     ],
@@ -536,17 +538,6 @@
       "https://www.youtube-nocookie.com/embed/gN8y1F19is8"
     ],
     "language": "ron",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WamXTdGUCHSO8d",
-    "name": "Euronews Spanish",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -949,6 +940,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aRYM4hJmBP444c",
+    "name": "My Gospel TV",
+    "iptv_urls": [
+      "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
