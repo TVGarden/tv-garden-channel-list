@@ -25,6 +25,7 @@
     "nanoid": "v9zxgiBZu0T9zY",
     "name": "ACCDN",
     "iptv_urls": [
+      "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
       "https://livetv-fa.tubi.video/accdn2/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -121,28 +122,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YFqOd9RFAP2HGq",
-    "name": "Bahrain Sports 1",
-    "iptv_urls": [
-      "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "bh",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SBDiIYv6gMiZbW",
-    "name": "Bahrain Sports 2",
-    "iptv_urls": [
-      "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "bh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ryl2lCtBRetuci",
     "name": "beIN SPORTS Türkiye",
     "iptv_urls": [],
@@ -151,17 +130,6 @@
     ],
     "language": "tur",
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "38wfpfuPiROwg3",
-    "name": "BEK TV Sports West",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -195,6 +163,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cRWaAoFcT7OCt9",
+    "name": "DD Sports",
+    "iptv_urls": [
+      "https://cdn-6.pishow.tv/live/13/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -442,6 +421,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rttScvWUnetgoy",
+    "name": "HTV Sports",
+    "iptv_urls": [
+      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8tdnSXtJAn0eyk",
     "name": "Insight TV",
     "iptv_urls": [
@@ -450,6 +440,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vZumsCOw37zvtm",
+    "name": "IRIB3",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -527,17 +528,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "H7YKUTmTDg1xzR",
-    "name": "M-Net Sport",
-    "iptv_urls": [
-      "https://live.mnet.mk/hls/mnet-sport.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mkd",
-    "country": "mk",
     "isGeoBlocked": false
   },
   {
@@ -633,7 +623,7 @@
     "name": "NHL",
     "iptv_urls": [
       "https://livetv-fa.tubi.video/nhl/playlist.m3u8",
-      "https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8"
+      "https://nhl-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -754,17 +744,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RlDh4IHVR4WpZw",
-    "name": "QazSport",
-    "iptv_urls": [
-      "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kaz",
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7TX9VjMY1i891b",
     "name": "QSVS: Top Calcio 24",
     "iptv_urls": [],
@@ -855,17 +834,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PQO3nTobe9PoFo",
-    "name": "SOS Kanal Plus",
-    "iptv_urls": [
-      "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "srp",
-    "country": "rs",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SIki0bxRn3r6qL",
     "name": "Sport Italia",
     "iptv_urls": [
@@ -904,7 +872,8 @@
     "name": "SportsGrid",
     "iptv_urls": [
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
+      "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -947,17 +916,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "33I8L4BMFDa1WF",
-    "name": "TDM Sports Ch. 93",
-    "iptv_urls": [
-      "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "mo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RYfMxL6JZWi97a",
     "name": "Teledeporte",
     "iptv_urls": [
@@ -977,17 +935,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AI7pySQwlpxCK9",
-    "name": "Tigo Sports",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -1155,6 +1102,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ds5kjE7mChd5a5",
+    "name": "Varzesh TV",
+    "iptv_urls": [
+      "https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "ir",
     "isGeoBlocked": false
   },
   {
