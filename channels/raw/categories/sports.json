@@ -25,7 +25,6 @@
     "nanoid": "v9zxgiBZu0T9zY",
     "name": "ACCDN",
     "iptv_urls": [
-      "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
       "https://livetv-fa.tubi.video/accdn2/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -188,6 +187,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E79H6dHPexVrsV",
+    "name": "Champion TV",
+    "iptv_urls": [
+      "https://canal.mediaserver.com.co/live/ChampionTv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cEtgYgEtHzj5Ic",
     "name": "ColimdoT TV",
     "iptv_urls": [
@@ -196,17 +206,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cRWaAoFcT7OCt9",
-    "name": "DD Sports",
-    "iptv_urls": [
-      "https://cdn-6.pishow.tv/live/13/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -387,17 +386,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "440EBhNILeBYuU",
-    "name": "Futbol",
-    "iptv_urls": [
-      "https://live.teleradiocom.tj/8/3m.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tgk",
-    "country": "tj",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vZC7fz6ceaEaJ9",
     "name": "FUTV",
     "iptv_urls": [
@@ -495,6 +483,17 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RFeb11iCYGMUEw",
+    "name": "ItalianFishingTV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/qPN0ALefX78"
+    ],
+    "language": "ita",
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -686,6 +685,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gzewl5elIFF8PU",
+    "name": "NHL Centre Ice 2",
+    "iptv_urls": [
+      "https://fl1.moveonjoy.com/NHL_2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WKzSSAJN410ffZ",
     "name": "NHL Centre Ice 5",
     "iptv_urls": [
@@ -799,6 +809,7 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
+      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
       "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
@@ -861,17 +872,6 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "my",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eEl9GNsGZ69KhR",
-    "name": "PTV Sports",
-    "iptv_urls": [
-      "https://tvsen5.aynaott.com/Ptvsports/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "urd",
-    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -1387,18 +1387,6 @@
     "name": "Беларусь 5",
     "iptv_urls": [
       "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hksyXK9W8Dv3Pj",
-    "name": "Беларусь 5 Интернет",
-    "iptv_urls": [
-      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
