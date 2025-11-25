@@ -132,17 +132,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QtyIEE9DZnKUAu",
-    "name": "Canal 17 RTVD",
-    "iptv_urls": [
-      "https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tANS8F526JB5KR",
     "name": "Canal Catorce",
     "iptv_urls": [
@@ -168,17 +157,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vUd9BZTcBgBOm3",
-    "name": "Catamarca TV",
-    "iptv_urls": [
-      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eDESw3Ox4wXwbn",
     "name": "Chiloe Red 25",
     "iptv_urls": [
@@ -195,7 +173,9 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/O4HTzS3jGSk"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -223,9 +203,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFNCaAwRc0UY6z",
+    "nanoid": "glCzEHKt380JpA",
     "name": "DD Bharati",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://cdn-1.pishow.tv/live/10/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ogWPCjOXtXo"
     ],
@@ -234,15 +216,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3RFBxxtq5PlDQ7",
+    "nanoid": "ZtL7zxGFBmbkdi",
     "name": "DD Kashir",
-    "iptv_urls": [
-      "https://cdn-6.pishow.tv/live/16/master.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/v8ek4kVfr5Y"
     ],
-    "language": "hin",
+    "language": "ksm",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -254,19 +234,6 @@
     ],
     "youtube_urls": [],
     "language": "pan",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FCckxA9xKjRmBd",
-    "name": "DD Urdu",
-    "iptv_urls": [
-      "https://cdn-4.pishow.tv/live/8/master.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/US4wXyDjqeU"
-    ],
-    "language": "urd",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -324,17 +291,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jVp1vLlNX4ZofN",
-    "name": "ETB Basque",
-    "iptv_urls": [
-      "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -413,17 +369,6 @@
     "youtube_urls": [],
     "language": "vie",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8BTaahrpIJaruI",
-    "name": "GipsyTv Wien",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QpZgpq5-_ZU"
-    ],
-    "language": "rom",
-    "country": "at",
     "isGeoBlocked": false
   },
   {
@@ -803,6 +748,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xO850u0sWlzEEk",
+    "name": "Salzburg AG",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/9__x7WrRnvM"
+    ],
+    "language": "deu",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "s3huqQ6oei8dK4",
     "name": "Sanskar TV",
     "iptv_urls": [
@@ -929,6 +885,17 @@
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SouHlOn23CzTQS",
+    "name": "НТВ Мир",
+    "iptv_urls": [
+      "https://streaming.thestream.cyou/live/213.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
