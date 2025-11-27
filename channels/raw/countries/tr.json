@@ -11,12 +11,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TFUyUrLKl7M3tP",
+    "nanoid": "Nzy4m1q0wX8iIb",
     "name": "24 TV",
-    "iptv_urls": [
-      "https://tv.ensonhaber.com/tv24/tv24.m3u8",
-      "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/qFKEi2BqHYc"
     ],
@@ -69,12 +66,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UyP5uli9gNPXtq",
+    "nanoid": "ZSJcujZT32sD1B",
     "name": "A Spor",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ysh-bPiD3Oo"
     ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "17xup80JtnKevx",
+    "name": "A2TV",
+    "iptv_urls": [
+      "https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -179,6 +189,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UBjqGDOceqJLt2",
+    "name": "ATV",
+    "iptv_urls": [
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/M-oU2PiJ7Z4"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nMakM6G0sKUXTn",
     "name": "ATV Avrupa",
     "iptv_urls": [
@@ -223,32 +246,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GQEjero7WWkJqT",
-    "name": "Bloomberg HT",
-    "iptv_urls": [
-      "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WjndAfYgzOKuol",
     "name": "BRTV",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CEq81a8k48ENyx",
-    "name": "Bursa AS TV",
-    "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -338,7 +339,9 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/G3vW1UZNKn4"
+    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -636,17 +639,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sdWptNGaPnKBBW",
-    "name": "Habertürk TV",
-    "iptv_urls": [
-      "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1kN0lIgg90V9Ot",
     "name": "Halk TV",
     "iptv_urls": [
@@ -926,17 +918,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QQopjrBuObsS3K",
-    "name": "Lalegul TV",
-    "iptv_urls": [
-      "https://lbl.netmedya.net/hls/lalegultv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oYLz4JWGWtAe6e",
     "name": "Lider Haber",
     "iptv_urls": [],
@@ -1003,10 +984,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oLXvhYRIcgw3Zr",
-    "name": "Mercan TV",
+    "nanoid": "UuFMTGs8Wi2JhV",
+    "name": "Minika Cocuk",
     "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8"
+      "https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2bms8LIelvHhKd",
+    "name": "Minika Go",
+    "iptv_urls": [
+      "https://trkvz-live.daioncdn.net/minikago/minikago.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1117,17 +1109,6 @@
     "name": "On4 TV",
     "iptv_urls": [
       "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vlixqABLRnnfK4",
-    "name": "Öncü TV",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1438,6 +1419,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KUTGOu9eHmEeCI",
+    "name": "TRT Çocuk",
+    "iptv_urls": [
+      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "A3RiBctXfom21P",
     "name": "TRT Diyanet Çocuk",
     "iptv_urls": [
@@ -1512,7 +1504,7 @@
       "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nuunj2Gpcrg"
+      "https://www.youtube-nocookie.com/embed/by1sxGgo3TU"
     ],
     "language": "eng",
     "country": "tr",
@@ -1556,17 +1548,6 @@
     "name": "TV 41",
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bgn8mfchHatjpX",
-    "name": "TV 52",
-    "iptv_urls": [
-      "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",
@@ -1680,6 +1661,17 @@
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/guiHVhRhLBQ"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6i2Exc39Jo7dz5",
+    "name": "WildBrain Çocuklar: Çilekli Kurabiye",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/wc3ZcppU5fM"
     ],
     "language": "tur",
     "country": "tr",
