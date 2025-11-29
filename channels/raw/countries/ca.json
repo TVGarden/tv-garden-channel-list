@@ -58,6 +58,7 @@
     "nanoid": "qza0cF55H7P2sc",
     "name": "Az Star TV",
     "iptv_urls": [
+      "https://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
       "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -73,17 +74,6 @@
       "https://www.youtube-nocookie.com/embed/eVq3hqBRluA"
     ],
     "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vLJxCfSjAO72Wd",
-    "name": "Belmedia TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/a9vUZJYJgIg"
-    ],
-    "language": "fra",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -183,17 +173,6 @@
     "name": "CityNews Vancouver",
     "iptv_urls": [
       "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "R5blHzm5rfXnOa",
-    "name": "CPAC",
-    "iptv_urls": [
-      "https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1283,6 +1262,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/AHa_Uz50sJk"
     ],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wQ9GTRyYVowsvi",
+    "name": "WCGtv Public",
+    "iptv_urls": [
+      "https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
