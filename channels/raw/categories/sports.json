@@ -607,6 +607,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Da460ZcoL5SJKT",
+    "name": "Multivisión Sports",
+    "iptv_urls": [
+      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RcmUVMpfqvK186",
     "name": "NBA TV",
     "iptv_urls": [
@@ -721,7 +732,6 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
-      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
       "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
@@ -914,6 +924,7 @@
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
+      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
       "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
@@ -1149,17 +1160,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ds5kjE7mChd5a5",
-    "name": "Varzesh TV",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qoUkakDtbgDtaT",
     "name": "VITAL Drive",
     "iptv_urls": [
@@ -1169,17 +1169,6 @@
     "youtube_urls": [],
     "language": "rus",
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jZEkpGlt5AGs91",
-    "name": "WCW",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VMjEwMCUD_M"
-    ],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1251,10 +1240,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yxXfCHd5uHQMJD",
+    "name": "Беларусь 5",
+    "iptv_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "by",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hksyXK9W8Dv3Pj",
     "name": "Беларусь 5 Интернет",
     "iptv_urls": [
-      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
+      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
