@@ -258,11 +258,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "glCzEHKt380JpA",
+    "nanoid": "vFNCaAwRc0UY6z",
     "name": "DD Bharati",
-    "iptv_urls": [
-      "https://cdn-1.pishow.tv/live/10/master.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ogWPCjOXtXo"
     ],
@@ -271,13 +269,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZtL7zxGFBmbkdi",
+    "nanoid": "3RFBxxtq5PlDQ7",
     "name": "DD Kashir",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://cdn-6.pishow.tv/live/16/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/v8ek4kVfr5Y"
     ],
-    "language": "ksm",
+    "language": "hin",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -293,13 +293,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FCckxA9xKjRmBd",
+    "nanoid": "5VAqVtAJLz9Qp2",
     "name": "DD Urdu",
-    "iptv_urls": [
-      "https://cdn-4.pishow.tv/live/8/master.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/m65xnkovJs8"
+      "https://www.youtube-nocookie.com/embed/FaYJVVY404Y"
     ],
     "language": "urd",
     "country": "in",
@@ -348,17 +346,6 @@
     "youtube_urls": [],
     "language": "cat",
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vEu4AbFWQq3rTn",
-    "name": "El Sonorense",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -462,17 +449,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "duSXiulPj9T5qC",
-    "name": "Guaymate TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "waVMWHYlkj0xMU",
     "name": "Hamaika Telebista",
     "iptv_urls": [
@@ -514,17 +490,6 @@
     "youtube_urls": [],
     "language": "hin",
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DTB26EOMXy8ybv",
-    "name": "IRIB4",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -661,17 +626,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "G3z1qWfpSyIFVO",
-    "name": "Nei Monggol TV Agriculture & Animal Channel",
-    "iptv_urls": [
-      "https://play1-qk.nmtv.cn/live/1686561299036179.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bt1m1v4h1CmExI",
     "name": "NHK World-Japan",
     "iptv_urls": [
@@ -716,17 +670,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J5GYuBAaffsbX6",
-    "name": "Ofogh",
-    "iptv_urls": [
-      "https://lenz.splus.ir/PLTV/88888888/224/3221226143/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WlUf5uIhWJFf6Y",
     "name": "Olelo Community Media Channel 53",
     "iptv_urls": [
@@ -757,17 +700,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RiifWdXjWLsqP4",
-    "name": "ORF III HD",
-    "iptv_urls": [
-      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
     "isGeoBlocked": false
   },
   {
@@ -970,11 +902,33 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7IG6c8BLRlAZXA",
+    "name": "Беларусь 3",
+    "iptv_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "by",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KBcCoX6T4T4OZ7",
     "name": "Культура",
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SouHlOn23CzTQS",
+    "name": "НТВ Мир",
+    "iptv_urls": [
+      "https://streaming.thestream.cyou/live/213.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
