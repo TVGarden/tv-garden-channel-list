@@ -357,6 +357,7 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/15_12.m3u8",
       "https://video.oct.dc.gov/out/u/DCC.m3u8"
     ],
     "youtube_urls": [],
@@ -413,6 +414,17 @@
     "name": "Escambia County TV ECTV (Escambia County FL)",
     "iptv_urls": [
       "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h1EMXTjJFPCBVy",
+    "name": "Fernandina Beach City Meeting (Fernandina Beach FL)",
+    "iptv_urls": [
+      "https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -927,6 +939,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RrsTSYgGNniraQ",
+    "name": "Országgyűlés (Plenáris)",
+    "iptv_urls": [
+      "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hun",
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iPhkcC76kYpp0C",
+    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
+    "iptv_urls": [
+      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
@@ -1009,17 +1043,6 @@
     "name": "Pinole Community Television (PCTV) Channel 26 (Pinole CA)",
     "iptv_urls": [
       "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yNNp8bbIlgtQQ9",
-    "name": "Placentia TV (Placentia CA)",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1193,6 +1216,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RErWNfh4idOsdr",
+    "name": "Thai Parliament TV",
+    "iptv_urls": [
+      "https://tv-live.tpchannel.org/live/tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ztNrNzCLndWIQ7",
     "name": "The Parliamentary Channel",
     "iptv_urls": [
@@ -1219,7 +1253,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/93lZSMGEeYk"
+      "https://www.youtube-nocookie.com/embed/FDiZytwWSdQ"
     ],
     "language": "por",
     "country": "br",
