@@ -357,7 +357,6 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "iptv_urls": [
-      "https://video.oct.dc.gov/out/u/15_12.m3u8",
       "https://video.oct.dc.gov/out/u/DCC.m3u8"
     ],
     "youtube_urls": [],
@@ -487,17 +486,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aZACmqFHyDlfSs",
-    "name": "Galveston County TV",
-    "iptv_urls": [
-      "https://edge-f.swagit.com/live/galvestontx/smil:hd-16x9-1-a/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jNKciKxgIk0NeD",
     "name": "Gilroy CMAP TV Channel 17",
     "iptv_urls": [
@@ -561,6 +549,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tsY7Oi70RUlWEA",
+    "name": "ICRTV Colima",
+    "iptv_urls": [
+      "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -634,6 +633,17 @@
     "name": "Legislative Assembly of Ontario",
     "iptv_urls": [
       "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ggVaTzuCKy1JEd",
+    "name": "Legislative Assembly TV Nunavut",
+    "iptv_urls": [
+      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -799,87 +809,10 @@
     "name": "Nova24TV 2",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OTCXxiOBy3Y"
+      "https://www.youtube-nocookie.com/embed/vKzKzbu0w9U"
     ],
     "language": "slv",
     "country": "si",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BpAwuuECtBXjjx",
-    "name": "Oireachtas TV",
-    "iptv_urls": [
-      "https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "gle",
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kBJPIvFNSLMLmy",
-    "name": "Oireachtas TV Committee Room 1",
-    "iptv_urls": [
-      "https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xbtLZ1yrCNt8sw",
-    "name": "Oireachtas TV Committee Room 2",
-    "iptv_urls": [
-      "https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ilLJLqtqjz93Es",
-    "name": "Oireachtas TV Committee Room 3",
-    "iptv_urls": [
-      "https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "K0ZBldscB7coZB",
-    "name": "Oireachtas TV Committee Room 4",
-    "iptv_urls": [
-      "https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8KoNBnGhd3D8e1",
-    "name": "Oireachtas TV Dáil Éireann",
-    "iptv_urls": [
-      "https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GAsLjurRgFyUUw",
-    "name": "Oireachtas TV Seanad Éireann",
-    "iptv_urls": [
-      "https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ie",
     "isGeoBlocked": false
   },
   {
@@ -936,17 +869,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RrsTSYgGNniraQ",
-    "name": "Országgyűlés (Plenáris)",
-    "iptv_urls": [
-      "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hun",
-    "country": "hu",
     "isGeoBlocked": false
   },
   {
@@ -1050,6 +972,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yNNp8bbIlgtQQ9",
+    "name": "Placentia TV (Placentia CA)",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Q9dCNxq4aYMzuQ",
     "name": "Pompano Beach Web Streaming (Pompano Beach FL)",
     "iptv_urls": [
@@ -1083,22 +1016,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wLGEtXn6Wy8mhK",
-    "name": "Public Senat 24/24",
-    "iptv_urls": [
-      "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TGxMGkMiPXHlY0",
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EVrUKBUosL4"
+      "https://www.youtube-nocookie.com/embed/iFkVPWOlthc"
     ],
     "language": "por",
     "country": "br",
@@ -1253,7 +1175,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FDiZytwWSdQ"
+      "https://www.youtube-nocookie.com/embed/JRdguA8Xkqk"
     ],
     "language": "por",
     "country": "br",
@@ -1510,6 +1432,17 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]
