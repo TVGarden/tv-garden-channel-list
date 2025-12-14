@@ -47,7 +47,6 @@
     "nanoid": "v9zxgiBZu0T9zY",
     "name": "ACCDN",
     "iptv_urls": [
-      "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
       "https://livetv-fa.tubi.video/accdn2/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -196,17 +195,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cEtgYgEtHzj5Ic",
-    "name": "ColimdoT TV",
-    "iptv_urls": [
-      "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -720,17 +708,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZoAvGNLTbFNjGC",
-    "name": "NHL Network",
-    "iptv_urls": [
-      "https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iqW7NImquoQlAB",
     "name": "NHRA TV",
     "iptv_urls": [
@@ -778,7 +755,6 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "iptv_urls": [
-      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
       "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
@@ -855,17 +831,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hliOSpRjIJIon0",
-    "name": "PRO Sport International",
-    "iptv_urls": [
-      "https://proshls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "my",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eEl9GNsGZ69KhR",
     "name": "PTV Sports",
     "iptv_urls": [
@@ -929,17 +894,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KSc2NtlozO0Aw7",
-    "name": "Radio Turrialba TV Sports",
-    "iptv_urls": [
-      "https://live21.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -1015,7 +969,9 @@
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "iptv_urls": [
+      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
