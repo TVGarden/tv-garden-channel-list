@@ -37,7 +37,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ftuOMuDk9Mk"
+      "https://www.youtube-nocookie.com/embed/m46714jNBMc"
     ],
     "language": "jpn",
     "country": "jp",
@@ -81,8 +81,7 @@
     "name": "BBC Earth",
     "iptv_urls": [
       "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
-      "https://livetv-fa.tubi.video/bbc-earth2/playlist.m3u8"
+      "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -116,7 +115,8 @@
     "name": "CGTN Documentary",
     "iptv_urls": [
       "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
-      "https://english-livebkali.cgtn.com/live/doccgtn.m3u8"
+      "https://english-livebkali.cgtn.com/live/doccgtn.m3u8",
+      "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -171,7 +171,6 @@
     "nanoid": "jAekBDqlLERFF0",
     "name": "Dateline 24/7",
     "iptv_urls": [
-      "https://livetv-fa.tubi.video/dateline/master.m3u8",
       "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8"
     ],
     "youtube_urls": [],
@@ -210,17 +209,6 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4wQfnJFniXWD7Z",
-    "name": "FBI Files",
-    "iptv_urls": [
-      "https://livetv-fa.tubi.video/the-fbi-files/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -336,17 +324,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gOuwLzCKrgxJvt",
-    "name": "Reelz",
-    "iptv_urls": [
-      "https://livetv-fa.tubi.video/reelz/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "C9r0nQTewOjHW3",
     "name": "RL PRO TV",
     "iptv_urls": [
@@ -390,17 +367,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bqo8Y5SgLcJ1Ow",
-    "name": "TV4",
-    "iptv_urls": [
-      "https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -452,6 +418,17 @@
     "name": "Наука",
     "iptv_urls": [
       "https://vod.tuva.ru/nauka2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZSSUpQyh6iE64U",
+    "name": "Сити Эдем КиноДок",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/38354/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

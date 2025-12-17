@@ -47,7 +47,7 @@
     "nanoid": "v9zxgiBZu0T9zY",
     "name": "ACCDN",
     "iptv_urls": [
-      "https://livetv-fa.tubi.video/accdn2/playlist.m3u8"
+      "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -343,17 +343,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3XWzDx4FnKV7NI",
-    "name": "Fox Sports en Espanol",
-    "iptv_urls": [
-      "https://livetv-fa.tubi.video/fox-sports-espanol2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1jYy0MieRH4RsH",
     "name": "FOX Sports YT",
     "iptv_urls": [],
@@ -374,17 +363,6 @@
     "language": "spa",
     "country": "bo",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ODB4bpEpnnzd1R",
-    "name": "Fubo Sports Network",
-    "iptv_urls": [
-      "https://livetv-fa.tubi.video/fubo/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "uFa4XsSCgNUo5V",
@@ -620,17 +598,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Da460ZcoL5SJKT",
-    "name": "Multivisión Sports",
-    "iptv_urls": [
-      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RcmUVMpfqvK186",
     "name": "NBA TV",
     "iptv_urls": [
@@ -646,17 +613,6 @@
     "name": "NHL Network",
     "iptv_urls": [
       "https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iqW7NImquoQlAB",
-    "name": "NHRA TV",
-    "iptv_urls": [
-      "https://livetv-fa.tubi.video/nhra/nh.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -702,8 +658,7 @@
     "iptv_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8",
-      "https://pac12-firetv.amagi.tv/playlist.m3u8"
+      "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -736,7 +691,6 @@
     "nanoid": "Zv1phHWvbz0bE7",
     "name": "Poker Go",
     "iptv_urls": [
-      "https://livetv-fa.tubi.video/pokergo/playlist.m3u8",
       "https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -837,17 +791,6 @@
     "name": "Racer Network",
     "iptv_urls": [
       "https://amg00378-mavtv-amg00378c2-samsung-nz-1791.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungnz/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lFiFJIZEuZb6en",
-    "name": "Racing America",
-    "iptv_urls": [
-      "https://livetv-fa.tubi.video/racing-america/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1043,7 +986,6 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "iptv_urls": [
-      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1209,10 +1151,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yxXfCHd5uHQMJD",
+    "name": "Беларусь 5",
+    "iptv_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "by",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hksyXK9W8Dv3Pj",
     "name": "Беларусь 5 Интернет",
     "iptv_urls": [
-      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
+      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
