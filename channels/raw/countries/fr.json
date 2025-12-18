@@ -463,11 +463,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vyAlDaoF9WU1Q1",
+    "nanoid": "g4VnkSt3v2F081",
     "name": "Euronews English",
-    "iptv_urls": [
-      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
     ],
@@ -1220,6 +1218,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6yK7rD2LKikhPv",
+    "name": "Puissance TV",
+    "iptv_urls": [
+      "https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GBee4ruMbEkHYx",
     "name": "Qui Veut Gagner Des Millions La Chaîne",
     "iptv_urls": [
@@ -1227,17 +1236,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OsKwQ9F9X1ZrTD",
-    "name": "Radio Frontieres",
-    "iptv_urls": [
-      "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiofrontieres.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1456,6 +1454,7 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "iptv_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
