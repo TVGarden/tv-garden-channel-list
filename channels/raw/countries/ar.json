@@ -278,7 +278,8 @@
     "nanoid": "WYgIM57T6cgvaF",
     "name": "Canal 7 Salta",
     "iptv_urls": [
-      "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8"
+      "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8",
+      "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -388,6 +389,7 @@
     "nanoid": "IKwTslDp6GIv1l",
     "name": "Canal 26",
     "iptv_urls": [
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
       "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
     ],
     "youtube_urls": [
@@ -521,6 +523,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YK4jerPW8Ia03w",
+    "name": "Chaco TV",
+    "iptv_urls": [
+      "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OpvFhpo06aVAeg",
     "name": "Ciudad Magazine",
     "iptv_urls": [
@@ -591,7 +604,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vuLgmmKCBuw"
+      "https://www.youtube-nocookie.com/embed/zDMyWbgvlzE"
     ],
     "language": "spa",
     "country": "ar",
@@ -636,6 +649,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Vh8xmLBJtR8"
+    ],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rvSLmYJvnwZ691",
+    "name": "El Tres TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/mbusPrYkEGs"
     ],
     "language": "spa",
     "country": "ar",
@@ -719,6 +743,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hUmeKtS1x9uzCD",
+    "name": "Metro TV",
+    "iptv_urls": [
+      "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jhtVZGk1rHoaP8",
     "name": "Misiones Cuatro",
     "iptv_urls": [
@@ -764,17 +799,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "082mRJOAbuwMDY",
-    "name": "Panc TV",
-    "iptv_urls": [
-      "https://panel.host-live.com:19360/20004/20004.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ajBSt6NuLSUT5M",
     "name": "Pop Radio 101.5",
     "iptv_urls": [],
@@ -801,17 +825,6 @@
     "name": "Quantica TV",
     "iptv_urls": [
       "https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VHbmCPoXNGiZ4q",
-    "name": "Quatro TV",
-    "iptv_urls": [
-      "https://stream.arcast.live/quatro/quatro/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1055,7 +1068,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pKQr75PfCNE"
+      "https://www.youtube-nocookie.com/embed/4bdQHMwhUlc"
     ],
     "language": "spa",
     "country": "ar",
