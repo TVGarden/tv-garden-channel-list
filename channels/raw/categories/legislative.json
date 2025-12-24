@@ -357,6 +357,7 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "iptv_urls": [
+      "https://video.oct.dc.gov/out/u/15_12.m3u8",
       "https://video.oct.dc.gov/out/u/DCC.m3u8"
     ],
     "youtube_urls": [],
@@ -629,17 +630,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I6uCCfd71b4oev",
-    "name": "Legislative Assembly of Ontario",
-    "iptv_urls": [
-      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ggVaTzuCKy1JEd",
     "name": "Legislative Assembly TV Nunavut",
     "iptv_urls": [
@@ -688,17 +678,6 @@
     "name": "LHCAZTV",
     "iptv_urls": [
       "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nM9QbGyGixB92t",
-    "name": "Long Beach Television",
-    "iptv_urls": [
-      "https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -824,18 +803,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EU0vQUFqUH2wCU",
-    "name": "Ontario Parliamentary Network",
-    "iptv_urls": [
-      "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
-      "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -1165,7 +1132,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Wlvav8w7oFc"
+      "https://www.youtube-nocookie.com/embed/sOh9M65ohAM"
     ],
     "language": "por",
     "country": "br",
@@ -1422,6 +1389,17 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]
