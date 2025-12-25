@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "OuXJk2O3QtFOgh",
+    "name": "24/7 Canal de Noticias",
+    "iptv_urls": [
+      "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Wa2wvWwVF98vcA",
     "name": "A24",
     "iptv_urls": [],
@@ -209,17 +220,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZwcB80q6hf9Umn",
-    "name": "Canal 5 Pico Truncado",
-    "iptv_urls": [
-      "https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RjGzeK99LgjrbF",
     "name": "Canal 6 Posadas",
     "iptv_urls": [
@@ -353,9 +353,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EBJnvOws8NXMUv",
+    "nanoid": "IKwTslDp6GIv1l",
     "name": "Canal 26",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/N0u5NOL9w-A"
     ],
@@ -752,10 +755,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VHbmCPoXNGiZ4q",
-    "name": "Quatro TV",
+    "nanoid": "rTESua6N7jfUdx",
+    "name": "Quantica TV",
     "iptv_urls": [
-      "https://stream.arcast.live/quatro/quatro/playlist.m3u8"
+      "https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
