@@ -157,6 +157,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WH7adDfFfMrDqi",
+    "name": "Bloomberg Originals",
+    "iptv_urls": [
+      "https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/OlUMDZchivQ"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CgMsuXc9zVoL0K",
     "name": "Bloomberg Podcasts",
     "iptv_urls": [],
@@ -240,11 +253,33 @@
     "nanoid": "G00HUpBKHxckzh",
     "name": "CNBC Asia",
     "iptv_urls": [
-      "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8"
+      "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "sg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MGainK9O6Ki8Pq",
+    "name": "CNBC Awaaz",
+    "iptv_urls": [
+      "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DdROsd1Q2nYJRU",
+    "name": "CNBC Bajar",
+    "iptv_urls": [
+      "https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "guj",
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -336,28 +371,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RUHNYqwyWf7P40",
-    "name": "Nei Monggol TV Economic & Life Channel",
-    "iptv_urls": [
-      "https://play1-qk.nmtv.cn/live/1686562470947181.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fEhuSbh6UZiVWk",
-    "name": "NW Economie",
-    "iptv_urls": [
-      "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "tg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MMQB1dfNdiK82n",
     "name": "TD Ameritrade Network",
     "iptv_urls": [
@@ -409,7 +422,6 @@
       "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
       "https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8",
       "https://yahoo-plex.amagi.tv/playlist.m3u8",
-      "https://yahoo-roku-us.amagi.tv/playlist.m3u8",
       "https://yahoo-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

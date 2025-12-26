@@ -37,7 +37,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xAGwePCwO6g"
+      "https://www.youtube-nocookie.com/embed/e1fj9FZpQtY"
     ],
     "language": "jpn",
     "country": "jp",
@@ -81,7 +81,8 @@
     "name": "BBC Earth",
     "iptv_urls": [
       "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8"
+      "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -100,9 +101,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S7lyJHbl70de7u",
+    "nanoid": "WH7adDfFfMrDqi",
     "name": "Bloomberg Originals",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/OlUMDZchivQ"
     ],
@@ -171,7 +174,19 @@
     "nanoid": "sm6jSJZU2R13Dv",
     "name": "Court TV",
     "iptv_urls": [
-      "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8"
+      "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LGhrHQJDBR90AW",
+    "name": "Crime360",
+    "iptv_urls": [
+      "https://live-manifest.production-public.tubi.io/live/d65f6697-9fd2-477f-a56d-26cea1b939b7/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -182,6 +197,7 @@
     "nanoid": "jAekBDqlLERFF0",
     "name": "Dateline 24/7",
     "iptv_urls": [
+      "https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8",
       "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8"
     ],
     "youtube_urls": [],
@@ -392,6 +408,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CstTmBjzSJCqEV",
+    "name": "The FBI Files",
+    "iptv_urls": [
+      "https://aegis-cloudfront-1.tubi.video/4f7b1ce8-9c61-4e7a-8cb8-04663b9cf11e/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tT2v90JHj1tcan",
     "name": "The Nest",
     "iptv_urls": [
@@ -462,6 +489,17 @@
     "name": "Наука",
     "iptv_urls": [
       "https://vod.tuva.ru/nauka2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZSSUpQyh6iE64U",
+    "name": "Сити Эдем КиноДок",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/38354/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
